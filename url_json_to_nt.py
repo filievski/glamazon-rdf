@@ -3,21 +3,12 @@ from rdflib import Graph
 import rdflib
 import os, json
 
-def parse_ntriples(name, f):
+def parse_ntriples(name):
 
-    content=""
-    for line in f:
-        content+=line
-
-    #content="@prefix : <http://example.org/#> . :a :b :c ."
-
-    to_check = json.loads(content)
-    
-    q={'content': content}
-    url = "http://rdf-translator.appspot.com/convert/json-ld/nt/content" + "?" + urllib.urlencode(q)
+    q="https://raw.githubusercontent.com/barnaclebarnes/glamazon/master/organisations/" + name[0:3] + "/" + name
+    url = "http://rdf-translator.appspot.com/convert/json-ld/nt/" + q
     try:
         raw_result = urllib2.urlopen(url).read()
-    #result=json.loads(raw_result)
     except:
         print "Request error"
         w_err.write(name + "\n")
@@ -40,12 +31,7 @@ def parse_ntriples(name, f):
         else:
             t2=t[2]
 
-
-
         g2.add((t0, t[1], t2))
-
-#    for stmt in g2:
-#        pprint.pprint(stmt)
 
 path="/Users/filipilievski/phd/glamazon/"
 
@@ -56,7 +42,5 @@ if __name__=="__main__":
     
     for subdir, dirs, files in os.walk(path):
         for file in files:
-            print file
             if file.endswith(".json"):
-                f=open(os.path.join(subdir, file))
-                parse_ntriples(file, f)
+                parse_ntriples(file)
