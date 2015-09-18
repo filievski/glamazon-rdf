@@ -1,0 +1,18 @@
+@prefix void: <http://rdfs.org/ns/void#> .
+@prefix dcterms: <http://purl.org/dc/terms/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix foaf: <http://xmlns.com/foaf/0.1/> .
+@prefix : <http://www.museums.io/museums/void.nt#> .
+
+
+:Glamazon a void:Dataset ;
+foaf:homepage <http://www.museums.io/> ;
+foaf:page <https://github.com/barnaclebarnes/glamazon/> ;
+dcterms:title "GLAMAZON"^^xsd:string ;
+dcterms:description "The GLAMAZON (Galleries, Libraries, Archives, Museums, Aquariums, Zoos, Observatories, Nature Reserves) dataset pulls together all of the museums and cultural organisations around the world. Currently 43249 organisations are in the dataset."^^xsd:string ;
+dcterms:modified "2015-09-18"^^xsd:date ;
+dcterms:license <http://creativecommons.org/licenses/by-sa/4.0/> ;
+void:feature <http://www.w3.org/ns/formats/N-Triples> ;
+void:uriSpace "http://www.museums.io/museums" ;
+void:exampleResource <http://www.museums.io/museums/149450.nt> ;
+void:vocabulary <http://schema.org> .
