@@ -1,28 +1,28 @@
-<http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> <http://schema.org/url> <http://www.imls.gov/> .
-<http://www.museums.io/museums/141944> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3655&mlon=-76.6808#map=15/39.3655/-76.6808> .
-<http://lodlaundromat.org/.well-known/genid/N8c0eac474d254df8be115edafd3f3fa0> <http://schema.org/latitude> "39.3655"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N50b7a7c800ad44728584071486577197> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://schema.org/streetAddress> "6124 STUART AVE" .
-<http://www.museums.io/museums/141944> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N50b7a7c800ad44728584071486577197> .
-<http://lodlaundromat.org/.well-known/genid/N50b7a7c800ad44728584071486577197> <http://schema.org/value> "141944"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N8c0eac474d254df8be115edafd3f3fa0> <http://schema.org/longitude> "-76.6808"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://schema.org/postalCode> "21209-4022" .
-<http://www.museums.io/museums/141944> <http://schema.org/url> <http://www.blackisacolor.com/> .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://schema.org/addressRegion> "MD" .
-<http://www.museums.io/museums/141944> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> .
-<http://www.museums.io/museums/141944> <http://schema.org/telephone> "+1 (213) 608-5209" .
-<http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N50b7a7c800ad44728584071486577197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> <http://schema.org/name> "us" .
-<http://www.museums.io/museums/141944> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N8c0eac474d254df8be115edafd3f3fa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/Na36fc0d49b4f4b3db308a21ace87ede1> <http://schema.org/id> "8402400237" .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://schema.org/addressLocality> "BALTIMORE" .
-<http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> <http://schema.org/addressCountry> "United States" .
-<http://www.museums.io/museums/141944> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8c0eac474d254df8be115edafd3f3fa0> .
-<http://www.museums.io/museums/141944> <http://schema.org/name> "BLACK IS A COLOR"@en .
+<http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/141944> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb313a59409804c50bd8b17550f0fcd29> .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://schema.org/streetAddress> "6124 STUART AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://schema.org/postalCode> "21209-4022" .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb313a59409804c50bd8b17550f0fcd29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9eed6922a4964489b5c8de0f0aeb3e3e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/141944> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/Nb313a59409804c50bd8b17550f0fcd29> <http://schema.org/longitude> "-76.6808"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> <http://schema.org/id> "8402400237" .
+<http://www.museums.io/museums/141944> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9eed6922a4964489b5c8de0f0aeb3e3e> .
+<http://lodlaundromat.org/.well-known/genid/Nb313a59409804c50bd8b17550f0fcd29> <http://schema.org/latitude> "39.3655"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
 <http://www.museums.io/museums/141944> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://www.museums.io/museums/141944> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9d389fd1d741465f98398e794b46e443> .
+<http://lodlaundromat.org/.well-known/genid/N9eed6922a4964489b5c8de0f0aeb3e3e> <http://schema.org/value> "141944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/141944> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> .
+<http://www.museums.io/museums/141944> <http://schema.org/telephone> "+1 (213) 608-5209" .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://schema.org/addressRegion> "MD" .
+<http://www.museums.io/museums/141944> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> .
+<http://lodlaundromat.org/.well-known/genid/Na936505e9b5e45a092f9e77fb82b7b26> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9eed6922a4964489b5c8de0f0aeb3e3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/141944> <http://schema.org/name> "BLACK IS A COLOR"@en .
+<http://www.museums.io/museums/141944> <http://schema.org/url> <http://www.blackisacolor.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nb2af5e1610d541f7a1473a7db1efe92b> <http://schema.org/addressLocality> "BALTIMORE" .
+<http://www.museums.io/museums/141944> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3655&mlon=-76.6808#map=15/39.3655/-76.6808> .
 

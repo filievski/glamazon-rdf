@@ -57,7 +57,7 @@ def parse_ntriples(name, f):
 
         g2.add((t0, t[1], t2))
 
-    g2.add((main_uri, rdflib.term.URIRef('http://rdfs.org/ns/void#inDataset'), rdflib.term.URIRef('#Glamazon')))
+    g2.add((main_uri, rdflib.term.URIRef('http://rdfs.org/ns/void#inDataset'), rdflib.term.URIRef('http://www.museums.io/museums/void.nt#Glamazon')))
 
     g2.serialize(destination=newpath, format='nt')
 

@@ -1,28 +1,28 @@
-<http://lodlaundromat.org/.well-known/genid/Nd89b18c489994851af0f7bdfd539a20a> <http://schema.org/value> "131414"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/Nd89b18c489994851af0f7bdfd539a20a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://www.museums.io/museums/131414> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8729&mlon=-118.334#map=15/33.8729/-118.334> .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://schema.org/streetAddress> "3515 ARTESIA BLVD" .
-<http://www.museums.io/museums/131414> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2832788b73c04987beb9c0dbe751af96> .
-<http://lodlaundromat.org/.well-known/genid/N2832788b73c04987beb9c0dbe751af96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://www.museums.io/museums/131414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> <http://schema.org/@Type> "Dataset" .
-<http://www.museums.io/museums/131414> <http://schema.org/telephone> "+1 (310) 353-4100" .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://www.museums.io/museums/131414> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd89b18c489994851af0f7bdfd539a20a> .
-<http://www.museums.io/museums/131414> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> .
-<http://lodlaundromat.org/.well-known/genid/N2832788b73c04987beb9c0dbe751af96> <http://schema.org/latitude> "33.8729"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://schema.org/addressCountry> "United States" .
-<http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://schema.org/addressRegion> "CA" .
-<http://lodlaundromat.org/.well-known/genid/N2832788b73c04987beb9c0dbe751af96> <http://schema.org/longitude> "-118.334"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://schema.org/addressLocality> "TORRANCE" .
-<http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> <http://schema.org/name> "us" .
-<http://lodlaundromat.org/.well-known/genid/N3fde416672594450a2e6f009cdcdf1ca> <http://schema.org/postalCode> "90504-2504" .
-<http://www.museums.io/museums/131414> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> .
-<http://www.museums.io/museums/131414> <http://schema.org/url> <http://www.gracieacademy.com/> .
-<http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> <http://schema.org/id> "8400601540" .
-<http://www.museums.io/museums/131414> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/Nc4829fec418847c1ab4a089344dd15e3> <http://schema.org/url> <http://www.imls.gov/> .
-<http://lodlaundromat.org/.well-known/genid/Nd89b18c489994851af0f7bdfd539a20a> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/131414> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
 <http://www.museums.io/museums/131414> <http://schema.org/name> "GRACIE JIU-JITSU MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb2dc7204a8ae4f80a3bdafd5ec165b5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/131414> <http://schema.org/telephone> "+1 (310) 353-4100" .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://schema.org/postalCode> "90504-2504" .
+<http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> <http://schema.org/id> "8400601540" .
+<http://www.museums.io/museums/131414> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> .
+<http://lodlaundromat.org/.well-known/genid/Nb2dc7204a8ae4f80a3bdafd5ec165b5b> <http://schema.org/value> "131414"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9b80203e866f46c389780cf2a8fdd2ba> <http://schema.org/longitude> "-118.334"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/131414> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8729&mlon=-118.334#map=15/33.8729/-118.334> .
+<http://www.museums.io/museums/131414> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb2dc7204a8ae4f80a3bdafd5ec165b5b> .
+<http://lodlaundromat.org/.well-known/genid/N9b80203e866f46c389780cf2a8fdd2ba> <http://schema.org/latitude> "33.8729"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb2dc7204a8ae4f80a3bdafd5ec165b5b> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/131414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://schema.org/addressLocality> "TORRANCE" .
+<http://www.museums.io/museums/131414> <http://schema.org/url> <http://www.gracieacademy.com/> .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://schema.org/streetAddress> "3515 ARTESIA BLVD" .
+<http://www.museums.io/museums/131414> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9b80203e866f46c389780cf2a8fdd2ba> .
+<http://www.museums.io/museums/131414> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> .
+<http://lodlaundromat.org/.well-known/genid/N9b80203e866f46c389780cf2a8fdd2ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfe87a00d4dc2438bb44d64fbe993d1a3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0448d3903a764dd09857a8da4237f8f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
 

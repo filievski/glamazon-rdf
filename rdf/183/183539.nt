@@ -1,27 +1,27 @@
-<http://lodlaundromat.org/.well-known/genid/N01ebed094f554cf29a823545353878e7> <http://schema.org/latitude> "48.9505"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://schema.org/streetAddress> "Wei\u00DFenstein 16" .
-<http://www.museums.io/museums/183539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N4d07bddd472c4cc89f1d83b8d992a382> <http://schema.org/value> "183539"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N4d07bddd472c4cc89f1d83b8d992a382> <http://schema.org/name> "id" .
-<http://www.museums.io/museums/183539> <http://schema.org/url> <http://www.burgverein-weissenstein.de/> .
-<http://www.museums.io/museums/183539> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/N01ebed094f554cf29a823545353878e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://schema.org/addressLocality> "Regen" .
-<http://www.museums.io/museums/183539> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ce299fbfe3f4b38a3285a63421485fb> .
-<http://www.museums.io/museums/183539> <http://schema.org/name> "Museum im fressenden Haus Burgkasten Wei\u00DFenstein"@en .
 <http://www.museums.io/museums/183539> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.9505&mlon=13.1427#map=15/48.9505/13.1427> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://schema.org/postalCode> "94209" .
-<http://lodlaundromat.org/.well-known/genid/N4d07bddd472c4cc89f1d83b8d992a382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/N3ce299fbfe3f4b38a3285a63421485fb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N3ce299fbfe3f4b38a3285a63421485fb> <http://schema.org/name> "de_bavaria" .
-<http://www.museums.io/museums/183539> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N01ebed094f554cf29a823545353878e7> .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://schema.org/streetAddress> "Wei\u00DFenstein 16" .
+<http://lodlaundromat.org/.well-known/genid/Ndae48f81054b43d18229c58a07e56365> <http://schema.org/latitude> "48.9505"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N144e50dfae174f80b9aead0ea0780a64> <http://schema.org/name> "de_bavaria" .
+<http://www.museums.io/museums/183539> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N144e50dfae174f80b9aead0ea0780a64> .
 <http://www.museums.io/museums/183539> <http://schema.org/telephone> "09921/604-0" .
-<http://www.museums.io/museums/183539> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://schema.org/addressCountry> "Germany" .
-<http://lodlaundromat.org/.well-known/genid/N01ebed094f554cf29a823545353878e7> <http://schema.org/longitude> "13.1427"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N3ce299fbfe3f4b38a3285a63421485fb> <http://schema.org/url> <http://www.museums.io/en/museums/183539> .
-<http://lodlaundromat.org/.well-known/genid/N3ce299fbfe3f4b38a3285a63421485fb> <http://schema.org/@Type> "Dataset" .
-<http://www.museums.io/museums/183539> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4d07bddd472c4cc89f1d83b8d992a382> .
-<http://lodlaundromat.org/.well-known/genid/N96f5052c97f8481088581560e704c171> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/Ndae48f81054b43d18229c58a07e56365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1da8884a3feb490e92e93648a82ea0a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N144e50dfae174f80b9aead0ea0780a64> <http://schema.org/url> <http://www.museums.io/en/museums/183539> .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N1da8884a3feb490e92e93648a82ea0a1> <http://schema.org/value> "183539"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N144e50dfae174f80b9aead0ea0780a64> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://schema.org/postalCode> "94209" .
+<http://lodlaundromat.org/.well-known/genid/N1da8884a3feb490e92e93648a82ea0a1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://schema.org/addressLocality> "Regen" .
+<http://www.museums.io/museums/183539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://www.museums.io/museums/183539> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1da8884a3feb490e92e93648a82ea0a1> .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndae48f81054b43d18229c58a07e56365> <http://schema.org/longitude> "13.1427"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/183539> <http://schema.org/url> <http://www.burgverein-weissenstein.de/> .
+<http://www.museums.io/museums/183539> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndae48f81054b43d18229c58a07e56365> .
+<http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> <http://schema.org/addressCountry> "Germany" .
+<http://www.museums.io/museums/183539> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://www.museums.io/museums/183539> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4de9d856e16044edb41a32d716c456f4> .
+<http://www.museums.io/museums/183539> <http://schema.org/name> "Museum im fressenden Haus Burgkasten Wei\u00DFenstein"@en .
+<http://lodlaundromat.org/.well-known/genid/N144e50dfae174f80b9aead0ea0780a64> <http://schema.org/@Type> "Dataset" .
 

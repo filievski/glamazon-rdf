@@ -1,27 +1,27 @@
-<http://lodlaundromat.org/.well-known/genid/N0a2c7f1f227f4e2a901d3c29be6e4587> <http://schema.org/longitude> "10.2285"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Nb130efe62a8d476d93e1439312eda6cb> <http://schema.org/value> "183783"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd632ea60d0774e6f90c0ceadce83867d> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://schema.org/postalCode> "97215" .
+<http://lodlaundromat.org/.well-known/genid/N04054ad0ff3747f3ad32e585babacb92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://www.museums.io/museums/183783> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N1d494605841143de9e73d589a7d6b2a4> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/183783> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> .
+<http://lodlaundromat.org/.well-known/genid/N1d494605841143de9e73d589a7d6b2a4> <http://schema.org/value> "183783"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://www.museums.io/museums/183783> <http://schema.org/url> <http://www.gollachgaumuseum.de/> .
-<http://lodlaundromat.org/.well-known/genid/Nb130efe62a8d476d93e1439312eda6cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://www.museums.io/museums/183783> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a2c7f1f227f4e2a901d3c29be6e4587> .
-<http://www.museums.io/museums/183783> <http://schema.org/telephone> "09842/348" .
-<http://www.museums.io/museums/183783> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd632ea60d0774e6f90c0ceadce83867d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/183783> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N04054ad0ff3747f3ad32e585babacb92> .
+<http://lodlaundromat.org/.well-known/genid/Nd632ea60d0774e6f90c0ceadce83867d> <http://schema.org/url> <http://www.museums.io/en/museums/183783> .
+<http://lodlaundromat.org/.well-known/genid/N1d494605841143de9e73d589a7d6b2a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://schema.org/addressCountry> "Germany" .
 <http://www.museums.io/museums/183783> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.5434&mlon=10.2285#map=15/49.5434/10.2285> .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/Nb130efe62a8d476d93e1439312eda6cb> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/N0a2c7f1f227f4e2a901d3c29be6e4587> <http://schema.org/latitude> "49.5434"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N993d63444f2149958afe1f689beb4d8d> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://schema.org/streetAddress> "Schlo\u00DFplatz 6" .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://schema.org/postalCode> "97215" .
-<http://lodlaundromat.org/.well-known/genid/N0a2c7f1f227f4e2a901d3c29be6e4587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://www.museums.io/museums/183783> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb130efe62a8d476d93e1439312eda6cb> .
-<http://www.museums.io/museums/183783> <http://schema.org/name> "Uffenheimer Gollachgaumuseum"@en .
-<http://lodlaundromat.org/.well-known/genid/N993d63444f2149958afe1f689beb4d8d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://www.museums.io/museums/183783> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N993d63444f2149958afe1f689beb4d8d> .
-<http://lodlaundromat.org/.well-known/genid/N993d63444f2149958afe1f689beb4d8d> <http://schema.org/name> "de_bavaria" .
-<http://lodlaundromat.org/.well-known/genid/N993d63444f2149958afe1f689beb4d8d> <http://schema.org/url> <http://www.museums.io/en/museums/183783> .
+<http://lodlaundromat.org/.well-known/genid/N04054ad0ff3747f3ad32e585babacb92> <http://schema.org/longitude> "10.2285"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd632ea60d0774e6f90c0ceadce83867d> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/183783> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1d494605841143de9e73d589a7d6b2a4> .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://schema.org/addressRegion> "Mittelfranken" .
 <http://www.museums.io/museums/183783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://schema.org/addressRegion> "Mittelfranken" .
-<http://lodlaundromat.org/.well-known/genid/N5ca091c53239447482c6a5845c319148> <http://schema.org/addressLocality> "Uffenheim" .
-<http://www.museums.io/museums/183783> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://www.museums.io/museums/183783> <http://schema.org/name> "Uffenheimer Gollachgaumuseum"@en .
+<http://www.museums.io/museums/183783> <http://schema.org/telephone> "09842/348" .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://schema.org/addressLocality> "Uffenheim" .
+<http://lodlaundromat.org/.well-known/genid/N04054ad0ff3747f3ad32e585babacb92> <http://schema.org/latitude> "49.5434"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6173919637e54ccbadcad3e7232ca240> <http://schema.org/streetAddress> "Schlo\u00DFplatz 6" .
+<http://www.museums.io/museums/183783> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd632ea60d0774e6f90c0ceadce83867d> .
 
