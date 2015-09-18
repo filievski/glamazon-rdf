@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> .
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N71da26fa2bc64e4faabebb4ab51e9da9> <http://schema.org/latitude> "36.3477"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06f03b6a745349b6b7ac124ee14956a4> <http://schema.org/value> "151247"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.3477&mlon=-79.6623#map=15/36.3477/-79.6623> .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/name> "CHINQUA-PENN"@en .
+<http://lodlaundromat.org/.well-known/genid/N71da26fa2bc64e4faabebb4ab51e9da9> <http://schema.org/longitude> "-79.6623"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://schema.org/streetAddress> "RT. 3" .
+<http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N06f03b6a745349b6b7ac124ee14956a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N06f03b6a745349b6b7ac124ee14956a4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> .
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://schema.org/addressLocality> "REIDSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N71da26fa2bc64e4faabebb4ab51e9da9> .
+<http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncd6093ab1d07430cb5d2d5ab5bf0f212> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N06f03b6a745349b6b7ac124ee14956a4> .
+<http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> <http://schema.org/id> "8403700118" .
+<http://lodlaundromat.org/.well-known/genid/Nf7eccc1130384745a73385f89976708e> <http://schema.org/postalCode> "27320" .
+<http://lodlaundromat.org/.well-known/genid/N71da26fa2bc64e4faabebb4ab51e9da9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfcea2d2da2744228ac0e36ab99373775> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://schema.org/streetAddress> "PO BOX 33905" .
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb52d6fd715a446fc9c92e2127d02465d> <http://schema.org/longitude> "-119.879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb52d6fd715a446fc9c92e2127d02465d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb52d6fd715a446fc9c92e2127d02465d> <http://schema.org/latitude> "39.5288"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/name> "SILVER STATE YOUNG CHAUTAUQUA ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb9e30814af064e24b43ce0e98b2edf42> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb52d6fd715a446fc9c92e2127d02465d> .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> .
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://schema.org/addressLocality> "RENO" .
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://schema.org/postalCode> "89533-3905" .
+<http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5288&mlon=-119.879#map=15/39.5288/-119.879> .
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://schema.org/addressRegion> "NV" .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> .
+<http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e30814af064e24b43ce0e98b2edf42> <http://schema.org/value> "147207"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> <http://schema.org/id> "8403200182" .
+<http://lodlaundromat.org/.well-known/genid/Nb73608c4873642caa0f12567f199b856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e30814af064e24b43ce0e98b2edf42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1872b5994c7341979c3ea9f013ea55cf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb9e30814af064e24b43ce0e98b2edf42> .
+<http://lodlaundromat.org/.well-known/genid/N7e6b4576defe469eba810913d6a831b8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

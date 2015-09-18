@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N03851b24918d4337bce5faf4661fcd25> <http://schema.org/latitude> "42.2438"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03851b24918d4337bce5faf4661fcd25> <http://schema.org/longitude> "-84.7448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/name> "SIBLEY NATURE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> .
+<http://lodlaundromat.org/.well-known/genid/Nfbf4d23f155c4e658cfd8939d24c8566> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfbf4d23f155c4e658cfd8939d24c8566> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2438&mlon=-84.7448#map=15/42.2438/-84.7448> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfbf4d23f155c4e658cfd8939d24c8566> .
+<http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/url> <http://www.sibleynaturecenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://schema.org/postalCode> "79705" .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://schema.org/addressLocality> "MIDLAND" .
+<http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> <http://schema.org/id> "8404802059" .
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://schema.org/streetAddress> "1307 E. WADLEY" .
+<http://lodlaundromat.org/.well-known/genid/N03851b24918d4337bce5faf4661fcd25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N03851b24918d4337bce5faf4661fcd25> .
+<http://lodlaundromat.org/.well-known/genid/N9f4e8d4e28f0403bb5b0e6fbb77b13b9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neda22ebb6950457abb6baa8863d45667> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncdcb26268bb041258fd6d2b3cafac363> <http://schema.org/telephone> "+1 (432) 684-6827" .
+<http://lodlaundromat.org/.well-known/genid/Nfbf4d23f155c4e658cfd8939d24c8566> <http://schema.org/value> "190386"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

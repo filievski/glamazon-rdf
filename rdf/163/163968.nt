@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N189c6a567abb4c488cb60fd4a3596f20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a1e4fc678f3401a8ebba10edeba9c34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> <http://schema.org/id> "inverloch-shell-museum" .
+<http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N189c6a567abb4c488cb60fd4a3596f20> <http://schema.org/longitude> "145.729"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5fb3615a779d45fd966439434a0eb6c4> <http://schema.org/value> "163968"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.6344&mlon=145.729#map=15/-38.6344/145.729> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2a1e4fc678f3401a8ebba10edeba9c34> .
+<http://lodlaundromat.org/.well-known/genid/N189c6a567abb4c488cb60fd4a3596f20> <http://schema.org/latitude> "-38.6344"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> .
+<http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5fb3615a779d45fd966439434a0eb6c4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5fb3615a779d45fd966439434a0eb6c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/url> <http://www.sgcs.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5fb3615a779d45fd966439434a0eb6c4> .
+<http://lodlaundromat.org/.well-known/genid/N2a1e4fc678f3401a8ebba10edeba9c34> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N189c6a567abb4c488cb60fd4a3596f20> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/name> "Inverloch Shell Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N2e2e35b7698e4c6a800c315088239ef2> <http://schema.org/url> <http://victoriancollections.net.au/organisations/inverloch-shell-museum> .
+<http://lodlaundromat.org/.well-known/genid/Nb8bf9b0914d54fe185a5e404cfbd7311> <http://schema.org/telephone> "(03) 5674 3738" .
+

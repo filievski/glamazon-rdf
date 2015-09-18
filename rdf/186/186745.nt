@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N40e6c8b7199740ff8f31eff2e91f47ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40e6c8b7199740ff8f31eff2e91f47ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7760c490465741f699e81bc7c02f1156> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7760c490465741f699e81bc7c02f1156> .
+<http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> <http://schema.org/addressLocality> "Imperia" .
+<http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> .
+<http://lodlaundromat.org/.well-known/genid/N40e6c8b7199740ff8f31eff2e91f47ec> <http://schema.org/value> "186745"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7760c490465741f699e81bc7c02f1156> <http://schema.org/latitude> "43.8858"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> <http://schema.org/streetAddress> "Viale Matteotti, 151" .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/telephone> "+39 0183/701561" .
+<http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.8858&mlon=8.02866#map=15/43.8858/8.02866> .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> .
+<http://lodlaundromat.org/.well-known/genid/N7760c490465741f699e81bc7c02f1156> <http://schema.org/longitude> "8.02866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/name> "Villa Faravelli"@it .
+<http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> <http://schema.org/id> "107229" .
+<http://lodlaundromat.org/.well-known/genid/N1862d94c710649ae9e39b8dcd5b52b3b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1d1d9ad6f9564298abf18d45ae986246> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/N1afdd52db59d4e8b8e92379ec3418777> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N40e6c8b7199740ff8f31eff2e91f47ec> .
+

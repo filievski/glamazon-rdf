@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://schema.org/streetAddress> "97017 CASTLE RIDGE DR" .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N848eaca2e42745d2a12f72d8613ec186> .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N848eaca2e42745d2a12f72d8613ec186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://schema.org/addressLocality> "YULEE" .
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://schema.org/postalCode> "32097-5065" .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> .
+<http://lodlaundromat.org/.well-known/genid/Nb9cefc484ec6429aa2b8c083bc862a53> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb9cefc484ec6429aa2b8c083bc862a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6796&mlon=-81.5404#map=15/30.6796/-81.5404> .
+<http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> <http://schema.org/id> "8401201100" .
+<http://lodlaundromat.org/.well-known/genid/Nb9cefc484ec6429aa2b8c083bc862a53> <http://schema.org/value> "135545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/name> "USA 1ST INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N877db91136da4826ac7c24066690ef4d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb9cefc484ec6429aa2b8c083bc862a53> .
+<http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nca71968eaa604887817fc7246f401544> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5d7a77a814044760a14fe19725aa65cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N848eaca2e42745d2a12f72d8613ec186> <http://schema.org/latitude> "30.6796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N848eaca2e42745d2a12f72d8613ec186> <http://schema.org/longitude> "-81.5404"^^<http://www.w3.org/2001/XMLSchema#double> .
+

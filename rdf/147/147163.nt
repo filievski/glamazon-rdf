@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://schema.org/postalCode> "89121-2070" .
+<http://lodlaundromat.org/.well-known/genid/Na901450b8cbf400ab94fd10efefe2843> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na901450b8cbf400ab94fd10efefe2843> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> .
+<http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N150e1267db4c4eebb67d14c26916d2f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://schema.org/streetAddress> "2675 S NELLIS BLVD APT 1125" .
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://schema.org/addressLocality> "LAS VEGAS" .
+<http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na901450b8cbf400ab94fd10efefe2843> .
+<http://lodlaundromat.org/.well-known/genid/Nf1865e7d16fb4f7f8241c347c2bee682> <http://schema.org/addressRegion> "NV" .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.1412&mlon=-115.066#map=15/36.1412/-115.066> .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N150e1267db4c4eebb67d14c26916d2f5> .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N150e1267db4c4eebb67d14c26916d2f5> <http://schema.org/latitude> "36.1412"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N150e1267db4c4eebb67d14c26916d2f5> <http://schema.org/longitude> "-115.066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf6a118cd8ba343e9bf026cdfe07ead9e> <http://schema.org/id> "8403200138" .
+<http://lodlaundromat.org/.well-known/genid/N32ab2578aaf04d09a40361b85548095c> <http://schema.org/name> "ARCHAEO-NEVADA SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na901450b8cbf400ab94fd10efefe2843> <http://schema.org/value> "147163"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://schema.org/streetAddress> "PO BOX 460" .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> .
+<http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/url> <http://www.bbmandm.org/> .
+<http://lodlaundromat.org/.well-known/genid/N8994b4621fad4431a4e34f836aa55a62> <http://schema.org/id> "8405600080" .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nec46ba1960f9438299693b2fe8db2804> .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N91892d42d31e4ebeab726dfe40732813> .
+<http://lodlaundromat.org/.well-known/genid/Nec46ba1960f9438299693b2fe8db2804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://schema.org/addressLocality> "BIG HORN" .
+<http://lodlaundromat.org/.well-known/genid/N91892d42d31e4ebeab726dfe40732813> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N91892d42d31e4ebeab726dfe40732813> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.6806&mlon=-106.993#map=15/44.6806/-106.993> .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://schema.org/postalCode> "82833-0460" .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/telephone> "+1 (307) 672-3173" .
+<http://lodlaundromat.org/.well-known/genid/N3bf7d000c36b4cfab66742c1c607d623> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/Nec46ba1960f9438299693b2fe8db2804> <http://schema.org/longitude> "-106.993"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N91892d42d31e4ebeab726dfe40732813> <http://schema.org/value> "163500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3cf0ec74fc344657afc2215455d89452> <http://schema.org/name> "NEW MUSEUM AT THE BRADFORD BRINTON RANCH"@en .
+<http://lodlaundromat.org/.well-known/genid/Nec46ba1960f9438299693b2fe8db2804> <http://schema.org/latitude> "44.6806"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N86e29d5ee79346c3929115d1e30d127b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2672&mlon=-92.5463#map=15/44.2672/-92.5463> .
+<http://lodlaundromat.org/.well-known/genid/N8042bf6ae30b4733af9619db8f07d97a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8042bf6ae30b4733af9619db8f07d97a> <http://schema.org/latitude> "44.2672"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://schema.org/streetAddress> "124 1ST AVE S" .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://schema.org/addressLocality> "MAZEPPA" .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/url> <http://wwwmazeppahistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/name> "MAZEPPA AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://schema.org/postalCode> "55956" .
+<http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N86e29d5ee79346c3929115d1e30d127b> <http://schema.org/value> "144782"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N86e29d5ee79346c3929115d1e30d127b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N86e29d5ee79346c3929115d1e30d127b> .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> <http://schema.org/id> "8402700222" .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> .
+<http://lodlaundromat.org/.well-known/genid/N8042bf6ae30b4733af9619db8f07d97a> <http://schema.org/longitude> "-92.5463"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e69319979014df995f7cc3e5112f3d6> .
+<http://lodlaundromat.org/.well-known/genid/Ndc44175703824928aceb027128a0d947> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N476f78d499234f72b9eb138e45c16bdb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8042bf6ae30b4733af9619db8f07d97a> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.9878&mlon=9.26198#map=15/45.9878/9.26198> .
+<http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/url> <http://www.bellagiomuseo.com/> .
+<http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> <http://schema.org/id> "106875" .
+<http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nf2d1d00054e64dd0b7c3fb69b960111f> <http://schema.org/longitude> "9.26198"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d1d00054e64dd0b7c3fb69b960111f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N50f43c01590c4d9da64c8b10d83a5bca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/name> "Museo degli strumenti per la navigazione"@it .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> .
+<http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf2d1d00054e64dd0b7c3fb69b960111f> .
+<http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> <http://schema.org/streetAddress> "Piazza Don Miotti, ?" .
+<http://lodlaundromat.org/.well-known/genid/N50f43c01590c4d9da64c8b10d83a5bca> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf2d1d00054e64dd0b7c3fb69b960111f> <http://schema.org/latitude> "45.9878"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/telephone> "+39 031 950309" .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> .
+<http://lodlaundromat.org/.well-known/genid/N2ec7da4f03f94c189c7a5a55999878f0> <http://schema.org/addressLocality> "Bellagio" .
+<http://lodlaundromat.org/.well-known/genid/N50f43c01590c4d9da64c8b10d83a5bca> <http://schema.org/value> "186939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48d78848eea34a3493a6f36eceea5c18> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N50f43c01590c4d9da64c8b10d83a5bca> .
+<http://lodlaundromat.org/.well-known/genid/N83f005c78c754b83a9b1b40901b7a9c9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+

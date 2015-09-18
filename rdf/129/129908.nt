@@ -1,0 +1,33 @@
+<http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://schema.org/streetAddress> "15415 DON JULIAN RD" .
+<http://lodlaundromat.org/.well-known/genid/Nc0bd832283cb4bdb8755a99b39f4a0fb> <http://schema.org/latitude> "34.0199"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/telephone> "+1 (626) 968-8492" .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/name> "WORKMAN AND TEMPLE FAMILY HOMESTEAD MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N7c389b7ee4ed49b89ffbda1dac761e77> .
+<http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7c389b7ee4ed49b89ffbda1dac761e77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bd832283cb4bdb8755a99b39f4a0fb> <http://schema.org/longitude> "-117.966"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://schema.org/addressLocality> "HACIENDA HEIGHTS" .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naf522f681c70455b9b2ea802b62101e0> .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> .
+<http://lodlaundromat.org/.well-known/genid/Naf522f681c70455b9b2ea802b62101e0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Workman_and_Temple_Family_Homestead_Museum> .
+<http://lodlaundromat.org/.well-known/genid/Naf522f681c70455b9b2ea802b62101e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c389b7ee4ed49b89ffbda1dac761e77> <http://schema.org/creator> "<a href=\"//commons.wikimedia.org/wiki/User:Los_Angeles\" title=\"User:Los Angeles\">Los Angeles</a>" .
+<http://lodlaundromat.org/.well-known/genid/N7c389b7ee4ed49b89ffbda1dac761e77> <http://schema.org/contentUrl> <http://images.museums.io/PO30hwz_TTO8ObIy-VK0s8j-CZY=/1000x1000/museums/logos/000/129/908/original/William_Workman_House_2C_City_of_Industry.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c389b7ee4ed49b89ffbda1dac761e77> <http://schema.org/license> <http://www.gnu.org/licenses/fdl.html> .
+<http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Naf522f681c70455b9b2ea802b62101e0> <http://schema.org/value> "129908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bd832283cb4bdb8755a99b39f4a0fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/url> <http://www.homesteadmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://schema.org/postalCode> "91745" .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0199&mlon=-117.966#map=15/34.0199/-117.966> .
+<http://lodlaundromat.org/.well-known/genid/N869b21d79f9646158f55413a7c85e097> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2a44ab20f4aa418cbf806de715d47ad2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc0bd832283cb4bdb8755a99b39f4a0fb> .
+<http://lodlaundromat.org/.well-known/genid/N714f882f41014cef8c09c746cfde99e2> <http://schema.org/id> "8400600034" .
+

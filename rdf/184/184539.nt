@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/Needd30c1c5c94bc6addd7f914a670fc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N035d21c07600427f89deb6d8eae70f84> .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N035d21c07600427f89deb6d8eae70f84> <http://schema.org/url> <http://www.museums.io/en/museums/184539> .
+<http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> <http://schema.org/addressRegion> "Gauteng" .
+<http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> <http://schema.org/streetAddress> "Cnr Kotze & Hospital Street, Braamfontein" .
+<http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> <http://schema.org/addressLocality> "Johannesburg" .
+<http://lodlaundromat.org/.well-known/genid/Needd30c1c5c94bc6addd7f914a670fc1> <http://schema.org/value> "184539"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> .
+<http://lodlaundromat.org/.well-known/genid/N121add2ac4c0403c87b9d97499f93c84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Needd30c1c5c94bc6addd7f914a670fc1> .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://schema.org/name> "Constitution Hill"@en .
+<http://lodlaundromat.org/.well-known/genid/N035d21c07600427f89deb6d8eae70f84> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N51c76df3de9946a184b648c4115885d9> <http://schema.org/telephone> "011 381 3100" .
+<http://lodlaundromat.org/.well-known/genid/N035d21c07600427f89deb6d8eae70f84> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N035d21c07600427f89deb6d8eae70f84> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Needd30c1c5c94bc6addd7f914a670fc1> <http://schema.org/name> "id" .
+

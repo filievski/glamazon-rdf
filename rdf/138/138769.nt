@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd8343e078dc24794b69b153410a8a47e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> .
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Nd8343e078dc24794b69b153410a8a47e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.6068&mlon=-86.0972#map=15/38.6068/-86.0972> .
+<http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb86c63bf547d43dcb77931e6f48562fd> <http://schema.org/latitude> "38.6068"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/name> "WASHINGTON COUNTY VETERANS MEMORIAL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb86c63bf547d43dcb77931e6f48562fd> <http://schema.org/longitude> "-86.0972"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd8343e078dc24794b69b153410a8a47e> <http://schema.org/value> "138769"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb86c63bf547d43dcb77931e6f48562fd> .
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://schema.org/streetAddress> "PO BOX 468" .
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://schema.org/addressLocality> "SALEM" .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> .
+<http://lodlaundromat.org/.well-known/genid/Nb86c63bf547d43dcb77931e6f48562fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> <http://schema.org/id> "8401800555" .
+<http://lodlaundromat.org/.well-known/genid/N6725bcc716854458bc6f8845cb116e86> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd8343e078dc24794b69b153410a8a47e> .
+<http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N41fac31175024c4390f27e3d34245722> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na77d4a55c7204cb0a7ec33ac29347f5d> <http://schema.org/postalCode> "47167-0468" .
+

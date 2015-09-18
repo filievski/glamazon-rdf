@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd14c45cacc8e45b0827740b43c662479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N7962c1074d734eed9df3586298c1404f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7962c1074d734eed9df3586298c1404f> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd14c45cacc8e45b0827740b43c662479> .
+<http://lodlaundromat.org/.well-known/genid/Nd14c45cacc8e45b0827740b43c662479> <http://schema.org/longitude> "-122.229"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://schema.org/addressLocality> "REDWOOD CITY" .
+<http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> .
+<http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://schema.org/streetAddress> "2221 BROADWAY ST" .
+<http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7962c1074d734eed9df3586298c1404f> <http://schema.org/value> "130980"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/name> "DREAMER HALL OF FAME"@en .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7962c1074d734eed9df3586298c1404f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://schema.org/postalCode> "94063-1641" .
+<http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd14c45cacc8e45b0827740b43c662479> <http://schema.org/latitude> "37.4865"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na1e1df43e03b4bb6a3df5147716c5663> .
+<http://lodlaundromat.org/.well-known/genid/N895610e1101344ad9c3b8cba07ca09b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.4865&mlon=-122.229#map=15/37.4865/-122.229> .
+<http://lodlaundromat.org/.well-known/genid/N096585f4af97402ebfdb2681936228a2> <http://schema.org/id> "8400601106" .
+

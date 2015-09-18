@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0e48010eafe746ce80b110ceb73152bb> <http://schema.org/latitude> "32.9712"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://schema.org/streetAddress> "1701 N COLLINS STE 326" .
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://schema.org/postalCode> "75080-3645" .
+<http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.9712&mlon=-96.7237#map=15/32.9712/-96.7237> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0e48010eafe746ce80b110ceb73152bb> .
+<http://lodlaundromat.org/.well-known/genid/N0e48010eafe746ce80b110ceb73152bb> <http://schema.org/longitude> "-96.7237"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c32467fa7ed4a0b9cd96e1b7afd3697> .
+<http://lodlaundromat.org/.well-known/genid/N6182a52524ee4012a6315d09e7ade784> <http://schema.org/name> "IH COLLECTORS LONE STAR CHAPTER 25"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f83b96fc5074853840584f0ac13e5da> <http://schema.org/id> "8404802002" .
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c32467fa7ed4a0b9cd96e1b7afd3697> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8c32467fa7ed4a0b9cd96e1b7afd3697> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0e48010eafe746ce80b110ceb73152bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3fdf83d8b713456f9890f0d61cf7537e> <http://schema.org/addressLocality> "RICHARDSON" .
+<http://lodlaundromat.org/.well-known/genid/N8c32467fa7ed4a0b9cd96e1b7afd3697> <http://schema.org/value> "159902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

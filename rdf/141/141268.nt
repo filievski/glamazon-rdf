@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4e50c8ab984225a5090af415ba87f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N34a1aa3ba4d948178f9bb8efb889d70b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N34a1aa3ba4d948178f9bb8efb889d70b> <http://schema.org/longitude> "-69.8643"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N34a1aa3ba4d948178f9bb8efb889d70b> <http://schema.org/latitude> "44.1696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4e50c8ab984225a5090af415ba87f0> <http://schema.org/value> "141268"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1696&mlon=-69.8643#map=15/44.1696/-69.8643> .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfe4e50c8ab984225a5090af415ba87f0> .
+<http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> <http://schema.org/id> "8402300117" .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://schema.org/postalCode> "04350" .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N34a1aa3ba4d948178f9bb8efb889d70b> .
+<http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://schema.org/streetAddress> "1032 PLAINS ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4e50c8ab984225a5090af415ba87f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfa026f3f689e4863ae3ac86d67e07977> .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9a2ce0c1f7a34586a3befd656d6b4ae7> <http://schema.org/name> "HISTORICAL SOCIETY OF LITCHFIELD"@en .
+<http://lodlaundromat.org/.well-known/genid/N650b5875d7cb40a9a37cecd823d4695d> <http://schema.org/addressLocality> "LITCHFIELD" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N87f15fac42844c6c965e45cdfe942b83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N87f15fac42844c6c965e45cdfe942b83> <http://schema.org/longitude> "-73.4513"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/telephone> "+1 (631) 367-3418" .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N87f15fac42844c6c965e45cdfe942b83> .
+<http://lodlaundromat.org/.well-known/genid/N87f15fac42844c6c965e45cdfe942b83> <http://schema.org/latitude> "40.8666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://schema.org/streetAddress> "PO BOX 25" .
+<http://lodlaundromat.org/.well-known/genid/Na17c293eef854b5d97c73292f7afa4de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na17c293eef854b5d97c73292f7afa4de> <http://schema.org/value> "149428"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/name> "WHALING MUSEUM SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> .
+<http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://schema.org/postalCode> "11724-0025" .
+<http://lodlaundromat.org/.well-known/genid/Na17c293eef854b5d97c73292f7afa4de> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8666&mlon=-73.4513#map=15/40.8666/-73.4513> .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na17c293eef854b5d97c73292f7afa4de> .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> <http://schema.org/id> "8403600722" .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2db9b11e1475457da9441975bae84b65> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N687c23a894b741c89727c67e039a40b8> <http://schema.org/url> <http://www.cshwhalingmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Na971ef223f5b48a5808aaccf58542b7f> <http://schema.org/addressLocality> "COLD SPG HBR" .
+

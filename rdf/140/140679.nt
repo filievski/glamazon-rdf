@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> .
+<http://lodlaundromat.org/.well-known/genid/Ncc814d6bfb9b45a18d12a4a68ca22811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc814d6bfb9b45a18d12a4a68ca22811> <http://schema.org/latitude> "37.3951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3951&mlon=-86.8768#map=15/37.3951/-86.8768> .
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://schema.org/addressLocality> "ROSINE" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6481ab2aa6154ae6a8e7f7738e71b898> .
+<http://lodlaundromat.org/.well-known/genid/N6481ab2aa6154ae6a8e7f7738e71b898> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/url> <http://www.jerusalemridgefestival.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc814d6bfb9b45a18d12a4a68ca22811> <http://schema.org/longitude> "-86.8768"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncc814d6bfb9b45a18d12a4a68ca22811> .
+<http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> <http://schema.org/id> "8402100436" .
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://schema.org/postalCode> "42370-0429" .
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6481ab2aa6154ae6a8e7f7738e71b898> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N797c1dbd107c44af8284cc542aeaa9c2> .
+<http://lodlaundromat.org/.well-known/genid/N7d9453b973664045a1856d6446826098> <http://schema.org/streetAddress> "PO BOX 429" .
+<http://lodlaundromat.org/.well-known/genid/N64087bd4c0de47e7ac1f51cfe30fd374> <http://schema.org/name> "JERUSALEM RIDGE BLUEGRASS MUSIC FOUNDATION OF KENTUCKY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6481ab2aa6154ae6a8e7f7738e71b898> <http://schema.org/value> "140679"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

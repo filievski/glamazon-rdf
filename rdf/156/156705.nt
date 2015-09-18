@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N860af35f410347c4a168704a91daf02d> <http://schema.org/value> "156705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> <http://schema.org/id> "8404400218" .
+<http://lodlaundromat.org/.well-known/genid/N860af35f410347c4a168704a91daf02d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N37798d57d4dc4e2c959d802da6840497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> .
+<http://lodlaundromat.org/.well-known/genid/N37798d57d4dc4e2c959d802da6840497> <http://schema.org/longitude> "-71.3121"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/url> <http://tourosynagogue.org/> .
+<http://lodlaundromat.org/.well-known/genid/N860af35f410347c4a168704a91daf02d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/telephone> "+1 (401) 847-4794" .
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://schema.org/postalCode> "02840" .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N37798d57d4dc4e2c959d802da6840497> .
+<http://lodlaundromat.org/.well-known/genid/N37798d57d4dc4e2c959d802da6840497> <http://schema.org/latitude> "41.4893"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://schema.org/addressLocality> "NEW ORLEANS" .
+<http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> .
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://schema.org/streetAddress> "85 TOURO ST" .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41e14d3cb1114e6ebbcd406690303498> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N20f383c4468a4b818fbbd43f0cdca4fb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N860af35f410347c4a168704a91daf02d> .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/name> "TOURO SYNAGOGUE"@en .
+<http://lodlaundromat.org/.well-known/genid/N214bda3891e14d7c9309db2f4162946d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4893&mlon=-71.3121#map=15/41.4893/-71.3121> .
+

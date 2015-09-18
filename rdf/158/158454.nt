@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> <http://schema.org/id> "8404800554" .
+<http://lodlaundromat.org/.well-known/genid/N47e3cde30c5b46f39592c2f6d00d44d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://schema.org/streetAddress> "1110 PENN ST" .
+<http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N47e3cde30c5b46f39592c2f6d00d44d3> .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7473&mlon=-97.3424#map=15/32.7473/-97.3424> .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://schema.org/addressLocality> "FORT WORTH" .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> .
+<http://lodlaundromat.org/.well-known/genid/Na590043865594e9380c59b77c11cd30d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N17c5bed94fee4a2591dabb65fb6ea5d3> .
+<http://lodlaundromat.org/.well-known/genid/Na590043865594e9380c59b77c11cd30d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://schema.org/postalCode> "76102-3417" .
+<http://lodlaundromat.org/.well-known/genid/N47e3cde30c5b46f39592c2f6d00d44d3> <http://schema.org/longitude> "-97.3424"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47e3cde30c5b46f39592c2f6d00d44d3> <http://schema.org/latitude> "32.7473"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na590043865594e9380c59b77c11cd30d> <http://schema.org/value> "158454"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na590043865594e9380c59b77c11cd30d> .
+<http://lodlaundromat.org/.well-known/genid/N8d458f29098e471cae6ece80476057d0> <http://schema.org/name> "HISTORIC FORT WORTH INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N582a44aba9cf409a961423159c62fba2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

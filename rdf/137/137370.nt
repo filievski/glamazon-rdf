@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na2e9beaf6012485ab9dfa47cd2839abf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2e9beaf6012485ab9dfa47cd2839abf> <http://schema.org/longitude> "-88.3278"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> .
+<http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> .
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://schema.org/addressLocality> "NORRIS CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na2e9beaf6012485ab9dfa47cd2839abf> .
+<http://lodlaundromat.org/.well-known/genid/Ne59b26ab80d94f2398900c9521b4e56a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne59b26ab80d94f2398900c9521b4e56a> .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/name> "NORRIS CITY COMMUNITY MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://schema.org/postalCode> "62869" .
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> <http://schema.org/id> "8401700515" .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7956a6d3e59e4fe2853b5558e64592b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na2e9beaf6012485ab9dfa47cd2839abf> <http://schema.org/latitude> "37.9809"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne59b26ab80d94f2398900c9521b4e56a> <http://schema.org/value> "137370"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne59b26ab80d94f2398900c9521b4e56a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc05d0320bb054a30a94a7b0a7a752c4b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9809&mlon=-88.3278#map=15/37.9809/-88.3278> .
+<http://lodlaundromat.org/.well-known/genid/N52a7648edf204f059aeb8176d500ccae> <http://schema.org/streetAddress> "PO BOX 408" .
+

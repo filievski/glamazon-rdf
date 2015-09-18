@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://schema.org/addressLocality> "YORK" .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/name> "FRIENDS OF HISTORIC BRATTONSVILLE"@en .
+<http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7ca1ac1db6884e919b4a3072cd83eb2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N972b7dea9f184ecd8bbfe718ca8052d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N972b7dea9f184ecd8bbfe718ca8052d9> <http://schema.org/latitude> "35.0296"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.0296&mlon=-81.0835#map=15/35.0296/-81.0835> .
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://schema.org/streetAddress> "1900 POLARIS RD" .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N972b7dea9f184ecd8bbfe718ca8052d9> .
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://schema.org/postalCode> "29745" .
+<http://lodlaundromat.org/.well-known/genid/N972b7dea9f184ecd8bbfe718ca8052d9> <http://schema.org/longitude> "-81.0835"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> .
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> .
+<http://lodlaundromat.org/.well-known/genid/N7ca1ac1db6884e919b4a3072cd83eb2d> <http://schema.org/value> "156955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8858deb329de48059ecec3ba87edaa83> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7ca1ac1db6884e919b4a3072cd83eb2d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b57b07429542eabaaba62a516baea7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7ca1ac1db6884e919b4a3072cd83eb2d> .
+<http://lodlaundromat.org/.well-known/genid/N0a3e5bef6442437c98ce29f84bfd1adb> <http://schema.org/id> "8404500250" .
+

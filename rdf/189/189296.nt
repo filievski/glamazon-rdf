@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N0a6286271ffa453293b605d070210632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/url> <http://www.comune.spello.pg.it/> .
+<http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc637abf54a4b4a59aace117d546557c5> .
+<http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> <http://schema.org/addressLocality> "Spello" .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a6286271ffa453293b605d070210632> .
+<http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> .
+<http://lodlaundromat.org/.well-known/genid/Nb9677c6ec55d471b8a564e68906cda52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> .
+<http://lodlaundromat.org/.well-known/genid/N0a6286271ffa453293b605d070210632> <http://schema.org/longitude> "12.6715"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nc637abf54a4b4a59aace117d546557c5> <http://schema.org/value> "189296"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/telephone> "+39 0742301497" .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9905&mlon=12.6715#map=15/42.9905/12.6715> .
+<http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> <http://schema.org/id> "100745" .
+<http://lodlaundromat.org/.well-known/genid/Nb9677c6ec55d471b8a564e68906cda52> <http://schema.org/contentUrl> <http://images.museums.io/JxKmr_wuzjMxo5kUB9VcDWhQrW4=/1000x1000/museums/logos/000/189/296/original/badcb8952ea9d43df547c6dbe69ba7819f3bea5.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc637abf54a4b4a59aace117d546557c5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> <http://schema.org/streetAddress> "Piazza G. Matteotti, 10" .
+<http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nc637abf54a4b4a59aace117d546557c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nb9677c6ec55d471b8a564e68906cda52> .
+<http://lodlaundromat.org/.well-known/genid/N206aa7cb691e4520a4032d7944c93614> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N2e6a3966b88f45ec95af64679ade280f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nb308d6485b7a45808d7aebe6f005cda7> <http://schema.org/name> "Pinacoteca civica di Spello"@it .
+<http://lodlaundromat.org/.well-known/genid/N0a6286271ffa453293b605d070210632> <http://schema.org/latitude> "42.9905"^^<http://www.w3.org/2001/XMLSchema#double> .
+

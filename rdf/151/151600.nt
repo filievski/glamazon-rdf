@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8f03c2e1a0894bf5a1b5e473dc19310e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://schema.org/addressLocality> "LAUREL HILL" .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0095daca34b19929665d0f59a65f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8f03c2e1a0894bf5a1b5e473dc19310e> <http://schema.org/latitude> "34.8447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8f03c2e1a0894bf5a1b5e473dc19310e> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/name> "INDIAN MUSEUM OF THE CAROLINAS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://schema.org/streetAddress> "PO BOX 159" .
+<http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0095daca34b19929665d0f59a65f1> <http://schema.org/value> "151600"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncfa0095daca34b19929665d0f59a65f1> .
+<http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> <http://schema.org/id> "8403700471" .
+<http://lodlaundromat.org/.well-known/genid/N8f03c2e1a0894bf5a1b5e473dc19310e> <http://schema.org/longitude> "-79.5557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad8f42fe8eb9451aac79ca91283db2ca> <http://schema.org/postalCode> "28351" .
+<http://lodlaundromat.org/.well-known/genid/N27d2215077634610a2271d1e35dc1c9f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0095daca34b19929665d0f59a65f1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N181601d4be8c47c28330a124a86b0f26> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.8447&mlon=-79.5557#map=15/34.8447/-79.5557> .
+

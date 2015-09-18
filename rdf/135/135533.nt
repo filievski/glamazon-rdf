@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb6cb56ad26bc48e0b0b71f2f8cc61930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> <http://schema.org/id> "8401201088" .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N557b0056ae64461fb3548499de7632ea> .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/url> <http://www.osceolaarts.org/> .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> .
+<http://lodlaundromat.org/.well-known/genid/Nb6cb56ad26bc48e0b0b71f2f8cc61930> <http://schema.org/longitude> "-81.346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb6cb56ad26bc48e0b0b71f2f8cc61930> <http://schema.org/latitude> "28.2807"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N557b0056ae64461fb3548499de7632ea> <http://schema.org/value> "135533"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/name> "OSCEOLA CENTER FOR THE ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N557b0056ae64461fb3548499de7632ea> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb6cb56ad26bc48e0b0b71f2f8cc61930> .
+<http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/telephone> "+1 (407) 846-6257" .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26bfbf48817948eaa72781e73820aab2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://schema.org/addressLocality> "KISSIMMEE" .
+<http://lodlaundromat.org/.well-known/genid/N557b0056ae64461fb3548499de7632ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.2807&mlon=-81.346#map=15/28.2807/-81.346> .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://schema.org/streetAddress> "PO BOX 451088" .
+<http://lodlaundromat.org/.well-known/genid/N698d35b9bd704d548ca5f6d5ea576ebb> <http://schema.org/postalCode> "34745-1088" .
+<http://lodlaundromat.org/.well-known/genid/N07ce0329106e43e4ab2716808bcf51e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

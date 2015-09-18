@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N167dcd20c623484aa67f5046f0370717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N167dcd20c623484aa67f5046f0370717> .
+<http://lodlaundromat.org/.well-known/genid/N167dcd20c623484aa67f5046f0370717> <http://schema.org/latitude> "44.4583"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N167dcd20c623484aa67f5046f0370717> <http://schema.org/longitude> "-87.5018"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N08424f1b1ea84b739606a1885cfbfa43> <http://schema.org/value> "162958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08424f1b1ea84b739606a1885cfbfa43> .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://schema.org/postalCode> "54216" .
+<http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> <http://schema.org/id> "8405500407" .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/name> "KEWAUNEE COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://schema.org/streetAddress> "217 ELLIS" .
+<http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne165e43efb0b4b88bf1f350796f38f30> <http://schema.org/addressLocality> "KEWAUNEE" .
+<http://lodlaundromat.org/.well-known/genid/N08424f1b1ea84b739606a1885cfbfa43> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.4583&mlon=-87.5018#map=15/44.4583/-87.5018> .
+<http://lodlaundromat.org/.well-known/genid/N08424f1b1ea84b739606a1885cfbfa43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na4cba4c792244582ba00c9c71411f9c6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N37e9d81482ac49e3b8d35a9f5b25ae71> .
+

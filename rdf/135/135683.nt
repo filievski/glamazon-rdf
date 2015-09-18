@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1df68db9cfee48aa9036beea8101072f> <http://schema.org/latitude> "26.1858"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.1858&mlon=-80.1788#map=15/26.1858/-80.1788> .
+<http://lodlaundromat.org/.well-known/genid/Nbc39eaddd2724362bc9ea8e985a42ddc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1df68db9cfee48aa9036beea8101072f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> <http://schema.org/id> "8401201238" .
+<http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/name> "THESOUTH FLORIDA GATOR CHAPTER AOMC INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://schema.org/streetAddress> "2701 OAK TREE DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N46857ab00d514b099b5eef96a5e807c6> .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc39eaddd2724362bc9ea8e985a42ddc> .
+<http://lodlaundromat.org/.well-known/genid/Nbc39eaddd2724362bc9ea8e985a42ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0e232baf8939417aaaf37dc151fd7772> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1df68db9cfee48aa9036beea8101072f> .
+<http://lodlaundromat.org/.well-known/genid/N1df68db9cfee48aa9036beea8101072f> <http://schema.org/longitude> "-80.1788"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbc39eaddd2724362bc9ea8e985a42ddc> <http://schema.org/value> "135683"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://schema.org/addressLocality> "FORT LAUDERDALE" .
+<http://lodlaundromat.org/.well-known/genid/Nee9b0aa7f56345fa8c7dd424d9935810> <http://schema.org/postalCode> "33309-6706" .
+

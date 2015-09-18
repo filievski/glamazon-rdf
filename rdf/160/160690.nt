@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4548ae507baa404dbab5d6760bd3d1b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4548ae507baa404dbab5d6760bd3d1b9> .
+<http://lodlaundromat.org/.well-known/genid/N4064ec09b89d4413a8f052f2f515ea03> <http://schema.org/latitude> "37.3276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4064ec09b89d4413a8f052f2f515ea03> .
+<http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://schema.org/streetAddress> "208 N MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N4548ae507baa404dbab5d6760bd3d1b9> <http://schema.org/value> "160690"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4064ec09b89d4413a8f052f2f515ea03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://schema.org/addressLocality> "PEARISBURG" .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> .
+<http://lodlaundromat.org/.well-known/genid/N4548ae507baa404dbab5d6760bd3d1b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/telephone> "+1 (208) 662-4678" .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3276&mlon=-80.7358#map=15/37.3276/-80.7358> .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://schema.org/postalCode> "24134" .
+<http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N774fa942ff604ea1ba0b84b7e3265949> <http://schema.org/id> "8405100196" .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4064ec09b89d4413a8f052f2f515ea03> <http://schema.org/longitude> "-80.7358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c8efaceeb1746149c319ff9aea6f05b> <http://schema.org/name> "ANDREW JOHNSTON HOUSE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N5d24b225ed9541568beb23d58289d9df> <http://schema.org/addressRegion> "VA" .
+

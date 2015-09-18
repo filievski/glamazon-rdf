@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc533d3a0ee3746ee81fc8693b7a4fa42> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> .
+<http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/url> <http://www.museipiceni.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/telephone> "+39 073599329" .
+<http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> <http://schema.org/addressLocality> "Ripatransone" .
+<http://lodlaundromat.org/.well-known/genid/N3f33e83d639242449b626417d30cdd53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f9167b2e14b3aa541710148703a0a> <http://schema.org/latitude> "42.998"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N75c139f3dedc42cc969395eb2c133b25> <http://schema.org/streetAddress> "Corso Vittorio Emanuele, " .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/name> "Museo civico Palazzo Bonomi-Gera"@it .
+<http://lodlaundromat.org/.well-known/genid/N3f33e83d639242449b626417d30cdd53> <http://schema.org/contentUrl> <http://images.museums.io/kPDfxRBBv7j5RWxV0tTN9oitFaM=/1000x1000/museums/logos/000/187/316/original/411a16fead4f119d299d9966e19ea24b365bb65.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f9167b2e14b3aa541710148703a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.998&mlon=13.7605#map=15/42.998/13.7605> .
+<http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> <http://schema.org/id> "104142" .
+<http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f9167b2e14b3aa541710148703a0a> <http://schema.org/longitude> "13.7605"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndb6f9167b2e14b3aa541710148703a0a> .
+<http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3f33e83d639242449b626417d30cdd53> .
+<http://lodlaundromat.org/.well-known/genid/Nc533d3a0ee3746ee81fc8693b7a4fa42> <http://schema.org/value> "187316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc533d3a0ee3746ee81fc8693b7a4fa42> .
+<http://lodlaundromat.org/.well-known/genid/Ne2842948cb1946c1b1a5a80ee3772e5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nee82200d30394ccf83394fb74dba2d7d> .
+<http://lodlaundromat.org/.well-known/genid/Nc533d3a0ee3746ee81fc8693b7a4fa42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

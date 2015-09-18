@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N7ed014f56d144cc395c8121e732c0136> <http://schema.org/longitude> "144.253"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2b42ecf31454d99a65423a1273e01d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7ed014f56d144cc395c8121e732c0136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf2b42ecf31454d99a65423a1273e01d2> .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7ed014f56d144cc395c8121e732c0136> .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> .
+<http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> <http://schema.org/url> <http://victoriancollections.net.au/organisations/herons-reef-historic-gold-diggings> .
+<http://lodlaundromat.org/.well-known/genid/N22d2300394664f6ba52e52cadf1b0b03> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nf2b42ecf31454d99a65423a1273e01d2> <http://schema.org/value> "163950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/name> "Herons Reef Historic Gold Diggings"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.1343&mlon=144.253#map=15/-37.1343/144.253> .
+<http://lodlaundromat.org/.well-known/genid/Nf2b42ecf31454d99a65423a1273e01d2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc672454c3fa947d983b23037e2fb34fa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N22d2300394664f6ba52e52cadf1b0b03> .
+<http://lodlaundromat.org/.well-known/genid/N7ed014f56d144cc395c8121e732c0136> <http://schema.org/latitude> "-37.1343"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> <http://schema.org/id> "herons-reef-historic-gold-diggings" .
+<http://lodlaundromat.org/.well-known/genid/N22d2300394664f6ba52e52cadf1b0b03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0de6c2a85fc049429259aaaa16ce03ce> <http://schema.org/name> "au_vic" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1a71f9291c1f481d8ec4cbb277ceb0d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a71f9291c1f481d8ec4cbb277ceb0d5> .
+<http://lodlaundromat.org/.well-known/genid/N1a71f9291c1f481d8ec4cbb277ceb0d5> <http://schema.org/latitude> "41.9345"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> <http://schema.org/addressLocality> "Rocca Pia" .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9345&mlon=13.9775#map=15/41.9345/13.9775> .
+<http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N414ebf226ae246cc89482081be131f4a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> <http://schema.org/streetAddress> "Via del Castello, SNC" .
+<http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> <http://schema.org/id> "100020" .
+<http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N414ebf226ae246cc89482081be131f4a> .
+<http://lodlaundromat.org/.well-known/genid/N03e1c821f67a425092fe070c60c6a55c> <http://schema.org/addressRegion> "Abruzzo" .
+<http://lodlaundromat.org/.well-known/genid/N414ebf226ae246cc89482081be131f4a> <http://schema.org/value> "185601"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/telephone> "+39 0864 203005" .
+<http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N414ebf226ae246cc89482081be131f4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> .
+<http://lodlaundromat.org/.well-known/genid/N5b8c87e382f54ec98bb04d3fa4808b56> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/name> "Museo civico di documentazione storico-ambientale di Rocca Pia"@it .
+<http://lodlaundromat.org/.well-known/genid/N1a71f9291c1f481d8ec4cbb277ceb0d5> <http://schema.org/longitude> "13.9775"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47c1deddd0954dd6a4d96c89f2e62103> <http://schema.org/url> <http://www.rivistamu6.it/pdf/MU6_06_quartina_MUSEI_SPALLETTI.pdf> .
+

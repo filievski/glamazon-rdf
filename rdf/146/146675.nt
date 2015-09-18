@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3129745d99eb44729b5e2b89b67bfc54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://schema.org/streetAddress> "301 N. CHARDE" .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/name> "SWEDISH HERITAGE CENTER, INC."@en .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> .
+<http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndf1e4189026b4ef7811d735d4cb28463> <http://schema.org/longitude> "-96.4634"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf1e4189026b4ef7811d735d4cb28463> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://schema.org/postalCode> "68045" .
+<http://lodlaundromat.org/.well-known/genid/N3129745d99eb44729b5e2b89b67bfc54> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8357&mlon=-96.4634#map=15/41.8357/-96.4634> .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/telephone> "+1 (402) 685-6161" .
+<http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> <http://schema.org/id> "8403100014" .
+<http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbbe7e4ca888542e8887c3f0578ee387f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://schema.org/addressLocality> "OAKLAND" .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3129745d99eb44729b5e2b89b67bfc54> .
+<http://lodlaundromat.org/.well-known/genid/N3129745d99eb44729b5e2b89b67bfc54> <http://schema.org/value> "146675"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4067e7efece548988ca6548c2982f637> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndf1e4189026b4ef7811d735d4cb28463> .
+<http://lodlaundromat.org/.well-known/genid/Ndf1e4189026b4ef7811d735d4cb28463> <http://schema.org/latitude> "41.8357"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6813e597bac04a549f6886765dad360c> <http://schema.org/addressRegion> "NE" .
+

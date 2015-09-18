@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N6048a8d0d90e4d6d97fa95dc80cd975d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6b535298ef70443b9bbd757effed5e8b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6048a8d0d90e4d6d97fa95dc80cd975d> <http://schema.org/addressCountry> "Mayotte" .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N60424e9879fb45bdb44b52baeaccdef9> .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6b535298ef70443b9bbd757effed5e8b> .
+<http://lodlaundromat.org/.well-known/genid/N60424e9879fb45bdb44b52baeaccdef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6048a8d0d90e4d6d97fa95dc80cd975d> .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncc99cd9cd0e442e894627477a06dcce9> .
+<http://lodlaundromat.org/.well-known/genid/Ncc99cd9cd0e442e894627477a06dcce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6b535298ef70443b9bbd757effed5e8b> <http://schema.org/name> "manual" .
+<http://lodlaundromat.org/.well-known/genid/N6048a8d0d90e4d6d97fa95dc80cd975d> <http://schema.org/addressLocality> "Jimaw\u00E9ni" .
+<http://lodlaundromat.org/.well-known/genid/N60424e9879fb45bdb44b52baeaccdef9> <http://schema.org/longitude> "45.2193"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/name> "Vanilla and ylang-ylang museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncc99cd9cd0e442e894627477a06dcce9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5d10c883df334fecaa132013dbf9d787> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-12.7793&mlon=45.2193#map=15/-12.7793/45.2193> .
+<http://lodlaundromat.org/.well-known/genid/N60424e9879fb45bdb44b52baeaccdef9> <http://schema.org/latitude> "-12.7793"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b535298ef70443b9bbd757effed5e8b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6b535298ef70443b9bbd757effed5e8b> <http://schema.org/url> <http://www.museums.io/en/museums/185045> .
+<http://lodlaundromat.org/.well-known/genid/Ncc99cd9cd0e442e894627477a06dcce9> <http://schema.org/value> "185045"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

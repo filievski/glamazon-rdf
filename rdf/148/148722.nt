@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://schema.org/addressLocality> "WOODSTOCK" .
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://schema.org/streetAddress> "28 TINKER ST." .
+<http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N08fa83550e8447db9f5e9763d2c5f551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd51d65fc6fd9426c976773d7927356a6> <http://schema.org/value> "148722"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> <http://schema.org/id> "8403600016" .
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/telephone> "+1 (914) 679-2940" .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> .
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd51d65fc6fd9426c976773d7927356a6> .
+<http://lodlaundromat.org/.well-known/genid/Nd51d65fc6fd9426c976773d7927356a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N08fa83550e8447db9f5e9763d2c5f551> .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/name> "WOODSTOCK ARTIST ASSOCIATION PERMANENT COLLECTION"@en .
+<http://lodlaundromat.org/.well-known/genid/N10f7f29b7ea140ca8697fb88d11114e7> <http://schema.org/postalCode> "12498" .
+<http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N40a2082ae8b24fbc884a5c004b3b2f67> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0406&mlon=-74.1192#map=15/42.0406/-74.1192> .
+<http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd51d65fc6fd9426c976773d7927356a6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N08fa83550e8447db9f5e9763d2c5f551> <http://schema.org/latitude> "42.0406"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0df2d71b704846e5a53709ccbf694541> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N08fa83550e8447db9f5e9763d2c5f551> <http://schema.org/longitude> "-74.1192"^^<http://www.w3.org/2001/XMLSchema#double> .
+

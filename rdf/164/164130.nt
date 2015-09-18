@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8cd98bbf56e3491cb354cb68b704f61f> .
+<http://lodlaundromat.org/.well-known/genid/N8cd98bbf56e3491cb354cb68b704f61f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nae5f112420454a828b904db29f9f3445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c9fd6403cf54095befc761a075bc077> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.1888&mlon=145.159#map=15/-38.1888/145.159> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> <http://schema.org/url> <http://victoriancollections.net.au/organisations/mulberry-hill> .
+<http://lodlaundromat.org/.well-known/genid/Nae5f112420454a828b904db29f9f3445> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/name> "Mulberry Hill, National Trust of Australia (Victoria)"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nae5f112420454a828b904db29f9f3445> .
+<http://lodlaundromat.org/.well-known/genid/Nae5f112420454a828b904db29f9f3445> <http://schema.org/value> "164130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N493b95f68cca42bcaac3518873c56ddf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7c9fd6403cf54095befc761a075bc077> .
+<http://lodlaundromat.org/.well-known/genid/N8cd98bbf56e3491cb354cb68b704f61f> <http://schema.org/longitude> "145.159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c9fd6403cf54095befc761a075bc077> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N8cd98bbf56e3491cb354cb68b704f61f> <http://schema.org/latitude> "-38.1888"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> <http://schema.org/id> "mulberry-hill" .
+<http://lodlaundromat.org/.well-known/genid/Nbe3b3c8d08774932a1a5ec9580fd932d> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+

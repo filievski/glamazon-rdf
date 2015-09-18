@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://schema.org/postalCode> "16157-3610" .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> .
+<http://lodlaundromat.org/.well-known/genid/N7b695a9798f64529921e9b05cdf017d3> <http://schema.org/latitude> "40.896"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7b695a9798f64529921e9b05cdf017d3> .
+<http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7b695a9798f64529921e9b05cdf017d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7b695a9798f64529921e9b05cdf017d3> <http://schema.org/longitude> "-80.3509"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://schema.org/streetAddress> "3384 STATE ROUTE 18" .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N18a9bf2733364dd59a8d3835e08b9123> .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.896&mlon=-80.3509#map=15/40.896/-80.3509> .
+<http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4489bed840094dfdb1948a11f0824c7e> <http://schema.org/id> "8404201237" .
+<http://lodlaundromat.org/.well-known/genid/N56780b653ade4bb4ad78ddf2dd044b91> <http://schema.org/name> "WAMPUM AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N18a9bf2733364dd59a8d3835e08b9123> <http://schema.org/value> "156043"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N18a9bf2733364dd59a8d3835e08b9123> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N18a9bf2733364dd59a8d3835e08b9123> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N25cbcec5d8e244b59af9a42094b7bef7> <http://schema.org/addressLocality> "WAMPUM" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://schema.org/streetAddress> "660 PEACHTREE STREET, NE" .
+<http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/name> "THE FOX THEATRE"@en .
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/url> <http://www.foxtheatre.org/> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N353e807e79114b19b2b4af78d0bfa23f> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> .
+<http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> .
+<http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0cffe29687394d549bcffe20c97e82c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N353e807e79114b19b2b4af78d0bfa23f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://schema.org/postalCode> "30308" .
+<http://lodlaundromat.org/.well-known/genid/N0cffe29687394d549bcffe20c97e82c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0cffe29687394d549bcffe20c97e82c3> <http://schema.org/value> "136011"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7726&mlon=-84.3848#map=15/33.7726/-84.3848> .
+<http://lodlaundromat.org/.well-known/genid/N353e807e79114b19b2b4af78d0bfa23f> <http://schema.org/latitude> "33.7726"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> <http://schema.org/id> "8401300282" .
+<http://lodlaundromat.org/.well-known/genid/N353e807e79114b19b2b4af78d0bfa23f> <http://schema.org/longitude> "-84.3848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N623a3154c0fb43dca354fa9e83f6bf76> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0cffe29687394d549bcffe20c97e82c3> .
+<http://lodlaundromat.org/.well-known/genid/N12fdc7fc0e634c87a181e5a2c51afbaf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9ca5bc53cd6945c18af5796580ddd49f> <http://schema.org/addressLocality> "ATLANTA" .
+

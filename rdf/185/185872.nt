@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na4ba21cb393e4987af4cb4c2ea227d4c> .
+<http://lodlaundromat.org/.well-known/genid/Nb4c01cfc882c4b6388ef85087d2a378d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/telephone> "+39 3476746269" .
+<http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> <http://schema.org/streetAddress> "Via Ravagnese Inferiore, 2" .
+<http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> .
+<http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb4c01cfc882c4b6388ef85087d2a378d> <http://schema.org/contentUrl> <http://images.museums.io/pRYoqPp7gezE3C9I0sYSSGbkdCo=/1000x1000/museums/logos/000/185/872/original/783c056b79610185d73e74a9daf87c267323c3.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1113&mlon=15.6473#map=15/38.1113/15.6473> .
+<http://lodlaundromat.org/.well-known/genid/N4bf39dc0a0014b72b05d6282a884b916> <http://schema.org/value> "185872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nb4c01cfc882c4b6388ef85087d2a378d> .
+<http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> <http://schema.org/id> "111040" .
+<http://lodlaundromat.org/.well-known/genid/Na4ba21cb393e4987af4cb4c2ea227d4c> <http://schema.org/longitude> "15.6473"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4bf39dc0a0014b72b05d6282a884b916> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/name> "Museo Storia della farmacia e Biblioteca Rabainisia"@it .
+<http://lodlaundromat.org/.well-known/genid/Na4ba21cb393e4987af4cb4c2ea227d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Na4ba21cb393e4987af4cb4c2ea227d4c> <http://schema.org/latitude> "38.1113"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51c23507e3f243bfa7b55c322d2aba7f> <http://schema.org/addressLocality> "Reggio di Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N4bf39dc0a0014b72b05d6282a884b916> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/url> <http://www.museorabainisia.com/> .
+<http://lodlaundromat.org/.well-known/genid/N4bf39dc0a0014b72b05d6282a884b916> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8a9005f303524700837ba3dffcb2775f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb6aec2eeccb54d9fbb6af8fb406476e0> .
+

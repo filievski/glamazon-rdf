@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N782759bd079640978d739359d7aafa90> <http://schema.org/latitude> "-37.7933"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39336aff8c844baa8c9e8e5ff078fe5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd86c83a0e802476eb905085affa21bf9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd86c83a0e802476eb905085affa21bf9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/openingHours> "8.00am to 4.00pm"@en .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7933&mlon=144.943#map=15/-37.7933/144.943> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N782759bd079640978d739359d7aafa90> .
+<http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> <http://schema.org/id> "st-aloysius-college" .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39336aff8c844baa8c9e8e5ff078fe5d> .
+<http://lodlaundromat.org/.well-known/genid/N782759bd079640978d739359d7aafa90> <http://schema.org/longitude> "144.943"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/name> "St. Aloysius College"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd86c83a0e802476eb905085affa21bf9> <http://schema.org/value> "164308"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd86c83a0e802476eb905085affa21bf9> .
+<http://lodlaundromat.org/.well-known/genid/N39336aff8c844baa8c9e8e5ff078fe5d> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/url> <http://www.aloysius.vic.edu.au/> .
+<http://lodlaundromat.org/.well-known/genid/N782759bd079640978d739359d7aafa90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N95ac98e714c54289a2aa320e5e71cd17> <http://schema.org/url> <http://victoriancollections.net.au/organisations/st-aloysius-college> .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://schema.org/telephone> "9329 0411" .
+<http://lodlaundromat.org/.well-known/genid/N40c85e15cf4048ae834f0f19cf2d54bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

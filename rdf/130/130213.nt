@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> .
+<http://lodlaundromat.org/.well-known/genid/N02331fe61f374f978922ec927d2eafbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N02331fe61f374f978922ec927d2eafbc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02331fe61f374f978922ec927d2eafbc> <http://schema.org/value> "130213"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N14d7cb74aaf94a4a9d5250d9b6f3403a> <http://schema.org/latitude> "33.7467"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> <http://schema.org/id> "8400600339" .
+<http://lodlaundromat.org/.well-known/genid/N14d7cb74aaf94a4a9d5250d9b6f3403a> <http://schema.org/longitude> "-116.97"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/url> <http://fingerprintsmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N14d7cb74aaf94a4a9d5250d9b6f3403a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02331fe61f374f978922ec927d2eafbc> .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://schema.org/streetAddress> "123 S CARMALITA ST" .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/telephone> "+1 (951) 765-1223" .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7467&mlon=-116.97#map=15/33.7467/-116.97> .
+<http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/name> "KID ZONE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> .
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://schema.org/addressLocality> "HEMET" .
+<http://lodlaundromat.org/.well-known/genid/N1245ea945a5849929912e291a8c4f41d> <http://schema.org/postalCode> "92543" .
+<http://lodlaundromat.org/.well-known/genid/N6c363d510a14487196d0e24cdadf6265> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ned93509f3d1149809c77240c06db3ed1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N14d7cb74aaf94a4a9d5250d9b6f3403a> .
+

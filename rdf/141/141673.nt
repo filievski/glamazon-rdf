@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://schema.org/postalCode> "04330-5304" .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> .
+<http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N04367b851c0c414c8650bc451526ba71> .
+<http://lodlaundromat.org/.well-known/genid/N04367b851c0c414c8650bc451526ba71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://schema.org/addressLocality> "AUGUSTA" .
+<http://lodlaundromat.org/.well-known/genid/N04367b851c0c414c8650bc451526ba71> <http://schema.org/longitude> "-69.7647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04367b851c0c414c8650bc451526ba71> <http://schema.org/latitude> "44.3162"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/name> "KENNEBEC REBORN"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3162&mlon=-69.7647#map=15/44.3162/-69.7647> .
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://schema.org/streetAddress> "131 CONY STREET" .
+<http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> .
+<http://lodlaundromat.org/.well-known/genid/Ndee04a29c1f24240840432aa231aefc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndee04a29c1f24240840432aa231aefc6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf8f8facd0c148299844fe14da2c2be4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndee04a29c1f24240840432aa231aefc6> .
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3ac7a47c3d9c4b1a83ef61749f0dc1d3> <http://schema.org/id> "8402300522" .
+<http://lodlaundromat.org/.well-known/genid/Ndee04a29c1f24240840432aa231aefc6> <http://schema.org/value> "141673"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6f83b020d75d4bc58e9fb7d5349fb591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

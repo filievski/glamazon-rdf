@@ -1,0 +1,33 @@
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb62a51290e0544ec9b823b34cf769cc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/name> "MCCONAGHY HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N95c0245e8fa74e9d96551344bb852b0e> <http://schema.org/value> "130151"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Na06e12b61e30401b90bbc48581d4cfe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> .
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://schema.org/streetAddress> "18701 HESPERIAN BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/url> <http://www.haywardareahistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na06e12b61e30401b90bbc48581d4cfe6> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Kennedy_Park_(Hayward,_California)> .
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://schema.org/postalCode> "94541" .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/telephone> "+1 (510) 581-0223" .
+<http://lodlaundromat.org/.well-known/genid/N95c0245e8fa74e9d96551344bb852b0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na06e12b61e30401b90bbc48581d4cfe6> <http://schema.org/creator> "Mistoffeles" .
+<http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N95c0245e8fa74e9d96551344bb852b0e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na06e12b61e30401b90bbc48581d4cfe6> <http://schema.org/license> <https://creativecommons.org/licenses/by-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6704&mlon=-122.121#map=15/37.6704/-122.121> .
+<http://lodlaundromat.org/.well-known/genid/Nb62a51290e0544ec9b823b34cf769cc4> <http://schema.org/latitude> "37.6704"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N27cdacb1e7324e35849e21fc5d3eabcc> <http://schema.org/addressLocality> "HAYWARD" .
+<http://lodlaundromat.org/.well-known/genid/Na06e12b61e30401b90bbc48581d4cfe6> <http://schema.org/contentUrl> <http://images.museums.io/l5jea7oCnTucP4G6GgXBygERl7Q=/1000x1000/museums/logos/000/130/151/original/McConaghy_Home_and_Carriage_House_Hayward_2C_California.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nb62a51290e0544ec9b823b34cf769cc4> <http://schema.org/longitude> "-122.121"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb62a51290e0544ec9b823b34cf769cc4> .
+<http://lodlaundromat.org/.well-known/genid/N7e969e19d8dd4c2cb2318b702e2ffaff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95c0245e8fa74e9d96551344bb852b0e> .
+<http://lodlaundromat.org/.well-known/genid/N2737357fa68646f1839811521c4b401d> <http://schema.org/id> "8400600277" .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N6e65ebbda47b4b70b4914893f4d76c5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.644&mlon=13.757#map=15/45.644/13.757> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/name> "Speleovivarium"@it .
+<http://lodlaundromat.org/.well-known/genid/N6e65ebbda47b4b70b4914893f4d76c5d> <http://schema.org/latitude> "45.644"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> <http://schema.org/id> "100257" .
+<http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/url> <http://www.sastrieste.it/> .
+<http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> <http://schema.org/streetAddress> "Via Guido Reni, 2/C" .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na541e93d15c14126ba0ce2312283b92d> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> .
+<http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> <http://schema.org/addressRegion> "Friuli-Venezia Giulia" .
+<http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Na541e93d15c14126ba0ce2312283b92d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na541e93d15c14126ba0ce2312283b92d> <http://schema.org/value> "186296"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/telephone> "+39 040823859 - 040 306770 - 3491357631" .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6e65ebbda47b4b70b4914893f4d76c5d> .
+<http://lodlaundromat.org/.well-known/genid/N883ad0fcad4a40269477aba6c69dc9bb> <http://schema.org/addressLocality> "Trieste" .
+<http://lodlaundromat.org/.well-known/genid/Na541e93d15c14126ba0ce2312283b92d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N618d980c4cc341488bfa26bbbda07a0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N6e65ebbda47b4b70b4914893f4d76c5d> <http://schema.org/longitude> "13.757"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N618d980c4cc341488bfa26bbbda07a0f> .
+<http://lodlaundromat.org/.well-known/genid/N1e2c9464762f4832a67e3da2fc66905d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9dd67389c54146258c363a6c5f326e08> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N618d980c4cc341488bfa26bbbda07a0f> <http://schema.org/contentUrl> <http://images.museums.io/L8xj66Y5DX9YnsH8ftgmoF0i95E=/1000x1000/museums/logos/000/186/296/original/f512ede6784740af695b62c4a62c458426ae2bd1.JPG> .
+

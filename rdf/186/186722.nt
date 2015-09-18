@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N39faeaaf1bbc41c8aa6ebd77c9994fa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N651edc21e3d640a38d8ef24b445e8cb9> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> .
+<http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> <http://schema.org/addressLocality> "Rapallo" .
+<http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/name> "Museo del merletto di Rapallo"@it .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N39faeaaf1bbc41c8aa6ebd77c9994fa3> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> .
+<http://lodlaundromat.org/.well-known/genid/N39faeaaf1bbc41c8aa6ebd77c9994fa3> <http://schema.org/value> "186722"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N651edc21e3d640a38d8ef24b445e8cb9> <http://schema.org/longitude> "9.2388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N651edc21e3d640a38d8ef24b445e8cb9> <http://schema.org/latitude> "44.346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.346&mlon=9.2388#map=15/44.346/9.2388> .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> <http://schema.org/id> "103933" .
+<http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb922f509727c48b3b9164dfb161bb801> <http://schema.org/telephone> "+39 0185/63305" .
+<http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N651edc21e3d640a38d8ef24b445e8cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7ed0147972e94427ad83dc5e42ca0986> <http://schema.org/streetAddress> "Parco Casale, SNC" .
+<http://lodlaundromat.org/.well-known/genid/N39faeaaf1bbc41c8aa6ebd77c9994fa3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nffdf47da1b764f79be51155db40b488b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+

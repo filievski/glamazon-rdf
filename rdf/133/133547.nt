@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://schema.org/streetAddress> "41 NORTH MAIN ST." .
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N500cef8d30b547e3a5780a0839970f4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N500cef8d30b547e3a5780a0839970f4b> .
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://schema.org/addressLocality> "SOUTH NORWALK" .
+<http://lodlaundromat.org/.well-known/genid/N309b21114314416480fbd97f20cb4eff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> <http://schema.org/id> "8400900022" .
+<http://lodlaundromat.org/.well-known/genid/N309b21114314416480fbd97f20cb4eff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N500cef8d30b547e3a5780a0839970f4b> <http://schema.org/latitude> "41.1001"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> .
+<http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N309b21114314416480fbd97f20cb4eff> <http://schema.org/value> "133547"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/telephone> "+1 (203) 866-0202" .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N07aa176a2b664084bd350f5a5851fd34> .
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://schema.org/postalCode> "06854" .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/name> "NORWALK MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc185b49279c040f195f8d6de826f8a4d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N309b21114314416480fbd97f20cb4eff> .
+<http://lodlaundromat.org/.well-known/genid/N500cef8d30b547e3a5780a0839970f4b> <http://schema.org/longitude> "-73.4189"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e9509226bf546298384f1744814698a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1001&mlon=-73.4189#map=15/41.1001/-73.4189> .
+

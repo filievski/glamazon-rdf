@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf0697e770f1048a6b6ecc51c4ac97579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf0697e770f1048a6b6ecc51c4ac97579> <http://schema.org/value> "137372"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na513f84bfaf241bd971b68ae95a9e080> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> .
+<http://lodlaundromat.org/.well-known/genid/Na513f84bfaf241bd971b68ae95a9e080> <http://schema.org/longitude> "-87.9182"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na513f84bfaf241bd971b68ae95a9e080> .
+<http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://schema.org/postalCode> "62449-2434" .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf0697e770f1048a6b6ecc51c4ac97579> .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/name> "ILLINOIS OIL FIELD MUSEUM AT OBLONG"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://schema.org/addressLocality> "OBLONG" .
+<http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> <http://schema.org/id> "8401700517" .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://schema.org/streetAddress> "10570 N 150TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Na513f84bfaf241bd971b68ae95a9e080> <http://schema.org/latitude> "39.0026"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf0697e770f1048a6b6ecc51c4ac97579> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0026&mlon=-87.9182#map=15/39.0026/-87.9182> .
+<http://lodlaundromat.org/.well-known/genid/N7d1068ae482d4f7d9df113b6bc7da964> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> .
+<http://lodlaundromat.org/.well-known/genid/Nd81936714be447ada93b2f30113f2d98> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb8fda31a9dc45dfbca8916e9033cc4c> <http://schema.org/addressCountry> "United States" .
+

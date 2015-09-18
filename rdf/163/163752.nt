@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Nc1e33e0c59ba4e229fe129d5154830a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a7ec5bdbc1d4e56bb97139a2350a111> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6399b34f551140e197cbc9a704d8f89b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc1e33e0c59ba4e229fe129d5154830a7> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/openingHours> "Tuesdays 2pm by appointment"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6399b34f551140e197cbc9a704d8f89b> .
+<http://lodlaundromat.org/.well-known/genid/N6399b34f551140e197cbc9a704d8f89b> <http://schema.org/latitude> "-37.8305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/url> <http://www.canterburyps.vic.edu.au/> .
+<http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> <http://schema.org/url> <http://victoriancollections.net.au/organisations/canterbury-primary-school> .
+<http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5a7ec5bdbc1d4e56bb97139a2350a111> .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc1e33e0c59ba4e229fe129d5154830a7> .
+<http://lodlaundromat.org/.well-known/genid/N9fdb77c9b9364f57adb500b8ef6e6907> <http://schema.org/id> "canterbury-primary-school" .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8305&mlon=145.083#map=15/-37.8305/145.083> .
+<http://lodlaundromat.org/.well-known/genid/N5a7ec5bdbc1d4e56bb97139a2350a111> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5a7ec5bdbc1d4e56bb97139a2350a111> <http://schema.org/value> "163752"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6399b34f551140e197cbc9a704d8f89b> <http://schema.org/longitude> "145.083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/name> "Canterbury Primary School"@en .
+<http://lodlaundromat.org/.well-known/genid/N8b0742f257604ff6874f7c3bd47b9540> <http://schema.org/telephone> "03 9417 6822" .
+

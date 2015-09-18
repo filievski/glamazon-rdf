@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/name> "WESTERN HENN COUNTY PIONEER"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9c6ccfd108804a788f7f90bef74394b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> .
+<http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9bb077ae871944c7ba19c1b136610c1f> .
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://schema.org/postalCode> "55356" .
+<http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9bb077ae871944c7ba19c1b136610c1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9879&mlon=-93.5731#map=15/44.9879/-93.5731> .
+<http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9c6ccfd108804a788f7f90bef74394b5> .
+<http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/telephone> "+1 (952) 473-6557" .
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://schema.org/streetAddress> "1953 W WAYZATA BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N8faff7ee79af4d119b148326a0146479> <http://schema.org/id> "8402700011" .
+<http://lodlaundromat.org/.well-known/genid/N9bb077ae871944c7ba19c1b136610c1f> <http://schema.org/longitude> "-93.5731"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bb077ae871944c7ba19c1b136610c1f> <http://schema.org/latitude> "44.9879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N9c6ccfd108804a788f7f90bef74394b5> <http://schema.org/value> "144571"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9c6ccfd108804a788f7f90bef74394b5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0f1e41a1e05349b38d17339c66883cfa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> .
+<http://lodlaundromat.org/.well-known/genid/N6200c73deeb842a39f240410edfb0980> <http://schema.org/addressLocality> "LONG LAKE" .
+

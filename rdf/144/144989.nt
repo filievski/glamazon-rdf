@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> .
+<http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5de269c23f9e4ccba3f125839310a880> .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://schema.org/streetAddress> "PO BOX 704" .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://schema.org/postalCode> "56302-0704" .
+<http://lodlaundromat.org/.well-known/genid/N0a544d62776f4531aa6a42bf9f046d7e> <http://schema.org/longitude> "-94.1645"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> .
+<http://lodlaundromat.org/.well-known/genid/N0a544d62776f4531aa6a42bf9f046d7e> <http://schema.org/latitude> "45.561"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Necbe9f1105464d1f9dc568b3f4312861> <http://schema.org/id> "8402700429" .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://schema.org/addressLocality> "SAINT CLOUD" .
+<http://lodlaundromat.org/.well-known/genid/N5de269c23f9e4ccba3f125839310a880> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N83b888c916484886bb6e5735b3641947> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N5de269c23f9e4ccba3f125839310a880> <http://schema.org/value> "144989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0a544d62776f4531aa6a42bf9f046d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/name> "ST CLOUD ANTIQUE AUTO CLUB"@en .
+<http://lodlaundromat.org/.well-known/genid/N5de269c23f9e4ccba3f125839310a880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a544d62776f4531aa6a42bf9f046d7e> .
+<http://lodlaundromat.org/.well-known/genid/Nca557d62ea83498e855f6e02b6a403e0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.561&mlon=-94.1645#map=15/45.561/-94.1645> .
+

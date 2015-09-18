@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3c95fc1ad77e47c997cf275051d5556b> <http://schema.org/value> "190124"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.6869&mlon=-76.5265#map=15/34.6869/-76.5265> .
+<http://lodlaundromat.org/.well-known/genid/N3c95fc1ad77e47c997cf275051d5556b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3c95fc1ad77e47c997cf275051d5556b> .
+<http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://schema.org/addressLocality> "HARKERS ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/name> "CAPE LOOKOUT NATIONAL SEASHORE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> <http://schema.org/id> "8403700928" .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://schema.org/streetAddress> "131 CHARLES ST." .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8be8e0ff557f48d49678bb0e95edfe36> .
+<http://lodlaundromat.org/.well-known/genid/N3c95fc1ad77e47c997cf275051d5556b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://schema.org/postalCode> "28531" .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/telephone> "+1 (252) 728-2250" .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> .
+<http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N477f386f0dd5499da49a1358315d7c9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8be8e0ff557f48d49678bb0e95edfe36> <http://schema.org/longitude> "-76.5265"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb88fc0d9be6d4ee7a419fc77e68557aa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8be8e0ff557f48d49678bb0e95edfe36> <http://schema.org/latitude> "34.6869"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8be8e0ff557f48d49678bb0e95edfe36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N641e54335ed04d75a23b7a194d3e398a> <http://schema.org/addressCountry> "United States" .
+

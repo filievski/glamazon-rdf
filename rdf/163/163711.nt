@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/name> "Billanook College"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c58d563c5924b6f93566812bfc407a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c58d563c5924b6f93566812bfc407a4> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb896cf535e4e6883460ce99d73a734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> .
+<http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbcb896cf535e4e6883460ce99d73a734> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb896cf535e4e6883460ce99d73a734> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> <http://schema.org/url> <http://victoriancollections.net.au/organisations/billanook-college> .
+<http://lodlaundromat.org/.well-known/genid/Nd6f0b8e9d4414ae7be073997e76d5324> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nd6f0b8e9d4414ae7be073997e76d5324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c58d563c5924b6f93566812bfc407a4> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb896cf535e4e6883460ce99d73a734> <http://schema.org/value> "163711"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd6f0b8e9d4414ae7be073997e76d5324> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5689c0bad84e7192c8d7aa2601dec2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c58d563c5924b6f93566812bfc407a4> .
+<http://lodlaundromat.org/.well-known/genid/N1957f6f5e7104041bfa5f1cfb50e6999> <http://schema.org/id> "billanook-college" .
+

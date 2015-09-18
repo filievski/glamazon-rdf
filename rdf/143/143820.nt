@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N06c37a7ecd984380a1e4534fbda6d444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://schema.org/streetAddress> "8450 W 10 MILE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7904a0aff1d84e239d372ae57172d54d> .
+<http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N06c37a7ecd984380a1e4534fbda6d444> <http://schema.org/longitude> "-83.1496"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7904a0aff1d84e239d372ae57172d54d> <http://schema.org/value> "143820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N06c37a7ecd984380a1e4534fbda6d444> <http://schema.org/latitude> "42.4752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N7904a0aff1d84e239d372ae57172d54d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7904a0aff1d84e239d372ae57172d54d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://schema.org/postalCode> "48067-3001" .
+<http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> <http://schema.org/id> "8402600357" .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N06c37a7ecd984380a1e4534fbda6d444> .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://schema.org/addressLocality> "ROYAL OAK" .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/name> "COMMITTEE FOR THE ZOOS FUTURE"@en .
+<http://lodlaundromat.org/.well-known/genid/N907ea16f91324b8fb5bf78c2cf5d32b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62a6e1370e844ba7ace2bec5a782bcef> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4752&mlon=-83.1496#map=15/42.4752/-83.1496> .
+<http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5750544bb6d64c2796b105199ba5c8a3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

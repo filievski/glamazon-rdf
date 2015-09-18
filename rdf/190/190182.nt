@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N44e445c0d025416da61066f6b416586e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> .
+<http://lodlaundromat.org/.well-known/genid/N44e445c0d025416da61066f6b416586e> <http://schema.org/latitude> "42.4853"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/N44e445c0d025416da61066f6b416586e> <http://schema.org/longitude> "-83.3317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://schema.org/addressLocality> "MAKOTI" .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://schema.org/streetAddress> "PO BOX 11" .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/name> "MAKOTI THRESHING ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4853&mlon=-83.3317#map=15/42.4853/-83.3317> .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> .
+<http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> <http://schema.org/id> "8403800236" .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N97a90ad3dda14bb9b70824658aea057a> .
+<http://lodlaundromat.org/.well-known/genid/N74d1d6b58f774eb4aa84def651be57c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N44e445c0d025416da61066f6b416586e> .
+<http://lodlaundromat.org/.well-known/genid/N97a90ad3dda14bb9b70824658aea057a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N97a90ad3dda14bb9b70824658aea057a> <http://schema.org/value> "190182"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N923cce9dab6a4970b07fca3851cfafac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N97a90ad3dda14bb9b70824658aea057a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N28bcd937cc6c4a7785885d70b12b603c> <http://schema.org/postalCode> "58756" .
+

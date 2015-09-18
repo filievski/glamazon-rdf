@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/telephone> "000000000" .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1703420785d7443f8f866aa3dc05567a> .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://schema.org/addressLocality> "HEREFORD" .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://schema.org/postalCode> "85615" .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c258a99b67f4ccfae3d73bc6fae210b> .
+<http://lodlaundromat.org/.well-known/genid/N1703420785d7443f8f866aa3dc05567a> <http://schema.org/latitude> "31.3461"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.3461&mlon=-110.253#map=15/31.3461/-110.253> .
+<http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> <http://schema.org/id> "8400400480" .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6c258a99b67f4ccfae3d73bc6fae210b> <http://schema.org/value> "189616"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/name> "CORONADO NATIONAL MEMORIAL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N81dc9ed54b5b48d69d7e5fff2b9b1c65> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> .
+<http://lodlaundromat.org/.well-known/genid/N1703420785d7443f8f866aa3dc05567a> <http://schema.org/longitude> "-110.253"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd1012b147abb4c6681fcb1aa2fb86f2a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N488f437008f14af59d9feb3123d2e6bb> <http://schema.org/streetAddress> "4101 E MONTEZUMA CANYON RD." .
+<http://lodlaundromat.org/.well-known/genid/N6c258a99b67f4ccfae3d73bc6fae210b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c258a99b67f4ccfae3d73bc6fae210b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1703420785d7443f8f866aa3dc05567a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

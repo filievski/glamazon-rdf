@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7a90a2e7811542b9ad4bacce2bdded60> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/telephone> "09374/7000" .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/name> "Museum im Alten Rathaus"@en .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N612462c2a77e45a2b05c3aac06465eda> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://schema.org/streetAddress> "Hauptstra\u00DFe 42" .
+<http://lodlaundromat.org/.well-known/genid/N612462c2a77e45a2b05c3aac06465eda> <http://schema.org/value> "183309"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N612462c2a77e45a2b05c3aac06465eda> .
+<http://lodlaundromat.org/.well-known/genid/N0bd83234b6b340efaff775c48961491d> <http://schema.org/latitude> "49.7921"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0bd83234b6b340efaff775c48961491d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0bd83234b6b340efaff775c48961491d> .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N7a90a2e7811542b9ad4bacce2bdded60> <http://schema.org/url> <http://www.museums.io/en/museums/183309> .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.7921&mlon=9.26674#map=15/49.7921/9.26674> .
+<http://lodlaundromat.org/.well-known/genid/N612462c2a77e45a2b05c3aac06465eda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> .
+<http://lodlaundromat.org/.well-known/genid/Nab4271abfd5c4d468e3f9c46d66e9590> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a90a2e7811542b9ad4bacce2bdded60> .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://schema.org/postalCode> "63933" .
+<http://lodlaundromat.org/.well-known/genid/N0bd83234b6b340efaff775c48961491d> <http://schema.org/longitude> "9.26674"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f57825de86c45ba843ed48025eb3f0c> <http://schema.org/addressLocality> "M\u00F6nchberg" .
+<http://lodlaundromat.org/.well-known/genid/N7a90a2e7811542b9ad4bacce2bdded60> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7a90a2e7811542b9ad4bacce2bdded60> <http://schema.org/@Type> "Dataset" .
+

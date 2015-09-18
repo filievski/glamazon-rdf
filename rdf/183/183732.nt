@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> <http://schema.org/streetAddress> "Alter Rathausplatz 1" .
+<http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Naed55f1b885f4c18b8008e7e18afd951> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.3087&mlon=9.78735#map=15/50.3087/9.78735> .
+<http://lodlaundromat.org/.well-known/genid/Nd0b2dfc8b63b42cc81245116f10c88c0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naed55f1b885f4c18b8008e7e18afd951> <http://schema.org/longitude> "9.78735"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/telephone> "09741/6903" .
+<http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> <http://schema.org/postalCode> "97769" .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naed55f1b885f4c18b8008e7e18afd951> .
+<http://lodlaundromat.org/.well-known/genid/N23aa191464404a7496377bc30276afb2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23aa191464404a7496377bc30276afb2> <http://schema.org/url> <http://www.museums.io/en/museums/183732> .
+<http://lodlaundromat.org/.well-known/genid/N23aa191464404a7496377bc30276afb2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd0b2dfc8b63b42cc81245116f10c88c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/name> "Museum im Alten Rathaus"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd0b2dfc8b63b42cc81245116f10c88c0> <http://schema.org/value> "183732"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naed55f1b885f4c18b8008e7e18afd951> <http://schema.org/latitude> "50.3087"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3cd3481f7a2147998b8526110878bab7> <http://schema.org/addressLocality> "Bad Br\u00FCckenau" .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0b2dfc8b63b42cc81245116f10c88c0> .
+<http://lodlaundromat.org/.well-known/genid/N23aa191464404a7496377bc30276afb2> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N8437207c8d714cfeb56399c226d28ace> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23aa191464404a7496377bc30276afb2> .
+

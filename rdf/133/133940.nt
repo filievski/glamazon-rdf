@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N95da9cad2ff34d9abc5ab771ecb82986> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> .
+<http://lodlaundromat.org/.well-known/genid/N95da9cad2ff34d9abc5ab771ecb82986> <http://schema.org/longitude> "-72.8693"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6696&mlon=-72.8693#map=15/41.6696/-72.8693> .
+<http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> <http://schema.org/id> "8400900415" .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://schema.org/postalCode> "06062" .
+<http://lodlaundromat.org/.well-known/genid/N95da9cad2ff34d9abc5ab771ecb82986> <http://schema.org/latitude> "41.6696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://schema.org/addressLocality> "PLAINVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://schema.org/streetAddress> "29 PIERCE STREET" .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N810c88070d9942df872deb578be4fa49> .
+<http://lodlaundromat.org/.well-known/genid/N810c88070d9942df872deb578be4fa49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N66bb2bb2240e4118a5c9747fdc1cb65c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N810c88070d9942df872deb578be4fa49> <http://schema.org/value> "133940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/name> "PLAINVILLE HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N810c88070d9942df872deb578be4fa49> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7e8b3e6a11694ee187485ccaa76fc7f0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N32ff46e8343f437fa7a525700b817d9e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N95da9cad2ff34d9abc5ab771ecb82986> .
+

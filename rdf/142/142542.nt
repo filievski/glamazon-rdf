@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5f2cb6c209244702925147fee6740ccf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/url> <http://www.spnea.org/> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> .
+<http://lodlaundromat.org/.well-known/genid/Nfeeed2ac3ef3450e9f7bc5176ff6d1cc> <http://schema.org/latitude> "42.7954"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/name> "COFFIN HOUSE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://schema.org/addressLocality> "NEWBURY" .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://schema.org/postalCode> "01951" .
+<http://lodlaundromat.org/.well-known/genid/Nfeeed2ac3ef3450e9f7bc5176ff6d1cc> <http://schema.org/longitude> "-70.8526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7954&mlon=-70.8526#map=15/42.7954/-70.8526> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5f2cb6c209244702925147fee6740ccf> .
+<http://lodlaundromat.org/.well-known/genid/N5f2cb6c209244702925147fee6740ccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5f2cb6c209244702925147fee6740ccf> <http://schema.org/value> "142542"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/telephone> "+1 (978) 462-2634" .
+<http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> <http://schema.org/id> "8402500172" .
+<http://lodlaundromat.org/.well-known/genid/N4cfe1cd511004df085037358090ff701> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://schema.org/streetAddress> "5 LITTLES LN" .
+<http://lodlaundromat.org/.well-known/genid/N29e34da0158e41f58e84862360eec5cc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfeeed2ac3ef3450e9f7bc5176ff6d1cc> .
+<http://lodlaundromat.org/.well-known/genid/N1a5c9ddc377f4baeb7e6043b9c7f2bb5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfeeed2ac3ef3450e9f7bc5176ff6d1cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

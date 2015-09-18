@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3cd29acbc82c4105b7172f66823bbe61> <http://schema.org/value> "128724"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3cd29acbc82c4105b7172f66823bbe61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://schema.org/postalCode> "35901-3719" .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N540acf586d91484aa5265559deccd212> .
+<http://lodlaundromat.org/.well-known/genid/N540acf586d91484aa5265559deccd212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0137&mlon=-86.005#map=15/34.0137/-86.005> .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N540acf586d91484aa5265559deccd212> <http://schema.org/latitude> "34.0137"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://schema.org/streetAddress> "515 BROAD STREET" .
+<http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N540acf586d91484aa5265559deccd212> <http://schema.org/longitude> "-86.005"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> <http://schema.org/id> "8400100254" .
+<http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N16b293e57faf491bb9458ec7d23405dd> .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/telephone> "+1 (256) 546-7365" .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/url> <http://www.gadsdenmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nf34d5809ba7546e9ae94810da837cce4> <http://schema.org/addressLocality> "GADSDEN" .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3cd29acbc82c4105b7172f66823bbe61> .
+<http://lodlaundromat.org/.well-known/genid/N59495e28013548f8858d9bab8950f1f7> <http://schema.org/name> "GADSDEN MUSEMUM OF FINE ARTS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3cd29acbc82c4105b7172f66823bbe61> <http://schema.org/name> "id" .
+

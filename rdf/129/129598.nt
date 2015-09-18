@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> <http://schema.org/id> "8400500034" .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> .
+<http://lodlaundromat.org/.well-known/genid/N7cd29fd1017c4760aa1024b618747c17> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7cd29fd1017c4760aa1024b618747c17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://schema.org/addressLocality> "SPRINGDALE" .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://schema.org/streetAddress> "237 E HENRI DE TONTI BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf3407318f00a4e42bb97f43d05993a09> .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/name> "CITY OF TONITOWN MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf3407318f00a4e42bb97f43d05993a09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> .
+<http://lodlaundromat.org/.well-known/genid/Nf3407318f00a4e42bb97f43d05993a09> <http://schema.org/latitude> "36.1764"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://schema.org/postalCode> "72762" .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7cd29fd1017c4760aa1024b618747c17> .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7cd29fd1017c4760aa1024b618747c17> <http://schema.org/value> "129598"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf3407318f00a4e42bb97f43d05993a09> <http://schema.org/longitude> "-94.2331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N045ffe13403d41fca9b15a5acae29056> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N08feb97515fd4a6f8fb197acb288153a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/telephone> "+1 (479) 361-9800" .
+<http://lodlaundromat.org/.well-known/genid/N7285aa36d254413d9b1e32ac1c83f9f2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.1764&mlon=-94.2331#map=15/36.1764/-94.2331> .
+

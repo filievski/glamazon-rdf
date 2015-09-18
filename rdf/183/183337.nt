@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N29e3cf1831734e5ea709e2e88beee224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne609605e6fbf4f788d901b7fe5d8a640> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://schema.org/streetAddress> "Holzgartenstra\u00DFe 8" .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/url> <http://www.automuseum-maybach.de/> .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29e3cf1831734e5ea709e2e88beee224> .
+<http://lodlaundromat.org/.well-known/genid/Ne609605e6fbf4f788d901b7fe5d8a640> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.2739&mlon=11.46#map=15/49.2739/11.46> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/name> "Museum f\u00FCr historische Maybach-Fahrzeuge"@en .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N2b1f75c462aa4d7a9d845c10541acab8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://schema.org/addressLocality> "Neumarkt" .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne609605e6fbf4f788d901b7fe5d8a640> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> .
+<http://lodlaundromat.org/.well-known/genid/N29e3cf1831734e5ea709e2e88beee224> <http://schema.org/longitude> "11.46"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29e3cf1831734e5ea709e2e88beee224> <http://schema.org/latitude> "49.2739"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne609605e6fbf4f788d901b7fe5d8a640> <http://schema.org/url> <http://www.museums.io/en/museums/183337> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/telephone> "09181/4877100" .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2b1f75c462aa4d7a9d845c10541acab8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne609605e6fbf4f788d901b7fe5d8a640> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2b1f75c462aa4d7a9d845c10541acab8> <http://schema.org/value> "183337"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27d9c001e8024b009d32fb3f379a0498> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2b1f75c462aa4d7a9d845c10541acab8> .
+<http://lodlaundromat.org/.well-known/genid/N0fc4f316c14f4ea2b4ae1c18322d8f9d> <http://schema.org/postalCode> "92318" .
+

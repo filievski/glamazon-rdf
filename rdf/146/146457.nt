@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/name> "MARYSVILLE PIONEER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3e397f76045f4d5890f3318709383da0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3e397f76045f4d5890f3318709383da0> <http://schema.org/latitude> "46.7497"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://schema.org/addressLocality> "MARYSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> .
+<http://lodlaundromat.org/.well-known/genid/N3e397f76045f4d5890f3318709383da0> <http://schema.org/longitude> "-112.3"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd2449651ce0f4c8fbf7f33adea7c4250> <http://schema.org/value> "146457"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3e397f76045f4d5890f3318709383da0> .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.7497&mlon=-112.3#map=15/46.7497/-112.3> .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://schema.org/streetAddress> "242 GRAND STREET" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://schema.org/postalCode> "59640" .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> .
+<http://lodlaundromat.org/.well-known/genid/Nd2449651ce0f4c8fbf7f33adea7c4250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd2449651ce0f4c8fbf7f33adea7c4250> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N60541adb6877495bb4625211d6c33ae3> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> <http://schema.org/id> "8403000100" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5cdb68a83b3d4a78be6a88114e9a6002> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd2449651ce0f4c8fbf7f33adea7c4250> .
+<http://lodlaundromat.org/.well-known/genid/N1b5d5a6d43604b08bbac7491aaf95967> <http://schema.org/@Type> "Dataset" .
+

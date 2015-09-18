@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N98e45f61e84a49379b5d7a02f0defe0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naa0407baabf44d1da8715f748b478cdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/url> <http://museums.hackingthehumanities.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> <http://schema.org/id> "8403600127" .
+<http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://schema.org/streetAddress> "55 NEW HEMPSTEAD RD" .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://schema.org/addressLocality> "NEW CITY" .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://schema.org/postalCode> "10956" .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> .
+<http://lodlaundromat.org/.well-known/genid/Naa0407baabf44d1da8715f748b478cdf> <http://schema.org/value> "148833"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Naa0407baabf44d1da8715f748b478cdf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N904ee03edfd9435f823670a5a9a64a4b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N98e45f61e84a49379b5d7a02f0defe0b> <http://schema.org/longitude> "-73.9935"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N98e45f61e84a49379b5d7a02f0defe0b> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/name> "ROCKLAND COUNTY SHERIFF'S POLICE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N98e45f61e84a49379b5d7a02f0defe0b> <http://schema.org/latitude> "41.1477"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7c9d41beab924808b7378e722f5e780d> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1477&mlon=-73.9935#map=15/41.1477/-73.9935> .
+<http://lodlaundromat.org/.well-known/genid/N100d1b3c54d3438fad404141f2cd0bba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naa0407baabf44d1da8715f748b478cdf> .
+

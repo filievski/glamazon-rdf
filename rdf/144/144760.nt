@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/name> "CASCADE MEADOW WETLANDS & ENVIRONMENTAL SCIENCE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N742b29e34faf446592403d6f1b3c44c8> <http://schema.org/longitude> "-92.5032"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N742b29e34faf446592403d6f1b3c44c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N28df40500fbd42698ee6e309e89bdd10> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://schema.org/postalCode> "55901-0846" .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N742b29e34faf446592403d6f1b3c44c8> .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0398&mlon=-92.5032#map=15/44.0398/-92.5032> .
+<http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://schema.org/streetAddress> "1710 IND DR NW" .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> .
+<http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N28df40500fbd42698ee6e309e89bdd10> <http://schema.org/value> "144760"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N742b29e34faf446592403d6f1b3c44c8> <http://schema.org/latitude> "44.0398"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N28df40500fbd42698ee6e309e89bdd10> .
+<http://lodlaundromat.org/.well-known/genid/N28df40500fbd42698ee6e309e89bdd10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8bae3fc64f514a3ba35056315a76b7e7> <http://schema.org/id> "8402700200" .
+<http://lodlaundromat.org/.well-known/genid/Ndf430ea007e44aae96f9500c1dc416c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0cef7237bb7c488197e2efced40a9c93> <http://schema.org/addressLocality> "ROCHESTER" .
+

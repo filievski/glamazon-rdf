@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/name> "CENTRAL UTAH ART CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfc0a2ebfcf8243c8b4fc394d1be4fd45> <http://schema.org/value> "160125"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7658&mlon=-111.885#map=15/40.7658/-111.885> .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfc0a2ebfcf8243c8b4fc394d1be4fd45> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> <http://schema.org/id> "8404900191" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9126b0d095114a1399283064b0f6ed29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfc0a2ebfcf8243c8b4fc394d1be4fd45> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9126b0d095114a1399283064b0f6ed29> <http://schema.org/longitude> "-111.885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9126b0d095114a1399283064b0f6ed29> .
+<http://lodlaundromat.org/.well-known/genid/N9126b0d095114a1399283064b0f6ed29> <http://schema.org/latitude> "40.7658"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc0a2ebfcf8243c8b4fc394d1be4fd45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://schema.org/streetAddress> "175 E 200 S" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e38ad1bbf54ca4b5c70a7aa85cc58b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N902323af4c244db0abeeecd363519a3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://schema.org/postalCode> "84111-1508" .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://schema.org/addressLocality> "SALT LAKE CTY" .
+<http://lodlaundromat.org/.well-known/genid/Nf46dca379ea8423b850820ffb744c521> <http://schema.org/addressCountry> "United States" .
+

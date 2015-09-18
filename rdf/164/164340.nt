@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N4f6760c6c9514528815dfbda6ac25b39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f6760c6c9514528815dfbda6ac25b39> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N0d06579412854382b397bd29b3dda878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-35.3402&mlon=143.557#map=15/-35.3402/143.557> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/url> <http://www.swanhill.vic.gov.au/> .
+<http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/name> "Swan Hill Rural City Council"@en .
+<http://lodlaundromat.org/.well-known/genid/N0194761d0828417c84d59dbc074dfe9c> <http://schema.org/longitude> "143.557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0194761d0828417c84d59dbc074dfe9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0194761d0828417c84d59dbc074dfe9c> <http://schema.org/latitude> "-35.3402"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0d06579412854382b397bd29b3dda878> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> <http://schema.org/id> "swan-hill-rural-city-council" .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f6760c6c9514528815dfbda6ac25b39> .
+<http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/telephone> "(03) 5036 2333" .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0d06579412854382b397bd29b3dda878> <http://schema.org/value> "164340"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> <http://schema.org/url> <http://victoriancollections.net.au/organisations/swan-hill-rural-city-council> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0194761d0828417c84d59dbc074dfe9c> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0d06579412854382b397bd29b3dda878> .
+<http://lodlaundromat.org/.well-known/genid/N838422c8a59640aea9ca0eac6a685ac0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf7fefc606dfb44b697b3b4884a1a27cf> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1004&mlon=-94.5832#map=15/39.1004/-94.5832> .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb6a4967421994f8da5b87fc54e39536b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> .
+<http://lodlaundromat.org/.well-known/genid/Nb6a4967421994f8da5b87fc54e39536b> <http://schema.org/longitude> "-94.5832"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb6a4967421994f8da5b87fc54e39536b> <http://schema.org/latitude> "39.1004"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://schema.org/addressLocality> "KANSAS CITY" .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87843227dc294e3781c116109c17cd70> .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://schema.org/postalCode> "64105-5182" .
+<http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N87843227dc294e3781c116109c17cd70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb6a4967421994f8da5b87fc54e39536b> .
+<http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> <http://schema.org/id> "8402900775" .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne2a3dedd8ad94dc8ac89f1aae5b53aaf> <http://schema.org/name> "INDEPENDENCE LEGACY FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N87843227dc294e3781c116109c17cd70> <http://schema.org/value> "146346"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N87843227dc294e3781c116109c17cd70> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://schema.org/streetAddress> "1100 MAIN SUITE 2100" .
+<http://lodlaundromat.org/.well-known/genid/N34da1b6c6e884f7983095adedce39bd2> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N48f12e171e00465b8543e7d4f10cba9e> <http://schema.org/url> <http://www.imls.gov/> .
+

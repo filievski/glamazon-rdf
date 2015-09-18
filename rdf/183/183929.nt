@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/url> <http://www.muenchner-bank.de/> .
+<http://lodlaundromat.org/.well-known/genid/N2e82bc279a9744d09e5f00d10ad74db0> <http://schema.org/latitude> "48.1387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbec20870c2ce4a7290fd021390534701> <http://schema.org/url> <http://www.museums.io/en/museums/183929> .
+<http://lodlaundromat.org/.well-known/genid/Nbec20870c2ce4a7290fd021390534701> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N819bd49095074bf6b99b1ab4509de9f6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2e82bc279a9744d09e5f00d10ad74db0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://schema.org/streetAddress> "Frauenplatz 2" .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://schema.org/postalCode> "80331" .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1387&mlon=11.5721#map=15/48.1387/11.5721> .
+<http://lodlaundromat.org/.well-known/genid/Nbec20870c2ce4a7290fd021390534701> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbec20870c2ce4a7290fd021390534701> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2e82bc279a9744d09e5f00d10ad74db0> <http://schema.org/longitude> "11.5721"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/name> "M\u00FCnchner Bank Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbec20870c2ce4a7290fd021390534701> .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/telephone> "089/2128-6667" .
+<http://lodlaundromat.org/.well-known/genid/Nb76debd2a7604034aad251ed3eda4f4e> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N819bd49095074bf6b99b1ab4509de9f6> .
+<http://lodlaundromat.org/.well-known/genid/N819bd49095074bf6b99b1ab4509de9f6> <http://schema.org/value> "183929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N819bd49095074bf6b99b1ab4509de9f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f67fabb6d2545c9b023944e1575c679> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2e82bc279a9744d09e5f00d10ad74db0> .
+

@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> <http://schema.org/streetAddress> "Via XX Settembre, 32" .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nc69b192a029342a98c746cc799f0e615> .
+<http://lodlaundromat.org/.well-known/genid/Ncd12195241eb45cd8b5be96ba8b581b9> <http://schema.org/latitude> "41.6394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncd12195241eb45cd8b5be96ba8b581b9> .
+<http://lodlaundromat.org/.well-known/genid/Ncd12195241eb45cd8b5be96ba8b581b9> <http://schema.org/longitude> "13.3524"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3cc0b5cd784c47ce9ad6b7af2fffc5d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6394&mlon=13.3524#map=15/41.6394/13.3524> .
+<http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> <http://schema.org/id> "101415" .
+<http://lodlaundromat.org/.well-known/genid/Ncd12195241eb45cd8b5be96ba8b581b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/telephone> "+39 0775212314" .
+<http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> <http://schema.org/addressLocality> "Frosinone" .
+<http://lodlaundromat.org/.well-known/genid/Nc69b192a029342a98c746cc799f0e615> <http://schema.org/contentUrl> <http://images.museums.io/EVdEUhCxf4IXa96mMiG9pnvVRB4=/1000x1000/museums/logos/000/186/377/original/87d92a193e12c65d2bfae657d662955d2f4d7.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/name> "Museo archeologico di Frosinone"@it .
+<http://lodlaundromat.org/.well-known/genid/N3cc0b5cd784c47ce9ad6b7af2fffc5d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3cc0b5cd784c47ce9ad6b7af2fffc5d1> .
+<http://lodlaundromat.org/.well-known/genid/Nac8583013b3244288880b944363e9ae5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3cc0b5cd784c47ce9ad6b7af2fffc5d1> <http://schema.org/value> "186377"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ffde778898a45aba1493cc723783ce4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> .
+<http://lodlaundromat.org/.well-known/genid/Nc69b192a029342a98c746cc799f0e615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N17b00cd1d1ec4d569a15e8831c74bf19> <http://schema.org/addressRegion> "Lazio" .
+

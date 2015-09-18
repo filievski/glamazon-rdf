@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N65014e71e3da42dcb183954f6fb44ee7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4d7ec8733571477fa6f62a631b0d89f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N65014e71e3da42dcb183954f6fb44ee7> <http://schema.org/value> "131572"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> .
+<http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://schema.org/addressLocality> "DAVIS" .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/name> "QUAIL RIDGE WILDERNESS CONSERVANCY"@en .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N65014e71e3da42dcb183954f6fb44ee7> .
+<http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> <http://schema.org/id> "8400601698" .
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N65014e71e3da42dcb183954f6fb44ee7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5713&mlon=-121.859#map=15/38.5713/-121.859> .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4d7ec8733571477fa6f62a631b0d89f0> .
+<http://lodlaundromat.org/.well-known/genid/N34aea0dd211541e5adcb0bccea9039d3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na6268939a46b4b528cb5e8f3d01c16eb> .
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://schema.org/streetAddress> "25344 COUNTY ROAD 95" .
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://schema.org/postalCode> "95616-9405" .
+<http://lodlaundromat.org/.well-known/genid/Nf9fb6cad29d14b1e93d3cd2b961fbb69> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4d7ec8733571477fa6f62a631b0d89f0> <http://schema.org/latitude> "38.5713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4d7ec8733571477fa6f62a631b0d89f0> <http://schema.org/longitude> "-121.859"^^<http://www.w3.org/2001/XMLSchema#double> .
+

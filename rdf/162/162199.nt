@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://schema.org/addressLocality> "SOUTH HILL" .
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://schema.org/postalCode> "98374-4905" .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> .
+<http://lodlaundromat.org/.well-known/genid/N609ab618f33048a4a41d1b7b33948854> <http://schema.org/longitude> "-122.287"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N609ab618f33048a4a41d1b7b33948854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N527e7971152445d995dd2ae72bab0a09> <http://schema.org/value> "162199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N609ab618f33048a4a41d1b7b33948854> .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> .
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/name> "SOUTH HILL HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N527e7971152445d995dd2ae72bab0a09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N527e7971152445d995dd2ae72bab0a09> .
+<http://lodlaundromat.org/.well-known/genid/N527e7971152445d995dd2ae72bab0a09> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> <http://schema.org/id> "8405300648" .
+<http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N609ab618f33048a4a41d1b7b33948854> <http://schema.org/latitude> "47.1234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.1234&mlon=-122.287#map=15/47.1234/-122.287> .
+<http://lodlaundromat.org/.well-known/genid/N2ee689640b884c7192990ae1572527af> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3135ed6d361a475e93e859b4f50c202c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f1947f95d3f43d6bb79f06f21b3fb5e> <http://schema.org/streetAddress> "14602 106TH AVE CT E" .
+

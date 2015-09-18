@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6fc42be47c6e4c3f9b9abb60467ad801> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N935a446ee41a4c6bb14e693472e97041> .
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N935a446ee41a4c6bb14e693472e97041> <http://schema.org/latitude> "31.6495"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://schema.org/addressLocality> "ALTO" .
+<http://lodlaundromat.org/.well-known/genid/N935a446ee41a4c6bb14e693472e97041> <http://schema.org/longitude> "-95.0733"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> .
+<http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.6495&mlon=-95.0733#map=15/31.6495/-95.0733> .
+<http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> <http://schema.org/id> "8404800857" .
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://schema.org/streetAddress> "PO BOX 517" .
+<http://lodlaundromat.org/.well-known/genid/N935a446ee41a4c6bb14e693472e97041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6fc42be47c6e4c3f9b9abb60467ad801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/name> "ALTO HERALD MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N6fc42be47c6e4c3f9b9abb60467ad801> <http://schema.org/value> "158757"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne9075dd4e0fa43d3b6546d5c028e69a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N497a1caaaeb24cf0ae32a9754dfe7152> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6fc42be47c6e4c3f9b9abb60467ad801> .
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N06a1aa380c94460583ddc066dd16f9c2> <http://schema.org/postalCode> "75925-0517" .
+

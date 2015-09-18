@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://schema.org/streetAddress> "19 NORTH SAGINAW" .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6373&mlon=-83.2921#map=15/42.6373/-83.2921> .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/name> "MUSEUM OF NEW ART"@en .
+<http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> <http://schema.org/id> "8402600922" .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/telephone> "+1 (248) 651-4941" .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndc74ee4c6e31495ca1fd5649cccfec7d> .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> .
+<http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://schema.org/addressLocality> "PONTIAC" .
+<http://lodlaundromat.org/.well-known/genid/N53e45b0f269c4755a09ed7b9a0b4d4cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N53e45b0f269c4755a09ed7b9a0b4d4cd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndc74ee4c6e31495ca1fd5649cccfec7d> <http://schema.org/latitude> "42.6373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N53e45b0f269c4755a09ed7b9a0b4d4cd> .
+<http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Ndc74ee4c6e31495ca1fd5649cccfec7d> <http://schema.org/longitude> "-83.2921"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0900ad9318b345cfa3c89568e3e7233e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> .
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://schema.org/postalCode> "48342-2111" .
+<http://lodlaundromat.org/.well-known/genid/N53e45b0f269c4755a09ed7b9a0b4d4cd> <http://schema.org/value> "144385"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab5fae595c7d453a86a224cfca9b0534> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0bb90bc6b4da458199fbe8ab10b1c6b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndc74ee4c6e31495ca1fd5649cccfec7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

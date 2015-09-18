@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.236&mlon=-89.358#map=15/42.236/-89.358> .
+<http://lodlaundromat.org/.well-known/genid/N017e543945a248b18163c2addf191f7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> .
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://schema.org/streetAddress> "PO 44" .
+<http://lodlaundromat.org/.well-known/genid/N553e4787c4a94f91acd8af57b56e2508> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N017e543945a248b18163c2addf191f7b> <http://schema.org/latitude> "42.236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://schema.org/postalCode> "61077" .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/url> <http://www.aeroinc.net/users/sewardnet/sewardhistorical.html> .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N553e4787c4a94f91acd8af57b56e2508> .
+<http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> <http://schema.org/id> "8401700676" .
+<http://lodlaundromat.org/.well-known/genid/N017e543945a248b18163c2addf191f7b> <http://schema.org/longitude> "-89.358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N553e4787c4a94f91acd8af57b56e2508> <http://schema.org/value> "137531"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://schema.org/addressLocality> "SEWARD" .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N017e543945a248b18163c2addf191f7b> .
+<http://lodlaundromat.org/.well-known/genid/N553e4787c4a94f91acd8af57b56e2508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8d5089760cd444189731da7a2a2d9579> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> .
+<http://lodlaundromat.org/.well-known/genid/N4aa257bc57264308ae4261208468bb0c> <http://schema.org/name> "SEWARD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9d7dd71d3d4e4826a431db6377de26ca> <http://schema.org/url> <http://www.imls.gov/> .
+

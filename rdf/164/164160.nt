@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N0366cd6f998e47e3aa091cb59e97521c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4c3f02dadcc447159234ee051724d387> <http://schema.org/value> "164160"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0366cd6f998e47e3aa091cb59e97521c> <http://schema.org/latitude> "-37.6884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.6884&mlon=145.11#map=15/-37.6884/145.11> .
+<http://lodlaundromat.org/.well-known/genid/Nc9d4eb5f69c647219b6f585678f00c92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/name> "Nillumbik Shire Council"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc9d4eb5f69c647219b6f585678f00c92> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc9d4eb5f69c647219b6f585678f00c92> .
+<http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4c3f02dadcc447159234ee051724d387> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> <http://schema.org/url> <http://victoriancollections.net.au/organisations/nillumbik-shire-council> .
+<http://lodlaundromat.org/.well-known/genid/N4c3f02dadcc447159234ee051724d387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/openingHours> "8.30am to 5.00pm weekdays"@en .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4c3f02dadcc447159234ee051724d387> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/url> <http://www.nillumbik.vic.gov.au/Things_to_do/Arts_and_culture/Art_Collection_and_Galleries> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/telephone> "9433 3131" .
+<http://lodlaundromat.org/.well-known/genid/N0366cd6f998e47e3aa091cb59e97521c> <http://schema.org/longitude> "145.11"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N0340dcf60a09473b8346b9f0017de4e6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0366cd6f998e47e3aa091cb59e97521c> .
+<http://lodlaundromat.org/.well-known/genid/N022d2ec73471447f9761f05a92230c1a> <http://schema.org/id> "nillumbik-shire-council" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf27e9ea7bff945c8bbb0d876a5fa373d> <http://schema.org/longitude> "-75.5305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf27e9ea7bff945c8bbb0d876a5fa373d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf27e9ea7bff945c8bbb0d876a5fa373d> <http://schema.org/latitude> "39.908"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://schema.org/postalCode> "19373" .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://schema.org/addressLocality> "THORNTON" .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> .
+<http://lodlaundromat.org/.well-known/genid/N6031a7467947431488a61b8a367325b3> <http://schema.org/value> "156472"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.908&mlon=-75.5305#map=15/39.908/-75.5305> .
+<http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> <http://schema.org/id> "8404201666" .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6031a7467947431488a61b8a367325b3> .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/name> "HEALTHY KIDS RUNNING SERIES"@en .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> .
+<http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6031a7467947431488a61b8a367325b3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6031a7467947431488a61b8a367325b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://schema.org/streetAddress> "381 BRINTON LAKE R" .
+<http://lodlaundromat.org/.well-known/genid/N5b51b517e21b4acf939123029f9673da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N506c5d21abc34b10bed94c69a172c5bd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0831f34b81f341449b3647ef09a4a8a1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf27e9ea7bff945c8bbb0d876a5fa373d> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> .
+<http://lodlaundromat.org/.well-known/genid/N50e42576dc5c480697dcfa2e7f6c291b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N50e42576dc5c480697dcfa2e7f6c291b> .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.5167&mlon=-97.8677#map=15/27.5167/-97.8677> .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncaf6e7bf005045fea087d3042ac10f04> <http://schema.org/longitude> "-97.8677"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://schema.org/addressLocality> "KINGSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://schema.org/streetAddress> "PO BOX 911" .
+<http://lodlaundromat.org/.well-known/genid/Ncaf6e7bf005045fea087d3042ac10f04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/name> "KING HIGH HISTORICAL FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N50e42576dc5c480697dcfa2e7f6c291b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> .
+<http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N50e42576dc5c480697dcfa2e7f6c291b> <http://schema.org/value> "158554"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> <http://schema.org/id> "8404800654" .
+<http://lodlaundromat.org/.well-known/genid/Ncaf6e7bf005045fea087d3042ac10f04> <http://schema.org/latitude> "27.5167"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4068d8be9b2e4625bdf11d42fdff1dcc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncaf6e7bf005045fea087d3042ac10f04> .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na66f4df089dc41d4bcef205075e87039> <http://schema.org/postalCode> "78364-0911" .
+<http://lodlaundromat.org/.well-known/genid/N8faaede98b934580896f34cf3774514d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

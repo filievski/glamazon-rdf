@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N9e2d37abaab64cb58636794715a34bfd> <http://schema.org/latitude> "-37.5557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9e2d37abaab64cb58636794715a34bfd> .
+<http://lodlaundromat.org/.well-known/genid/N3ec1c89b860c4cd28e2235458c17331c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3ec1c89b860c4cd28e2235458c17331c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/name> "Golden City Paddle Steamer Museum Society"@en .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ec1c89b860c4cd28e2235458c17331c> .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.5557&mlon=143.842#map=15/-37.5557/143.842> .
+<http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> <http://schema.org/id> "golden-city-paddle-steamer-museum-society" .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> .
+<http://lodlaundromat.org/.well-known/genid/Ncaedd9d31cbc470f9939109618df2a49> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N3ec1c89b860c4cd28e2235458c17331c> <http://schema.org/value> "163909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9e2d37abaab64cb58636794715a34bfd> <http://schema.org/longitude> "143.842"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> <http://schema.org/url> <http://victoriancollections.net.au/organisations/golden-city-paddle-steamer-museum-society> .
+<http://lodlaundromat.org/.well-known/genid/N9e2d37abaab64cb58636794715a34bfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncaedd9d31cbc470f9939109618df2a49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N797b9d85c9d94bc9970a991b5441decb> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N06d34c530efa475eb79be6cce179d35f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncaedd9d31cbc470f9939109618df2a49> .
+

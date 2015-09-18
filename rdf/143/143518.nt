@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N180b1a46ce4048e48010155c1af505d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N180b1a46ce4048e48010155c1af505d3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.6356&mlon=-86.2238#map=15/44.6356/-86.2238> .
+<http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/name> "NORTHWEST MICHIGAN MARITIME MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> <http://schema.org/id> "8402600055" .
+<http://lodlaundromat.org/.well-known/genid/N180b1a46ce4048e48010155c1af505d3> <http://schema.org/value> "143518"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N311b1d09e29d4439bcad68c5bdd91529> <http://schema.org/latitude> "44.6356"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N311b1d09e29d4439bcad68c5bdd91529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> .
+<http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> <http://schema.org/addressLocality> "FRANKFORT" .
+<http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N180b1a46ce4048e48010155c1af505d3> .
+<http://lodlaundromat.org/.well-known/genid/Na41667c3841145beb7cf69e6826e8752> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N311b1d09e29d4439bcad68c5bdd91529> .
+<http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> <http://schema.org/postalCode> "49635" .
+<http://lodlaundromat.org/.well-known/genid/Naf6b819d44e2488395593d0ca6c6b0dc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N311b1d09e29d4439bcad68c5bdd91529> <http://schema.org/longitude> "-86.2238"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N58a348c82e3344b28e83e82fda55d16e> <http://schema.org/addressRegion> "MI" .
+

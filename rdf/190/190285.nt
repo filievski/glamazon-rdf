@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9fd2460345904dc793f77187a06e395f> <http://schema.org/longitude> "-123.458"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fd2460345904dc793f77187a06e395f> <http://schema.org/latitude> "42.1255"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://schema.org/addressLocality> "CAVE JUNCTION" .
+<http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfdedbc1207da4a06a16755500ce8d81c> <http://schema.org/value> "190285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> .
+<http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1255&mlon=-123.458#map=15/42.1255/-123.458> .
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://schema.org/postalCode> "97523" .
+<http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> <http://schema.org/id> "8404100609" .
+<http://lodlaundromat.org/.well-known/genid/N9fd2460345904dc793f77187a06e395f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/name> "OREGON CAVES NATIONAL MONUMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfdedbc1207da4a06a16755500ce8d81c> .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> .
+<http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://schema.org/streetAddress> "19000 CAVES HIGHWAY" .
+<http://lodlaundromat.org/.well-known/genid/N2827e0698bbb4e04b9df9dff1f826d01> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04d64c78af844f98b406c379b05e49ed> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9fd2460345904dc793f77187a06e395f> .
+<http://lodlaundromat.org/.well-known/genid/N3084c93aaec34d6ab7682d144a0d928c> <http://schema.org/telephone> "+1 (541) 594-3095" .
+<http://lodlaundromat.org/.well-known/genid/Nfdedbc1207da4a06a16755500ce8d81c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfdedbc1207da4a06a16755500ce8d81c> <http://schema.org/name> "id" .
+

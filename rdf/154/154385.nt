@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://schema.org/addressLocality> "VENETA" .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/name> "APPLEGATE PIONEER MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1c9fd3b6e962485ba0cd9408e75fa905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c9fd3b6e962485ba0cd9408e75fa905> <http://schema.org/longitude> "-123.327"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c9fd3b6e962485ba0cd9408e75fa905> <http://schema.org/latitude> "44.0631"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> <http://schema.org/id> "8404100178" .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://schema.org/postalCode> "97487" .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> .
+<http://lodlaundromat.org/.well-known/genid/N98034b9141e747d5ad1934672d1c02f7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1c9fd3b6e962485ba0cd9408e75fa905> .
+<http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N98034b9141e747d5ad1934672d1c02f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N98034b9141e747d5ad1934672d1c02f7> .
+<http://lodlaundromat.org/.well-known/genid/N16ca5f3021ca41fdbdb0c309c3c041b1> <http://schema.org/streetAddress> "25755 JEANS RD" .
+<http://lodlaundromat.org/.well-known/genid/N98034b9141e747d5ad1934672d1c02f7> <http://schema.org/value> "154385"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0631&mlon=-123.327#map=15/44.0631/-123.327> .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/telephone> "+1 (541) 935-1836" .
+<http://lodlaundromat.org/.well-known/genid/N36430b29e17c4c1dbbcd4e31395ef491> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> .
+<http://lodlaundromat.org/.well-known/genid/N9b34b146680d456d931654b4973a0d95> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

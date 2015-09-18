@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/name> "COLUMBIA COUNTY COURTHOUSE RESTORATION PROJECT"@en .
+<http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> <http://schema.org/id> "8400500282" .
+<http://lodlaundromat.org/.well-known/genid/N35b921bb83cc4d85829444ca4b1fd705> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4ae8b9e4fb5045f39d1dd0ac8048d8e3> .
+<http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4ae8b9e4fb5045f39d1dd0ac8048d8e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> .
+<http://lodlaundromat.org/.well-known/genid/N35b921bb83cc4d85829444ca4b1fd705> <http://schema.org/longitude> "-93.2315"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.2811&mlon=-93.2315#map=15/33.2811/-93.2315> .
+<http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N98181b2b1fc94fbd92d683a73ba30a4b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N35b921bb83cc4d85829444ca4b1fd705> .
+<http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4ae8b9e4fb5045f39d1dd0ac8048d8e3> <http://schema.org/value> "129846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3df986f2b4dc4c3f8663a96387937498> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> <http://schema.org/postalCode> "71753-2551" .
+<http://lodlaundromat.org/.well-known/genid/N35b921bb83cc4d85829444ca4b1fd705> <http://schema.org/latitude> "33.2811"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ccb2efdd6524b94b1939b244aa4a34e> <http://schema.org/addressLocality> "MAGNOLIA" .
+<http://lodlaundromat.org/.well-known/genid/N4ae8b9e4fb5045f39d1dd0ac8048d8e3> <http://schema.org/name> "id" .
+

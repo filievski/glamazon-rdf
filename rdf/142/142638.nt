@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd8dcc45b78584ce7a0d6e74348185956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N73f09e0bce7541f49ecbd09dd6753fec> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/url> <http://www.massaudubon.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4086&mlon=-71.3274#map=15/42.4086/-71.3274> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> <http://schema.org/id> "8402500268" .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/name> "MASSACHUSETTS AUDUBON SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://schema.org/addressLocality> "LINCOLN" .
+<http://lodlaundromat.org/.well-known/genid/N73f09e0bce7541f49ecbd09dd6753fec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N73f09e0bce7541f49ecbd09dd6753fec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd8dcc45b78584ce7a0d6e74348185956> .
+<http://lodlaundromat.org/.well-known/genid/Nd8dcc45b78584ce7a0d6e74348185956> <http://schema.org/latitude> "42.4086"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://schema.org/postalCode> "01773" .
+<http://lodlaundromat.org/.well-known/genid/N51d151a8834144c1be10a134ad360aaf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://schema.org/streetAddress> "208 SOUTH GREAT ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N73f09e0bce7541f49ecbd09dd6753fec> <http://schema.org/value> "142638"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc37ce9c7a95b4fffaccaaf15f31186e2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc028fae8675e4b11810486fb40d98953> .
+<http://lodlaundromat.org/.well-known/genid/Nd8dcc45b78584ce7a0d6e74348185956> <http://schema.org/longitude> "-71.3274"^^<http://www.w3.org/2001/XMLSchema#double> .
+

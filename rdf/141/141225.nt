@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc0cf73fe3aed4f27b4cf14086539f515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc0cf73fe3aed4f27b4cf14086539f515> <http://schema.org/longitude> "-68.206"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/name> "BAR HARBOR WHALE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3911&mlon=-68.206#map=15/44.3911/-68.206> .
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://schema.org/addressLocality> "BAR HARBOR" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc0cf73fe3aed4f27b4cf14086539f515> .
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://schema.org/postalCode> "04609" .
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/telephone> "+1 (207) 288-0288" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> .
+<http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> <http://schema.org/id> "8402300074" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbf6e147e56ee46209061840ac5d91437> .
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbf6e147e56ee46209061840ac5d91437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbf6e147e56ee46209061840ac5d91437> <http://schema.org/value> "141225"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbf6e147e56ee46209061840ac5d91437> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc0cf73fe3aed4f27b4cf14086539f515> <http://schema.org/latitude> "44.3911"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne684e9c0050b4fa38cbaeebc411cec1e> <http://schema.org/streetAddress> "52 WEST ST" .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na943c495478149018dd3d81d3cb78c76> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8e5724ddb2eb459abe7d540e64843f82> <http://schema.org/url> <http://www.barharborwhalemuseum.org/> .
+

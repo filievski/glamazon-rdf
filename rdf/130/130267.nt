@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N0f99763dc9cc44c19abf853a6a08768f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0f99763dc9cc44c19abf853a6a08768f> .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://schema.org/postalCode> "95603" .
+<http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd5519ee45317483b89668f81e8c22687> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0f99763dc9cc44c19abf853a6a08768f> <http://schema.org/latitude> "38.8942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd5519ee45317483b89668f81e8c22687> .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8942&mlon=-121.075#map=15/38.8942/-121.075> .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://schema.org/addressLocality> "AUBURN" .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Gold_Country_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://schema.org/streetAddress> "1273 HIGH ST" .
+<http://lodlaundromat.org/.well-known/genid/N0f99763dc9cc44c19abf853a6a08768f> <http://schema.org/longitude> "-121.075"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> <http://schema.org/id> "8400600393" .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/url> <http://www.goldcountryfair.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nebdbdea936e0487c9a76c1960b7d7c6e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd5519ee45317483b89668f81e8c22687> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd5519ee45317483b89668f81e8c22687> <http://schema.org/value> "130267"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/name> "GOLD COUNTRY FAIRGROUNDS"@en .
+<http://lodlaundromat.org/.well-known/genid/N616b26d2faa340c08f3df4bdd6861d84> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5a5fd479ecc14d96b46c855183731572> <http://schema.org/telephone> "+1 (530) 889-6500" .
+

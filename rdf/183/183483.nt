@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3dee836498fd44b782847d3571f477bf> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/name> "Glasmuseum Passau"@en .
+<http://lodlaundromat.org/.well-known/genid/N3dee836498fd44b782847d3571f477bf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/url> <http://www.glasmuseum.de/> .
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0a8dab30b5454700ba95b756ae019941> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://schema.org/addressLocality> "Passau" .
+<http://lodlaundromat.org/.well-known/genid/N2a1899608929491c98a4666ddb8b9640> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a1899608929491c98a4666ddb8b9640> <http://schema.org/longitude> "13.468"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3dee836498fd44b782847d3571f477bf> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N3dee836498fd44b782847d3571f477bf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a1899608929491c98a4666ddb8b9640> .
+<http://lodlaundromat.org/.well-known/genid/N3dee836498fd44b782847d3571f477bf> <http://schema.org/url> <http://www.museums.io/en/museums/183483> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://schema.org/postalCode> "94032" .
+<http://lodlaundromat.org/.well-known/genid/N4454274c45ee431384c77563c8ec0548> <http://schema.org/streetAddress> "H\u00F6llgasse" .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0a8dab30b5454700ba95b756ae019941> .
+<http://lodlaundromat.org/.well-known/genid/N2a1899608929491c98a4666ddb8b9640> <http://schema.org/latitude> "48.575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a8dab30b5454700ba95b756ae019941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.575&mlon=13.468#map=15/48.575/13.468> .
+<http://lodlaundromat.org/.well-known/genid/N0a8dab30b5454700ba95b756ae019941> <http://schema.org/value> "183483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncb8b5ccf6a6641798c1b6fc6bb7335cf> <http://schema.org/telephone> "0851/35071" .
+

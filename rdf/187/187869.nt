@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1695d715383c4f5dba4b37805f257ec1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/name> "Museo storico del mutuo soccorso"@it .
+<http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> <http://schema.org/streetAddress> "Via Silvio Pellico, 19, " .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1695d715383c4f5dba4b37805f257ec1> .
+<http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> <http://schema.org/addressLocality> "Pinerolo" .
+<http://lodlaundromat.org/.well-known/genid/N45b5fc1cb7394e72ad0dad2dde5d2ee1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> <http://schema.org/id> "102722" .
+<http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1695d715383c4f5dba4b37805f257ec1> <http://schema.org/value> "187869"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1695d715383c4f5dba4b37805f257ec1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> .
+<http://lodlaundromat.org/.well-known/genid/N45b5fc1cb7394e72ad0dad2dde5d2ee1> <http://schema.org/latitude> "44.886"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N45b5fc1cb7394e72ad0dad2dde5d2ee1> <http://schema.org/longitude> "7.33053"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> .
+<http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N90eb7a6da847413e8619bf2b4ff14a0f> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nbd1325de6fd64035bd2858909fc5cf04> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N45b5fc1cb7394e72ad0dad2dde5d2ee1> .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.886&mlon=7.33053#map=15/44.886/7.33053> .
+<http://lodlaundromat.org/.well-known/genid/N69df0e9f8e284ed6ba8aac7ad2b38145> <http://schema.org/telephone> "+39 0121375012" .
+

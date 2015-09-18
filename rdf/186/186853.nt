@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7461&mlon=9.61754#map=15/45.7461/9.61754> .
+<http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N24799d74603e4de2b1745cafb4efe180> .
+<http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> <http://schema.org/addressLocality> "Villa d'Alm\u00E8" .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> <http://schema.org/id> "103541" .
+<http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/name> "Museo civico di Scienze Naturali Severo Sini"@it .
+<http://lodlaundromat.org/.well-known/genid/N24799d74603e4de2b1745cafb4efe180> <http://schema.org/value> "186853"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nc6c928a8327d46948dfceb95fc03c3cc> .
+<http://lodlaundromat.org/.well-known/genid/N0a446d5eb3a341789fa69b1cb4a34826> <http://schema.org/latitude> "45.7461"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0a446d5eb3a341789fa69b1cb4a34826> <http://schema.org/longitude> "9.61754"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/telephone> "+39 035637420" .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a446d5eb3a341789fa69b1cb4a34826> .
+<http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N0a446d5eb3a341789fa69b1cb4a34826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc6c928a8327d46948dfceb95fc03c3cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nc6c928a8327d46948dfceb95fc03c3cc> <http://schema.org/contentUrl> <http://images.museums.io/Rpmnf3Pg-p3YiKely5ZCsGiDlvk=/1000x1000/museums/logos/000/186/853/original/2f4127a1fd9ae63576677cd3ce80f3a6d3d286d0.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> .
+<http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nbf35c03fe0244f7a9bfbb7e5df6af9c5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N24799d74603e4de2b1745cafb4efe180> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N547a34559a6f445f860e9fd2c5de7c8b> <http://schema.org/streetAddress> "Via Locatelli Milesi, 16" .
+<http://lodlaundromat.org/.well-known/genid/N24799d74603e4de2b1745cafb4efe180> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0344e0e0b8014cddb14c2ee5307b37ab> <http://schema.org/url> <http://www.museosini.org/ecomuseo.aspx> .
+

@@ -1,0 +1,31 @@
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0fcf7eecf65749a18789740656558764> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0fcf7eecf65749a18789740656558764> .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Yanks_Air_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c9570f8185847528d481096c928f5aa> .
+<http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N411658be4dd24af7828a921a81bf3cd8> .
+<http://lodlaundromat.org/.well-known/genid/N6c9570f8185847528d481096c928f5aa> <http://schema.org/longitude> "-117.982"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c9570f8185847528d481096c928f5aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0fcf7eecf65749a18789740656558764> <http://schema.org/value> "131421"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N411658be4dd24af7828a921a81bf3cd8> <http://schema.org/contentUrl> <http://images.museums.io/nsy9-X6R0Nei6zk75H0QN6QTqqo=/1000x1000/museums/logos/000/131/421/original/North_American_P-51A_Mustang_2C_Yanks_Air_Museum_2C_Chino_2C_California.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N6c9570f8185847528d481096c928f5aa> <http://schema.org/latitude> "34.0662"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://schema.org/streetAddress> "13470 DALEWOOD ST" .
+<http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> <http://schema.org/id> "8400601547" .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/name> "YANKS AIR MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://schema.org/postalCode> "91706-5834" .
+<http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://schema.org/addressLocality> "BALDWIN PARK" .
+<http://lodlaundromat.org/.well-known/genid/N411658be4dd24af7828a921a81bf3cd8> <http://schema.org/license> <https://creativecommons.org/licenses/by-sa/2.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0fcf7eecf65749a18789740656558764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0662&mlon=-117.982#map=15/34.0662/-117.982> .
+<http://lodlaundromat.org/.well-known/genid/N411658be4dd24af7828a921a81bf3cd8> <http://schema.org/creator> "<a rel=\"nofollow\" class=\"external text\" href=\"http://www.flickr.com/people/37467370@N08/\">Greg Goebel</a>" .
+<http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N074725bb58dd46b9baa8fd27e7df2c29> .
+<http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N09963eff92fd43efa99bfba91bf9459d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0e371f4c647d41638520026952acebdf> .
+<http://lodlaundromat.org/.well-known/genid/N411658be4dd24af7828a921a81bf3cd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd72fd5603a4446759b05bbab356d93b1> .
+<http://lodlaundromat.org/.well-known/genid/Nd72fd5603a4446759b05bbab356d93b1> <http://schema.org/latitude> "44.8073"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> .
+<http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd72fd5603a4446759b05bbab356d93b1> <http://schema.org/longitude> "-73.0962"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne67cd35dd571458aae0ef3e62bd16fe4> .
+<http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/telephone> "+1 (802) 527-7793" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> .
+<http://lodlaundromat.org/.well-known/genid/Ne67cd35dd571458aae0ef3e62bd16fe4> <http://schema.org/value> "160433"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne67cd35dd571458aae0ef3e62bd16fe4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/name> "ST ALBANS HISTORICAL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://schema.org/addressLocality> "ST ALBANS" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cd104a27a64d5a8b3d7d09ad77cd30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.8073&mlon=-73.0962#map=15/44.8073/-73.0962> .
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/Nd72fd5603a4446759b05bbab356d93b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne67cd35dd571458aae0ef3e62bd16fe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://schema.org/postalCode> "05478-0722" .
+<http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2abc127c54444385912a887a093809ee> <http://schema.org/id> "8405000239" .
+<http://lodlaundromat.org/.well-known/genid/Nbbc263bbc7a3412f9ce9fb91fe8919a2> <http://schema.org/streetAddress> "PO BOX 722" .
+

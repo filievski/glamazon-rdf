@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/name> "Residenz"@en .
+<http://lodlaundromat.org/.well-known/genid/N821711f13bed4e538248211dc757888e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nf957698bf85842d498e83c00db10c1e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N821711f13bed4e538248211dc757888e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://schema.org/postalCode> "97070" .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbd6978b87de34eb3822e7d0e19841c43> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6978b87de34eb3822e7d0e19841c43> <http://schema.org/value> "183896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf957698bf85842d498e83c00db10c1e4> <http://schema.org/latitude> "49.7925"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf957698bf85842d498e83c00db10c1e4> <http://schema.org/longitude> "9.93868"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6978b87de34eb3822e7d0e19841c43> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N821711f13bed4e538248211dc757888e> .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/url> <http://www.residenz-wuerzburg.de/> .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.7925&mlon=9.93868#map=15/49.7925/9.93868> .
+<http://lodlaundromat.org/.well-known/genid/N821711f13bed4e538248211dc757888e> <http://schema.org/url> <http://www.museums.io/en/museums/183896> .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://schema.org/streetAddress> "Residenzplatz 2" .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf957698bf85842d498e83c00db10c1e4> .
+<http://lodlaundromat.org/.well-known/genid/N736a7cd346034f63adae4de29667954f> <http://schema.org/telephone> "0931/35517-0" .
+<http://lodlaundromat.org/.well-known/genid/N821711f13bed4e538248211dc757888e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nbd6978b87de34eb3822e7d0e19841c43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N531c7fd9e3de456f8eebda0e5c1ba7c3> <http://schema.org/addressLocality> "W\u00FCrzburg" .
+

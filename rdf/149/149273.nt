@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> <http://schema.org/id> "8403600567" .
+<http://lodlaundromat.org/.well-known/genid/N801f13ae616744f593c3f48570be1071> <http://schema.org/latitude> "40.885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> .
+<http://lodlaundromat.org/.well-known/genid/N801f13ae616744f593c3f48570be1071> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6065466235ed430fbf7cee0ed855a9a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://schema.org/postalCode> "11780-2001" .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6065466235ed430fbf7cee0ed855a9a4> .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N801f13ae616744f593c3f48570be1071> .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://schema.org/addressLocality> "SAINT JAMES" .
+<http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.885&mlon=-73.1515#map=15/40.885/-73.1515> .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/name> "LONG ISLAND LIVE STEAMERS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N801f13ae616744f593c3f48570be1071> <http://schema.org/longitude> "-73.1515"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb771dc33479a41ddb1d2dbf2255b64e5> <http://schema.org/streetAddress> "379 MORICHES RD" .
+<http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1de804c625f3433295f4ede4dd924993> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N841e94b614cd4f7d818f54af37baa75d> .
+<http://lodlaundromat.org/.well-known/genid/N6065466235ed430fbf7cee0ed855a9a4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6065466235ed430fbf7cee0ed855a9a4> <http://schema.org/value> "149273"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

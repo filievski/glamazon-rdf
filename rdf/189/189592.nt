@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N26e183f74923462cb8002db958f3f768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://schema.org/addressLocality> "HOMER" .
+<http://lodlaundromat.org/.well-known/genid/N26e183f74923462cb8002db958f3f768> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/name> "PRATT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N26e183f74923462cb8002db958f3f768> <http://schema.org/value> "189592"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5911fc4f343a470cb96d912d40e904bd> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/url> <http://www.prattmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5911fc4f343a470cb96d912d40e904bd> <http://schema.org/longitude> "-122.317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5911fc4f343a470cb96d912d40e904bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5911fc4f343a470cb96d912d40e904bd> <http://schema.org/latitude> "46.8443"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.8443&mlon=-122.317#map=15/46.8443/-122.317> .
+<http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> <http://schema.org/id> "8400200173" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N26e183f74923462cb8002db958f3f768> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/telephone> "+1 (907) 235-8635" .
+<http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://schema.org/postalCode> "99603" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N81eb137ee943484f85b91331d2de036c> .
+<http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> <http://schema.org/streetAddress> "3779 BARTLETT STREET" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4064738b9a43f98752a36d9950f745> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6f1faf452e424b89a502ee4a9a01c113> .
+

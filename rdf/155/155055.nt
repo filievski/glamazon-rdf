@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N18be8d570a204df2a174f854d8071b81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://schema.org/postalCode> "18045" .
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/name> "BINNEY AND SMITH"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> <http://schema.org/id> "8404200249" .
+<http://lodlaundromat.org/.well-known/genid/N7bcde4d041bc49e7b5a2d80c7f82031e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> .
+<http://lodlaundromat.org/.well-known/genid/N18be8d570a204df2a174f854d8071b81> <http://schema.org/latitude> "40.701"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7bcde4d041bc49e7b5a2d80c7f82031e> .
+<http://lodlaundromat.org/.well-known/genid/N18be8d570a204df2a174f854d8071b81> <http://schema.org/longitude> "-75.2428"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://schema.org/addressLocality> "EASTON" .
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://schema.org/streetAddress> "2025 EDGEWOOD AVE" .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N18be8d570a204df2a174f854d8071b81> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.701&mlon=-75.2428#map=15/40.701/-75.2428> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c25fd204294a92bcfc42e4697c71e3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7bcde4d041bc49e7b5a2d80c7f82031e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N52dc1bd6f9da412fa1da7f8736a1ad72> <http://schema.org/telephone> "+1 (610) 559-9547" .
+<http://lodlaundromat.org/.well-known/genid/N7bcde4d041bc49e7b5a2d80c7f82031e> <http://schema.org/value> "155055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na9f02250fdbe4f5c825aba2a308b4713> <http://schema.org/addressCountry> "United States" .
+

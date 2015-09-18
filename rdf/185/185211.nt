@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N525e4f5cc89b467fa88403c297094e1b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N77031d8c72114f1c9ead11f901962a59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N525e4f5cc89b467fa88403c297094e1b> .
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N77031d8c72114f1c9ead11f901962a59> .
+<http://lodlaundromat.org/.well-known/genid/N6d6ba4d698c146baba41486ed2b4e408> <http://schema.org/value> "185211"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N77031d8c72114f1c9ead11f901962a59> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://schema.org/name> "Nedervetil (Alaveteli) Local Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://schema.org/url> <http://www.museiportalosterbotten.fi/museot-a-o/museo/44-alavetelin-kotiseutut,%3Ca> .
+<http://lodlaundromat.org/.well-known/genid/N28f64e35089340a290693162e99964fa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6d6ba4d698c146baba41486ed2b4e408> .
+<http://lodlaundromat.org/.well-known/genid/N525e4f5cc89b467fa88403c297094e1b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6d6ba4d698c146baba41486ed2b4e408> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6d6ba4d698c146baba41486ed2b4e408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N525e4f5cc89b467fa88403c297094e1b> <http://schema.org/url> <http://www.museums.io/en/museums/185211> .
+<http://lodlaundromat.org/.well-known/genid/N525e4f5cc89b467fa88403c297094e1b> <http://schema.org/name> "fi" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N15394f8b657a41d6bb2a132b6beb5930> <http://schema.org/latitude> "41.9501"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> .
+<http://lodlaundromat.org/.well-known/genid/N15394f8b657a41d6bb2a132b6beb5930> <http://schema.org/longitude> "-87.7324"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N15394f8b657a41d6bb2a132b6beb5930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://schema.org/streetAddress> "3801 N KEELER" .
+<http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd4fb312339024a43b5578384bfaaca61> <http://schema.org/value> "137545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd4fb312339024a43b5578384bfaaca61> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/telephone> "+1 (773) 763-4303" .
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N15394f8b657a41d6bb2a132b6beb5930> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> .
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://schema.org/postalCode> "60641" .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9501&mlon=-87.7324#map=15/41.9501/-87.7324> .
+<http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> <http://schema.org/id> "8401700690" .
+<http://lodlaundromat.org/.well-known/genid/Nd4fb312339024a43b5578384bfaaca61> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc336cda8307340f2a7ed574fac35b991> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N23a97ed4e58442b7b33463a87de6a3c2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd4fb312339024a43b5578384bfaaca61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c3ab0bbc70943efa6b54148f83ffff9> <http://schema.org/name> "IRVING PARK HISTORICAL SOCIETY"@en .
+

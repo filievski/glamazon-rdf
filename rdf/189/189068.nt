@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Na77941d686c34f01bf0dbc8f53c9c628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0707afee801847f79e67a8e0ab40bd72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N078d924b73d042028f623150ffb859a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0707afee801847f79e67a8e0ab40bd72> .
+<http://lodlaundromat.org/.well-known/genid/N078d924b73d042028f623150ffb859a1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/telephone> "+39 0474552087" .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.7966&mlon=11.938#map=15/46.7966/11.938> .
+<http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> <http://schema.org/addressLocality> "Brunico/Bruneck" .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> .
+<http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0707afee801847f79e67a8e0ab40bd72> <http://schema.org/latitude> "46.7966"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0707afee801847f79e67a8e0ab40bd72> <http://schema.org/longitude> "11.938"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/name> "Museo provinciale degli usi e costumi (Sudtiroler landesmuseum fur volkskunde)"@it .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/url> <http://www.museo-etnografico.it/> .
+<http://lodlaundromat.org/.well-known/genid/N078d924b73d042028f623150ffb859a1> <http://schema.org/value> "189068"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> <http://schema.org/id> "100528" .
+<http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na77941d686c34f01bf0dbc8f53c9c628> <http://schema.org/contentUrl> <http://images.museums.io/somu0hD5R9cgSY1unLKc-iYcS1Y=/1000x1000/museums/logos/000/189/068/original/43e3776546f3a1f552a9ebbd3880e77ae59a6997.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc1208be966438c9e8aa757c2373695> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> <http://schema.org/addressRegion> "Trentino-Alto Adige" .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na77941d686c34f01bf0dbc8f53c9c628> .
+<http://lodlaundromat.org/.well-known/genid/N124d36dfeefe48a0a247f12d230e9b63> <http://schema.org/streetAddress> "Via Herzog Diet, 24" .
+<http://lodlaundromat.org/.well-known/genid/N24702a15b3c44e76a28197c1a461ccc2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N078d924b73d042028f623150ffb859a1> .
+

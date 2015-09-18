@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N90d1f352dad74ffb95ba278be55109aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> <http://schema.org/streetAddress> "Viale C. Colombo, 92" .
+<http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/name> "Antiquarium Truentinum"@it .
+<http://lodlaundromat.org/.well-known/genid/N8e4d95165eb34b5197d3bfbe0a132e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nbac5cea541fa4622a7469f62d56ce918> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> .
+<http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> <http://schema.org/addressLocality> "San Benedetto del Tronto" .
+<http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8e4d95165eb34b5197d3bfbe0a132e3d> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.958&mlon=13.882#map=15/42.958/13.882> .
+<http://lodlaundromat.org/.well-known/genid/N8e4d95165eb34b5197d3bfbe0a132e3d> <http://schema.org/latitude> "42.958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/N90d1f352dad74ffb95ba278be55109aa> <http://schema.org/value> "187318"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/telephone> "+39 0735.592177" .
+<http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> <http://schema.org/id> "112156" .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N90d1f352dad74ffb95ba278be55109aa> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N90d1f352dad74ffb95ba278be55109aa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nbac5cea541fa4622a7469f62d56ce918> <http://schema.org/contentUrl> <http://images.museums.io/CNmiyBhkgsSKYaLlup0fH83jZCQ=/1000x1000/museums/logos/000/187/318/original/8f23b2f7c4a28a94ffdb4ebf628955f936ef2ec.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N85998f05b388425bac5980846da1ccfa> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nb6e8bbad582f4aa4914102b594ae501c> <http://schema.org/url> <http://www.museodelmaresbt.it/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd20d643d46646478d6b8c928d66811b> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nbac5cea541fa4622a7469f62d56ce918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N8e4d95165eb34b5197d3bfbe0a132e3d> <http://schema.org/longitude> "13.882"^^<http://www.w3.org/2001/XMLSchema#double> .
+

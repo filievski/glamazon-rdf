@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2ce2ae45997b4a1abc67f64ea29dfff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2ce2ae45997b4a1abc67f64ea29dfff9> <http://schema.org/value> "149075"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> .
+<http://lodlaundromat.org/.well-known/genid/N2ce2ae45997b4a1abc67f64ea29dfff9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6f2497f0f9e84d479d99719b4e79af63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://schema.org/postalCode> "11229" .
+<http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N6f2497f0f9e84d479d99719b4e79af63> <http://schema.org/longitude> "-73.9533"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://schema.org/streetAddress> "1942 E 19TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> <http://schema.org/id> "8403600369" .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/name> "ENRICO CARUSO MUSEUM OF AMERICA"@en .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6029&mlon=-73.9533#map=15/40.6029/-73.9533> .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/telephone> "+1 (718) 368-3993" .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2ce2ae45997b4a1abc67f64ea29dfff9> .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbeb67bf4df7d4667b00b6601c9219a8e> .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6f2497f0f9e84d479d99719b4e79af63> .
+<http://lodlaundromat.org/.well-known/genid/N6f2497f0f9e84d479d99719b4e79af63> <http://schema.org/latitude> "40.6029"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N178d29422fd04002aab340e1f731a941> <http://schema.org/addressLocality> "BROOKLYN" .
+<http://lodlaundromat.org/.well-known/genid/N771e524d098c4f7abf195a4776e314a3> <http://schema.org/url> <http://www.enricocarusomuseum.com/> .
+

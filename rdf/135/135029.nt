@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> .
+<http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/telephone> "+1 (904) 388-8205" .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2875&mlon=-81.7135#map=15/30.2875/-81.7135> .
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://schema.org/postalCode> "32210-2244" .
+<http://lodlaundromat.org/.well-known/genid/Ne914e75c585343729f2ac21b1dfea150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://schema.org/addressLocality> "JACKSONVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/name> "WOMEN PAINTERS OF THE SOUTHEAST"@en .
+<http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> <http://schema.org/id> "8401200583" .
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://schema.org/streetAddress> "4144 HERSCHEL ST" .
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N894c906ce7ae4ee380f595728eef2989> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N894c906ce7ae4ee380f595728eef2989> <http://schema.org/value> "135029"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N28e8ceaf256d427e86579034297f74a0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne914e75c585343729f2ac21b1dfea150> .
+<http://lodlaundromat.org/.well-known/genid/N199a261010a74fe6b6f8a4871f4e5bbb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne914e75c585343729f2ac21b1dfea150> <http://schema.org/longitude> "-81.7135"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne914e75c585343729f2ac21b1dfea150> <http://schema.org/latitude> "30.2875"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N894c906ce7ae4ee380f595728eef2989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5b3aac668f2141e38c65b36f0f8f6ed5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N894c906ce7ae4ee380f595728eef2989> .
+

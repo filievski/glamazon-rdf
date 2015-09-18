@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne99624aa6361421d9f78545dbf1e0ede> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne99624aa6361421d9f78545dbf1e0ede> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7203&mlon=-104.895#map=15/39.7203/-104.895> .
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://schema.org/streetAddress> "7711 E ACADEMY BLVD" .
+<http://lodlaundromat.org/.well-known/genid/Ne99624aa6361421d9f78545dbf1e0ede> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne99624aa6361421d9f78545dbf1e0ede> <http://schema.org/value> "133299"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> .
+<http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf9f7ca2f31f0441183ec891ceb6ca8fb> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/telephone> "+1 (303) 360-5360" .
+<http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> <http://schema.org/id> "8400800475" .
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://schema.org/addressLocality> "DENVER" .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/name> "WINGS OVER THE ROCKIES AIR & SPACE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf9f7ca2f31f0441183ec891ceb6ca8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf9f7ca2f31f0441183ec891ceb6ca8fb> <http://schema.org/latitude> "39.7203"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e343f950e0c40e59d44c24d97de9452> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N98e01504ed2f401d999bc5ab50c168b6> <http://schema.org/url> <http://www.wingsmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3d065fbc306d45d3be712cefc0f2325c> <http://schema.org/postalCode> "80230-6929" .
+<http://lodlaundromat.org/.well-known/genid/Nf9f7ca2f31f0441183ec891ceb6ca8fb> <http://schema.org/longitude> "-104.895"^^<http://www.w3.org/2001/XMLSchema#double> .
+

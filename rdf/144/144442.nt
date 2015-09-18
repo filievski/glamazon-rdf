@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na85d3d7678404c6cbb9da8d1ffc245ad> .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> .
+<http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na85d3d7678404c6cbb9da8d1ffc245ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32f32fd94e1b46c7aeb89d853bf4ac9b> .
+<http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> <http://schema.org/id> "8402600979" .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://schema.org/streetAddress> "PO BOX 144" .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na2e7c02ced5f46e0935285fdf44d86f4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32f32fd94e1b46c7aeb89d853bf4ac9b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://schema.org/postalCode> "49004-0144" .
+<http://lodlaundromat.org/.well-known/genid/Na85d3d7678404c6cbb9da8d1ffc245ad> <http://schema.org/latitude> "42.3327"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na85d3d7678404c6cbb9da8d1ffc245ad> <http://schema.org/longitude> "-85.5673"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3327&mlon=-85.5673#map=15/42.3327/-85.5673> .
+<http://lodlaundromat.org/.well-known/genid/N81f5c919adcc4c15828400d7656c096d> <http://schema.org/name> "KALAMAZOO MODEL RAILROAD CLUB"@en .
+<http://lodlaundromat.org/.well-known/genid/N32f32fd94e1b46c7aeb89d853bf4ac9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N32f32fd94e1b46c7aeb89d853bf4ac9b> <http://schema.org/value> "144442"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N67a4f20fb49f45efa3f03c2f1080c387> <http://schema.org/addressLocality> "PARCHMENT" .
+

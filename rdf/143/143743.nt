@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncc6bb65adc84457e9c5e5ed8becf8a4f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncc6bb65adc84457e9c5e5ed8becf8a4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0642&mlon=-83.9222#map=15/45.0642/-83.9222> .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> .
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://schema.org/postalCode> "49746-0344" .
+<http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> .
+<http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://schema.org/streetAddress> "PO BOX 344" .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/name> "BRUSH CREEK MILL"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndf2ad221bdfc4369acd68317f63075e4> <http://schema.org/latitude> "45.0642"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://schema.org/addressLocality> "HILLMAN" .
+<http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nac9d7f0bd01a45eeaf4bc0421f1fe834> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Ncc6bb65adc84457e9c5e5ed8becf8a4f> <http://schema.org/value> "143743"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2ad221bdfc4369acd68317f63075e4> <http://schema.org/longitude> "-83.9222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncc6bb65adc84457e9c5e5ed8becf8a4f> .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndf2ad221bdfc4369acd68317f63075e4> .
+<http://lodlaundromat.org/.well-known/genid/Nf89ebc34b93a4de99cc10e2e5bc1d5b2> <http://schema.org/id> "8402600280" .
+<http://lodlaundromat.org/.well-known/genid/Nb63824a3dcc64f0ca653dbd69720d613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2ad221bdfc4369acd68317f63075e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

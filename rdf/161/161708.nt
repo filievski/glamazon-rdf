@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2c69a798869b499dba1fd7679ed85e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb03463dc66174e8aad76cdbde1a5e397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://schema.org/streetAddress> "313 JACKSON ST" .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://schema.org/postalCode> "98368-5607" .
+<http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2c69a798869b499dba1fd7679ed85e7a> .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> .
+<http://lodlaundromat.org/.well-known/genid/Nb03463dc66174e8aad76cdbde1a5e397> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/name> "MV LOTUS FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1173&mlon=-122.752#map=15/48.1173/-122.752> .
+<http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N2c69a798869b499dba1fd7679ed85e7a> <http://schema.org/latitude> "48.1173"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2c69a798869b499dba1fd7679ed85e7a> <http://schema.org/longitude> "-122.752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb03463dc66174e8aad76cdbde1a5e397> <http://schema.org/value> "161708"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> .
+<http://lodlaundromat.org/.well-known/genid/N9e7fd27ec9da404d87af9f707aa9ff38> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb03463dc66174e8aad76cdbde1a5e397> .
+<http://lodlaundromat.org/.well-known/genid/N352f0201c2b6464da543d8031dfca722> <http://schema.org/addressLocality> "PORT TOWNSEND" .
+<http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> <http://schema.org/id> "8405300157" .
+<http://lodlaundromat.org/.well-known/genid/Na72da145380b4014ad034fb1cb01fd51> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

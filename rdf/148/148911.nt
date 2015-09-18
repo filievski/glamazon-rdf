@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4dd29c3831214b12b71997ee135fe397> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://schema.org/addressLocality> "WEST HENRIETTA" .
+<http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://schema.org/postalCode> "14586" .
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/telephone> "+1 (585) 533-1113" .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4dd29c3831214b12b71997ee135fe397> .
+<http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> .
+<http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> <http://schema.org/id> "8403600205" .
+<http://lodlaundromat.org/.well-known/genid/Ne834fc67261644f28bb4153b499e9bb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne834fc67261644f28bb4153b499e9bb7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4dd29c3831214b12b71997ee135fe397> <http://schema.org/longitude> "-77.7086"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4dd29c3831214b12b71997ee135fe397> <http://schema.org/latitude> "43.0179"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne834fc67261644f28bb4153b499e9bb7> .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/name> "NEW YORK MUSEUM OF TRANSPORTATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne834fc67261644f28bb4153b499e9bb7> <http://schema.org/value> "148911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/url> <http://www.nymtmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N60eef3f27bd041519aa608b10c4580f1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N781ab02621de44468c73e4138d6268d4> <http://schema.org/streetAddress> "6393 E RIVER RD" .
+<http://lodlaundromat.org/.well-known/genid/N29464f210e7c4ca78ee10be0582055f3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0179&mlon=-77.7086#map=15/43.0179/-77.7086> .
+

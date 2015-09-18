@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> <http://schema.org/id> "8403600987" .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncda918ee81c24e809821f48b8a39165a> .
+<http://lodlaundromat.org/.well-known/genid/N126aa48883c9456fa8a1cf02c377bb93> <http://schema.org/longitude> "-73.997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/N126aa48883c9456fa8a1cf02c377bb93> <http://schema.org/latitude> "40.7251"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncda918ee81c24e809821f48b8a39165a> <http://schema.org/value> "149693"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N126aa48883c9456fa8a1cf02c377bb93> .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/name> "MUSEUM OF COMIC AND CARTOON ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7251&mlon=-73.997#map=15/40.7251/-73.997> .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/url> <http://www.moccany.org/> .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncda918ee81c24e809821f48b8a39165a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N702da5ac99904ee0beff719abe8fa9b0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> .
+<http://lodlaundromat.org/.well-known/genid/N1c18228b56bc4528a90d1ae3ff012c4d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncda918ee81c24e809821f48b8a39165a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://schema.org/postalCode> "10012-3234" .
+<http://lodlaundromat.org/.well-known/genid/N25ae2623a4a84b29ac3a17db2a2f5382> <http://schema.org/streetAddress> "594 BROADWAY RM 401" .
+<http://lodlaundromat.org/.well-known/genid/N126aa48883c9456fa8a1cf02c377bb93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

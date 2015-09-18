@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/telephone> "+39 0775282371" .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1e4735a9917349549fceb12c23838167> .
+<http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> <http://schema.org/addressLocality> "Veroli" .
+<http://lodlaundromat.org/.well-known/genid/N1e4735a9917349549fceb12c23838167> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6c3e97f3aad543518e51ca5b3777bdd5> <http://schema.org/longitude> "13.4365"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf94f9afa792f4794a0adfb00c4fd81ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c3e97f3aad543518e51ca5b3777bdd5> .
+<http://lodlaundromat.org/.well-known/genid/N6c3e97f3aad543518e51ca5b3777bdd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1e4735a9917349549fceb12c23838167> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> <http://schema.org/id> "101427" .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> .
+<http://lodlaundromat.org/.well-known/genid/Nf94f9afa792f4794a0adfb00c4fd81ed> <http://schema.org/contentUrl> <http://images.museums.io/SXVzqAJtGckn_fckM3yoP9sMlbU=/1000x1000/museums/logos/000/186/387/original/afae0b9128134e8f5726491804e61962337b1a4.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/name> "Museo dell'Abbazia di Casamari"@it .
+<http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> <http://schema.org/streetAddress> "Via Maria, 25" .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/url> <http://www.casamari.it/> .
+<http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> <http://schema.org/addressRegion> "Lazio" .
+<http://lodlaundromat.org/.well-known/genid/N51cef4d9d1354d32a05e8c83f0e3dc8a> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1e4735a9917349549fceb12c23838167> <http://schema.org/value> "186387"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf94f9afa792f4794a0adfb00c4fd81ed> .
+<http://lodlaundromat.org/.well-known/genid/N6c3e97f3aad543518e51ca5b3777bdd5> <http://schema.org/latitude> "41.6677"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29710dd1ba494cd9bc0f251ede353356> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6677&mlon=13.4365#map=15/41.6677/13.4365> .
+<http://lodlaundromat.org/.well-known/genid/N716433e47702447aa064a117f0f6f559> <http://schema.org/addressCountry> "Italy" .
+

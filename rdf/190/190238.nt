@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://schema.org/streetAddress> "213 SECOND AVENUE SW" .
+<http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30c537edbdb046e08b6c84792db2f5fd> .
+<http://lodlaundromat.org/.well-known/genid/N30c537edbdb046e08b6c84792db2f5fd> <http://schema.org/value> "190238"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/name> "VICTORIAN DRESS MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/telephone> "+1 (701) 776-2189" .
+<http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8161&mlon=-89.9754#map=15/38.8161/-89.9754> .
+<http://lodlaundromat.org/.well-known/genid/Ndeeb37056bde47fca9ee0ad30f5d026d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N30c537edbdb046e08b6c84792db2f5fd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> <http://schema.org/id> "8403800294" .
+<http://lodlaundromat.org/.well-known/genid/N30c537edbdb046e08b6c84792db2f5fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> .
+<http://lodlaundromat.org/.well-known/genid/N92d1b2f4c0f34046828b363ce4369aa7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://schema.org/postalCode> "58368" .
+<http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> <http://schema.org/addressLocality> "RUGBY" .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c2df878d96d41d88bfb2289042b4edb> .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndeeb37056bde47fca9ee0ad30f5d026d> <http://schema.org/latitude> "38.8161"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N771d270009644f749f900ef3f1b5abe1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndeeb37056bde47fca9ee0ad30f5d026d> .
+<http://lodlaundromat.org/.well-known/genid/Ndeeb37056bde47fca9ee0ad30f5d026d> <http://schema.org/longitude> "-89.9754"^^<http://www.w3.org/2001/XMLSchema#double> .
+

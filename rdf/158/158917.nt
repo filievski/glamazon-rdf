@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6f3e1f792ac8418db15989063ddd5294> <http://schema.org/longitude> "-97.7737"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6f3e1f792ac8418db15989063ddd5294> <http://schema.org/latitude> "30.3126"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d68ac71330643699d58ce80aba003aa> <http://schema.org/value> "158917"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6d68ac71330643699d58ce80aba003aa> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> .
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://schema.org/addressLocality> "AUSTIN" .
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://schema.org/streetAddress> "3809B W 35TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/name> "TEXAS FINE ARTS ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N6f3e1f792ac8418db15989063ddd5294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.3126&mlon=-97.7737#map=15/30.3126/-97.7737> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d68ac71330643699d58ce80aba003aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> .
+<http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6d68ac71330643699d58ce80aba003aa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> <http://schema.org/id> "8404801017" .
+<http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N24a368e0d15b40b4a85a2818cccc64c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6f3e1f792ac8418db15989063ddd5294> .
+<http://lodlaundromat.org/.well-known/genid/N6b653c143ddc4ade99e507ba872ec430> <http://schema.org/postalCode> "78703-1001" .
+<http://lodlaundromat.org/.well-known/genid/N251af1af1da446b2ad37bf61ec4f5120> <http://schema.org/name> "us" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/telephone> "+1 (813) 987-6300" .
+<http://lodlaundromat.org/.well-known/genid/N9a97a77a03964b31acfae6096eaff146> <http://schema.org/value> "135396"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9a97a77a03964b31acfae6096eaff146> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9a97a77a03964b31acfae6096eaff146> .
+<http://lodlaundromat.org/.well-known/genid/N9a97a77a03964b31acfae6096eaff146> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/name> "MUSEUM OF SCIENCE AND INDUSTRY ENDOWMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.0543&mlon=-82.4045#map=15/28.0543/-82.4045> .
+<http://lodlaundromat.org/.well-known/genid/N7a7e4b7a84d04e94a98b555c1ff3d652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7a7e4b7a84d04e94a98b555c1ff3d652> <http://schema.org/latitude> "28.0543"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7a7e4b7a84d04e94a98b555c1ff3d652> <http://schema.org/longitude> "-82.4045"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7a7e4b7a84d04e94a98b555c1ff3d652> .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> .
+<http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> <http://schema.org/id> "8401200951" .
+<http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc785e6f2d1c34b38a8afd6bf6fda690e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> .
+<http://lodlaundromat.org/.well-known/genid/N7fa7950535394e6e8c176ec68904c31e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> <http://schema.org/postalCode> "33617-2017" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bd2ecade94baa8a773cbe7ecd1312> <http://schema.org/addressLocality> "TAMPA" .
+

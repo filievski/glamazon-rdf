@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8ae4faa75891479e8e4bece852ec38e9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23807c2d8c4f4d7a9c0704eed5f82ce1> .
+<http://lodlaundromat.org/.well-known/genid/N8ae4faa75891479e8e4bece852ec38e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23807c2d8c4f4d7a9c0704eed5f82ce1> <http://schema.org/longitude> "-122.661"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://schema.org/streetAddress> "1327 SE GRAND AVE" .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/telephone> "+1 (503) 233-7807" .
+<http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.5133&mlon=-122.661#map=15/45.5133/-122.661> .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> .
+<http://lodlaundromat.org/.well-known/genid/N23807c2d8c4f4d7a9c0704eed5f82ce1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/name> "KIDDS TOY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> <http://schema.org/id> "8404100445" .
+<http://lodlaundromat.org/.well-known/genid/N8ae4faa75891479e8e4bece852ec38e9> <http://schema.org/value> "154652"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N455dc298f1df481295743cf0f8e9e150> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://schema.org/addressLocality> "PORTLAND" .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7fe90546788548c3ad31b222bc7a4ae0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8ae4faa75891479e8e4bece852ec38e9> .
+<http://lodlaundromat.org/.well-known/genid/N23807c2d8c4f4d7a9c0704eed5f82ce1> <http://schema.org/latitude> "45.5133"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bbddc08b4644a52a4a6de4554fc4bab> <http://schema.org/postalCode> "97214-3415" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1b57158b9d68481a8795a2c199e14666> <http://schema.org/value> "142529"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6def5400833a499ca3b9012534d1ff6e> <http://schema.org/latitude> "42.2813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/telephone> "+1 (508) 620-0050" .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/name> "DANFORTH MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://schema.org/streetAddress> "123 UNION AVE." .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://schema.org/addressLocality> "FRAMINGHAM" .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6def5400833a499ca3b9012534d1ff6e> .
+<http://lodlaundromat.org/.well-known/genid/N1b57158b9d68481a8795a2c199e14666> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6def5400833a499ca3b9012534d1ff6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> <http://schema.org/id> "8402500159" .
+<http://lodlaundromat.org/.well-known/genid/N6def5400833a499ca3b9012534d1ff6e> <http://schema.org/longitude> "-71.4186"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N78181620cdf14d31b209635a70a0fd95> <http://schema.org/postalCode> "01702" .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2813&mlon=-71.4186#map=15/42.2813/-71.4186> .
+<http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1b57158b9d68481a8795a2c199e14666> .
+<http://lodlaundromat.org/.well-known/genid/N1b57158b9d68481a8795a2c199e14666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb4bf3baff5c845e9961a797aa46d8666> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> .
+<http://lodlaundromat.org/.well-known/genid/N06eb1c22047044c8b4e5153ade2afdcb> <http://schema.org/@Type> "Dataset" .
+

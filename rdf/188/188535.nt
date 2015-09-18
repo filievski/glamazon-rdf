@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> <http://schema.org/addressLocality> "Bibbiena" .
+<http://lodlaundromat.org/.well-known/genid/N82e37932703447a19beb5dce7aa07efd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N2c452c50e1b54a4499a57599ab5f638e> .
+<http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nd7e4f321e284463b9c2637d4a8c1f424> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> .
+<http://lodlaundromat.org/.well-known/genid/Nd7e4f321e284463b9c2637d4a8c1f424> <http://schema.org/longitude> "11.8159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2c452c50e1b54a4499a57599ab5f638e> <http://schema.org/contentUrl> <http://images.museums.io/rhJ-q2TC3FiSdOVpl6gY8ysIOcQ=/1000x1000/museums/logos/000/188/535/original/b8f5282011e5e6faf7afe974258c29bedc452c.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N82e37932703447a19beb5dce7aa07efd> <http://schema.org/value> "188535"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2c452c50e1b54a4499a57599ab5f638e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> <http://schema.org/streetAddress> "Tosco Romagnola, 29" .
+<http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> <http://schema.org/id> "102852" .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6941&mlon=11.8159#map=15/43.6941/11.8159> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd7e4f321e284463b9c2637d4a8c1f424> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/name> "Museo archeologico del casentino"@it .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N82e37932703447a19beb5dce7aa07efd> .
+<http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nae1fab513abf4ea4a7860173151d9e4a> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/Ncda75caeff1a4c8988c4aff9a93e50cb> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nd7e4f321e284463b9c2637d4a8c1f424> <http://schema.org/latitude> "43.6941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82e37932703447a19beb5dce7aa07efd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3bde533d1b874a23a145a59ad1577e27> <http://schema.org/telephone> "+39 0575559447" .
+

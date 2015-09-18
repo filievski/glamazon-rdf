@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5918&mlon=-74.6164#map=15/40.5918/-74.6164> .
+<http://lodlaundromat.org/.well-known/genid/N22a8e5dfffcd4ac6b495f0b3bb6f0553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> .
+<http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/name> "SOMERVILLE MANOR CIVIC ASSOC INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N22a8e5dfffcd4ac6b495f0b3bb6f0553> <http://schema.org/latitude> "40.5918"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> <http://schema.org/id> "8403400461" .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne6de75d6880b4781a77f8bee30f86039> .
+<http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne6de75d6880b4781a77f8bee30f86039> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://schema.org/postalCode> "08807-0331" .
+<http://lodlaundromat.org/.well-known/genid/Nd55f19ed47a94e5cbebc3ef1d9c32f29> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne6de75d6880b4781a77f8bee30f86039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N22a8e5dfffcd4ac6b495f0b3bb6f0553> <http://schema.org/longitude> "-74.6164"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://schema.org/streetAddress> "PO BOX 6331" .
+<http://lodlaundromat.org/.well-known/genid/N80f83dc1b68a4256828b2f8f659e9cbc> <http://schema.org/addressLocality> "BRIDGEWATER" .
+<http://lodlaundromat.org/.well-known/genid/N2311ad2b60b64a7592af32b1d0991215> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N22a8e5dfffcd4ac6b495f0b3bb6f0553> .
+<http://lodlaundromat.org/.well-known/genid/Ne6de75d6880b4781a77f8bee30f86039> <http://schema.org/value> "148093"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

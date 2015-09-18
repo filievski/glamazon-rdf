@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://schema.org/streetAddress> "15 1ST STREET SOUTH UNIT A-4" .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> .
+<http://lodlaundromat.org/.well-known/genid/N5c18519ccc1a4346ae1da756c6406f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c18519ccc1a4346ae1da756c6406f9c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbaf3043246f545fc98008277116c999d> <http://schema.org/longitude> "-93.2659"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbaf3043246f545fc98008277116c999d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbaf3043246f545fc98008277116c999d> <http://schema.org/latitude> "44.9834"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbaf3043246f545fc98008277116c999d> .
+<http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://schema.org/postalCode> "55401-1805" .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9834&mlon=-93.2659#map=15/44.9834/-93.2659> .
+<http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/name> "MINNESOTA MUSEUM OF AMERICAN PATTERN GLASS"@en .
+<http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> <http://schema.org/id> "8402700667" .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> .
+<http://lodlaundromat.org/.well-known/genid/N5c18519ccc1a4346ae1da756c6406f9c> <http://schema.org/value> "145227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64b257e234a949f8b48250c493ac3b1e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5c18519ccc1a4346ae1da756c6406f9c> .
+<http://lodlaundromat.org/.well-known/genid/N608af7282ffe4264b21eeedc979d7fe4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N13a26d8058444971ba4526a2f889ccfe> <http://schema.org/addressLocality> "MINEAPOLIS" .
+

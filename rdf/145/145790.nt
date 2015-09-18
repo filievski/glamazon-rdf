@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Neeea2e7c21c5490ea6d9dd16a68ea948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neeea2e7c21c5490ea6d9dd16a68ea948> .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/name> "BETHEL SCHOOL HISTORICAL ASSOC"@en .
+<http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://schema.org/addressLocality> "ST JOSEPH" .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na2d4a0be98864addb5fac0d37572faaf> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://schema.org/postalCode> "64503" .
+<http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7373&mlon=-94.8126#map=15/39.7373/-94.8126> .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://schema.org/streetAddress> "3302 SUNNYSIDE DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> <http://schema.org/id> "8402900219" .
+<http://lodlaundromat.org/.well-known/genid/Neeea2e7c21c5490ea6d9dd16a68ea948> <http://schema.org/latitude> "39.7373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2d4a0be98864addb5fac0d37572faaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N33a2dd4f605a44ecac399b6030e4e5fd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na2d4a0be98864addb5fac0d37572faaf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2f9ee47802544ab29f09fa8f31229680> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23d6cc66775a44eb995ca72bb49b2082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Neeea2e7c21c5490ea6d9dd16a68ea948> <http://schema.org/longitude> "-94.8126"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na2d4a0be98864addb5fac0d37572faaf> <http://schema.org/value> "145790"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

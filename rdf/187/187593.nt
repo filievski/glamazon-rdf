@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nde7396671d3749e6a221f543d48ccea2> <http://schema.org/longitude> "8.28346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde7396671d3749e6a221f543d48ccea2> <http://schema.org/latitude> "44.7236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/telephone> "+39 0141967711" .
+<http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/name> "Galleria \"Luigi Bosca\" d\u2019arte moderna"@it .
+<http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> <http://schema.org/streetAddress> "Via Giuliani, 21, " .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7236&mlon=8.28346#map=15/44.7236/8.28346> .
+<http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> .
+<http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> <http://schema.org/id> "105820" .
+<http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> <http://schema.org/addressLocality> "Canelli" .
+<http://lodlaundromat.org/.well-known/genid/N0fdb5e4eba3446c1bade7e107b8716b4> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8cb8f993e879477299c37fc31c5b6914> .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/url> <http://www.bosca.it/> .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nde7396671d3749e6a221f543d48ccea2> .
+<http://lodlaundromat.org/.well-known/genid/Nf020ecb67c004ca3a98d6f502f636bce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf020ecb67c004ca3a98d6f502f636bce> <http://schema.org/value> "187593"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nde7396671d3749e6a221f543d48ccea2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N36bb6604aabf49478ce9d073c0339a14> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf020ecb67c004ca3a98d6f502f636bce> .
+<http://lodlaundromat.org/.well-known/genid/Nf020ecb67c004ca3a98d6f502f636bce> <http://schema.org/name> "id" .
+

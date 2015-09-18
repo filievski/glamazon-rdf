@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://schema.org/streetAddress> "Klausenweg 1" .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4724&mlon=11.1558#map=15/48.4724/11.1558> .
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://schema.org/postalCode> "86551" .
+<http://lodlaundromat.org/.well-known/genid/N72f7be9c4d9846108ceb96611822e2ab> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N74fab3c87723432d99e922668aafcd6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/name> "Schloss Unterwittelsbach"@en .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N74fab3c87723432d99e922668aafcd6b> .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N72f7be9c4d9846108ceb96611822e2ab> .
+<http://lodlaundromat.org/.well-known/genid/N72f7be9c4d9846108ceb96611822e2ab> <http://schema.org/url> <http://www.museums.io/en/museums/182594> .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/telephone> "08251/891869" .
+<http://lodlaundromat.org/.well-known/genid/N74fab3c87723432d99e922668aafcd6b> <http://schema.org/latitude> "48.4724"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N72f7be9c4d9846108ceb96611822e2ab> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N74fab3c87723432d99e922668aafcd6b> <http://schema.org/longitude> "11.1558"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://schema.org/addressLocality> "Aichach" .
+<http://lodlaundromat.org/.well-known/genid/N71c96d1544154180a20ba5ba039719eb> <http://schema.org/value> "182594"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N71c96d1544154180a20ba5ba039719eb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N71c96d1544154180a20ba5ba039719eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/url> <http://www.aichach.de/> .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N71c96d1544154180a20ba5ba039719eb> .
+<http://lodlaundromat.org/.well-known/genid/N72f7be9c4d9846108ceb96611822e2ab> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N37be169e438c4f28b370234440201eb5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5379f4cfcbd04d33aeefb008ff59304d> .
+

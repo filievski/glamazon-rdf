@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> <http://schema.org/id> "8400600066" .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/name> "SPROUL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> .
+<http://lodlaundromat.org/.well-known/genid/N29b8303a827b4d8aaea5e7ae87e1b310> <http://schema.org/latitude> "33.9084"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd64e4648b16a4a67ab22d73623742a19> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://schema.org/streetAddress> "12237 SPROUL ST" .
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd64e4648b16a4a67ab22d73623742a19> .
+<http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd64e4648b16a4a67ab22d73623742a19> <http://schema.org/value> "129940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29b8303a827b4d8aaea5e7ae87e1b310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd64e4648b16a4a67ab22d73623742a19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29b8303a827b4d8aaea5e7ae87e1b310> .
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://schema.org/addressLocality> "NORWALK" .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> .
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://schema.org/postalCode> "90650" .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9084&mlon=-118.072#map=15/33.9084/-118.072> .
+<http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N29b8303a827b4d8aaea5e7ae87e1b310> <http://schema.org/longitude> "-118.072"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c7397eca37e43cebbd5288f8d51da2a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3e46b3d7f0a84610a5e84cc876dcc887> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://schema.org/telephone> "+1 (562) 929-5625" .
+<http://lodlaundromat.org/.well-known/genid/N08a3aeccf6984fe8affeb36464a35a4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

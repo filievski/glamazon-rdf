@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N54cf03ea5f0b4a4aa850106937cddcc8> <http://schema.org/latitude> "39.8845"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N54cf03ea5f0b4a4aa850106937cddcc8> <http://schema.org/longitude> "-90.656"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://schema.org/streetAddress> "PO BOX 92" .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.8845&mlon=-90.656#map=15/39.8845/-90.656> .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N54cf03ea5f0b4a4aa850106937cddcc8> .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nac9dfde16a13439db68f671d20bd42c1> .
+<http://lodlaundromat.org/.well-known/genid/Nac9dfde16a13439db68f671d20bd42c1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/url> <http://vaghs.tripod.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nac9dfde16a13439db68f671d20bd42c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://schema.org/postalCode> "62378" .
+<http://lodlaundromat.org/.well-known/genid/N54cf03ea5f0b4a4aa850106937cddcc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nac9dfde16a13439db68f671d20bd42c1> <http://schema.org/value> "137890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N42f87045f35b42e6b276706a9610f3fa> <http://schema.org/addressLocality> "VERSAILLES" .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/name> "VERSAILLES AREA GENEALOGICAL AND HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N036492aefb9e4b0c999bc2bfbec02c2f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> .
+<http://lodlaundromat.org/.well-known/genid/Ne4bc9174aa004a31a81861887fe2e1e1> <http://schema.org/id> "8401701035" .
+

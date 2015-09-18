@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N08cced549c6046ada404b2c8697b679d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N08cced549c6046ada404b2c8697b679d> .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.4162&mlon=-76.789#map=15/39.4162/-76.789> .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://schema.org/addressLocality> "OWINGS MILLS" .
+<http://lodlaundromat.org/.well-known/genid/N08cced549c6046ada404b2c8697b679d> <http://schema.org/latitude> "39.4162"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://schema.org/postalCode> "21117" .
+<http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> <http://schema.org/id> "8402400292" .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/name> "MOUNT VERNON OF BALTIMORE PRESERVATION FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndffbb26e54d540c8a4fe2b95292e28d6> <http://schema.org/value> "141999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N08cced549c6046ada404b2c8697b679d> <http://schema.org/longitude> "-76.789"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5afdd035fb8641d7b09b20a8c8b59119> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndffbb26e54d540c8a4fe2b95292e28d6> .
+<http://lodlaundromat.org/.well-known/genid/Ne96b8963386845a99c8e8e9f3b6ed4f8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndffbb26e54d540c8a4fe2b95292e28d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1554fe37698a476a9b5999582ea54f54> <http://schema.org/streetAddress> "C/O E SHEEHAN 2730 CAVES ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Ndffbb26e54d540c8a4fe2b95292e28d6> <http://schema.org/name> "id" .
+

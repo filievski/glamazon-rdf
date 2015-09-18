@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2d102f21b1e847dfbe98ab6c8c4ff7e3> <http://schema.org/longitude> "-122.634"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d102f21b1e847dfbe98ab6c8c4ff7e3> <http://schema.org/latitude> "45.426"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.426&mlon=-122.634#map=15/45.426/-122.634> .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://schema.org/postalCode> "97222-7134" .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2d102f21b1e847dfbe98ab6c8c4ff7e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2d102f21b1e847dfbe98ab6c8c4ff7e3> .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://schema.org/addressLocality> "MILWAUKIE" .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://schema.org/streetAddress> "13515 SE MCLOUGHLIN BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/Nd5abbb5ecfe14b0f8819f049b1a03fa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> .
+<http://lodlaundromat.org/.well-known/genid/Nd5abbb5ecfe14b0f8819f049b1a03fa9> <http://schema.org/value> "154346"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> <http://schema.org/id> "8404100139" .
+<http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd5abbb5ecfe14b0f8819f049b1a03fa9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd5abbb5ecfe14b0f8819f049b1a03fa9> .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/name> "WINGS OF FREEDOM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb2446baf75a648518ca4b84a05caadde> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne62445cfd5cb40778440a1d312176c3c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4df307d681a649a9bc00f198837be0ec> .
+

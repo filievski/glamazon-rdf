@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8735&mlon=-77.1344#map=15/38.8735/-77.1344> .
+<http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3a818b12067e4bdeb23914c5dada1053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N824912e53fd546079ba454166b5e929c> .
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://schema.org/postalCode> "22203" .
+<http://lodlaundromat.org/.well-known/genid/N3a818b12067e4bdeb23914c5dada1053> <http://schema.org/latitude> "38.8735"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://schema.org/streetAddress> "601 N MANCHESTER ST" .
+<http://lodlaundromat.org/.well-known/genid/N3a818b12067e4bdeb23914c5dada1053> <http://schema.org/longitude> "-77.1344"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/name> "BLUEMONT HISTORICAL RAILRD JCT"@en .
+<http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> .
+<http://lodlaundromat.org/.well-known/genid/N824912e53fd546079ba454166b5e929c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N824912e53fd546079ba454166b5e929c> <http://schema.org/value> "160670"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N824912e53fd546079ba454166b5e929c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> <http://schema.org/id> "8405100176" .
+<http://lodlaundromat.org/.well-known/genid/N31425c630b7146459452d34e2907d9ef> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3a818b12067e4bdeb23914c5dada1053> .
+<http://lodlaundromat.org/.well-known/genid/Nf9ebba3b00944b67a5a17a4882aa4aed> <http://schema.org/addressLocality> "ARLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/Nea040c4b2b45445ebaff51f0780547bc> <http://schema.org/name> "us" .
+

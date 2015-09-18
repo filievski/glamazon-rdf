@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N94facc3d2bfb4998853d09cc186180b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9186&mlon=-77.0365#map=15/38.9186/-77.0365> .
+<http://lodlaundromat.org/.well-known/genid/N629076f3cf31456da797b741eaa53e1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N94facc3d2bfb4998853d09cc186180b9> <http://schema.org/latitude> "38.9186"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N629076f3cf31456da797b741eaa53e1f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94facc3d2bfb4998853d09cc186180b9> .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://schema.org/addressRegion> "DC" .
+<http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://schema.org/postalCode> "20009-9263" .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://schema.org/addressLocality> "JERSEY CITY" .
+<http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94facc3d2bfb4998853d09cc186180b9> <http://schema.org/longitude> "-77.0365"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> <http://schema.org/id> "8401100089" .
+<http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> <http://schema.org/streetAddress> "2539 JFK BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/name> "WILLIAM MORRIS SOCIETY IN THE UNITED STATES"@en .
+<http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N629076f3cf31456da797b741eaa53e1f> <http://schema.org/value> "134308"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5ea55a6133ef48a49bc882af2391c6f7> .
+<http://lodlaundromat.org/.well-known/genid/N05e58e5dfd4a4a4b85dbf00872f083cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N629076f3cf31456da797b741eaa53e1f> .
+<http://lodlaundromat.org/.well-known/genid/N7bb5f05b11454b8c8a2d783006091c6b> <http://schema.org/url> <http://www.imls.gov/> .
+

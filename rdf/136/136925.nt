@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne9d6260c6419439398b7ae3ede268a40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne9d6260c6419439398b7ae3ede268a40> .
+<http://lodlaundromat.org/.well-known/genid/N53b4db539fb9457498cbe47fa77a01be> <http://schema.org/value> "136925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6929&mlon=-87.6011#map=15/41.6929/-87.6011> .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://schema.org/postalCode> "60628" .
+<http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> <http://schema.org/id> "8401700070" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d6260c6419439398b7ae3ede268a40> <http://schema.org/longitude> "-87.6011"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne9d6260c6419439398b7ae3ede268a40> <http://schema.org/latitude> "41.6929"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N53b4db539fb9457498cbe47fa77a01be> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> .
+<http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/name> "PULLMAN HISTORIC FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://schema.org/streetAddress> "1000 E 111TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N53b4db539fb9457498cbe47fa77a01be> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N54d9c3f3a8c44d8896d3b1233fc1ad2d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9c302d7ca5c34034a462ab9ce90b495c> <http://schema.org/telephone> "+1 (773) 785-1001" .
+<http://lodlaundromat.org/.well-known/genid/N53b4db539fb9457498cbe47fa77a01be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9809022dd49299ca54daa48ec2f09> <http://schema.org/addressRegion> "IL" .
+

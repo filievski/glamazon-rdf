@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nec88c52ce1a74263a3841a85255804f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.017&mlon=-123.088#map=15/44.017/-123.088> .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02a331c7f46046129cc1bf98163eece0> .
+<http://lodlaundromat.org/.well-known/genid/Nec88c52ce1a74263a3841a85255804f7> <http://schema.org/longitude> "-123.088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> <http://schema.org/id> "8404100122" .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nec88c52ce1a74263a3841a85255804f7> .
+<http://lodlaundromat.org/.well-known/genid/N02a331c7f46046129cc1bf98163eece0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02a331c7f46046129cc1bf98163eece0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/name> "HUERTO DE LA FAMILIA - FAMILY GARDEN"@en .
+<http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://schema.org/streetAddress> "3575 DONALD ST" .
+<http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://schema.org/addressLocality> "EUGENE" .
+<http://lodlaundromat.org/.well-known/genid/N6608602cd9aa4ce2be8ccfc89c6eacb2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na8f9c672274d47ad9c4a4409a54805d4> .
+<http://lodlaundromat.org/.well-known/genid/Nec88c52ce1a74263a3841a85255804f7> <http://schema.org/latitude> "44.017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02a331c7f46046129cc1bf98163eece0> <http://schema.org/value> "154329"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N384b27dd89b540a097ed9939c9d28e76> <http://schema.org/postalCode> "97405-4753" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27dc08e1d3f349b88e8c2ff50982b943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9cb870dea7bb4cafba0b17964ebd5041> <http://schema.org/value> "128667"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/name> "HOUSTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27dc08e1d3f349b88e8c2ff50982b943> <http://schema.org/longitude> "-87.2667"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N27dc08e1d3f349b88e8c2ff50982b943> .
+<http://lodlaundromat.org/.well-known/genid/N9cb870dea7bb4cafba0b17964ebd5041> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> <http://schema.org/id> "8400100197" .
+<http://lodlaundromat.org/.well-known/genid/N27dc08e1d3f349b88e8c2ff50982b943> <http://schema.org/latitude> "34.1493"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9cb870dea7bb4cafba0b17964ebd5041> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://schema.org/postalCode> "35572-0074" .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://schema.org/streetAddress> "PO BOX 74" .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1493&mlon=-87.2667#map=15/34.1493/-87.2667> .
+<http://lodlaundromat.org/.well-known/genid/N6676292dc4d54f659514a8d3f37ea422> <http://schema.org/addressLocality> "HOUSTON" .
+<http://lodlaundromat.org/.well-known/genid/Ne688a19c39b541ca8fb7ec82428f0f20> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf54738d6b1194454a4b9ba65afbd3136> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9cb870dea7bb4cafba0b17964ebd5041> .
+

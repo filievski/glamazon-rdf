@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N188f2e56ab474b10aa6cba4f5bd6e7c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N188f2e56ab474b10aa6cba4f5bd6e7c5> <http://schema.org/value> "160318"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://schema.org/streetAddress> "5 CHURCH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/name> "MIDDLESEX HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nac1d4d6e55fe4adb9ab11a175742d77f> <http://schema.org/latitude> "44.2926"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2926&mlon=-72.6796#map=15/44.2926/-72.6796> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://schema.org/addressLocality> "MIDDLESEX" .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N188f2e56ab474b10aa6cba4f5bd6e7c5> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nac1d4d6e55fe4adb9ab11a175742d77f> <http://schema.org/longitude> "-72.6796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0e62368d31454da2dc92e0fac0dce6> <http://schema.org/postalCode> "05602-8790" .
+<http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> <http://schema.org/id> "8405000124" .
+<http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nac1d4d6e55fe4adb9ab11a175742d77f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nac1d4d6e55fe4adb9ab11a175742d77f> .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9db77923d21c47759ed851915e66a086> .
+<http://lodlaundromat.org/.well-known/genid/N3a7b18a8d9c546dfb1953243b9ca55d3> <http://schema.org/telephone> "+1 (802) 229-0499" .
+<http://lodlaundromat.org/.well-known/genid/N188f2e56ab474b10aa6cba4f5bd6e7c5> <http://schema.org/name> "id" .
+

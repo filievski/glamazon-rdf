@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb746b65fdd42407dba25100d13433a04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb746b65fdd42407dba25100d13433a04> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> .
+<http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://schema.org/streetAddress> "503 SOUTH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> <http://schema.org/id> "8401900030" .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4927&mlon=-92.3445#map=15/42.4927/-92.3445> .
+<http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://schema.org/postalCode> "50701-1517" .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/name> "RENSSELAER RUSSELL HOUSE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N28fcc166e9c64fec92d3f980a8953216> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1bae22479944445cbd56d36a60c2737b> <http://schema.org/addressLocality> "WATERLOO" .
+<http://lodlaundromat.org/.well-known/genid/N735b0e41ef6c4d24a34198d2e1572c39> <http://schema.org/longitude> "-92.3445"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb746b65fdd42407dba25100d13433a04> <http://schema.org/value> "138993"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb746b65fdd42407dba25100d13433a04> .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N735b0e41ef6c4d24a34198d2e1572c39> .
+<http://lodlaundromat.org/.well-known/genid/N735b0e41ef6c4d24a34198d2e1572c39> <http://schema.org/latitude> "42.4927"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N735b0e41ef6c4d24a34198d2e1572c39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N30c981952e344e9c8e403fb7f62e2ea8> <http://schema.org/telephone> "+1 (319) 233-0262" .
+

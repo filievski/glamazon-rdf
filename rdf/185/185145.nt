@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Nb48fede9692641268c95e44eda7cf130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1015be3e1d73497c9804dedc6a717d0d> .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://schema.org/url> <http://museum.malax.fi/> .
+<http://lodlaundromat.org/.well-known/genid/N1015be3e1d73497c9804dedc6a717d0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd510a5a1c0984be2a2741970e85b76cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb48fede9692641268c95e44eda7cf130> .
+<http://lodlaundromat.org/.well-known/genid/Nb48fede9692641268c95e44eda7cf130> <http://schema.org/value> "185145"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd510a5a1c0984be2a2741970e85b76cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd510a5a1c0984be2a2741970e85b76cb> .
+<http://lodlaundromat.org/.well-known/genid/Nd510a5a1c0984be2a2741970e85b76cb> <http://schema.org/url> <http://www.museums.io/en/museums/185145> .
+<http://lodlaundromat.org/.well-known/genid/Nd510a5a1c0984be2a2741970e85b76cb> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nb48fede9692641268c95e44eda7cf130> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://schema.org/name> "Kvarken Boat Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc14e8c798ad749588ba8264b107f60da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1015be3e1d73497c9804dedc6a717d0d> <http://schema.org/addressCountry> "Finland" .
+

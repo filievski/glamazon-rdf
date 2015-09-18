@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://schema.org/postalCode> "43212" .
+<http://lodlaundromat.org/.well-known/genid/N159c2042f7714737b7db87572804c69f> <http://schema.org/latitude> "39.9821"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N159c2042f7714737b7db87572804c69f> .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/name> "GRANDVIEW HEIGHTS-MARBLE CLIFF HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://schema.org/addressLocality> "COLUMBUS" .
+<http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N65c4d4dea172432cb2021d8d9e7483b1> <http://schema.org/value> "153581"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N65c4d4dea172432cb2021d8d9e7483b1> .
+<http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> <http://schema.org/streetAddress> "1685 WEST FIRST AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N65c4d4dea172432cb2021d8d9e7483b1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/url> <http://www.ghmchs.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ned362541327444c68a84c0b72f290f44> .
+<http://lodlaundromat.org/.well-known/genid/N159c2042f7714737b7db87572804c69f> <http://schema.org/longitude> "-83.0501"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3e30e9154c6a43319bab37e4c28e7197> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9821&mlon=-83.0501#map=15/39.9821/-83.0501> .
+<http://lodlaundromat.org/.well-known/genid/N159c2042f7714737b7db87572804c69f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N87eef18d23774459a1d07e47e395d9a7> <http://schema.org/id> "8403901359" .
+<http://lodlaundromat.org/.well-known/genid/N65c4d4dea172432cb2021d8d9e7483b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

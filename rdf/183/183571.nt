@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8fe29495c734445f8a1a3b7349aa76b9> <http://schema.org/value> "183571"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://schema.org/streetAddress> "Bergkristallstra\u00DFe 1" .
+<http://lodlaundromat.org/.well-known/genid/N703445a684504d12a09c38738ece925f> <http://schema.org/url> <http://www.museums.io/en/museums/183571> .
+<http://lodlaundromat.org/.well-known/genid/N703445a684504d12a09c38738ece925f> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9930e5eb63094b9da308552b792bb9f0> <http://schema.org/latitude> "48.9593"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9930e5eb63094b9da308552b792bb9f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.9593&mlon=11.6897#map=15/48.9593/11.6897> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/name> "Kristallmuseum Riedenburg"@en .
+<http://lodlaundromat.org/.well-known/genid/N703445a684504d12a09c38738ece925f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8fe29495c734445f8a1a3b7349aa76b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9930e5eb63094b9da308552b792bb9f0> .
+<http://lodlaundromat.org/.well-known/genid/N703445a684504d12a09c38738ece925f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9930e5eb63094b9da308552b792bb9f0> <http://schema.org/longitude> "11.6897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/url> <http://www.kristallmuseum-riedenburg.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N703445a684504d12a09c38738ece925f> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8fe29495c734445f8a1a3b7349aa76b9> .
+<http://lodlaundromat.org/.well-known/genid/N8fe29495c734445f8a1a3b7349aa76b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://schema.org/postalCode> "93339" .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://schema.org/addressLocality> "Riedenburg" .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> .
+<http://lodlaundromat.org/.well-known/genid/N3e2a5d763e324378910e11e79649d7ee> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/Nb5ec102a62d448bb9bfa6ccc8317dc52> <http://schema.org/telephone> "09442/1811" .
+

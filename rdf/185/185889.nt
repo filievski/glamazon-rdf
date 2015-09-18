@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9a47df4999ac4cdeb6355e7e0b118d87> <http://schema.org/latitude> "38.7504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b2bcb5f643a4994aa3dfadd94e749a8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9a47df4999ac4cdeb6355e7e0b118d87> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> .
+<http://lodlaundromat.org/.well-known/genid/N727a66e4b7804cb5950ee3631e3e74a3> <http://schema.org/contentUrl> <http://images.museums.io/aeCJ3hBoej0YInucsDETUN-hGo0=/1000x1000/museums/logos/000/185/889/original/713165284a58b92b74a6d8ce6d456121c22e41f.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> <http://schema.org/id> "111065" .
+<http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/url> <http://www.comune.polia.vv.it/> .
+<http://lodlaundromat.org/.well-known/genid/N1b2bcb5f643a4994aa3dfadd94e749a8> <http://schema.org/value> "185889"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/telephone> "+39 0963 321091" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.7504&mlon=16.3115#map=15/38.7504/16.3115> .
+<http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> <http://schema.org/addressLocality> "Polia" .
+<http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1cb01b351ca24d718600de850ff27e59> <http://schema.org/streetAddress> "Via Pace" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N727a66e4b7804cb5950ee3631e3e74a3> .
+<http://lodlaundromat.org/.well-known/genid/N3e456cf61ca64ecd928d5e3fd8235f32> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N727a66e4b7804cb5950ee3631e3e74a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N1b2bcb5f643a4994aa3dfadd94e749a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9a47df4999ac4cdeb6355e7e0b118d87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/name> "Museo civico Fortunato Gaccetta"@it .
+<http://lodlaundromat.org/.well-known/genid/Ne8c9833f827f4a33bb3ee89737ce2218> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1b2bcb5f643a4994aa3dfadd94e749a8> .
+<http://lodlaundromat.org/.well-known/genid/N9a47df4999ac4cdeb6355e7e0b118d87> <http://schema.org/longitude> "16.3115"^^<http://www.w3.org/2001/XMLSchema#double> .
+

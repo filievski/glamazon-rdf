@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N337fe471a59846acb69d3a41b3e23c40> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> .
+<http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N61740d964f884e1090f9c3c4a26102db> <http://schema.org/value> "151178"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N61740d964f884e1090f9c3c4a26102db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/telephone> "+1 (919) 962-1172" .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://schema.org/streetAddress> "3930 UNIVERSITY OF NC" .
+<http://lodlaundromat.org/.well-known/genid/N337fe471a59846acb69d3a41b3e23c40> <http://schema.org/latitude> "35.9031"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N61740d964f884e1090f9c3c4a26102db> .
+<http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N61740d964f884e1090f9c3c4a26102db> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://schema.org/postalCode> "27599" .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://schema.org/addressLocality> "CHAPEL HILL" .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/name> "NORTH CAROLINA COLLECTION GLLY"@en .
+<http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> <http://schema.org/id> "8403700049" .
+<http://lodlaundromat.org/.well-known/genid/N337fe471a59846acb69d3a41b3e23c40> <http://schema.org/longitude> "-79.051"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N84f594936ccb488680785b3b8b2864b9> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N337fe471a59846acb69d3a41b3e23c40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3233b94aaa784270a1ffa7ff1669ee98> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N606508f0507f45b680eb123e9bf6e5c9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.9031&mlon=-79.051#map=15/35.9031/-79.051> .
+

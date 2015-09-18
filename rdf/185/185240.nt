@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nd66cca3d035c42f0b890dc086f90af66> <http://schema.org/url> <http://www.museums.io/en/museums/185240> .
+<http://lodlaundromat.org/.well-known/genid/Nd66cca3d035c42f0b890dc086f90af66> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd66cca3d035c42f0b890dc086f90af66> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c7e051207f4a689259f96e70f16d96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c7e051207f4a689259f96e70f16d96> <http://schema.org/value> "185240"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/name> "Nakkila Museum, Cheesemaking Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd2c314959dc44d868d20dcf97d8bcc77> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd2c314959dc44d868d20dcf97d8bcc77> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=22.0&mlon=22.0#map=15/22.0/22.0> .
+<http://lodlaundromat.org/.well-known/genid/Nd66cca3d035c42f0b890dc086f90af66> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nd66cca3d035c42f0b890dc086f90af66> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf4c7e051207f4a689259f96e70f16d96> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N217e5cd4808c4725adbad768ba237e22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/url> <http://aikamatkasatakunnassa.fi/kohteet/nakkilan-kotiseutumuseo/> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf4c7e051207f4a689259f96e70f16d96> .
+<http://lodlaundromat.org/.well-known/genid/Nd2c314959dc44d868d20dcf97d8bcc77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0773fb5d30f64b03a8bd554dfde82d9d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N217e5cd4808c4725adbad768ba237e22> .
+<http://lodlaundromat.org/.well-known/genid/N217e5cd4808c4725adbad768ba237e22> <http://schema.org/latitude> "22.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N217e5cd4808c4725adbad768ba237e22> <http://schema.org/longitude> "22.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+

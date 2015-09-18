@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> <http://schema.org/id> "8403700175" .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/url> <http://www.ncsu.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4730dbdfbde0489ead4a41bc39ab25a3> <http://schema.org/latitude> "35.8136"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> .
+<http://lodlaundromat.org/.well-known/genid/N4730dbdfbde0489ead4a41bc39ab25a3> <http://schema.org/longitude> "-78.7222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na0b5519271c24770b33f322ddb10a225> .
+<http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na0b5519271c24770b33f322ddb10a225> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> .
+<http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> <http://schema.org/addressLocality> "RALEIGH" .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4730dbdfbde0489ead4a41bc39ab25a3> .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.8136&mlon=-78.7222#map=15/35.8136/-78.7222> .
+<http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4730dbdfbde0489ead4a41bc39ab25a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5b17a2e798a44fe3ac32b3b4d60acfd0> <http://schema.org/postalCode> "27695-0001" .
+<http://lodlaundromat.org/.well-known/genid/Na0b5519271c24770b33f322ddb10a225> <http://schema.org/value> "151304"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N374776aaa6414eb686a309963de11072> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na0b5519271c24770b33f322ddb10a225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://schema.org/name> "NORTH CAROLINA STATE UNIVERSITY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f9b06aca37a4afbb36bf16b57ebd88b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

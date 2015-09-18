@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf0ae7748d42e42d48bd2eb050f7cedf7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.1115&mlon=147.063#map=15/-38.1115/147.063> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf0ae7748d42e42d48bd2eb050f7cedf7> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> .
+<http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne2aa368cc87547879342123b44692318> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N960b806f423740efa690bbc496dc7199> <http://schema.org/value> "164278"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf0ae7748d42e42d48bd2eb050f7cedf7> <http://schema.org/longitude> "147.063"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf0ae7748d42e42d48bd2eb050f7cedf7> <http://schema.org/latitude> "-38.1115"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N960b806f423740efa690bbc496dc7199> .
+<http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> <http://schema.org/url> <http://victoriancollections.net.au/organisations/sale-historical-museum> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N960b806f423740efa690bbc496dc7199> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N960b806f423740efa690bbc496dc7199> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc269ecb07c304d789672306a360048fa> <http://schema.org/id> "sale-historical-museum" .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne2aa368cc87547879342123b44692318> .
+<http://lodlaundromat.org/.well-known/genid/N6d190c30106144d3b8c070c65ab5b0ba> <http://schema.org/name> "Sale Historical Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne2aa368cc87547879342123b44692318> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N3721086c208047d7aaa5bae8a7d29a61> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N15915735ca5a4baf99ea24cb1bd55db3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3721086c208047d7aaa5bae8a7d29a61> <http://schema.org/value> "185450"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N15915735ca5a4baf99ea24cb1bd55db3> .
+<http://lodlaundromat.org/.well-known/genid/N15915735ca5a4baf99ea24cb1bd55db3> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N3c4ff41752fc4ae19e01de87a10612f6> <http://schema.org/url> <http://www.museums.io/en/museums/185450> .
+<http://lodlaundromat.org/.well-known/genid/N3c4ff41752fc4ae19e01de87a10612f6> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://schema.org/url> <http://www.haapavesi.fi/?lang=fi&cg=572&sg=1308&ssg=1311&pid=1311> .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://schema.org/name> "Haapavesi Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3721086c208047d7aaa5bae8a7d29a61> .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c4ff41752fc4ae19e01de87a10612f6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e6897ca825f4370835543d07ae1c66f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3c4ff41752fc4ae19e01de87a10612f6> .
+<http://lodlaundromat.org/.well-known/genid/N3c4ff41752fc4ae19e01de87a10612f6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3721086c208047d7aaa5bae8a7d29a61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

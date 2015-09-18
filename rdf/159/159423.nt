@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2ca4891723a04737b026e572d4bbd80b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.0824&mlon=-95.5056#map=15/32.0824/-95.5056> .
+<http://lodlaundromat.org/.well-known/genid/Na9a51aa157d449f28e6272ab175baa6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://schema.org/addressLocality> "FRANKSTON" .
+<http://lodlaundromat.org/.well-known/genid/N2ca4891723a04737b026e572d4bbd80b> <http://schema.org/latitude> "32.0824"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://schema.org/postalCode> "75763-0639" .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> .
+<http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> <http://schema.org/id> "8404801523" .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ca4891723a04737b026e572d4bbd80b> .
+<http://lodlaundromat.org/.well-known/genid/Na9a51aa157d449f28e6272ab175baa6e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://schema.org/streetAddress> "PO BOX 639" .
+<http://lodlaundromat.org/.well-known/genid/Na9a51aa157d449f28e6272ab175baa6e> <http://schema.org/value> "159423"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/name> "FRANKSTON DEPOT LIBRARY & MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na9a51aa157d449f28e6272ab175baa6e> .
+<http://lodlaundromat.org/.well-known/genid/N2ca4891723a04737b026e572d4bbd80b> <http://schema.org/longitude> "-95.5056"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N838863c5277c478691349c388a0c0207> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> .
+<http://lodlaundromat.org/.well-known/genid/N164f3db0c0dc4feba1a383f2ef822a53> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N8612729a01414ef7b54b767ec6a4d4c5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nebea8b08e46040c2b698a995967765fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> .
+<http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> .
+<http://lodlaundromat.org/.well-known/genid/Nebea8b08e46040c2b698a995967765fe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0323139e3cf74f2bb414a8df664a30d0> <http://schema.org/latitude> "34.0014"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://schema.org/addressLocality> "MARIETTA" .
+<http://lodlaundromat.org/.well-known/genid/Nebea8b08e46040c2b698a995967765fe> <http://schema.org/value> "136039"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://schema.org/streetAddress> "2101 HAWTHORNE POINT" .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0014&mlon=-84.4305#map=15/34.0014/-84.4305> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nebea8b08e46040c2b698a995967765fe> .
+<http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> <http://schema.org/id> "8401300310" .
+<http://lodlaundromat.org/.well-known/genid/N23d7f8b4a572435882042fe08b9e97a9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0323139e3cf74f2bb414a8df664a30d0> <http://schema.org/longitude> "-84.4305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0323139e3cf74f2bb414a8df664a30d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/name> "MARTI HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N92f7d325016c48568ec46ad65223e2b8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0323139e3cf74f2bb414a8df664a30d0> .
+<http://lodlaundromat.org/.well-known/genid/N7da289a18fe94d39a5696d192dc31743> <http://schema.org/postalCode> "30062-6018" .
+

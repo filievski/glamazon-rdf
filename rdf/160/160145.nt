@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf3361fe796cc4b6a819d6e96de6c3e20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/name> "BRIGHAM YOUNG FAMILY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://schema.org/postalCode> "84103-4427" .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://schema.org/streetAddress> "1495 ARLINTON DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> <http://schema.org/id> "8404900211" .
+<http://lodlaundromat.org/.well-known/genid/Nf3361fe796cc4b6a819d6e96de6c3e20> <http://schema.org/longitude> "-111.846"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08dcaec6e50c4d069823267ff84e1901> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7752&mlon=-111.846#map=15/40.7752/-111.846> .
+<http://lodlaundromat.org/.well-known/genid/N08dcaec6e50c4d069823267ff84e1901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N08dcaec6e50c4d069823267ff84e1901> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N846157f223db43bfa6f56a62a1b5b296> <http://schema.org/addressLocality> "SALT LAKE CITY" .
+<http://lodlaundromat.org/.well-known/genid/N08dcaec6e50c4d069823267ff84e1901> <http://schema.org/value> "160145"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf3361fe796cc4b6a819d6e96de6c3e20> <http://schema.org/latitude> "40.7752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93e844c5ff534ed3a2dbd909aa89c036> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf3361fe796cc4b6a819d6e96de6c3e20> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6949c148214ed29267979622ffb6d9> <http://schema.org/@Type> "Dataset" .
+

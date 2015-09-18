@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nedba0c76a46d43deb87ea9c57fb8a188> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nedba0c76a46d43deb87ea9c57fb8a188> <http://schema.org/value> "133458"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd30561b6bab482d9a96899cf5c92639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nedba0c76a46d43deb87ea9c57fb8a188> .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://schema.org/addressLocality> "WOODLAND PARK" .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncd30561b6bab482d9a96899cf5c92639> .
+<http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> .
+<http://lodlaundromat.org/.well-known/genid/Nedba0c76a46d43deb87ea9c57fb8a188> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncd30561b6bab482d9a96899cf5c92639> <http://schema.org/latitude> "38.9941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncd30561b6bab482d9a96899cf5c92639> <http://schema.org/longitude> "-105.056"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://schema.org/streetAddress> "PO BOX 368" .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://schema.org/postalCode> "80866" .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/name> "TELLER HISTORIC AND ENVIRONMENTAL COALITION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N19944ac0d23a4f8c89c0c1697c6bf0d7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1d1bf46f79b34a07bd2a0b14e99d737c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9941&mlon=-105.056#map=15/38.9941/-105.056> .
+<http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> <http://schema.org/id> "8400800634" .
+<http://lodlaundromat.org/.well-known/genid/N61697b8938ab406999c26b4a4a2c726e> <http://schema.org/@Type> "Dataset" .
+

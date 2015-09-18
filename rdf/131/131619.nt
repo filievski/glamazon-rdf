@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N705d978546bc41b39579f1a715378800> .
+<http://lodlaundromat.org/.well-known/genid/N705d978546bc41b39579f1a715378800> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N705d978546bc41b39579f1a715378800> <http://schema.org/value> "131619"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N407d1872d071468abcede4d70067b9a8> <http://schema.org/latitude> "39.5606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://schema.org/addressLocality> "DOWNIEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N407d1872d071468abcede4d70067b9a8> .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5606&mlon=-120.83#map=15/39.5606/-120.83> .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/name> "DOWNIEVILLE FOUNDRY AND HISTORICAL PARK COMPANY"@en .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://schema.org/postalCode> "95936" .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N705d978546bc41b39579f1a715378800> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb6791c7959a3406fa3481123ac7dd8a3> <http://schema.org/streetAddress> "PO BOX 524" .
+<http://lodlaundromat.org/.well-known/genid/N407d1872d071468abcede4d70067b9a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> <http://schema.org/id> "8400601745" .
+<http://lodlaundromat.org/.well-known/genid/N407d1872d071468abcede4d70067b9a8> <http://schema.org/longitude> "-120.83"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36fc9506fde4466c8307182d1752774a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e237e4d2f44ce9f31ad0ac7b2d0bd> <http://schema.org/@Type> "Dataset" .
+

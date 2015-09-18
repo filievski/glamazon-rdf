@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://schema.org/streetAddress> "PO BOX 80222" .
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1212&mlon=-118.109#map=15/34.1212/-118.109> .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2bc5a89ec66e4dd88e74120a1d86c90b> .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/name> "SAN MARINO HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> .
+<http://lodlaundromat.org/.well-known/genid/N7042bdd3a844461189a9dbfa22cf6260> <http://schema.org/latitude> "34.1212"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://schema.org/postalCode> "91108" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5a89ec66e4dd88e74120a1d86c90b> <http://schema.org/value> "130831"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> <http://schema.org/id> "8400600957" .
+<http://lodlaundromat.org/.well-known/genid/N7042bdd3a844461189a9dbfa22cf6260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N33e97dcfce2c42deaf6bf00b2b36dfa8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7042bdd3a844461189a9dbfa22cf6260> .
+<http://lodlaundromat.org/.well-known/genid/N4d06d362b7d04e8da148a9cd719edf69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://schema.org/addressLocality> "SAN MARINO" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5a89ec66e4dd88e74120a1d86c90b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5a89ec66e4dd88e74120a1d86c90b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7042bdd3a844461189a9dbfa22cf6260> <http://schema.org/longitude> "-118.109"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41b8cf462198468bafa30ee7bc698320> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

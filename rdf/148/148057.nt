@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6da235c2dced4aa19bae2e114b26fc08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> <http://schema.org/id> "8403400425" .
+<http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> .
+<http://lodlaundromat.org/.well-known/genid/Nc64067b718954d5cabc442d1451430b5> <http://schema.org/latitude> "39.328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://schema.org/postalCode> "08402-2602" .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc64067b718954d5cabc442d1451430b5> <http://schema.org/longitude> "-74.4993"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.328&mlon=-74.4993#map=15/39.328/-74.4993> .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/name> "MARGATE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://schema.org/streetAddress> "8100 ATLANTIC AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://schema.org/addressLocality> "MARGATE CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nc64067b718954d5cabc442d1451430b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na6e27f85b8c34ed0b1c2b5ab3d02eb2b> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc64067b718954d5cabc442d1451430b5> .
+<http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6da235c2dced4aa19bae2e114b26fc08> .
+<http://lodlaundromat.org/.well-known/genid/N6da235c2dced4aa19bae2e114b26fc08> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb53c1394ea58448f9a6b14066412e20d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc694d1eddf834e2eb5f193f6eede0f69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6da235c2dced4aa19bae2e114b26fc08> <http://schema.org/value> "148057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

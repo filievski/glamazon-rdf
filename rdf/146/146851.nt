@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N670578ca06d54550a2ad7fcc54c525d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N670578ca06d54550a2ad7fcc54c525d9> .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/name> "THE DURHAM MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N670578ca06d54550a2ad7fcc54c525d9> <http://schema.org/value> "146851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2631b83968334f10a3bdc007abcf82c7> .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/url> <http://www.durhammuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N2631b83968334f10a3bdc007abcf82c7> <http://schema.org/latitude> "41.2506"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N670578ca06d54550a2ad7fcc54c525d9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://schema.org/streetAddress> "801 S 10TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2631b83968334f10a3bdc007abcf82c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://schema.org/addressLocality> "OMAHA" .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2506&mlon=-95.9293#map=15/41.2506/-95.9293> .
+<http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd5bbbaab9d1437b8a75eb49f6e500c0> <http://schema.org/id> "8403100190" .
+<http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> <http://schema.org/postalCode> "68108-3207" .
+<http://lodlaundromat.org/.well-known/genid/N4d04a8d06870456dbc642cf3cf9ed4f2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N54edc847efe04e1fadcf95fde615bf19> .
+<http://lodlaundromat.org/.well-known/genid/N2631b83968334f10a3bdc007abcf82c7> <http://schema.org/longitude> "-95.9293"^^<http://www.w3.org/2001/XMLSchema#double> .
+

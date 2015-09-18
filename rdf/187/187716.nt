@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N60edcc8b57ea4cad83f947d69f4eeb95> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3867&mlon=7.83159#map=15/44.3867/7.83159> .
+<http://lodlaundromat.org/.well-known/genid/N60edcc8b57ea4cad83f947d69f4eeb95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/name> "Museo civico della stampa"@it .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> .
+<http://lodlaundromat.org/.well-known/genid/N503546fba2ad403c84f9950860365de6> <http://schema.org/latitude> "44.3867"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60edcc8b57ea4cad83f947d69f4eeb95> .
+<http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> <http://schema.org/streetAddress> "Via Misericordia, 3, " .
+<http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N503546fba2ad403c84f9950860365de6> .
+<http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/telephone> "+39 " .
+<http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> .
+<http://lodlaundromat.org/.well-known/genid/N0429b7fe9b064a368c7e3570d12de312> <http://schema.org/url> <http://www.comune.mondovi.cn.it/> .
+<http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N26502b1aa21547ee8384181c6b8def0a> <http://schema.org/id> "102598" .
+<http://lodlaundromat.org/.well-known/genid/N70269799d95f4c1d80a860d17e7b6ff6> <http://schema.org/addressLocality> "Mondov\u00EC" .
+<http://lodlaundromat.org/.well-known/genid/N503546fba2ad403c84f9950860365de6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N60edcc8b57ea4cad83f947d69f4eeb95> <http://schema.org/value> "187716"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N503546fba2ad403c84f9950860365de6> <http://schema.org/longitude> "7.83159"^^<http://www.w3.org/2001/XMLSchema#double> .
+

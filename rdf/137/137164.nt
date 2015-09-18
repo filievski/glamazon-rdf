@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/name> "FRIENDS OF BOHEMIAN NATIONAL CEMETERY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> .
+<http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd0707623a300426bb6c3647daae4f74f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd2da7a8773e54e62b641aa1c855699b6> .
+<http://lodlaundromat.org/.well-known/genid/Nd2da7a8773e54e62b641aa1c855699b6> <http://schema.org/value> "137164"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> .
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://schema.org/postalCode> "60630-1775" .
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://schema.org/streetAddress> "5255 N PULASKI RD" .
+<http://lodlaundromat.org/.well-known/genid/Nd0707623a300426bb6c3647daae4f74f> <http://schema.org/longitude> "-87.9466"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0707623a300426bb6c3647daae4f74f> <http://schema.org/latitude> "42.2702"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd2da7a8773e54e62b641aa1c855699b6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2702&mlon=-87.9466#map=15/42.2702/-87.9466> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/url> <http://www.friendsofbnc.org/> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd0707623a300426bb6c3647daae4f74f> .
+<http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N91e9f2ed31bc46ebbc93d64e5694ec6f> <http://schema.org/id> "8401700309" .
+<http://lodlaundromat.org/.well-known/genid/Nae3c1340210f4be4b14b24fd4e85a77e> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Nd2da7a8773e54e62b641aa1c855699b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4f062c54dd8f4ec99a65f09a9ec1d6e1> <http://schema.org/telephone> "+1 (847) 362-9036" .
+

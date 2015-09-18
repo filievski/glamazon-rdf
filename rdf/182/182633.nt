@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd60d02f44bb74610a499b2c76821fac1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd48013aa67024606aed0ad5685c96c48> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd60d02f44bb74610a499b2c76821fac1> .
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/name> "Heimatmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd60d02f44bb74610a499b2c76821fac1> <http://schema.org/longitude> "9.03613"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N28016b65aa44448089fd8ad120b3ddfb> <http://schema.org/url> <http://www.museums.io/en/museums/182633> .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd48013aa67024606aed0ad5685c96c48> .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N28016b65aa44448089fd8ad120b3ddfb> .
+<http://lodlaundromat.org/.well-known/genid/Nd60d02f44bb74610a499b2c76821fac1> <http://schema.org/latitude> "50.0407"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://schema.org/addressLocality> "Karlstein" .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/url> <http://www.www.geschichtsverein-karlstein.de/> .
+<http://lodlaundromat.org/.well-known/genid/N28016b65aa44448089fd8ad120b3ddfb> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N28016b65aa44448089fd8ad120b3ddfb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://schema.org/streetAddress> "Schulstra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.0407&mlon=9.03613#map=15/50.0407/9.03613> .
+<http://lodlaundromat.org/.well-known/genid/Nd48013aa67024606aed0ad5685c96c48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd48013aa67024606aed0ad5685c96c48> <http://schema.org/value> "182633"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N28016b65aa44448089fd8ad120b3ddfb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N25d9693bdf2a440bad34dce10c1f695e> <http://schema.org/telephone> "06188/784-0" .
+<http://lodlaundromat.org/.well-known/genid/N44c4d2f6a550475e90f12b3c1fa0a1f3> <http://schema.org/postalCode> "63791" .
+

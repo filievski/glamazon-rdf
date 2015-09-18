@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://schema.org/addressLocality> "YORKTOWN" .
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/name> "LONGSTREETS CORP"@en .
+<http://lodlaundromat.org/.well-known/genid/Nac7e1bf7babb458d9a44a865530afa42> <http://schema.org/longitude> "-76.4219"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09fb6410fab04a6cba4858b41be121d7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09fb6410fab04a6cba4858b41be121d7> <http://schema.org/value> "161359"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09fb6410fab04a6cba4858b41be121d7> .
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://schema.org/postalCode> "23059-4532" .
+<http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> <http://schema.org/id> "8405100865" .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nac7e1bf7babb458d9a44a865530afa42> .
+<http://lodlaundromat.org/.well-known/genid/Nac7e1bf7babb458d9a44a865530afa42> <http://schema.org/latitude> "37.1309"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09fb6410fab04a6cba4858b41be121d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> .
+<http://lodlaundromat.org/.well-known/genid/N38b1a9346845421d9ea88256bc7bb3fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.1309&mlon=-76.4219#map=15/37.1309/-76.4219> .
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://schema.org/streetAddress> "106 MASSIE LANE" .
+<http://lodlaundromat.org/.well-known/genid/Nac7e1bf7babb458d9a44a865530afa42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nafd068988a2f47b5a19e6a308f440ae2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N747d076680f648f5b8430a7b47dd3f3b> <http://schema.org/url> <http://www.imls.gov/> .
+

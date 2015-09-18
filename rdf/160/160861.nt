@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://schema.org/streetAddress> "65 MARLBOROUGH POINT RD" .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N69e3d6b25c4d43498cb4490c4de1ccbf> <http://schema.org/value> "160861"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N322032422bae49108b7fc44a3364f9b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N69e3d6b25c4d43498cb4490c4de1ccbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N322032422bae49108b7fc44a3364f9b6> <http://schema.org/latitude> "38.3742"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://schema.org/addressLocality> "STAFFORD" .
+<http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> <http://schema.org/id> "8405100367" .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/name> "FRIENDS OF STAFFORD CIVIL WAR SITES"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N69e3d6b25c4d43498cb4490c4de1ccbf> .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/telephone> "+1 (540) 659-8395" .
+<http://lodlaundromat.org/.well-known/genid/N08b2e0ecc94f4f649e3c54dff62660db> <http://schema.org/postalCode> "22554-5702" .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N322032422bae49108b7fc44a3364f9b6> .
+<http://lodlaundromat.org/.well-known/genid/N69e3d6b25c4d43498cb4490c4de1ccbf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.3742&mlon=-77.3197#map=15/38.3742/-77.3197> .
+<http://lodlaundromat.org/.well-known/genid/N322032422bae49108b7fc44a3364f9b6> <http://schema.org/longitude> "-77.3197"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne938d2695e084ca7842eae4f18f03875> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26e080b292654b8f89ad780235c197a7> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N95cc6de22bbf41d786bf1564a9bd888b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N95cc6de22bbf41d786bf1564a9bd888b> <http://schema.org/value> "152533"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc67ce96985cf4208bc941e26393af78d> <http://schema.org/longitude> "-82.8628"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc67ce96985cf4208bc941e26393af78d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95cc6de22bbf41d786bf1564a9bd888b> .
+<http://lodlaundromat.org/.well-known/genid/N95cc6de22bbf41d786bf1564a9bd888b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/url> <http://www.civilwarphotography.org/> .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0415&mlon=-82.8628#map=15/40.0415/-82.8628> .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://schema.org/streetAddress> "947 E JOHNSTOWN ROAD 161" .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/name> "CENTER FOR CIVIL WAR PHOTOGRAPHY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc67ce96985cf4208bc941e26393af78d> <http://schema.org/latitude> "40.0415"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc67ce96985cf4208bc941e26393af78d> .
+<http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> <http://schema.org/id> "8403900310" .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://schema.org/postalCode> "43230-1851" .
+<http://lodlaundromat.org/.well-known/genid/N993c799b7b43490e90edf1a3b1cab34c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N10a22a1b1ca748c3ae1969712157ff78> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> .
+<http://lodlaundromat.org/.well-known/genid/N03b3c1ffed75477cb4ea7e7f144ada94> <http://schema.org/addressLocality> "GAHANNA" .
+

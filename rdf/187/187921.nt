@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2d750fc73ca246dda7b101ad5788bdfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2f976384a2554ee6b0e0f0b28c87b001> <http://schema.org/value> "187921"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/name> "Museo A come Ambiente"@it .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2f976384a2554ee6b0e0f0b28c87b001> .
+<http://lodlaundromat.org/.well-known/genid/N2d750fc73ca246dda7b101ad5788bdfd> <http://schema.org/latitude> "45.09"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d750fc73ca246dda7b101ad5788bdfd> <http://schema.org/longitude> "7.66357"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> <http://schema.org/addressLocality> "Torino" .
+<http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> <http://schema.org/streetAddress> "Corso Umbria, 90, " .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2d750fc73ca246dda7b101ad5788bdfd> .
+<http://lodlaundromat.org/.well-known/genid/N2f976384a2554ee6b0e0f0b28c87b001> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/url> <http://www.museoambiente.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> .
+<http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> <http://schema.org/id> "103892" .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.09&mlon=7.66357#map=15/45.09/7.66357> .
+<http://lodlaundromat.org/.well-known/genid/N2f976384a2554ee6b0e0f0b28c87b001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf50dde37d24e458cb5e67bcff5cd54bb> .
+<http://lodlaundromat.org/.well-known/genid/N1154f04156dd4d948e93c274e24471ad> <http://schema.org/telephone> "+39 0110702535" .
+<http://lodlaundromat.org/.well-known/genid/N10cf1e2c955941258c7da5cda8f55cb9> <http://schema.org/name> "itapi" .
+

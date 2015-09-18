@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N07e67fb37d924462b4baef67aedb4607> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc481f9c526b04ecf90fabdc9c39c99fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na886c8309efd4b8884d27cb59904478b> .
+<http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc481f9c526b04ecf90fabdc9c39c99fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na886c8309efd4b8884d27cb59904478b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/openingHours> "Open every day except Good Friday, Christmas and New Years Day.  \r\n10.00am - 4.00pm \r\nPublic Holidays 1.00pm - 4.00pm "@en .
+<http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N07e67fb37d924462b4baef67aedb4607> .
+<http://lodlaundromat.org/.well-known/genid/Na886c8309efd4b8884d27cb59904478b> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N07e67fb37d924462b4baef67aedb4607> <http://schema.org/latitude> "-36.3804"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc481f9c526b04ecf90fabdc9c39c99fc> <http://schema.org/value> "164292"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N07e67fb37d924462b4baef67aedb4607> <http://schema.org/longitude> "145.404"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> <http://schema.org/url> <http://victoriancollections.net.au/organisations/shepparton-art-museum> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.3804&mlon=145.404#map=15/-36.3804/145.404> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/name> "Shepparton Art Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc481f9c526b04ecf90fabdc9c39c99fc> .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/telephone> "(03) 5832 9861" .
+<http://lodlaundromat.org/.well-known/genid/N188f200e2cff40288be09c42de0365ae> <http://schema.org/id> "shepparton-art-museum" .
+<http://lodlaundromat.org/.well-known/genid/N6fc19a4610544b2abf5779d8652f84c1> <http://schema.org/url> <http://www.sheppartonartmuseum.com.au/> .
+

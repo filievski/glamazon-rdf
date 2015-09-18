@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N264e887961b5400c87df071d5fc32fa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N264e887961b5400c87df071d5fc32fa1> <http://schema.org/latitude> "38.5373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nec58592ab8f3438c9f7d7c095d303445> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5373&mlon=-90.5328#map=15/38.5373/-90.5328> .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N264e887961b5400c87df071d5fc32fa1> <http://schema.org/longitude> "-90.5328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://schema.org/addressLocality> "VALLEY PARK" .
+<http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> <http://schema.org/id> "8402900362" .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://schema.org/postalCode> "63088-2036" .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> <http://schema.org/streetAddress> "125 BALD EAGLE RIDGE RD" .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> .
+<http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nec58592ab8f3438c9f7d7c095d303445> <http://schema.org/value> "145933"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N261b9a1e1a0143febe0ca38e2530c5ba> .
+<http://lodlaundromat.org/.well-known/genid/Nec58592ab8f3438c9f7d7c095d303445> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/telephone> "+1 (636) 861-1392" .
+<http://lodlaundromat.org/.well-known/genid/Nec58592ab8f3438c9f7d7c095d303445> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6d6b64227fef43b4bc245035db7701e8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/url> <http://www.worldbirdsanctuary.org/> .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/name> "WORLD BIRD SANCTUARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N859dbcd826564efa99a54e6ba51736b9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N264e887961b5400c87df071d5fc32fa1> .
+

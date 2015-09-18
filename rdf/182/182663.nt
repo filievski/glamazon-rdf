@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://schema.org/streetAddress> "Oberer Kirchweg 9" .
+<http://lodlaundromat.org/.well-known/genid/Ne48aed01f60142db961cd0e712e4475f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/telephone> "09561/66301" .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne48aed01f60142db961cd0e712e4475f> .
+<http://lodlaundromat.org/.well-known/genid/N0c8c626c163d47ae92a10fa8c64cf804> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.2837&mlon=10.9946#map=15/50.2837/10.9946> .
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://schema.org/addressLocality> "D\u00F6rfles-Esbach" .
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://schema.org/postalCode> "96487" .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/name> "Schiefer- und Ziegelmuseum D\u00F6rfles-Esbach"@en .
+<http://lodlaundromat.org/.well-known/genid/N3eccb6f9220f470197f15828ffec8232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c8c626c163d47ae92a10fa8c64cf804> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3eccb6f9220f470197f15828ffec8232> <http://schema.org/latitude> "50.2837"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N0c8c626c163d47ae92a10fa8c64cf804> <http://schema.org/url> <http://www.museums.io/en/museums/182663> .
+<http://lodlaundromat.org/.well-known/genid/Ne48aed01f60142db961cd0e712e4475f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3eccb6f9220f470197f15828ffec8232> <http://schema.org/longitude> "10.9946"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3eccb6f9220f470197f15828ffec8232> .
+<http://lodlaundromat.org/.well-known/genid/N0c8c626c163d47ae92a10fa8c64cf804> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda2e047760054b96bb44c03ba0502c30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0c8c626c163d47ae92a10fa8c64cf804> .
+<http://lodlaundromat.org/.well-known/genid/Ne48aed01f60142db961cd0e712e4475f> <http://schema.org/value> "182663"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naf5eb7d0804e4abca965e2f79854fb16> <http://schema.org/addressCountry> "Germany" .
+

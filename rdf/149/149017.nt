@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/telephone> "+1 (212) 690-3800" .
+<http://lodlaundromat.org/.well-known/genid/N11c8c262b63c4c9ba70a8b1c2bb4528f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N11c8c262b63c4c9ba70a8b1c2bb4528f> <http://schema.org/latitude> "40.8177"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N11c8c262b63c4c9ba70a8b1c2bb4528f> .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> <http://schema.org/id> "8403600311" .
+<http://lodlaundromat.org/.well-known/genid/N4ada0db436634bc7807f1386a3266c11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/name> "GENESIS II MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8177&mlon=-73.942#map=15/40.8177/-73.942> .
+<http://lodlaundromat.org/.well-known/genid/N11c8c262b63c4c9ba70a8b1c2bb4528f> <http://schema.org/longitude> "-73.942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> .
+<http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://schema.org/postalCode> "10030" .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4ada0db436634bc7807f1386a3266c11> <http://schema.org/value> "149017"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4ada0db436634bc7807f1386a3266c11> .
+<http://lodlaundromat.org/.well-known/genid/N4ada0db436634bc7807f1386a3266c11> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nddd1f10c67134385967475f23cf9708b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> .
+<http://lodlaundromat.org/.well-known/genid/Ndbd106e713934135a9abc17b5c382444> <http://schema.org/streetAddress> "2376 7TH AVE" .
+<http://lodlaundromat.org/.well-known/genid/Ne057f638bb8d4aa7ad851eaa6c0d2c60> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nf5695f86dc28432f940a5184ce7b7205> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf5695f86dc28432f940a5184ce7b7205> .
+<http://lodlaundromat.org/.well-known/genid/Nf5695f86dc28432f940a5184ce7b7205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/name> "Maribyrnong City Council"@en .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4e90432626674347bb20b9e88d78f21e> .
+<http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/telephone> "(03) 9688 0349" .
+<http://lodlaundromat.org/.well-known/genid/N2bca335d286c48218f22508612114416> <http://schema.org/value> "164053"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4e90432626674347bb20b9e88d78f21e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4e90432626674347bb20b9e88d78f21e> <http://schema.org/longitude> "144.902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4e90432626674347bb20b9e88d78f21e> <http://schema.org/latitude> "-37.8043"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> <http://schema.org/url> <http://victoriancollections.net.au/organisations/maribyrnong-city-council-arts-culture> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2bca335d286c48218f22508612114416> .
+<http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> <http://schema.org/id> "maribyrnong-city-council-arts-culture" .
+<http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2bca335d286c48218f22508612114416> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2bca335d286c48218f22508612114416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9b38b7a7596f4ccd9754bf55385b6a34> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f8c737df040c9ad8e157eae0f347b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8043&mlon=144.902#map=15/-37.8043/144.902> .
+

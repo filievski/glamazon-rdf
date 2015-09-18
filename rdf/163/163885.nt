@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/openingHours> "From 10.00 am until 3.00 pm every day except Saturdays, Christmas Day &amp; Easter."@en .
+<http://lodlaundromat.org/.well-known/genid/Ndf43aeb8776344d1972af9bed3eb3ffe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N15f2516ec6d14ed594826ef28c29af56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4ed734134a7445a3b602add20d6317ab> <http://schema.org/longitude> "144.358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.1196&mlon=144.358#map=15/-38.1196/144.358> .
+<http://lodlaundromat.org/.well-known/genid/Ndf43aeb8776344d1972af9bed3eb3ffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/name> "Friends of the Cerberus"@en .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/url> <http://www.cerberus.com.au/index.html> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> <http://schema.org/url> <http://victoriancollections.net.au/organisations/friends-of-the-cerberus> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> <http://schema.org/id> "friends-of-the-cerberus" .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> .
+<http://lodlaundromat.org/.well-known/genid/Ndf43aeb8776344d1972af9bed3eb3ffe> <http://schema.org/value> "163885"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4ed734134a7445a3b602add20d6317ab> <http://schema.org/latitude> "-38.1196"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N15f2516ec6d14ed594826ef28c29af56> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ed734134a7445a3b602add20d6317ab> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N15f2516ec6d14ed594826ef28c29af56> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4ed734134a7445a3b602add20d6317ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N24c437eb233741d5a1a1a3e1d1898627> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndf43aeb8776344d1972af9bed3eb3ffe> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fc4a692704bf38bf94ca5fce06552> <http://schema.org/name> "au_vic" .
+

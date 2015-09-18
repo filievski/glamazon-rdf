@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4155d2f79bfe40f1956f68bb8ef3ef73> .
+<http://lodlaundromat.org/.well-known/genid/N4155d2f79bfe40f1956f68bb8ef3ef73> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://schema.org/addressLocality> "CANYON" .
+<http://lodlaundromat.org/.well-known/genid/N96e458af372b40a5ab3f3b4e0a613088> <http://schema.org/latitude> "34.9788"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N96e458af372b40a5ab3f3b4e0a613088> .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4155d2f79bfe40f1956f68bb8ef3ef73> <http://schema.org/value> "159326"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> .
+<http://lodlaundromat.org/.well-known/genid/N4155d2f79bfe40f1956f68bb8ef3ef73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.9788&mlon=-101.928#map=15/34.9788/-101.928> .
+<http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/telephone> "+1 (806) 655-2181" .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/name> "TEXAS PANHANDLE HERITAGE FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> <http://schema.org/id> "8404801426" .
+<http://lodlaundromat.org/.well-known/genid/N96e458af372b40a5ab3f3b4e0a613088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://schema.org/streetAddress> "1514 5TH AVE" .
+<http://lodlaundromat.org/.well-known/genid/N5af2f3db2a8c42968d2c1bd259973f4d> <http://schema.org/postalCode> "79015-3830" .
+<http://lodlaundromat.org/.well-known/genid/N982b7c08ad8c40498392211b516fa74a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N248d8f8a8cf249bd934a4223a50c761b> .
+<http://lodlaundromat.org/.well-known/genid/N96e458af372b40a5ab3f3b4e0a613088> <http://schema.org/longitude> "-101.928"^^<http://www.w3.org/2001/XMLSchema#double> .
+

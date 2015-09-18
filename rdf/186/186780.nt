@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd373f4e5675843eab8f3566180399af6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/telephone> "+39 0187782251" .
+<http://lodlaundromat.org/.well-known/genid/Nd373f4e5675843eab8f3566180399af6> <http://schema.org/longitude> "9.82031"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> <http://schema.org/streetAddress> "Viale Amendola, 1" .
+<http://lodlaundromat.org/.well-known/genid/Nd373f4e5675843eab8f3566180399af6> <http://schema.org/latitude> "44.1016"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1016&mlon=9.82031#map=15/44.1016/9.82031> .
+<http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> <http://schema.org/addressLocality> "La Spezia" .
+<http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ned68c7d0addc446e8fc2ccd2dc7c101a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ned68c7d0addc446e8fc2ccd2dc7c101a> .
+<http://lodlaundromat.org/.well-known/genid/Ned68c7d0addc446e8fc2ccd2dc7c101a> <http://schema.org/value> "186780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/name> "Museo tecnico navale della M.M."@it .
+<http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> <http://schema.org/id> "100433" .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N466490134c4846bb972fdc1b9b90f5d5> .
+<http://lodlaundromat.org/.well-known/genid/Ndba5b40fb97a4c368f7a81e6fe9dcd43> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd373f4e5675843eab8f3566180399af6> .
+<http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nd9390f8e762249419bfb604d89b419d2> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Ned68c7d0addc446e8fc2ccd2dc7c101a> <http://schema.org/name> "id" .
+

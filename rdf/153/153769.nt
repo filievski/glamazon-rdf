@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3c2f47116af64e81bb226025000f70a4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://schema.org/postalCode> "74871-2535" .
+<http://lodlaundromat.org/.well-known/genid/Nfa1d12585fd9470c81260e2da83f12b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c2f47116af64e81bb226025000f70a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfa1d12585fd9470c81260e2da83f12b3> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> .
+<http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> <http://schema.org/id> "8404000123" .
+<http://lodlaundromat.org/.well-known/genid/N3c2f47116af64e81bb226025000f70a4> <http://schema.org/value> "153769"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://schema.org/addressLocality> "STONEWALL" .
+<http://lodlaundromat.org/.well-known/genid/Nfa1d12585fd9470c81260e2da83f12b3> <http://schema.org/longitude> "-96.6198"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3c2f47116af64e81bb226025000f70a4> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7223&mlon=-96.6198#map=15/34.7223/-96.6198> .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://schema.org/streetAddress> "PO BOX 321" .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/telephone> "+1 (580) 310-0784" .
+<http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e2f202d9bab4b718cb7f5a3c509f2bd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa1d12585fd9470c81260e2da83f12b3> <http://schema.org/latitude> "34.7223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74ae51f98e204488b0e5e1d12b785bc1> <http://schema.org/name> "STONEWALL AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N36affbf977044b318023f5e8ea81255e> <http://schema.org/addressRegion> "OK" .
+

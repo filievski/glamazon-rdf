@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfc1be7fedc0346e7b510ccd961f98a43> .
+<http://lodlaundromat.org/.well-known/genid/N4164754f0f8248a0901214de6a6f39e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/Nfc1be7fedc0346e7b510ccd961f98a43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfc1be7fedc0346e7b510ccd961f98a43> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc1be7fedc0346e7b510ccd961f98a43> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> <http://schema.org/id> "ukrainian-museum" .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc5995623e5544904a862523919e02c66> .
+<http://lodlaundromat.org/.well-known/genid/N4164754f0f8248a0901214de6a6f39e2> <http://schema.org/value> "164396"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc5995623e5544904a862523919e02c66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4164754f0f8248a0901214de6a6f39e2> .
+<http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/name> "Ukrainian Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N1bb12a48cc3a416a9be45c507aafb8b3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> .
+<http://lodlaundromat.org/.well-known/genid/Nc5995623e5544904a862523919e02c66> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N4164754f0f8248a0901214de6a6f39e2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N9ab036da2ea44155912825cb0cd0b93f> <http://schema.org/url> <http://victoriancollections.net.au/organisations/ukrainian-museum> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4c14f09b68f24e2cb4df3a2dc8bda8b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://schema.org/addressLocality> "ENGLEWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/name> "ENGLEWOOD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> .
+<http://lodlaundromat.org/.well-known/genid/N4c14f09b68f24e2cb4df3a2dc8bda8b8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4c14f09b68f24e2cb4df3a2dc8bda8b8> <http://schema.org/value> "147884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://schema.org/streetAddress> "500 LIBERTY RD" .
+<http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9088&mlon=-73.988#map=15/40.9088/-73.988> .
+<http://lodlaundromat.org/.well-known/genid/N6c73d6a09038499fbbcdd0b70fd93fff> <http://schema.org/longitude> "-73.988"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c73d6a09038499fbbcdd0b70fd93fff> <http://schema.org/latitude> "40.9088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6c73d6a09038499fbbcdd0b70fd93fff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> <http://schema.org/id> "8403400252" .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4c14f09b68f24e2cb4df3a2dc8bda8b8> .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://schema.org/postalCode> "07631" .
+<http://lodlaundromat.org/.well-known/genid/Nbef7c211c7f14574ba5df29d8fb03283> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N07f247bf46d640899ab381a7517ad70b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c73d6a09038499fbbcdd0b70fd93fff> .
+<http://lodlaundromat.org/.well-known/genid/N0c6108df162646dcac9758b49daa5d47> <http://schema.org/addressRegion> "NJ" .
+

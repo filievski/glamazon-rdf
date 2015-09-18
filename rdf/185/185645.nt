@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> <http://schema.org/addressLocality> "Isola del Gran Sasso d'Italia" .
+<http://lodlaundromat.org/.well-known/genid/N2a903e6d364842708ab9c6f0c2fca126> <http://schema.org/latitude> "42.5013"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a903e6d364842708ab9c6f0c2fca126> .
+<http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> <http://schema.org/id> "100101" .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> .
+<http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2a903e6d364842708ab9c6f0c2fca126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/name> "Museo Stauros di arte sacra contemporanea"@it .
+<http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc952d04ed5c6496c9e76fd200635663f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/telephone> "+39 0861975727" .
+<http://lodlaundromat.org/.well-known/genid/Nc5d2458b6fa14467a82d022d98a978bd> <http://schema.org/value> "185645"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nc952d04ed5c6496c9e76fd200635663f> <http://schema.org/contentUrl> <http://images.museums.io/Y_IGmXoOJcD7PAMyPZClQG2kw8g=/1000x1000/museums/logos/000/185/645/original/323f474b6beeba11f843a41d709a3c92bf581cd3.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/url> <http://www.stauros.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nc5d2458b6fa14467a82d022d98a978bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5013&mlon=13.6612#map=15/42.5013/13.6612> .
+<http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> <http://schema.org/streetAddress> "Santuario di San Gabriele dell'Addolorata, 187" .
+<http://lodlaundromat.org/.well-known/genid/Nc5d2458b6fa14467a82d022d98a978bd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nc952d04ed5c6496c9e76fd200635663f> .
+<http://lodlaundromat.org/.well-known/genid/N2a903e6d364842708ab9c6f0c2fca126> <http://schema.org/longitude> "13.6612"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9548837bfa40cf9de12d534f45f742> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc5d2458b6fa14467a82d022d98a978bd> .
+<http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nf453914c46b242eab14b32acdd9be545> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N78ae9cba5f00454aa864e130e328920a> <http://schema.org/addressRegion> "Abruzzo" .
+

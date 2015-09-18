@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N563a237453984ecfa7a2fc8ca8707c7f> <http://schema.org/latitude> "47.8727"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8a7f255ff310423d868e5b8aa75034dc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N563a237453984ecfa7a2fc8ca8707c7f> .
+<http://lodlaundromat.org/.well-known/genid/N563a237453984ecfa7a2fc8ca8707c7f> <http://schema.org/longitude> "11.2885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://schema.org/addressLocality> "Bernried" .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/url> <http://www.buchheimmuseum.de/> .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48548d3f04ed4df0bb227164e224efd5> .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/name> "Buchheim Museum der Phantasie"@en .
+<http://lodlaundromat.org/.well-known/genid/N48548d3f04ed4df0bb227164e224efd5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8a7f255ff310423d868e5b8aa75034dc> <http://schema.org/value> "184022"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48548d3f04ed4df0bb227164e224efd5> <http://schema.org/url> <http://www.museums.io/en/museums/184022> .
+<http://lodlaundromat.org/.well-known/genid/N48548d3f04ed4df0bb227164e224efd5> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> .
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://schema.org/postalCode> "82347" .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.8727&mlon=11.2885#map=15/47.8727/11.2885> .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a7f255ff310423d868e5b8aa75034dc> .
+<http://lodlaundromat.org/.well-known/genid/N563a237453984ecfa7a2fc8ca8707c7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N77261abdd0fb4d3fa91cc8582cfea01f> <http://schema.org/telephone> "08158/9970-50" .
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://schema.org/streetAddress> "Am Hirschgarten 1" .
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N8a7f255ff310423d868e5b8aa75034dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48548d3f04ed4df0bb227164e224efd5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8e880ae4292c4c149c406eb748b70243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

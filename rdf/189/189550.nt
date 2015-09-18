@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N85f01633d70b48e1b6602dfbd9be4587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N85f01633d70b48e1b6602dfbd9be4587> .
+<http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> .
+<http://lodlaundromat.org/.well-known/genid/N362a05af58144911a5cb0d81bc0aa573> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> <http://schema.org/streetAddress> "Piazza Garibaldi, " .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/name> "Torre civica"@it .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7668&mlon=11.735#map=15/45.7668/11.735> .
+<http://lodlaundromat.org/.well-known/genid/N362a05af58144911a5cb0d81bc0aa573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N85f01633d70b48e1b6602dfbd9be4587> <http://schema.org/longitude> "11.735"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N362a05af58144911a5cb0d81bc0aa573> <http://schema.org/value> "189550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> .
+<http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N54e3456a2249409084f193bfb816fc38> <http://schema.org/addressLocality> "Bassano del Grappa" .
+<http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> <http://schema.org/id> "106793" .
+<http://lodlaundromat.org/.well-known/genid/N85f01633d70b48e1b6602dfbd9be4587> <http://schema.org/latitude> "45.7668"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N245de0519aa24aa188d63d268dde50ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N362a05af58144911a5cb0d81bc0aa573> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/url> <http://www.comune.bassano.vi.it/> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na87c123e37bf45d7b24aca92596546ff> .
+<http://lodlaundromat.org/.well-known/genid/N2e91529fda6f435d983d49f1e85c79e7> <http://schema.org/telephone> "+39 0424519901" .
+<http://lodlaundromat.org/.well-known/genid/Na87c123e37bf45d7b24aca92596546ff> <http://schema.org/contentUrl> <http://images.museums.io/WUvy808WdDLp0rgrFZz7HziBN6Y=/1000x1000/museums/logos/000/189/550/original/1793c9b2889d1f4df2de34f408fb3b41bdadb6b.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na87c123e37bf45d7b24aca92596546ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+

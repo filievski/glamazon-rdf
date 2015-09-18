@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://schema.org/streetAddress> "Domplatz 8" .
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc6ea17719d564adcb0b56098b411acf8> .
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://schema.org/addressLocality> "Bamberg" .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/telephone> "0951/51939-0" .
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N1d5d1e5f54e448d18b8de0a002899119> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1d5d1e5f54e448d18b8de0a002899119> .
+<http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> <http://schema.org/postalCode> "96049" .
+<http://lodlaundromat.org/.well-known/genid/N1d5d1e5f54e448d18b8de0a002899119> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N1d5d1e5f54e448d18b8de0a002899119> <http://schema.org/url> <http://www.museums.io/en/museums/183971> .
+<http://lodlaundromat.org/.well-known/genid/Nc6ea17719d564adcb0b56098b411acf8> <http://schema.org/longitude> "10.8813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc6ea17719d564adcb0b56098b411acf8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf9580713ff264efe8414ddc62c387011> .
+<http://lodlaundromat.org/.well-known/genid/Nc6ea17719d564adcb0b56098b411acf8> <http://schema.org/latitude> "49.8917"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.8917&mlon=10.8813#map=15/49.8917/10.8813> .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N63c8111c5eb94130bce80fa418ceac14> .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N63c8111c5eb94130bce80fa418ceac14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N63c8111c5eb94130bce80fa418ceac14> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/name> "Staatsgalerie in der Neuen Residenz"@en .
+<http://lodlaundromat.org/.well-known/genid/N5db1de04484e4aa7981afa2feea4c8f2> <http://schema.org/url> <http://www.pinakothek.de/zweiggalerien/bamberg.php> .
+<http://lodlaundromat.org/.well-known/genid/N1d5d1e5f54e448d18b8de0a002899119> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N63c8111c5eb94130bce80fa418ceac14> <http://schema.org/value> "183971"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

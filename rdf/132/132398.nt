@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.881&mlon=-122.244#map=15/37.881/-122.244> .
+<http://lodlaundromat.org/.well-known/genid/N42c7ca26a9734617ae8f325f61de16e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/name> "UNIVERSITY OF CALIFORNIA AT BERKELEY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N59805adf8f284b76a8d712df0a805306> <http://schema.org/latitude> "37.881"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59805adf8f284b76a8d712df0a805306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N59805adf8f284b76a8d712df0a805306> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N42c7ca26a9734617ae8f325f61de16e8> .
+<http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ac21356834af1af196126be89d1cb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> .
+<http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N42c7ca26a9734617ae8f325f61de16e8> <http://schema.org/value> "132398"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> <http://schema.org/id> "8400602524" .
+<http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> <http://schema.org/postalCode> "94720-7408" .
+<http://lodlaundromat.org/.well-known/genid/N84694704523147c7a2caa4931e7b4fb7> <http://schema.org/addressLocality> "BERKELEY" .
+<http://lodlaundromat.org/.well-known/genid/N8444a0ea6e67460c92c9b0363cec9ad2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N59805adf8f284b76a8d712df0a805306> <http://schema.org/longitude> "-122.244"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42c7ca26a9734617ae8f325f61de16e8> <http://schema.org/name> "id" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N94c2d742a7f44bdda39b7ddb2c962acf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25632e90251c4b01b4bc1c595ce291e9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N94c2d742a7f44bdda39b7ddb2c962acf> <http://schema.org/latitude> "44.2012"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94c2d742a7f44bdda39b7ddb2c962acf> .
+<http://lodlaundromat.org/.well-known/genid/N25632e90251c4b01b4bc1c595ce291e9> <http://schema.org/value> "141229"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N94c2d742a7f44bdda39b7ddb2c962acf> <http://schema.org/longitude> "-69.0799"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N25632e90251c4b01b4bc1c595ce291e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2012&mlon=-69.0799#map=15/44.2012/-69.0799> .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/telephone> "+1 (207) 236-2257" .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://schema.org/streetAddress> "CONWAY RD" .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://schema.org/addressLocality> "CAMDEN" .
+<http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> <http://schema.org/id> "8402300078" .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> .
+<http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/name> "CAMDEN-ROCKPORT HISTORICAL"@en .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N25632e90251c4b01b4bc1c595ce291e9> .
+<http://lodlaundromat.org/.well-known/genid/N798970867fd1418893efd4d5e037a36c> <http://schema.org/postalCode> "04843" .
+<http://lodlaundromat.org/.well-known/genid/N2ada058028454898afb7d0f421657f4a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N43960e0d48034023bb55f7da4b33e460> <http://schema.org/url> <http://www.crmuseum.org/> .
+

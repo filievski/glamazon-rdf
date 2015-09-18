@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://schema.org/name> "Baynesfield Estate Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> <http://schema.org/streetAddress> "Baynesfield Estate, near Richmond" .
+<http://lodlaundromat.org/.well-known/genid/N8a56809fba704592baf57cc815f116cd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8a56809fba704592baf57cc815f116cd> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N8a56809fba704592baf57cc815f116cd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne526f16efac04a50af82136d4c4af96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> <http://schema.org/addressLocality> "Richmond" .
+<http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Ne526f16efac04a50af82136d4c4af96b> <http://schema.org/value> "184715"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne526f16efac04a50af82136d4c4af96b> .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://schema.org/telephone> "033 251 0001" .
+<http://lodlaundromat.org/.well-known/genid/N8a56809fba704592baf57cc815f116cd> <http://schema.org/url> <http://www.museums.io/en/museums/184715> .
+<http://lodlaundromat.org/.well-known/genid/Ne526f16efac04a50af82136d4c4af96b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N04d0f8ae0d2649649faf52de6bd37cd9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8a56809fba704592baf57cc815f116cd> .
+<http://lodlaundromat.org/.well-known/genid/N36cbc2a6329d419798470295943d0651> <http://schema.org/addressRegion> "KwaZulu Natal" .
+

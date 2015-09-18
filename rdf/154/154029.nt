@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/name> "EDMOND HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N87a3b55688b04cd48c19544ca6bfff5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/url> <http://www.edmondhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://schema.org/addressLocality> "EDMOND" .
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> .
+<http://lodlaundromat.org/.well-known/genid/N94c2b7f3c1ca4d2fb7a0572850f1118f> <http://schema.org/value> "154029"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.652&mlon=-97.4808#map=15/35.652/-97.4808> .
+<http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/telephone> "+1 (405) 340-0078" .
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://schema.org/postalCode> "73034" .
+<http://lodlaundromat.org/.well-known/genid/N94c2b7f3c1ca4d2fb7a0572850f1118f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5cdd018053154bd4a6050deec5c6725b> <http://schema.org/streetAddress> "430 S BOULEVARD ST" .
+<http://lodlaundromat.org/.well-known/genid/Nc0bf822f8d694b608bc2c31b6562f83a> <http://schema.org/id> "8404000383" .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N94c2b7f3c1ca4d2fb7a0572850f1118f> .
+<http://lodlaundromat.org/.well-known/genid/Nda7cb2e0b90d43a0bedbe45f29bfb3d7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N87a3b55688b04cd48c19544ca6bfff5e> .
+<http://lodlaundromat.org/.well-known/genid/N87a3b55688b04cd48c19544ca6bfff5e> <http://schema.org/latitude> "35.652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N87a3b55688b04cd48c19544ca6bfff5e> <http://schema.org/longitude> "-97.4808"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94c2b7f3c1ca4d2fb7a0572850f1118f> <http://schema.org/name> "id" .
+

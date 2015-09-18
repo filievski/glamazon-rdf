@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1f2e20e8d6524da496e1ca8f70c11e98> <http://schema.org/value> "151246"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> .
+<http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://schema.org/postalCode> "28209" .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/name> "CHARLOTTE NATURE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1f2e20e8d6524da496e1ca8f70c11e98> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> .
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://schema.org/streetAddress> "1658 STERLING RD" .
+<http://lodlaundromat.org/.well-known/genid/N971a863de69c4f16b58fae168f4a3afb> <http://schema.org/latitude> "35.1881"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/telephone> "+1 (704) 372-6261" .
+<http://lodlaundromat.org/.well-known/genid/N971a863de69c4f16b58fae168f4a3afb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N971a863de69c4f16b58fae168f4a3afb> .
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/url> <http://www.charlottenaturemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N1f2e20e8d6524da496e1ca8f70c11e98> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N159f90af279f4d108cfc301128f86c94> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.1881&mlon=-80.8426#map=15/35.1881/-80.8426> .
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://schema.org/addressLocality> "CHARLOTTE" .
+<http://lodlaundromat.org/.well-known/genid/N971a863de69c4f16b58fae168f4a3afb> <http://schema.org/longitude> "-80.8426"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> <http://schema.org/id> "8403700117" .
+<http://lodlaundromat.org/.well-known/genid/N1f2e20e8d6524da496e1ca8f70c11e98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2cb6511fe566430891ba154a3f9268ad> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N473af65477254354bcac033420237971> <http://schema.org/addressRegion> "NC" .
+

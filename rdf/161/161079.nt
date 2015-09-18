@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9919d140bb734dcc8e25508ce55166ee> .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://schema.org/addressLocality> "HAMPDEN-SYDNEY" .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.237&mlon=-78.4587#map=15/37.237/-78.4587> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://schema.org/postalCode> "23943" .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/url> <http://www.hsc.edu/museum.html> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/telephone> "+1 (434) 223-6134" .
+<http://lodlaundromat.org/.well-known/genid/N9919d140bb734dcc8e25508ce55166ee> <http://schema.org/latitude> "37.237"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb712d153f7ad4b568e5deb45f361d8ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb712d153f7ad4b568e5deb45f361d8ab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9919d140bb734dcc8e25508ce55166ee> <http://schema.org/longitude> "-78.4587"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/name> "ATKINSON MUSEUM OF HAMPDEN SYDNEY COLLEGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N9919d140bb734dcc8e25508ce55166ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb712d153f7ad4b568e5deb45f361d8ab> .
+<http://lodlaundromat.org/.well-known/genid/Nbf827c59b5f045fa86ffd0a81084fadb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> .
+<http://lodlaundromat.org/.well-known/genid/N3f3ea58d1bfb4b01a42b96f4b34ed05b> <http://schema.org/id> "8405100585" .
+<http://lodlaundromat.org/.well-known/genid/Nb712d153f7ad4b568e5deb45f361d8ab> <http://schema.org/value> "161079"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64bd3f9895d24a1d933d67a225466465> <http://schema.org/streetAddress> "1 COLLEGE RD" .
+

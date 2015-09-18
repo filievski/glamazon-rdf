@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N44568967320742e8896de42f52d35ae6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4d9e1959144542169ba010d7f66c3c11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://schema.org/addressLocality> "BIRDSBORO" .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> .
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://schema.org/streetAddress> "5003 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2793&mlon=-75.8801#map=15/40.2793/-75.8801> .
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/url> <http://www.amvm.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nb88273eae978410da01f5ad8aae4b8a3> <http://schema.org/postalCode> "19508" .
+<http://lodlaundromat.org/.well-known/genid/N4d9e1959144542169ba010d7f66c3c11> <http://schema.org/latitude> "40.2793"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4d9e1959144542169ba010d7f66c3c11> <http://schema.org/longitude> "-75.8801"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N44568967320742e8896de42f52d35ae6> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/telephone> "+1 (610) 898-0659" .
+<http://lodlaundromat.org/.well-known/genid/N44568967320742e8896de42f52d35ae6> <http://schema.org/value> "155080"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4d9e1959144542169ba010d7f66c3c11> .
+<http://lodlaundromat.org/.well-known/genid/Nc97ccb32bc914550a5ca700c69cf45fc> <http://schema.org/name> "AMERICAN MUSEUM-VETRY MEDICINE"@en .
+<http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N44568967320742e8896de42f52d35ae6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> <http://schema.org/id> "8404200274" .
+<http://lodlaundromat.org/.well-known/genid/N2590431cbec146d59e207a3fd0e428f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0868e38aad3647bd954925e8bcba1fac> .
+<http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2391&mlon=7.39596#map=15/44.2391/7.39596> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7d3733f18073465189fc9d1d608a40ee> .
+<http://lodlaundromat.org/.well-known/genid/N0868e38aad3647bd954925e8bcba1fac> <http://schema.org/latitude> "44.2391"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0868e38aad3647bd954925e8bcba1fac> <http://schema.org/longitude> "7.39596"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Naabd905a040e448193d7ac5cb8d9990b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> .
+<http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/telephone> "+39 0171 978202" .
+<http://lodlaundromat.org/.well-known/genid/N7d3733f18073465189fc9d1d608a40ee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/url> <http://www.arte.diocesicuneo.it/> .
+<http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> <http://schema.org/streetAddress> "c/o Parrocchia di S. Antonino Martire, Piazza Giovanni XXIII, " .
+<http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> <http://schema.org/addressLocality> "Entracque" .
+<http://lodlaundromat.org/.well-known/genid/Naabd905a040e448193d7ac5cb8d9990b> <http://schema.org/contentUrl> <http://images.museums.io/rQxSpYBvAwnEB3lV7EbgARFucGs=/1000x1000/museums/logos/000/187/697/original/9435a9358314705768c45cee73462418729e3fd6.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N7d3733f18073465189fc9d1d608a40ee> <http://schema.org/value> "187697"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> .
+<http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> <http://schema.org/id> "106239" .
+<http://lodlaundromat.org/.well-known/genid/N0868e38aad3647bd954925e8bcba1fac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7d3733f18073465189fc9d1d608a40ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N543ea07eb3c041569b33245d7dbfb88f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/name> "Museo di arte sacra di Entracque"@it .
+<http://lodlaundromat.org/.well-known/genid/N73d0f7240efa47f6837c38b5f86d0646> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9857b8d55e6f4a0da552ed038509d1b2> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Naabd905a040e448193d7ac5cb8d9990b> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9204d345ac7f4634829d62195c6291d2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9204d345ac7f4634829d62195c6291d2> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/url> <http://www.bhb-prachatitz.de/heimatmuseum.html> .
+<http://lodlaundromat.org/.well-known/genid/N0172a0593b30410dbace20657d88e58e> <http://schema.org/url> <http://www.museums.io/en/museums/182948> .
+<http://lodlaundromat.org/.well-known/genid/N0172a0593b30410dbace20657d88e58e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/name> "Heimatmuseum Niemes und Prachatitz"@en .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.7631&mlon=11.4221#map=15/48.7631/11.4221> .
+<http://lodlaundromat.org/.well-known/genid/N9204d345ac7f4634829d62195c6291d2> <http://schema.org/value> "182948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/telephone> "0841/1285357" .
+<http://lodlaundromat.org/.well-known/genid/Ne80c8076646542cc9ecd6a135e968165> <http://schema.org/latitude> "48.7631"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0172a0593b30410dbace20657d88e58e> .
+<http://lodlaundromat.org/.well-known/genid/Ne80c8076646542cc9ecd6a135e968165> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://schema.org/addressLocality> "Ingolstadt" .
+<http://lodlaundromat.org/.well-known/genid/N9204d345ac7f4634829d62195c6291d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne80c8076646542cc9ecd6a135e968165> <http://schema.org/longitude> "11.4221"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0172a0593b30410dbace20657d88e58e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://schema.org/streetAddress> "Hohe-Schul-Stra\u00DFe 2 b" .
+<http://lodlaundromat.org/.well-known/genid/N0172a0593b30410dbace20657d88e58e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne80c8076646542cc9ecd6a135e968165> .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://schema.org/postalCode> "85049" .
+<http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N073dd9f77ce949c690a51e5e8a72079c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N069b507218624834a3a913be18195a8c> .
+

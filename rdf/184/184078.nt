@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nec816c6087184556849e3d4904f2c774> <http://schema.org/email> "mailto:post@focke-museum.de" .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/telephone> "+49 (0) 421 6996000" .
+<http://lodlaundromat.org/.well-known/genid/N0d490d483826449db186c1bbd62b94b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/name> "Focke Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nec816c6087184556849e3d4904f2c774> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd0a70fe90c1f4a9694e93099e394d630> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na7e97277e8154a01a53b9fc1adc71785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na7e97277e8154a01a53b9fc1adc71785> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7e97277e8154a01a53b9fc1adc71785> .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0d490d483826449db186c1bbd62b94b8> .
+<http://lodlaundromat.org/.well-known/genid/Nd0a70fe90c1f4a9694e93099e394d630> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/N0d490d483826449db186c1bbd62b94b8> <http://schema.org/longitude> "8.86393"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0d490d483826449db186c1bbd62b94b8> <http://schema.org/latitude> "53.0923"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0a70fe90c1f4a9694e93099e394d630> <http://schema.org/url> <http://www.museums.io/en/museums/184078> .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nec816c6087184556849e3d4904f2c774> .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0923&mlon=8.86393#map=15/53.0923/8.86393> .
+<http://lodlaundromat.org/.well-known/genid/N88cca2cbaf684fe78423c8139137abed> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd0a70fe90c1f4a9694e93099e394d630> .
+<http://lodlaundromat.org/.well-known/genid/Nd0a70fe90c1f4a9694e93099e394d630> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na7e97277e8154a01a53b9fc1adc71785> <http://schema.org/value> "184078"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nec816c6087184556849e3d4904f2c774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

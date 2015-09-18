@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/name> "HUNTINGTON HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> <http://schema.org/id> "8403901395" .
+<http://lodlaundromat.org/.well-known/genid/Nc4c9873c01174ab09a24544f0d739d21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N54a2c164b6164cb49afc5cf585d98a81> <http://schema.org/value> "153617"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N54a2c164b6164cb49afc5cf585d98a81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc4c9873c01174ab09a24544f0d739d21> .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://schema.org/postalCode> "44880-9605" .
+<http://lodlaundromat.org/.well-known/genid/Nc4c9873c01174ab09a24544f0d739d21> <http://schema.org/latitude> "41.0796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> .
+<http://lodlaundromat.org/.well-known/genid/N54a2c164b6164cb49afc5cf585d98a81> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://schema.org/addressLocality> "SULLIVAN" .
+<http://lodlaundromat.org/.well-known/genid/N656a80df9fe0489eb33b43e85af7c0f7> <http://schema.org/streetAddress> "28388 STATE ROUTE 58" .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N54a2c164b6164cb49afc5cf585d98a81> .
+<http://lodlaundromat.org/.well-known/genid/N73c65e38e20f48c0b67d5022707c34dc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0796&mlon=-82.2209#map=15/41.0796/-82.2209> .
+<http://lodlaundromat.org/.well-known/genid/Nc4c9873c01174ab09a24544f0d739d21> <http://schema.org/longitude> "-82.2209"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1db773dbe6c24038aabd37d0eda172f5> <http://schema.org/@Type> "Dataset" .
+

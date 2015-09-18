@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://schema.org/streetAddress> "21 BEASLEY RD" .
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5c145dafc8c1475b8ff20cc8d1319649> .
+<http://lodlaundromat.org/.well-known/genid/N52d837f978c1481da23cf20d10bd7798> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52d837f978c1481da23cf20d10bd7798> .
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://schema.org/postalCode> "38464-7332" .
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://schema.org/addressLocality> "LAWRENCEBURG" .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> .
+<http://lodlaundromat.org/.well-known/genid/N5c145dafc8c1475b8ff20cc8d1319649> <http://schema.org/longitude> "-87.3446"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c145dafc8c1475b8ff20cc8d1319649> <http://schema.org/latitude> "35.2874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5c145dafc8c1475b8ff20cc8d1319649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N52d837f978c1481da23cf20d10bd7798> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/name> "FRIENDS OF SHOAL CREEK CABIN"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndad9720bb59a45bba060ae38d899f0e8> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N52d837f978c1481da23cf20d10bd7798> <http://schema.org/value> "157878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N950d5a3855df4dacab1ce901dfe27c36> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.2874&mlon=-87.3446#map=15/35.2874/-87.3446> .
+<http://lodlaundromat.org/.well-known/genid/N5eb71273e37147dea1865882bee68e95> <http://schema.org/id> "8404700549" .
+

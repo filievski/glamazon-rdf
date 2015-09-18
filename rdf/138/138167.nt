@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2d811c78f5694656906718bd69f4b306> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8471&mlon=-87.823#map=15/41.8471/-87.823> .
+<http://lodlaundromat.org/.well-known/genid/N2d811c78f5694656906718bd69f4b306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4323d65d0e494cde961a825ef14af41e> <http://schema.org/latitude> "41.8471"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> .
+<http://lodlaundromat.org/.well-known/genid/N4323d65d0e494cde961a825ef14af41e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4323d65d0e494cde961a825ef14af41e> .
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4323d65d0e494cde961a825ef14af41e> <http://schema.org/longitude> "-87.823"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d811c78f5694656906718bd69f4b306> .
+<http://lodlaundromat.org/.well-known/genid/N050fb64bd827468aaeb3cdb9aedf7223> <http://schema.org/id> "8401701312" .
+<http://lodlaundromat.org/.well-known/genid/Nb3a5e62f3d284ad6b578b579884bbc37> <http://schema.org/name> "NORTH RIVERSIDE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2d811c78f5694656906718bd69f4b306> <http://schema.org/value> "138167"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://schema.org/postalCode> "60546-1584" .
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://schema.org/addressLocality> "NORTH RIVERSIDE" .
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://schema.org/streetAddress> "2401 S DESPLAINES AVE" .
+<http://lodlaundromat.org/.well-known/genid/N5d4477f229b74b848659c5e8311d60d5> <http://schema.org/addressRegion> "IL" .
+

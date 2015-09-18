@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf072e1b9f0a64e009a324e1e2ba8fe3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3aacbce331f9425d9e21cc394e1d1c98> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf072e1b9f0a64e009a324e1e2ba8fe3c> .
+<http://lodlaundromat.org/.well-known/genid/Nf072e1b9f0a64e009a324e1e2ba8fe3c> <http://schema.org/latitude> "37.7036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3aacbce331f9425d9e21cc394e1d1c98> .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> .
+<http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/name> "MAPLE GROVE HERITAGE ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf072e1b9f0a64e009a324e1e2ba8fe3c> <http://schema.org/longitude> "-97.299"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> .
+<http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://schema.org/streetAddress> "1000 N HILLSIDE" .
+<http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> <http://schema.org/id> "8402000463" .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://schema.org/postalCode> "67214-3256" .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://schema.org/addressLocality> "WICHITA" .
+<http://lodlaundromat.org/.well-known/genid/N3aacbce331f9425d9e21cc394e1d1c98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N43e572b077be46eb81209e10d8168032> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7036&mlon=-97.299#map=15/37.7036/-97.299> .
+<http://lodlaundromat.org/.well-known/genid/Nd9dff9bc32aa433b93aa0606105605a4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10d8c8361da34dbc84c9c390517c2bbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3aacbce331f9425d9e21cc394e1d1c98> <http://schema.org/value> "140137"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

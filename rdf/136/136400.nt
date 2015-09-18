@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> <http://schema.org/id> "8401300671" .
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://schema.org/streetAddress> "PO BOX 1922" .
+<http://lodlaundromat.org/.well-known/genid/N352a5f50eb514253b5bfd30b405ac7f1> <http://schema.org/longitude> "-83.9839"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/name> "THOMAS COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d49de5fe67c49089123ad1c4a5acdb3> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N352a5f50eb514253b5bfd30b405ac7f1> .
+<http://lodlaundromat.org/.well-known/genid/N352a5f50eb514253b5bfd30b405ac7f1> <http://schema.org/latitude> "30.8461"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> .
+<http://lodlaundromat.org/.well-known/genid/N2d49de5fe67c49089123ad1c4a5acdb3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N372525d6243c435ca4fdc2c791245126> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N352a5f50eb514253b5bfd30b405ac7f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2d49de5fe67c49089123ad1c4a5acdb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://schema.org/addressLocality> "THOMASVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N2d49de5fe67c49089123ad1c4a5acdb3> <http://schema.org/value> "136400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://schema.org/postalCode> "31792-4452" .
+<http://lodlaundromat.org/.well-known/genid/Nbd413fde3fc8448c86377b9e28034d8e> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N0dccb0a5efa34084a708b155dc019a7e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.8461&mlon=-83.9839#map=15/30.8461/-83.9839> .
+

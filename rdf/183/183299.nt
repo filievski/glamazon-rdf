@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7acb4093c99b4803a919f7b6e50fa716> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf972015d93cc4eb4b2dc3cce8663e568> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://schema.org/postalCode> "80331" .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://schema.org/streetAddress> "Tal 50" .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7acb4093c99b4803a919f7b6e50fa716> <http://schema.org/latitude> "48.1352"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf972015d93cc4eb4b2dc3cce8663e568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/name> "Valentin-Karlstadt-Mus\u00E4um"@en .
+<http://lodlaundromat.org/.well-known/genid/N7acb4093c99b4803a919f7b6e50fa716> <http://schema.org/longitude> "11.5817"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf972015d93cc4eb4b2dc3cce8663e568> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N50934dcb445240f5998c2fcb2c707b7b> .
+<http://lodlaundromat.org/.well-known/genid/N50934dcb445240f5998c2fcb2c707b7b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N50934dcb445240f5998c2fcb2c707b7b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7acb4093c99b4803a919f7b6e50fa716> .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/url> <http://www.valentin-musaeum.de/> .
+<http://lodlaundromat.org/.well-known/genid/N50934dcb445240f5998c2fcb2c707b7b> <http://schema.org/url> <http://www.museums.io/en/museums/183299> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/telephone> "089/223266" .
+<http://lodlaundromat.org/.well-known/genid/Nf972015d93cc4eb4b2dc3cce8663e568> <http://schema.org/value> "183299"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0c68b92cc761488ea01b04cc00a0e6af> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1352&mlon=11.5817#map=15/48.1352/11.5817> .
+<http://lodlaundromat.org/.well-known/genid/N10f1296e1cd34f38bfa8aa50fe6890b8> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N50934dcb445240f5998c2fcb2c707b7b> <http://schema.org/name> "de_bavaria" .
+

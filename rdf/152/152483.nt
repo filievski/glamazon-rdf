@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N280e2733e3a845039c3a7f829c7a252f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://schema.org/streetAddress> "PO BOX 34" .
+<http://lodlaundromat.org/.well-known/genid/Nd9855bff18874f59a89a87dd5f5adcdf> <http://schema.org/latitude> "41.3494"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N280e2733e3a845039c3a7f829c7a252f> <http://schema.org/value> "152483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3494&mlon=-83.1168#map=15/41.3494/-83.1168> .
+<http://lodlaundromat.org/.well-known/genid/Nd9855bff18874f59a89a87dd5f5adcdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd9855bff18874f59a89a87dd5f5adcdf> .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd9855bff18874f59a89a87dd5f5adcdf> <http://schema.org/longitude> "-83.1168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> <http://schema.org/id> "8403900260" .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://schema.org/postalCode> "43420-0034" .
+<http://lodlaundromat.org/.well-known/genid/Nc7f79dd4acdb436193ad42097d76bbc4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N280e2733e3a845039c3a7f829c7a252f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f0d0cc579844c585d401a4d7643b7b> <http://schema.org/addressLocality> "FREMONT" .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N280e2733e3a845039c3a7f829c7a252f> .
+<http://lodlaundromat.org/.well-known/genid/N4ad75b7bbefd4620a2828229454d06ec> <http://schema.org/name> "SANDUSKY AND OTTAWA COUNTY MASTER GARDENER ASSOCIATION"@en .
+

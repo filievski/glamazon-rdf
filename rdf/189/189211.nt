@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N98731e5c35a940b89b4756b6d056f9d1> <http://schema.org/longitude> "12.3392"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N98731e5c35a940b89b4756b6d056f9d1> .
+<http://lodlaundromat.org/.well-known/genid/Nda2c2a22a75447a9b0b8410f352f3981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.5156&mlon=12.3392#map=15/43.5156/12.3392> .
+<http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda2c2a22a75447a9b0b8410f352f3981> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98731e5c35a940b89b4756b6d056f9d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0068f766019d4f1b93dcf06740af59de> <http://schema.org/contentUrl> <http://images.museums.io/M0zpbrKx8FhyJBp1-rxH0H0uVw0=/1000x1000/museums/logos/000/189/211/original/76f44ec29dc03e0f456f4e9f968b77b24281022.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/name> "Pinacoteca comunale di Citt\u00E0 di Castello"@it .
+<http://lodlaundromat.org/.well-known/genid/N98731e5c35a940b89b4756b6d056f9d1> <http://schema.org/latitude> "43.5156"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/telephone> "+39 0758554202" .
+<http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nda2c2a22a75447a9b0b8410f352f3981> <http://schema.org/value> "189211"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N0068f766019d4f1b93dcf06740af59de> .
+<http://lodlaundromat.org/.well-known/genid/N0068f766019d4f1b93dcf06740af59de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N411a7e988ea54d7d93cd967ccd4a0039> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nda2c2a22a75447a9b0b8410f352f3981> .
+<http://lodlaundromat.org/.well-known/genid/Nb485cde1b36e4c2693bfcd71222f4458> <http://schema.org/id> "100695" .
+<http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> <http://schema.org/streetAddress> "Via della Cannoniera, 22/A" .
+<http://lodlaundromat.org/.well-known/genid/N846cfc91a3e5429ab790108af2e9aff3> <http://schema.org/addressLocality> "Citt\u00E0 di Castello" .
+

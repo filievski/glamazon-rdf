@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8e92ad50a47c47f684aed0b3b6e58cb4> <http://schema.org/longitude> "-93.7247"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> .
+<http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nadf3b3f06be041fca91379ddb6d9fbef> .
+<http://lodlaundromat.org/.well-known/genid/N8e92ad50a47c47f684aed0b3b6e58cb4> <http://schema.org/latitude> "32.5191"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nadf3b3f06be041fca91379ddb6d9fbef> <http://schema.org/value> "140847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nadf3b3f06be041fca91379ddb6d9fbef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> <http://schema.org/id> "8402200129" .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://schema.org/addressLocality> "BOSSIER CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://schema.org/streetAddress> "1305 MARTIN LN" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/name> "GARDEN OF ANGELS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nadf3b3f06be041fca91379ddb6d9fbef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8e92ad50a47c47f684aed0b3b6e58cb4> .
+<http://lodlaundromat.org/.well-known/genid/Nb1ce3982959349e9b6affe97348f7f46> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d7fa12144324e1cabe548634be6f037> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.5191&mlon=-93.7247#map=15/32.5191/-93.7247> .
+<http://lodlaundromat.org/.well-known/genid/N8e92ad50a47c47f684aed0b3b6e58cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N318353f8af3d44e5a1e486b1233b30a5> <http://schema.org/postalCode> "71111-4732" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N17dcb78c81894e67a99dd13648f03522> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://schema.org/streetAddress> "Klosterhof 2" .
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://schema.org/addressLocality> "Ursberg" .
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://schema.org/postalCode> "86513" .
+<http://lodlaundromat.org/.well-known/genid/N17dcb78c81894e67a99dd13648f03522> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N17dcb78c81894e67a99dd13648f03522> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N17dcb78c81894e67a99dd13648f03522> .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/telephone> "08281/92-3330" .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2666&mlon=10.4443#map=15/48.2666/10.4443> .
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> .
+<http://lodlaundromat.org/.well-known/genid/N17dcb78c81894e67a99dd13648f03522> <http://schema.org/url> <http://www.museums.io/en/museums/183792> .
+<http://lodlaundromat.org/.well-known/genid/N425ffbcb877d4414b3f5253f737850e8> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Necdc396502b44f169db75feeb2017b8e> <http://schema.org/value> "183792"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb622950ff4cc4bd189e0d36f13011d37> <http://schema.org/latitude> "48.2666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb622950ff4cc4bd189e0d36f13011d37> <http://schema.org/longitude> "10.4443"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb622950ff4cc4bd189e0d36f13011d37> .
+<http://lodlaundromat.org/.well-known/genid/Necdc396502b44f169db75feeb2017b8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Necdc396502b44f169db75feeb2017b8e> .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/name> "Klostermuseum Ursberg mit Klosterbibliothek"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb622950ff4cc4bd189e0d36f13011d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Necdc396502b44f169db75feeb2017b8e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncc579d957f85450b87eec010558ab141> <http://schema.org/url> <http://www.ursberg.de/St.Josefskongregation/Einrichtungen/Klostermuseum> .
+

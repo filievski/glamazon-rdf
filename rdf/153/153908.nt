@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N410e031713ee4f258b82fe15a96db728> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N410e031713ee4f258b82fe15a96db728> <http://schema.org/value> "153908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://schema.org/streetAddress> "603 W JACKSON" .
+<http://lodlaundromat.org/.well-known/genid/Na94fa3bc8a4c44929f358553d8b8150a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> .
+<http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> <http://schema.org/id> "8404000262" .
+<http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N410e031713ee4f258b82fe15a96db728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na94fa3bc8a4c44929f358553d8b8150a> .
+<http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N410e031713ee4f258b82fe15a96db728> .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://schema.org/addressLocality> "HUGO" .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/name> "THE PETER BULL TEDDY BEAR MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na94fa3bc8a4c44929f358553d8b8150a> <http://schema.org/longitude> "-95.5184"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://schema.org/postalCode> "74743" .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N58d9df7525e345529dbdcbd31035c17c> .
+<http://lodlaundromat.org/.well-known/genid/N57a7af53727343adb6b1c70493fea99c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na94fa3bc8a4c44929f358553d8b8150a> <http://schema.org/latitude> "34.0115"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb56c816799154b8fba2203dae2d72c61> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0115&mlon=-95.5184#map=15/34.0115/-95.5184> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N88f00506b8f34b1981a94f9cd40cb008> .
+<http://lodlaundromat.org/.well-known/genid/N88f00506b8f34b1981a94f9cd40cb008> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc592c46ca55d4071848fa587fe703dbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> .
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://schema.org/postalCode> "74010-3335" .
+<http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N88f00506b8f34b1981a94f9cd40cb008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.8252&mlon=-96.4042#map=15/35.8252/-96.4042> .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/name> "BRISTOW HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/Nc592c46ca55d4071848fa587fe703dbc> <http://schema.org/latitude> "35.8252"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://schema.org/streetAddress> "4 SUNSET LANE" .
+<http://lodlaundromat.org/.well-known/genid/N3dee90bbedb1471ca6ef418e4315cf95> <http://schema.org/addressLocality> "BRISTOW" .
+<http://lodlaundromat.org/.well-known/genid/N88f00506b8f34b1981a94f9cd40cb008> <http://schema.org/value> "154032"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc592c46ca55d4071848fa587fe703dbc> .
+<http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> .
+<http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> <http://schema.org/id> "8404000386" .
+<http://lodlaundromat.org/.well-known/genid/N9acff1ce6bea4d558ee248cd217eacc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e5c9ae64f0d4242890541215ae19a45> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc592c46ca55d4071848fa587fe703dbc> <http://schema.org/longitude> "-96.4042"^^<http://www.w3.org/2001/XMLSchema#double> .
+

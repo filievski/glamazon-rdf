@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf02d7c56c7d549538c466055f5d7deda> <http://schema.org/value> "147368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://schema.org/addressLocality> "WHITEFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N058554ca9ae44ab183ebdeff3ed2f08e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N058554ca9ae44ab183ebdeff3ed2f08e> <http://schema.org/longitude> "-71.6148"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> .
+<http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> <http://schema.org/id> "8403300143" .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.375&mlon=-71.6148#map=15/44.375/-71.6148> .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://schema.org/postalCode> "03598" .
+<http://lodlaundromat.org/.well-known/genid/Nf02d7c56c7d549538c466055f5d7deda> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N058554ca9ae44ab183ebdeff3ed2f08e> .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf02d7c56c7d549538c466055f5d7deda> .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/name> "WHITEFIELD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://schema.org/streetAddress> "PO BOX 21" .
+<http://lodlaundromat.org/.well-known/genid/Nf02d7c56c7d549538c466055f5d7deda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e5193dbaad6477b90af3095a8121f56> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N058554ca9ae44ab183ebdeff3ed2f08e> <http://schema.org/latitude> "44.375"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9529fcecd61f420fb70a85b25b3c9492> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cfaa05f404f493f844e0465471aaa94> .
+

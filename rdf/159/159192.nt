@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9f72c01823d84732854550e2e4b3bcad> <http://schema.org/latitude> "30.839"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9f72c01823d84732854550e2e4b3bcad> .
+<http://lodlaundromat.org/.well-known/genid/N9f72c01823d84732854550e2e4b3bcad> <http://schema.org/longitude> "-100.064"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://schema.org/addressLocality> "FORT MCKAVETT" .
+<http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N267ef07757b04c499c0015ec1b877d29> .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N267ef07757b04c499c0015ec1b877d29> <http://schema.org/value> "159192"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N267ef07757b04c499c0015ec1b877d29> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/name> "FRIENDS OF FORT MCKAVETT STATE HISTORICAL PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://schema.org/streetAddress> "PO BOX 68" .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> .
+<http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> <http://schema.org/id> "8404801292" .
+<http://lodlaundromat.org/.well-known/genid/N267ef07757b04c499c0015ec1b877d29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9f72c01823d84732854550e2e4b3bcad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9e656e11e3484b5ca2e987f27c79a1cf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.839&mlon=-100.064#map=15/30.839/-100.064> .
+<http://lodlaundromat.org/.well-known/genid/N292803c5a0824229bd28c66b4e4a9a8a> <http://schema.org/postalCode> "76841" .
+<http://lodlaundromat.org/.well-known/genid/N0f5153b9a7594168b68394ebb53874e2> <http://schema.org/@Type> "Dataset" .
+

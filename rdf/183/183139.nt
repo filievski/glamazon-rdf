@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/telephone> "08233/600180" .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2695&mlon=10.9838#map=15/48.2695/10.9838> .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf02fe6a21df041949fa27b9a18a1b6c6> .
+<http://lodlaundromat.org/.well-known/genid/Nf02fe6a21df041949fa27b9a18a1b6c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1c784910a45b40f789e171f6b5f1751d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1c784910a45b40f789e171f6b5f1751d> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N17c18e5cbc67457d8390f47dec4740d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf02fe6a21df041949fa27b9a18a1b6c6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N17c18e5cbc67457d8390f47dec4740d1> <http://schema.org/latitude> "48.2695"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/name> "Heimatmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf02fe6a21df041949fa27b9a18a1b6c6> <http://schema.org/value> "183139"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1c784910a45b40f789e171f6b5f1751d> .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://schema.org/postalCode> "86415" .
+<http://lodlaundromat.org/.well-known/genid/N1c784910a45b40f789e171f6b5f1751d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://schema.org/addressLocality> "Mering" .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/url> <http://www.mering.de/tabellen/showtable.php?lang=de&tabellenid=22&menuid=78> .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://schema.org/streetAddress> "Bouttevillestra\u00DFe 23" .
+<http://lodlaundromat.org/.well-known/genid/N1c784910a45b40f789e171f6b5f1751d> <http://schema.org/url> <http://www.museums.io/en/museums/183139> .
+<http://lodlaundromat.org/.well-known/genid/N17c18e5cbc67457d8390f47dec4740d1> <http://schema.org/longitude> "10.9838"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na80e2b735b6c43e688960df167df3128> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N17c18e5cbc67457d8390f47dec4740d1> .
+<http://lodlaundromat.org/.well-known/genid/N46b0ef15b4d64fef8ee646b0f56d18e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

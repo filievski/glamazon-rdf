@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> .
+<http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://schema.org/streetAddress> "5833 PELICAN BAY BLVD" .
+<http://lodlaundromat.org/.well-known/genid/Nd8e6bfc162294edb91dd902e4a715a02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e6bfc162294edb91dd902e4a715a02> <http://schema.org/longitude> "-81.8044"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N489871b309a646bc9ad6aaa37de32519> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd8e6bfc162294edb91dd902e4a715a02> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e6bfc162294edb91dd902e4a715a02> <http://schema.org/latitude> "26.2169"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/name> "PHILADELPHIA CENTER FOR THE ARTS GALLERIES"@en .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> .
+<http://lodlaundromat.org/.well-known/genid/N489871b309a646bc9ad6aaa37de32519> <http://schema.org/value> "135237"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> <http://schema.org/id> "8401200792" .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.2169&mlon=-81.8044#map=15/26.2169/-81.8044> .
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://schema.org/postalCode> "34108-2740" .
+<http://lodlaundromat.org/.well-known/genid/N489871b309a646bc9ad6aaa37de32519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://schema.org/addressLocality> "NAPLES" .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N489871b309a646bc9ad6aaa37de32519> .
+<http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb118d40143b043e28be7b77068812881> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/telephone> "+1 (239) 597-1111" .
+<http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N369c38fd2b0d4e71a87902179ee15395> <http://schema.org/url> <http://www.thephil.org/> .
+<http://lodlaundromat.org/.well-known/genid/N219b79da25a7492aa60e7620f572226d> <http://schema.org/name> "us" .
+

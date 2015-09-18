@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://schema.org/addressLocality> "CLEVELAND" .
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://schema.org/streetAddress> "PO BOX 19535" .
+<http://lodlaundromat.org/.well-known/genid/Na514ee460e8f4d268451b5d68f2ebeb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na514ee460e8f4d268451b5d68f2ebeb0> .
+<http://lodlaundromat.org/.well-known/genid/N35f0309a333240e288b6907d59aa2f10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na514ee460e8f4d268451b5d68f2ebeb0> <http://schema.org/longitude> "-81.5471"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35f0309a333240e288b6907d59aa2f10> <http://schema.org/value> "153590"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> .
+<http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na514ee460e8f4d268451b5d68f2ebeb0> <http://schema.org/latitude> "41.5872"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35f0309a333240e288b6907d59aa2f10> .
+<http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> <http://schema.org/id> "8403901368" .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5872&mlon=-81.5471#map=15/41.5872/-81.5471> .
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://schema.org/postalCode> "44119-0535" .
+<http://lodlaundromat.org/.well-known/genid/N4f086b861fb6408d81556ed56f104f79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/name> "EUCLID BEACH PARK NOW"@en .
+<http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N35f0309a333240e288b6907d59aa2f10> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne1b00f910e464a7f8d4ff3f75a00bd51> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> .
+<http://lodlaundromat.org/.well-known/genid/Na6346f40ef7c4451b160fb5e0cc99149> <http://schema.org/@Type> "Dataset" .
+

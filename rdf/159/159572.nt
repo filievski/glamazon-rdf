@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://schema.org/streetAddress> "14651 DALLAS PARKWAY SUITE 700" .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/name> "ACCOUNTANCY MUSEUM OF THE TEXAS SOCIETY OF THE CPAS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> .
+<http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> <http://schema.org/id> "8404801672" .
+<http://lodlaundromat.org/.well-known/genid/N5d6e10c7e4734dfbabc95d45d3331ebc> <http://schema.org/latitude> "32.9457"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d6e10c7e4734dfbabc95d45d3331ebc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://schema.org/postalCode> "75254-7476" .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N285f32928e6c4d0e887e62d9d1ebde25> .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N285f32928e6c4d0e887e62d9d1ebde25> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N285f32928e6c4d0e887e62d9d1ebde25> <http://schema.org/value> "159572"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.9457&mlon=-96.8236#map=15/32.9457/-96.8236> .
+<http://lodlaundromat.org/.well-known/genid/N285f32928e6c4d0e887e62d9d1ebde25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5d6e10c7e4734dfbabc95d45d3331ebc> <http://schema.org/longitude> "-96.8236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> .
+<http://lodlaundromat.org/.well-known/genid/N6252df7494234340a7c45a77c9d973f5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5d6e10c7e4734dfbabc95d45d3331ebc> .
+<http://lodlaundromat.org/.well-known/genid/N81d69a7442c74b518857adef377570f6> <http://schema.org/addressLocality> "DALLAS" .
+<http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N538839a8fe144adbb01b5819eeb515a1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

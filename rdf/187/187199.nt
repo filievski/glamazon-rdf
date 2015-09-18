@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N23bc9e90660d40a9b70ac7c48fa0fd59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5219583d248b43ec8498b0ad3d16e5ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/url> <http://www.comune.jeragoconorago.va.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5716496ea14445df8345da2a1fe625fa> <http://schema.org/contentUrl> <http://images.museums.io/ksPz7imubRj7pZjUBZov2K06d4Q=/1000x1000/museums/logos/000/187/199/original/1d889a43a781bb618f2533affdc35bb4aaaf819.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5219583d248b43ec8498b0ad3d16e5ee> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5716496ea14445df8345da2a1fe625fa> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> .
+<http://lodlaundromat.org/.well-known/genid/N5716496ea14445df8345da2a1fe625fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7032&mlon=8.80098#map=15/45.7032/8.80098> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N23bc9e90660d40a9b70ac7c48fa0fd59> .
+<http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> <http://schema.org/streetAddress> "Piazza Don Luigi Mauri, ?" .
+<http://lodlaundromat.org/.well-known/genid/N23bc9e90660d40a9b70ac7c48fa0fd59> <http://schema.org/value> "187199"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/telephone> "+39 0331217210" .
+<http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> <http://schema.org/addressLocality> "Jerago con Orago" .
+<http://lodlaundromat.org/.well-known/genid/N5219583d248b43ec8498b0ad3d16e5ee> <http://schema.org/latitude> "45.7032"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2395203bf6e2414f981a647415db2440> <http://schema.org/name> "Civico museo di storia naturale"@it .
+<http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N5219583d248b43ec8498b0ad3d16e5ee> <http://schema.org/longitude> "8.80098"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nbeba7b2d6aad4ed9831312e148733eca> <http://schema.org/id> "103824" .
+<http://lodlaundromat.org/.well-known/genid/N84fa11e852ff41d3ba994d4f26c311ed> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N23bc9e90660d40a9b70ac7c48fa0fd59> <http://schema.org/name> "id" .
+

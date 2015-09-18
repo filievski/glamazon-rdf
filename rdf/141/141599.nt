@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N713db94462284e3bbe54b9449fbb1c8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.9069&mlon=-69.8257#map=15/43.9069/-69.8257> .
+<http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> <http://schema.org/id> "8402300448" .
+<http://lodlaundromat.org/.well-known/genid/Na7cb67126b6244e1bbd77c66cf0b24fd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/name> "SAGADAHOC PRESERVATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/telephone> "+1 (207) 443-2174" .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://schema.org/postalCode> "04530-0322" .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://schema.org/streetAddress> "PO BOX 322" .
+<http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7cb67126b6244e1bbd77c66cf0b24fd> .
+<http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N713db94462284e3bbe54b9449fbb1c8a> <http://schema.org/longitude> "-69.8257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N713db94462284e3bbe54b9449fbb1c8a> <http://schema.org/latitude> "43.9069"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7cb67126b6244e1bbd77c66cf0b24fd> <http://schema.org/value> "141599"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na7cb67126b6244e1bbd77c66cf0b24fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N10e4c567b56a4db693578dbc722621b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2b8da87b7f8f4886921b4495be5a4a9d> <http://schema.org/addressLocality> "BATH" .
+<http://lodlaundromat.org/.well-known/genid/N3c354ad774344c6f97baa2e2270fb446> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N713db94462284e3bbe54b9449fbb1c8a> .
+

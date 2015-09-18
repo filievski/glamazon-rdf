@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N83d554c8be994ff5b646762b60290abd> <http://schema.org/value> "157541"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://schema.org/postalCode> "37387-1422" .
+<http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> <http://schema.org/id> "8404700212" .
+<http://lodlaundromat.org/.well-known/genid/N2a80d3e99fc444e3a135746eda509021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a80d3e99fc444e3a135746eda509021> <http://schema.org/latitude> "35.2716"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://schema.org/streetAddress> "PO BOX 1422" .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a80d3e99fc444e3a135746eda509021> .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.2716&mlon=-85.727#map=15/35.2716/-85.727> .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N83d554c8be994ff5b646762b60290abd> .
+<http://lodlaundromat.org/.well-known/genid/N83d554c8be994ff5b646762b60290abd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/telephone> "+1 (931) 592-9714" .
+<http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> .
+<http://lodlaundromat.org/.well-known/genid/N2a80d3e99fc444e3a135746eda509021> <http://schema.org/longitude> "-85.727"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/name> "GRUNDY COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N20ac334643c141c5b6b739925c3f0d1b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N760a0467e4214738a5a66590942ab7e1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://schema.org/addressLocality> "TRACY CITY" .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N83d554c8be994ff5b646762b60290abd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8e80aec05bfe46a1851b87de8ca5b0d9> <http://schema.org/addressCountry> "United States" .
+

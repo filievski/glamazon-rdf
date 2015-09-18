@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3a92511aae524023a6f2f52a748d05e2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/name> "JONES GALLERY OF GLASS AND CERAMICS"@en .
+<http://lodlaundromat.org/.well-known/genid/N984a137bc7a7441ebf6fd0d5e63fdd00> <http://schema.org/longitude> "-70.6535"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N984a137bc7a7441ebf6fd0d5e63fdd00> <http://schema.org/latitude> "43.8931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.8931&mlon=-70.6535#map=15/43.8931/-70.6535> .
+<http://lodlaundromat.org/.well-known/genid/N3a92511aae524023a6f2f52a748d05e2> <http://schema.org/value> "141297"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3a92511aae524023a6f2f52a748d05e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> <http://schema.org/id> "8402300146" .
+<http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N984a137bc7a7441ebf6fd0d5e63fdd00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N984a137bc7a7441ebf6fd0d5e63fdd00> .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://schema.org/addressLocality> "SEBAGO" .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a92511aae524023a6f2f52a748d05e2> .
+<http://lodlaundromat.org/.well-known/genid/N7c4da5d8c668459584bd252f8328dfeb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> .
+<http://lodlaundromat.org/.well-known/genid/N0196530a877c41e9a1e0132edaff2723> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://schema.org/streetAddress> "PO BOX 129" .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne9dd847545b446cd8489deaa80033e0c> <http://schema.org/postalCode> "04029-0129" .
+

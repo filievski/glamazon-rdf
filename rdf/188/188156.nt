@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N9752f06e86464426acb7516ed115c2b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> .
+<http://lodlaundromat.org/.well-known/genid/N3dbabeaab24c4998bc77d78f5cececf3> <http://schema.org/contentUrl> <http://images.museums.io/B-sb3LHCdill6g_wbktgHeTd1eo=/1000x1000/museums/logos/000/188/156/original/1133387efeb1bd50d8ec2d90a01f09622935b2a.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.462&mlon=15.5397#map=15/41.462/15.5397> .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> <http://schema.org/id> "105973" .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/name> "The Provincial Museum of Territory"@en .
+<http://lodlaundromat.org/.well-known/genid/N343fadac1a9749feb0035d591e31f558> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9752f06e86464426acb7516ed115c2b3> <http://schema.org/value> "188156"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3dbabeaab24c4998bc77d78f5cececf3> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N343fadac1a9749feb0035d591e31f558> .
+<http://lodlaundromat.org/.well-known/genid/N343fadac1a9749feb0035d591e31f558> <http://schema.org/latitude> "41.462"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> .
+<http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/telephone> "+39 0881711134" .
+<http://lodlaundromat.org/.well-known/genid/N3dbabeaab24c4998bc77d78f5cececf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> <http://schema.org/streetAddress> "Via Arpi 155 , " .
+<http://lodlaundromat.org/.well-known/genid/N9752f06e86464426acb7516ed115c2b3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> <http://schema.org/addressRegion> "Puglia" .
+<http://lodlaundromat.org/.well-known/genid/Nee865b00cd474f65b8c65613a11e98ff> <http://schema.org/addressLocality> "Foggia" .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9752f06e86464426acb7516ed115c2b3> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N343fadac1a9749feb0035d591e31f558> <http://schema.org/longitude> "15.5397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98fa186ac0ed40169c9c5e1a347f11be> <http://schema.org/name> "Museo provinciale del territorio"@it .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b34183af644e39090e0cc8ccb9575> <http://schema.org/name> "itapi" .
+

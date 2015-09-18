@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N09dbd3ca66ec4e69a79899ffe75e0012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nad0087f0f273457999b3c4b1434cf66c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/name> "SANTA CLARA VALLEY HISTORICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nad0087f0f273457999b3c4b1434cf66c> <http://schema.org/latitude> "37.4514"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nad0087f0f273457999b3c4b1434cf66c> .
+<http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09dbd3ca66ec4e69a79899ffe75e0012> .
+<http://lodlaundromat.org/.well-known/genid/N09dbd3ca66ec4e69a79899ffe75e0012> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/url> <http://www.siliconvalleyhistorical.org/> .
+<http://lodlaundromat.org/.well-known/genid/N09dbd3ca66ec4e69a79899ffe75e0012> <http://schema.org/value> "131843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.4514&mlon=-122.186#map=15/37.4514/-122.186> .
+<http://lodlaundromat.org/.well-known/genid/N33afe6794e664776ad196aa0a6c2ec45> <http://schema.org/id> "8400601969" .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nad0087f0f273457999b3c4b1434cf66c> <http://schema.org/longitude> "-122.186"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://schema.org/addressLocality> "MENLO PARK" .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://schema.org/streetAddress> "1134 CRANE STREET" .
+<http://lodlaundromat.org/.well-known/genid/N6c85b443c3ef42229d72fc513a54d39d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> .
+<http://lodlaundromat.org/.well-known/genid/Nf041f873795d46e6b6e39f5578b4ff2d> <http://schema.org/postalCode> "94025" .
+

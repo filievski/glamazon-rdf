@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N68d4fb97d6e348e38c29555b8732f28f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/telephone> "+1 (518) 474-0456" .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://schema.org/streetAddress> "PO BOX 219" .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6529&mlon=-73.7506#map=15/42.6529/-73.7506> .
+<http://lodlaundromat.org/.well-known/genid/N95c8a43dee1c4797bbdab73526f9e84f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68d4fb97d6e348e38c29555b8732f28f> .
+<http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N95c8a43dee1c4797bbdab73526f9e84f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95c8a43dee1c4797bbdab73526f9e84f> .
+<http://lodlaundromat.org/.well-known/genid/N95c8a43dee1c4797bbdab73526f9e84f> <http://schema.org/value> "150726"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> <http://schema.org/id> "8403602020" .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://schema.org/addressLocality> "WATERFORD" .
+<http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/name> "NEW YORK STATE OFFICE OF PARKS, RECREATION, AND HISTORIC PR"@en .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N62028e69553744bdac3ed4929f3b28d4> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://schema.org/url> <http://parks.ny.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://schema.org/postalCode> "12188-0219" .
+<http://lodlaundromat.org/.well-known/genid/N68d4fb97d6e348e38c29555b8732f28f> <http://schema.org/latitude> "42.6529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68d4fb97d6e348e38c29555b8732f28f> <http://schema.org/longitude> "-73.7506"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06b2593da1f940a8a2a83b6739a25552> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3a042921f8ea4394982438bf36c3d88b> <http://schema.org/addressRegion> "NY" .
+

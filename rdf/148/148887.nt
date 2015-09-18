@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N78f7678e3fef4ae2a9c1116fe1ecdad2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N78f7678e3fef4ae2a9c1116fe1ecdad2> .
+<http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> .
+<http://lodlaundromat.org/.well-known/genid/N447043dff6cf43d195b506962284b642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0124&mlon=-73.9158#map=15/42.0124/-73.9158> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://schema.org/addressLocality> "RED HOOK" .
+<http://lodlaundromat.org/.well-known/genid/N447043dff6cf43d195b506962284b642> <http://schema.org/latitude> "42.0124"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N447043dff6cf43d195b506962284b642> .
+<http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N78f7678e3fef4ae2a9c1116fe1ecdad2> <http://schema.org/value> "148887"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N78f7678e3fef4ae2a9c1116fe1ecdad2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> <http://schema.org/id> "8403600181" .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/telephone> "+1 (845) 758-6667" .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndd79d34a5f63409e946403e4215318ac> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/url> <http://www.hudsonvalley.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N7d3a8796cbff46abab664daa3b232bc8> <http://schema.org/name> "MONTGOMERY PLACE"@en .
+<http://lodlaundromat.org/.well-known/genid/N447043dff6cf43d195b506962284b642> <http://schema.org/longitude> "-73.9158"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://schema.org/streetAddress> "26 GARDENER WAY" .
+<http://lodlaundromat.org/.well-known/genid/Ndbe5340ea482421cb89eb991cd137166> <http://schema.org/postalCode> "12571" .
+

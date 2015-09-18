@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> <http://schema.org/id> "8405100451" .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> .
+<http://lodlaundromat.org/.well-known/genid/N38c197d3e9cb46339f8528d64438d6d4> <http://schema.org/longitude> "-77.2526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N38c197d3e9cb46339f8528d64438d6d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9605&mlon=-77.2526#map=15/38.9605/-77.2526> .
+<http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N38c197d3e9cb46339f8528d64438d6d4> .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://schema.org/addressLocality> "MCLEAN" .
+<http://lodlaundromat.org/.well-known/genid/N38c197d3e9cb46339f8528d64438d6d4> <http://schema.org/latitude> "38.9605"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/name> "PATRONS OF PATARA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf06dd50c84114d008dadcaf2995dc8d8> <http://schema.org/value> "160945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf06dd50c84114d008dadcaf2995dc8d8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf600fc7088744688a3492101b7a77a9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf06dd50c84114d008dadcaf2995dc8d8> .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://schema.org/streetAddress> "1120 BELLVIEW ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Ne99eddc502304432944350ba3c9e25fc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N93472e6394674ddba851c4fd504f3e43> <http://schema.org/postalCode> "22102-1104" .
+<http://lodlaundromat.org/.well-known/genid/Nf06dd50c84114d008dadcaf2995dc8d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

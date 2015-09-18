@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://schema.org/addressLocality> "INDIANAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N35c829e3bd6c4c40b16af96fcd98a4ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35c829e3bd6c4c40b16af96fcd98a4ce> <http://schema.org/latitude> "39.7726"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08073e1ef75e4f8bbe233a39ad957f9b> .
+<http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://schema.org/postalCode> "46204-1708" .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/name> "KURT VONNEGUT MEMORIAL LIBRARY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N08073e1ef75e4f8bbe233a39ad957f9b> <http://schema.org/value> "138468"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/telephone> "+1 (317) 652-1954" .
+<http://lodlaundromat.org/.well-known/genid/N08073e1ef75e4f8bbe233a39ad957f9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35c829e3bd6c4c40b16af96fcd98a4ce> <http://schema.org/longitude> "-86.1633"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> .
+<http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> <http://schema.org/id> "8401800254" .
+<http://lodlaundromat.org/.well-known/genid/N08073e1ef75e4f8bbe233a39ad957f9b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N35c829e3bd6c4c40b16af96fcd98a4ce> .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7726&mlon=-86.1633#map=15/39.7726/-86.1633> .
+<http://lodlaundromat.org/.well-known/genid/Nac3a31f64ffb4aeab45580ea9557900a> <http://schema.org/streetAddress> "340 N SENATE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N953468e0ecea4654830fc33c6829ed9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8fc19c890cbb4c17a98647cd97312b60> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

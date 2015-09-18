@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> .
+<http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> <http://schema.org/addressLocality> "Falconara Marittima" .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> .
+<http://lodlaundromat.org/.well-known/genid/N30aa09b2595043a1b38f815a9420374a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N30aa09b2595043a1b38f815a9420374a> <http://schema.org/contentUrl> <http://images.museums.io/6KudQDq1-uGQKWlflqWRGDozG94=/1000x1000/museums/logos/000/187/249/original/122162a96dfb18ee5650d81861d8c2f42d9246.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/name> "Pinacoteca internazionale d'arte francescana contemporanea \"In nome di Francesco\""@it .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N038851bdd20c4b78ba9f2c89fee5f52f> .
+<http://lodlaundromat.org/.well-known/genid/N038851bdd20c4b78ba9f2c89fee5f52f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nea058773794243429cb336a435aac6c8> <http://schema.org/longitude> "13.3931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nea058773794243429cb336a435aac6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nea058773794243429cb336a435aac6c8> .
+<http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> <http://schema.org/streetAddress> "Piazza S. Antonio, 5" .
+<http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> <http://schema.org/id> "104053" .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.629&mlon=13.3931#map=15/43.629/13.3931> .
+<http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nd58ea663ec754b49aae7d808c9dc8103> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N038851bdd20c4b78ba9f2c89fee5f52f> <http://schema.org/value> "187249"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/telephone> "+39 0719161480" .
+<http://lodlaundromat.org/.well-known/genid/N038851bdd20c4b78ba9f2c89fee5f52f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2744b3b79640493cae2eb172e7ad5e29> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N30aa09b2595043a1b38f815a9420374a> .
+<http://lodlaundromat.org/.well-known/genid/N6a604bdaa3d146e3876a9c66b82ecfc1> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nea058773794243429cb336a435aac6c8> <http://schema.org/latitude> "43.629"^^<http://www.w3.org/2001/XMLSchema#double> .
+

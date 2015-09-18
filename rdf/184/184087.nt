@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N4ea26cabec7047fcb8fac20493e39475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/telephone> "+49 421 50945555" .
+<http://lodlaundromat.org/.well-known/genid/Nb270643e8ed64835b279d145b942118b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf9de7c9db9c8456d9223157eb3de8a8d> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2355a7f22a404aabb623d2951ced08cc> .
+<http://lodlaundromat.org/.well-known/genid/Nf9de7c9db9c8456d9223157eb3de8a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ea26cabec7047fcb8fac20493e39475> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9de7c9db9c8456d9223157eb3de8a8d> <http://schema.org/value> "184087"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf9de7c9db9c8456d9223157eb3de8a8d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2355a7f22a404aabb623d2951ced08cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2355a7f22a404aabb623d2951ced08cc> <http://schema.org/email> "mailto:besucherzentrum@becks.de" .
+<http://lodlaundromat.org/.well-known/genid/N4ea26cabec7047fcb8fac20493e39475> <http://schema.org/longitude> "8.79021"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb270643e8ed64835b279d145b942118b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4ea26cabec7047fcb8fac20493e39475> <http://schema.org/latitude> "53.0787"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb270643e8ed64835b279d145b942118b> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0787&mlon=8.79021#map=15/53.0787/8.79021> .
+<http://lodlaundromat.org/.well-known/genid/N9b637cc4bfe5494e8413c79e7c1a6ed2> <http://schema.org/name> "Beck's Brewery tour"@en .
+<http://lodlaundromat.org/.well-known/genid/N2355a7f22a404aabb623d2951ced08cc> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nb270643e8ed64835b279d145b942118b> <http://schema.org/url> <http://www.museums.io/en/museums/184087> .
+<http://lodlaundromat.org/.well-known/genid/Nb270643e8ed64835b279d145b942118b> <http://schema.org/name> "de_bremen" .
+

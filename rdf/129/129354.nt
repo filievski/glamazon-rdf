@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndbab23b89fa84778a49a7dad4c3ea290> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://schema.org/postalCode> "86304-1086" .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N672f21d02ff74ed6ba334bb02af73f99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N672f21d02ff74ed6ba334bb02af73f99> <http://schema.org/longitude> "-112.478"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndbab23b89fa84778a49a7dad4c3ea290> .
+<http://lodlaundromat.org/.well-known/genid/Ndbab23b89fa84778a49a7dad4c3ea290> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> <http://schema.org/id> "8400400256" .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://schema.org/streetAddress> "PO BOX 11086" .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N672f21d02ff74ed6ba334bb02af73f99> .
+<http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/url> <http://www.prescottcorral.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/name> "PRESCOTT CORRAL OF WESTERNERS INTERNATIONAL"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a31af25817045f5b3a6df1e46fffc8a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndbab23b89fa84778a49a7dad4c3ea290> <http://schema.org/value> "129354"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Necdd30d058d047a5ae34b393b4ceb7aa> <http://schema.org/addressLocality> "PRESCOTT" .
+<http://lodlaundromat.org/.well-known/genid/Ncec651df58c74d3fbf0053588d51a855> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.5479&mlon=-112.478#map=15/34.5479/-112.478> .
+<http://lodlaundromat.org/.well-known/genid/N672f21d02ff74ed6ba334bb02af73f99> <http://schema.org/latitude> "34.5479"^^<http://www.w3.org/2001/XMLSchema#double> .
+

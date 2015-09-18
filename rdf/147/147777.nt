@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2787314509a540c19088de5a2c1a95cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> <http://schema.org/id> "8403400145" .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://schema.org/postalCode> "07104-3840" .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://schema.org/streetAddress> "145 BROADWAY" .
+<http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2787314509a540c19088de5a2c1a95cd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2787314509a540c19088de5a2c1a95cd> .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Neb289bfc048549bbb2b9ca05b51cd72d> <http://schema.org/latitude> "40.7552"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb289bfc048549bbb2b9ca05b51cd72d> .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/name> "JEWISH MUSEUM OF NEW JERSEY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Neb289bfc048549bbb2b9ca05b51cd72d> <http://schema.org/longitude> "-74.1702"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb289bfc048549bbb2b9ca05b51cd72d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7552&mlon=-74.1702#map=15/40.7552/-74.1702> .
+<http://lodlaundromat.org/.well-known/genid/N67aab0b6353d4383b5f7069de401faf1> <http://schema.org/addressLocality> "NEWARK" .
+<http://lodlaundromat.org/.well-known/genid/N86c7c6577439460eb9b812859bcd3508> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc59e61f75ead4948aa01bdd8160d3727> .
+<http://lodlaundromat.org/.well-known/genid/N2787314509a540c19088de5a2c1a95cd> <http://schema.org/value> "147777"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

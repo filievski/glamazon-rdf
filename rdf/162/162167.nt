@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N11891fea2a544545b67e86f354be2968> <http://schema.org/value> "162167"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://schema.org/addressLocality> "BOW" .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> .
+<http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/name> "NORTH CASCADES CORRIDOR PROJECT"@en .
+<http://lodlaundromat.org/.well-known/genid/N11891fea2a544545b67e86f354be2968> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc7a4bf90cabe4f6fa4d04c691199f58e> <http://schema.org/longitude> "-122.422"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N11891fea2a544545b67e86f354be2968> .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> <http://schema.org/id> "8405300616" .
+<http://lodlaundromat.org/.well-known/genid/Nc7a4bf90cabe4f6fa4d04c691199f58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.5932&mlon=-122.422#map=15/48.5932/-122.422> .
+<http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N11891fea2a544545b67e86f354be2968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6a1169432c0e466e9e5e910f0c49043a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7a4bf90cabe4f6fa4d04c691199f58e> .
+<http://lodlaundromat.org/.well-known/genid/N56602369f3584a2bbfda526f6fe75c55> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7a4bf90cabe4f6fa4d04c691199f58e> <http://schema.org/latitude> "48.5932"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://schema.org/postalCode> "98232-8597" .
+<http://lodlaundromat.org/.well-known/genid/N0a18fdc7dda449078298db68be5accd6> <http://schema.org/streetAddress> "3725 CHUCKANUT DRIVE" .
+

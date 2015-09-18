@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> .
+<http://lodlaundromat.org/.well-known/genid/N4ae1a3a7f3cb4704876c310c3fbb1c88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://schema.org/streetAddress> "PO BOX 60" .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://schema.org/postalCode> "10928-0060" .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N4ae1a3a7f3cb4704876c310c3fbb1c88> <http://schema.org/longitude> "-73.9713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7723816549094149ae746cb7c42f61fe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3579&mlon=-73.9713#map=15/41.3579/-73.9713> .
+<http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> <http://schema.org/id> "8403602378" .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7723816549094149ae746cb7c42f61fe> .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7723816549094149ae746cb7c42f61fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4ae1a3a7f3cb4704876c310c3fbb1c88> <http://schema.org/latitude> "41.3579"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N255d04b1e9c64d0fb547c8b1c9547405> <http://schema.org/addressLocality> "HIGHLAND FALLS" .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/name> "BUFFALO SOLDIERS ASSOCIATION OF WEST POINT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ae1a3a7f3cb4704876c310c3fbb1c88> .
+<http://lodlaundromat.org/.well-known/genid/N251305732ab941b1aaaaa432b295305d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9b257e8cba4e42888bb97239fc40d043> .
+<http://lodlaundromat.org/.well-known/genid/N7723816549094149ae746cb7c42f61fe> <http://schema.org/value> "151084"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N932c43bda4a04e9597292ea0ef715036> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N932c43bda4a04e9597292ea0ef715036> .
+<http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N932c43bda4a04e9597292ea0ef715036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.767&mlon=8.06846#map=15/44.767/8.06846> .
+<http://lodlaundromat.org/.well-known/genid/N529defd0e29048fcbf0caf0fae92863b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N529defd0e29048fcbf0caf0fae92863b> <http://schema.org/latitude> "44.767"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> <http://schema.org/addressLocality> "Magliano Alfieri" .
+<http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> <http://schema.org/id> "103888" .
+<http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/telephone> "+39 017366117" .
+<http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> <http://schema.org/streetAddress> "Via Alfieri, 4, " .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/name> "Castello degli Alfieri DI Magliano"@it .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N529defd0e29048fcbf0caf0fae92863b> .
+<http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N932c43bda4a04e9597292ea0ef715036> <http://schema.org/value> "187707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9ee08c3df41b4819aa859faa4b1c0cc0> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7a3bc927e9534040b481541b0db739c9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N268ed3c0c23a43959c5b3eb9ec3e72a2> .
+<http://lodlaundromat.org/.well-known/genid/N529defd0e29048fcbf0caf0fae92863b> <http://schema.org/longitude> "8.06846"^^<http://www.w3.org/2001/XMLSchema#double> .
+

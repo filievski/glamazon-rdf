@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://schema.org/postalCode> "43149" .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://schema.org/streetAddress> "16820 STATE ROUTE 678" .
+<http://lodlaundromat.org/.well-known/genid/Nc92ad15fbc394cea8618d32b15913a5d> <http://schema.org/longitude> "-78.3402"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/name> "CRANE HOLLOW PRESERVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/telephone> "+1 (740) 438-5777" .
+<http://lodlaundromat.org/.well-known/genid/Nc92ad15fbc394cea8618d32b15913a5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc92ad15fbc394cea8618d32b15913a5d> .
+<http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> <http://schema.org/id> "8403901434" .
+<http://lodlaundromat.org/.well-known/genid/Nb6613b48cc554df1893f904cdb0185bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0382&mlon=-78.3402#map=15/42.0382/-78.3402> .
+<http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> .
+<http://lodlaundromat.org/.well-known/genid/Nb6613b48cc554df1893f904cdb0185bd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2208b2bf88e54bc68b582e8900269824> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb6613b48cc554df1893f904cdb0185bd> .
+<http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://schema.org/addressLocality> "ROCKBRIDGE" .
+<http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc92ad15fbc394cea8618d32b15913a5d> <http://schema.org/latitude> "42.0382"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb6613b48cc554df1893f904cdb0185bd> <http://schema.org/value> "190254"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndf002fd7bb664447b0e15efbbe566de3> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Ne83872b9366e4d4084118a94961a6edf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

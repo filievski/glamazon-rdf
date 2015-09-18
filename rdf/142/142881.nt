@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5db232a5574384b7b4974e754a8afa> <http://schema.org/value> "142881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfaa11037dd5e4bd49ccd7f0f8377509b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfaa11037dd5e4bd49ccd7f0f8377509b> .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5db232a5574384b7b4974e754a8afa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> .
+<http://lodlaundromat.org/.well-known/genid/Nfaa11037dd5e4bd49ccd7f0f8377509b> <http://schema.org/longitude> "-72.6292"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> <http://schema.org/id> "8402500511" .
+<http://lodlaundromat.org/.well-known/genid/Ncc4b1cd4e023418cac84f69398fc3357> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/name> "THE ERIC & BARBARA CARLE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3199&mlon=-72.6292#map=15/42.3199/-72.6292> .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://schema.org/streetAddress> "38 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Na622368dadb34a8bb74ee19c30917bdd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbf5db232a5574384b7b4974e754a8afa> .
+<http://lodlaundromat.org/.well-known/genid/Nfaa11037dd5e4bd49ccd7f0f8377509b> <http://schema.org/latitude> "42.3199"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://schema.org/addressLocality> "NORTHAMPTON" .
+<http://lodlaundromat.org/.well-known/genid/N52b4959ee1ae450d82bd04adcece3842> <http://schema.org/postalCode> "01060-3197" .
+<http://lodlaundromat.org/.well-known/genid/Nbf5db232a5574384b7b4974e754a8afa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

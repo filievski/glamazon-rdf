@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N3ede745264ee4d4ab73dbfdeff2dcf3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nec8426f064174391830555afdd4fe519> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ede745264ee4d4ab73dbfdeff2dcf3c> .
+<http://lodlaundromat.org/.well-known/genid/Nec8426f064174391830555afdd4fe519> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1ac4338edcd84b61b2b9646e039f8856> <http://schema.org/latitude> "23.9328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N11eaed4ada8c4003abca75a6576b5c64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ede745264ee4d4ab73dbfdeff2dcf3c> <http://schema.org/value> "185151"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nec8426f064174391830555afdd4fe519> .
+<http://lodlaundromat.org/.well-known/genid/N11eaed4ada8c4003abca75a6576b5c64> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N3ede745264ee4d4ab73dbfdeff2dcf3c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1ac4338edcd84b61b2b9646e039f8856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1ac4338edcd84b61b2b9646e039f8856> <http://schema.org/longitude> "23.9328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/url> <http://www.vanhaplassi.fi/kohteet/kalastusmuseo> .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N11eaed4ada8c4003abca75a6576b5c64> .
+<http://lodlaundromat.org/.well-known/genid/Nec8426f064174391830555afdd4fe519> <http://schema.org/url> <http://www.museums.io/en/museums/185151> .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1ac4338edcd84b61b2b9646e039f8856> .
+<http://lodlaundromat.org/.well-known/genid/Nec8426f064174391830555afdd4fe519> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/name> "Kalajoki Fishing Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb007e8ccafbe45cf8bc99074ccce2c52> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=23.9328&mlon=23.9328#map=15/23.9328/23.9328> .
+

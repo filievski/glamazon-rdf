@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://schema.org/streetAddress> "PO BOX 1570" .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2d9bc6f01f89402e86d8235eb3905e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://schema.org/addressRegion> "NV" .
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://schema.org/addressLocality> "ELKO" .
+<http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2d9bc6f01f89402e86d8235eb3905e7a> <http://schema.org/value> "147147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N83cdbbb890a44d88b261377150b934fc> <http://schema.org/latitude> "40.8301"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8301&mlon=-115.764#map=15/40.8301/-115.764> .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d9bc6f01f89402e86d8235eb3905e7a> .
+<http://lodlaundromat.org/.well-known/genid/N83cdbbb890a44d88b261377150b934fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2d9bc6f01f89402e86d8235eb3905e7a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> <http://schema.org/id> "8403200122" .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/name> "WESTERN FOLKLIFE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/telephone> "+1 (775) 738-7508" .
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://schema.org/postalCode> "89803-1570" .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N83cdbbb890a44d88b261377150b934fc> .
+<http://lodlaundromat.org/.well-known/genid/N85e60cd3302746119af8548d51e47854> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne3b66fdee9e749559b72e8740595413e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20b73e8ad8c74ffd8f65727aa548e6e3> .
+<http://lodlaundromat.org/.well-known/genid/N83cdbbb890a44d88b261377150b934fc> <http://schema.org/longitude> "-115.764"^^<http://www.w3.org/2001/XMLSchema#double> .
+

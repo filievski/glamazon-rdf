@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0b9d14be684758a069a181a2f17a89> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N3248778dbdce4b7b8aca2c7019ef5e61> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3248778dbdce4b7b8aca2c7019ef5e61> <http://schema.org/url> <http://www.museums.io/en/museums/185285> .
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://schema.org/url> <http://www.sakyla.fi/museot.htm> .
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://schema.org/name> "Korvenkyl\u00E4 Mill Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3248778dbdce4b7b8aca2c7019ef5e61> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0b9d14be684758a069a181a2f17a89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3248778dbdce4b7b8aca2c7019ef5e61> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nfe5ef552aba546a0b6012105b15eef1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfe5ef552aba546a0b6012105b15eef1f> .
+<http://lodlaundromat.org/.well-known/genid/N3248778dbdce4b7b8aca2c7019ef5e61> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfe5ef552aba546a0b6012105b15eef1f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N88b3d17171004c3b8a62598abe5d1082> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbd0b9d14be684758a069a181a2f17a89> .
+<http://lodlaundromat.org/.well-known/genid/Nfe5ef552aba546a0b6012105b15eef1f> <http://schema.org/value> "185285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

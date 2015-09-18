@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2667ef3ca1494f129c8466431d67b549> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://schema.org/addressLocality> "HOPE" .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N60cc817596904d75a206415cda0ffe1a> <http://schema.org/latitude> "33.6692"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> .
+<http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> <http://schema.org/id> "8400500251" .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> .
+<http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60cc817596904d75a206415cda0ffe1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.6692&mlon=-93.5886#map=15/33.6692/-93.5886> .
+<http://lodlaundromat.org/.well-known/genid/N132d834e1a6a4b2c9a02d76824fe4a34> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://schema.org/streetAddress> "PO BOX 2252" .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/name> "SENTIMENTAL JOURNEY TO SOUTHWESTERN"@en .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N60cc817596904d75a206415cda0ffe1a> .
+<http://lodlaundromat.org/.well-known/genid/N62a25637a3864604941efae4a0b748fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2667ef3ca1494f129c8466431d67b549> .
+<http://lodlaundromat.org/.well-known/genid/N2667ef3ca1494f129c8466431d67b549> <http://schema.org/value> "129815"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://schema.org/postalCode> "71802-2252" .
+<http://lodlaundromat.org/.well-known/genid/N60cc817596904d75a206415cda0ffe1a> <http://schema.org/longitude> "-93.5886"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c60a499b8a2408ba45d599351683d4d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2667ef3ca1494f129c8466431d67b549> <http://schema.org/name> "id" .
+

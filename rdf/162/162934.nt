@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://schema.org/addressLocality> "MT STERLING" .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/name> "CRAWFORD COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> <http://schema.org/id> "8405500383" .
+<http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://schema.org/streetAddress> "PO BOX 72" .
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N48c10b327fdc4c7fbd71344731a08cf4> .
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N64357503827a465e9c3573655dd72aaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N48c10b327fdc4c7fbd71344731a08cf4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.3156&mlon=-90.9286#map=15/43.3156/-90.9286> .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N64357503827a465e9c3573655dd72aaa> .
+<http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> <http://schema.org/postalCode> "54645" .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8d7460dd676a434ba1526e0ba5e4da6d> .
+<http://lodlaundromat.org/.well-known/genid/N4a2b3f84a44248539d1c28558563896c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> .
+<http://lodlaundromat.org/.well-known/genid/N64357503827a465e9c3573655dd72aaa> <http://schema.org/latitude> "43.3156"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64357503827a465e9c3573655dd72aaa> <http://schema.org/longitude> "-90.9286"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N414ffd7bb0c74e0a8c7b55c3e6035375> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48c10b327fdc4c7fbd71344731a08cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48c10b327fdc4c7fbd71344731a08cf4> <http://schema.org/value> "162934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

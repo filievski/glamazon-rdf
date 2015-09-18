@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://schema.org/addressLocality> "PAWTUCKET" .
+<http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> <http://schema.org/id> "8404400029" .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/telephone> "+1 (401) 728-0500" .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://schema.org/postalCode> "02861" .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://schema.org/addressRegion> "RI" .
+<http://lodlaundromat.org/.well-known/genid/N847f091b8f8f41b7b3fc765ad998e5ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N37ade31fe1a74fd68c06bc3c91b631d2> <http://schema.org/value> "156525"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N37ade31fe1a74fd68c06bc3c91b631d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N37ade31fe1a74fd68c06bc3c91b631d2> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N847f091b8f8f41b7b3fc765ad998e5ce> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> .
+<http://lodlaundromat.org/.well-known/genid/N847f091b8f8f41b7b3fc765ad998e5ce> <http://schema.org/longitude> "-71.3562"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N847f091b8f8f41b7b3fc765ad998e5ce> <http://schema.org/latitude> "41.8744"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/name> "DAGGETT HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> <http://schema.org/streetAddress> "16 2ND ST" .
+<http://lodlaundromat.org/.well-known/genid/N37ade31fe1a74fd68c06bc3c91b631d2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N71dde8771dff46e3838d3dcff7908e18> .
+<http://lodlaundromat.org/.well-known/genid/N1f189bcc10fd43fb9df863d3b2d0ae2c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8744&mlon=-71.3562#map=15/41.8744/-71.3562> .
+<http://lodlaundromat.org/.well-known/genid/N51356876061a46c5a2a4f3d3f297f059> <http://schema.org/url> <http://www.imls.gov/> .
+

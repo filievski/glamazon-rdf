@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3dceb9b348d449709215463101615f56> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N663440a4530941d88b19f3c69ccb068a> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9204&mlon=14.8329#map=15/40.9204/14.8329> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> <http://schema.org/streetAddress> "Piazza Umberto" .
+<http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3dceb9b348d449709215463101615f56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N663440a4530941d88b19f3c69ccb068a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N374bd09ce8094158b3fccee482596b13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5e5c21afb141adbd4d8c4daa012c68> <http://schema.org/addressLocality> "Atripalda" .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> .
+<http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> <http://schema.org/id> "20779" .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/telephone> "+39 0825626586" .
+<http://lodlaundromat.org/.well-known/genid/N3dceb9b348d449709215463101615f56> <http://schema.org/contentUrl> <http://images.museums.io/qfp5JzEa_TaEhVGEIw3vuMirz0Q=/1000x1000/museums/logos/000/185/905/original/7588916d8711f14a0b519fbdc17f562021a8d2.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/name> "Museo del Palazzo della Dogana dei Grani"@it .
+<http://lodlaundromat.org/.well-known/genid/N374bd09ce8094158b3fccee482596b13> <http://schema.org/latitude> "40.9204"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53e0d4096b464e0bbdb6020c6840b4ed> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N374bd09ce8094158b3fccee482596b13> .
+<http://lodlaundromat.org/.well-known/genid/N374bd09ce8094158b3fccee482596b13> <http://schema.org/longitude> "14.8329"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N663440a4530941d88b19f3c69ccb068a> <http://schema.org/value> "185905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfad4ef5a54d3493986f95c02a275e5ef> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N663440a4530941d88b19f3c69ccb068a> <http://schema.org/name> "id" .
+

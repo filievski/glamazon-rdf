@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nfe94be6dd1844dbf9e1591cf6dd14655> <http://schema.org/latitude> "24.9367"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N15a5433511394680a68b73e2e49c6bab> .
+<http://lodlaundromat.org/.well-known/genid/N15a5433511394680a68b73e2e49c6bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=24.9367&mlon=24.9367#map=15/24.9367/24.9367> .
+<http://lodlaundromat.org/.well-known/genid/Nf0d2e7a923bf4d6d9fb5c290a7e19bd8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na2e13cff3ff140edb2f3907fea40d247> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na2e13cff3ff140edb2f3907fea40d247> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nf0d2e7a923bf4d6d9fb5c290a7e19bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N15a5433511394680a68b73e2e49c6bab> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Na2e13cff3ff140edb2f3907fea40d247> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2e13cff3ff140edb2f3907fea40d247> <http://schema.org/url> <http://www.museums.io/en/museums/185270> .
+<http://lodlaundromat.org/.well-known/genid/Nfe94be6dd1844dbf9e1591cf6dd14655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na2e13cff3ff140edb2f3907fea40d247> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf0d2e7a923bf4d6d9fb5c290a7e19bd8> .
+<http://lodlaundromat.org/.well-known/genid/Nfe94be6dd1844dbf9e1591cf6dd14655> <http://schema.org/longitude> "24.9367"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/name> "Museum of Contemporary Art Kiasma"@en .
+<http://lodlaundromat.org/.well-known/genid/N6d1a5cf6fbd749de9388fb872e9d0219> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfe94be6dd1844dbf9e1591cf6dd14655> .
+<http://lodlaundromat.org/.well-known/genid/Nf0d2e7a923bf4d6d9fb5c290a7e19bd8> <http://schema.org/value> "185270"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

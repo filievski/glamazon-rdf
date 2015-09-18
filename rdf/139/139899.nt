@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/name> "MCCRACKEN HISTORICAL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2307734494bd4b6c89800a6e7c597f19> <http://schema.org/latitude> "38.5854"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne1e13d9d123246c7a445ada04538eb40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> <http://schema.org/id> "8402000225" .
+<http://lodlaundromat.org/.well-known/genid/N2307734494bd4b6c89800a6e7c597f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne1e13d9d123246c7a445ada04538eb40> <http://schema.org/value> "139899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2307734494bd4b6c89800a6e7c597f19> .
+<http://lodlaundromat.org/.well-known/genid/Ne1e13d9d123246c7a445ada04538eb40> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2307734494bd4b6c89800a6e7c597f19> <http://schema.org/longitude> "-99.5698"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> .
+<http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5854&mlon=-99.5698#map=15/38.5854/-99.5698> .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne1e13d9d123246c7a445ada04538eb40> .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://schema.org/postalCode> "67556-0342" .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://schema.org/streetAddress> "PO BOX 342" .
+<http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4f6b7ff63f834e0b9fdc4e95b8e1f444> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://schema.org/addressLocality> "MCCRACKEN" .
+<http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N424fa5965e52455ab08ffe82b94fe112> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naa92be1903044ae98d9452e74b9f6d9a> .
+

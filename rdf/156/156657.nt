@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://schema.org/streetAddress> "PO BOX 1511" .
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N516a93c640d4465baebe28cd2a5083a4> <http://schema.org/value> "156657"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nde19aa6f554e4b4eb4ed6c503ed4540c> <http://schema.org/latitude> "41.356"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde19aa6f554e4b4eb4ed6c503ed4540c> <http://schema.org/longitude> "-71.8089"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> .
+<http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N516a93c640d4465baebe28cd2a5083a4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nde19aa6f554e4b4eb4ed6c503ed4540c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N516a93c640d4465baebe28cd2a5083a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> <http://schema.org/id> "8404400161" .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.356&mlon=-71.8089#map=15/41.356/-71.8089> .
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://schema.org/addressLocality> "WESTERLY" .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nde19aa6f554e4b4eb4ed6c503ed4540c> .
+<http://lodlaundromat.org/.well-known/genid/N24550a1deaf640d59d678497923d0d41> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://schema.org/addressRegion> "RI" .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/name> "WATCH HILL LIGHTHOUSE KEEPERS ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na89ef42dbf0749ff9d131dc02fc489cb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N516a93c640d4465baebe28cd2a5083a4> .
+<http://lodlaundromat.org/.well-known/genid/N285b3d63d6d0477fa6abbf2f05a62910> <http://schema.org/postalCode> "02891-0908" .
+

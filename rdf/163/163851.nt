@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/Nfc99312052e14d3bafd2020fb9ae3ec3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8fd1e551f7784a0687905953b1a5d908> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nfc99312052e14d3bafd2020fb9ae3ec3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8fd1e551f7784a0687905953b1a5d908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndc638f0a189241e49b582efc3e614d18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/name> "East Gippsland Family History Group"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/telephone> "(03) 5152 5590 " .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8fd1e551f7784a0687905953b1a5d908> .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8192&mlon=147.606#map=15/-37.8192/147.606> .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndc638f0a189241e49b582efc3e614d18> .
+<http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> <http://schema.org/id> "east-gippsland-family-history-group-inc" .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndc638f0a189241e49b582efc3e614d18> <http://schema.org/longitude> "147.606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfc99312052e14d3bafd2020fb9ae3ec3> .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/url> <http://www.egfhg.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> <http://schema.org/url> <http://victoriancollections.net.au/organisations/east-gippsland-family-history-group-inc> .
+<http://lodlaundromat.org/.well-known/genid/Ndc638f0a189241e49b582efc3e614d18> <http://schema.org/latitude> "-37.8192"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfc99312052e14d3bafd2020fb9ae3ec3> <http://schema.org/value> "163851"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e3b8bb82f1843ed8bfe8976e05184ae> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N13ac197f439c4058b6b46afa2bd27024> .
+

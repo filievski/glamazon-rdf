@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N94086f7b299d4d99a8276ee9dff60d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://schema.org/addressLocality> "BOSTON" .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> .
+<http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2ab998e1c9d34279a9107aea56d3c50b> <http://schema.org/value> "142920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> <http://schema.org/id> "8402500550" .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://schema.org/postalCode> "02215-3616" .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2ab998e1c9d34279a9107aea56d3c50b> .
+<http://lodlaundromat.org/.well-known/genid/N94086f7b299d4d99a8276ee9dff60d2d> <http://schema.org/longitude> "-71.0904"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8c808d87997b495e8628a9195058ea64> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> .
+<http://lodlaundromat.org/.well-known/genid/N2ab998e1c9d34279a9107aea56d3c50b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2ab998e1c9d34279a9107aea56d3c50b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne8131e4c2465433cbdd20b9c6fe78abb> <http://schema.org/streetAddress> "30 IPSWICH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3475&mlon=-71.0904#map=15/42.3475/-71.0904> .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/name> "FRIENDS OF FENWAY STUDIOS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N063a64ff2d9a49e38b00fd205ccb508d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94086f7b299d4d99a8276ee9dff60d2d> .
+<http://lodlaundromat.org/.well-known/genid/N94086f7b299d4d99a8276ee9dff60d2d> <http://schema.org/latitude> "42.3475"^^<http://www.w3.org/2001/XMLSchema#double> .
+

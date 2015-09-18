@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb2790ce4dee54bf4b5c3ec7d163dc4d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N46bcb70eb60e43489990486f58cde1ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> .
+<http://lodlaundromat.org/.well-known/genid/Nb2790ce4dee54bf4b5c3ec7d163dc4d1> <http://schema.org/latitude> "42.9666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/telephone> "+1 (616) 456-3977" .
+<http://lodlaundromat.org/.well-known/genid/Nb2790ce4dee54bf4b5c3ec7d163dc4d1> <http://schema.org/longitude> "-85.6766"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9666&mlon=-85.6766#map=15/42.9666/-85.6766> .
+<http://lodlaundromat.org/.well-known/genid/N46bcb70eb60e43489990486f58cde1ef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2790ce4dee54bf4b5c3ec7d163dc4d1> .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://schema.org/streetAddress> "272 PEARL ST NW" .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://schema.org/addressLocality> "GRAND RAPIDS" .
+<http://lodlaundromat.org/.well-known/genid/N46bcb70eb60e43489990486f58cde1ef> <http://schema.org/value> "144174"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> <http://schema.org/id> "8402600711" .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://schema.org/postalCode> "49504-5351" .
+<http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/name> "GRAND RAPIDS PUBLIC MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2c01bf0d7c6d4afb968d70075609baec> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N46bcb70eb60e43489990486f58cde1ef> .
+<http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/url> <http://www.grmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf516873dea694a46aba8cf509c668d37> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne55bd91412934fc7be04beabc27da677> .
+

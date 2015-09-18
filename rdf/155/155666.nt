@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://schema.org/addressLocality> "OXFORD" .
+<http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> .
+<http://lodlaundromat.org/.well-known/genid/N8c053e2ee9d940fb923349e9584478c5> <http://schema.org/value> "155666"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://schema.org/streetAddress> "19 S 3RD ST" .
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> <http://schema.org/id> "8404200860" .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c053e2ee9d940fb923349e9584478c5> .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/name> "OXFORD MAINSTREET INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8c053e2ee9d940fb923349e9584478c5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8c053e2ee9d940fb923349e9584478c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N78b0c0d87c434137a711682545c54839> <http://schema.org/longitude> "-75.9791"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78b0c0d87c434137a711682545c54839> .
+<http://lodlaundromat.org/.well-known/genid/N1dbad0d147564dc8924f57bdbe09878b> <http://schema.org/postalCode> "19363-1602" .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> .
+<http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N20eb62e66d994836b2bde965bdbf85df> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7844&mlon=-75.9791#map=15/39.7844/-75.9791> .
+<http://lodlaundromat.org/.well-known/genid/Na5734aa8c3494cc1b122bfa7444158b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N78b0c0d87c434137a711682545c54839> <http://schema.org/latitude> "39.7844"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78b0c0d87c434137a711682545c54839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

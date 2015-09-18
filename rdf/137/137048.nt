@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://schema.org/streetAddress> "831 MAPLE AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/name> "DOWNERS GROVE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nff4a52e06c9245599562ba9e794bbbee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N5dfdcdd52d6548a49357207731a03df5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> .
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://schema.org/postalCode> "60515" .
+<http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> <http://schema.org/id> "8401700193" .
+<http://lodlaundromat.org/.well-known/genid/Nff4a52e06c9245599562ba9e794bbbee> <http://schema.org/value> "137048"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5dfdcdd52d6548a49357207731a03df5> <http://schema.org/longitude> "-88.0051"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5dfdcdd52d6548a49357207731a03df5> .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> .
+<http://lodlaundromat.org/.well-known/genid/N5dfdcdd52d6548a49357207731a03df5> <http://schema.org/latitude> "41.7931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nff4a52e06c9245599562ba9e794bbbee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nff4a52e06c9245599562ba9e794bbbee> .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/telephone> "+1 (630) 963-1309" .
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na0f9aa9e10b64ee7a6cfefe0168cdde1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7931&mlon=-88.0051#map=15/41.7931/-88.0051> .
+<http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na1c8574bce354a538aef219e30c58cc3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb47f2b7ebc1745cd94a420fe886e0c25> <http://schema.org/addressLocality> "DOWNERS GROVE" .
+

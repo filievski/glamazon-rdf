@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N45d7c5660df14f8b9c333dfff2c22264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N45d7c5660df14f8b9c333dfff2c22264> <http://schema.org/value> "159564"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://schema.org/postalCode> "79510" .
+<http://lodlaundromat.org/.well-known/genid/Nb34cad5409374b3bbf231fed75568972> <http://schema.org/latitude> "32.3575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb34cad5409374b3bbf231fed75568972> .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N45d7c5660df14f8b9c333dfff2c22264> .
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> .
+<http://lodlaundromat.org/.well-known/genid/Nb34cad5409374b3bbf231fed75568972> <http://schema.org/longitude> "-99.5405"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> <http://schema.org/id> "8404801664" .
+<http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://schema.org/addressLocality> "CLYDE" .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/name> "OLD FORT GRIFFIN MEMORIAL REGIMENT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb34cad5409374b3bbf231fed75568972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.3575&mlon=-99.5405#map=15/32.3575/-99.5405> .
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://schema.org/streetAddress> "4908 I H 20 WEST" .
+<http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N45d7c5660df14f8b9c333dfff2c22264> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd64d10ccd99448f38671d7b971d4abf5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd3ada3b2630f4f09958a938e0c02e096> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N147af25acce2485c9ba01b96cd6872d4> <http://schema.org/url> <http://fortgriffin.org/> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://schema.org/streetAddress> "3120 31ST ST S" .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N457801f2e95b4a4a8488fcd174a08b86> .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/telephone> "+1 (727) 866-6401" .
+<http://lodlaundromat.org/.well-known/genid/N457801f2e95b4a4a8488fcd174a08b86> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/name> "PINELLAS PIONEER SETTLEME INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf766002045f74e259f89abc176aba2b6> <http://schema.org/latitude> "27.7397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf766002045f74e259f89abc176aba2b6> <http://schema.org/longitude> "-82.6751"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> .
+<http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf766002045f74e259f89abc176aba2b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N457801f2e95b4a4a8488fcd174a08b86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf766002045f74e259f89abc176aba2b6> .
+<http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://schema.org/postalCode> "33712-3719" .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://schema.org/addressLocality> "SAINT PETERSB" .
+<http://lodlaundromat.org/.well-known/genid/Nf36392fa189b4217814bb1764b742d7e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.7397&mlon=-82.6751#map=15/27.7397/-82.6751> .
+<http://lodlaundromat.org/.well-known/genid/N457801f2e95b4a4a8488fcd174a08b86> <http://schema.org/value> "135383"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11e256160a58481f9fe8373ae0c3fc98> <http://schema.org/id> "8401200938" .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec39ed855a446498bb3927caab5d5d> <http://schema.org/addressCountry> "United States" .
+

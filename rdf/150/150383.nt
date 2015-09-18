@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N36a4b396afae46648ba09a134a8da3a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://schema.org/postalCode> "13026-0182" .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc57212bed98746a7acd50b6b5ab2ffff> .
+<http://lodlaundromat.org/.well-known/genid/N36a4b396afae46648ba09a134a8da3a9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc57212bed98746a7acd50b6b5ab2ffff> <http://schema.org/latitude> "42.7474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nc57212bed98746a7acd50b6b5ab2ffff> <http://schema.org/longitude> "-76.6618"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/name> "AURORA MASONIC CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7474&mlon=-76.6618#map=15/42.7474/-76.6618> .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N36a4b396afae46648ba09a134a8da3a9> .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> .
+<http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N36a4b396afae46648ba09a134a8da3a9> <http://schema.org/value> "150383"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc57212bed98746a7acd50b6b5ab2ffff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://schema.org/streetAddress> "POB 182" .
+<http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> .
+<http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> <http://schema.org/id> "8403601677" .
+<http://lodlaundromat.org/.well-known/genid/N165ba26fc0064c08ba3d2f8325ced880> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3f362858fba941a6bfbf4a86f6c29137> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3e86e8b3312e4606b6ea8bd773d6a949> <http://schema.org/addressLocality> "AURORA" .
+

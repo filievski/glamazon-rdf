@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne751cc6c08cc4a19919ad6b086f396ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.8044&mlon=-103.226#map=15/47.8044/-103.226> .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5090753a21e3401cbad88c78c45083c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne751cc6c08cc4a19919ad6b086f396ea> <http://schema.org/latitude> "47.8044"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne751cc6c08cc4a19919ad6b086f396ea> <http://schema.org/longitude> "-103.226"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> .
+<http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://schema.org/postalCode> "58854" .
+<http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5090753a21e3401cbad88c78c45083c4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://schema.org/addressLocality> "WATFORD CITY" .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5090753a21e3401cbad88c78c45083c4> .
+<http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/telephone> "+1 (701) 842-3500" .
+<http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> <http://schema.org/id> "8403800011" .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne751cc6c08cc4a19919ad6b086f396ea> .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> .
+<http://lodlaundromat.org/.well-known/genid/Naa32af7113d14e0aa3c7b1b06d4118e6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://schema.org/streetAddress> "PO BOX 544" .
+<http://lodlaundromat.org/.well-known/genid/Ne68783208dc147deb2feca7db6dca349> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5090753a21e3401cbad88c78c45083c4> <http://schema.org/value> "152055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N68ed1673217c41ffb2142a13ec11f2ee> <http://schema.org/name> "MCKENZIE COUNTY PIONEER"@en .
+

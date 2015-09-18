@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc83ecccea9f0465b9859e09c5c19f542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne482ec5284b649a6988f2ef612195d07> .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://schema.org/streetAddress> "PO BOX 148" .
+<http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc83ecccea9f0465b9859e09c5c19f542> <http://schema.org/latitude> "40.1106"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc83ecccea9f0465b9859e09c5c19f542> <http://schema.org/longitude> "-91.0209"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne482ec5284b649a6988f2ef612195d07> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc83ecccea9f0465b9859e09c5c19f542> .
+<http://lodlaundromat.org/.well-known/genid/Ne482ec5284b649a6988f2ef612195d07> <http://schema.org/value> "137910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne482ec5284b649a6988f2ef612195d07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> <http://schema.org/id> "8401701055" .
+<http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/name> "GOLDEN HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://schema.org/postalCode> "62339-0148" .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.1106&mlon=-91.0209#map=15/40.1106/-91.0209> .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/telephone> "+1 (217) 696-4672" .
+<http://lodlaundromat.org/.well-known/genid/N64a1c0fd517745ab9577106fe8d8bbd5> <http://schema.org/addressLocality> "GOLDEN" .
+<http://lodlaundromat.org/.well-known/genid/N3d905e5b9bbc4a44ab2796b8566cbfd7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6c5d908c6e844ab8b5bb8507bd239d79> .
+

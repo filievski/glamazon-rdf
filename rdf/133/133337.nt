@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2b965611e5994d8dbecf8497f3b90932> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://schema.org/postalCode> "80012" .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7088&mlon=-104.813#map=15/39.7088/-104.813> .
+<http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> .
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://schema.org/streetAddress> "15051 E ALAMEDA PKWY" .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> .
+<http://lodlaundromat.org/.well-known/genid/N2b965611e5994d8dbecf8497f3b90932> <http://schema.org/value> "133337"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/name> "AURORA MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2b965611e5994d8dbecf8497f3b90932> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/url> <http://www.auroramuseumfoundation.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0389e906b2d64f97a13cdda57edaf92f> .
+<http://lodlaundromat.org/.well-known/genid/N0389e906b2d64f97a13cdda57edaf92f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> <http://schema.org/id> "8400800513" .
+<http://lodlaundromat.org/.well-known/genid/N9496a126739a414b8b6ffc726d6908f3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0389e906b2d64f97a13cdda57edaf92f> <http://schema.org/latitude> "39.7088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2b965611e5994d8dbecf8497f3b90932> .
+<http://lodlaundromat.org/.well-known/genid/N0389e906b2d64f97a13cdda57edaf92f> <http://schema.org/longitude> "-104.813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nff911324d79b4ef7a9606d7bf995de5f> <http://schema.org/addressLocality> "AURORA" .
+<http://lodlaundromat.org/.well-known/genid/Nfd3449f09a094cc1bdeba937c578b51d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

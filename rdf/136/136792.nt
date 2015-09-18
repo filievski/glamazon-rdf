@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7c9ba813cf414206b74cee09f79963dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N33f53aa4711b404893129e4f9cbe2ba7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://schema.org/addressRegion> "ID" .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> .
+<http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> <http://schema.org/id> "8401600142" .
+<http://lodlaundromat.org/.well-known/genid/N33f53aa4711b404893129e4f9cbe2ba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7c9ba813cf414206b74cee09f79963dd> .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6031&mlon=-116.25#map=15/43.6031/-116.25> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ba813cf414206b74cee09f79963dd> <http://schema.org/latitude> "43.6031"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/name> "IDAHO AVIATION HALL OF FAME INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://schema.org/postalCode> "83705-1055" .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://schema.org/streetAddress> "5505 WEST FRANKLIN ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N7156fef44dec4f48a00722ac59341ad0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5b9e5eeb034f4b3ab3e640233b50a845> <http://schema.org/addressLocality> "BOISE" .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N33f53aa4711b404893129e4f9cbe2ba7> .
+<http://lodlaundromat.org/.well-known/genid/N6d5989dc10aa4973a8aaa46bfe051346> <http://schema.org/url> <http://idaho-aviation-hall-fame.aspx/> .
+<http://lodlaundromat.org/.well-known/genid/N33f53aa4711b404893129e4f9cbe2ba7> <http://schema.org/value> "136792"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ba813cf414206b74cee09f79963dd> <http://schema.org/longitude> "-116.25"^^<http://www.w3.org/2001/XMLSchema#double> .
+

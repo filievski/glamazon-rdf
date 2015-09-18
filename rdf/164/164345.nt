@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N4f1e039fb2cc4b35a5a19c0aa39c80bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/url> <http://www.taturamuseum.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4f1e039fb2cc4b35a5a19c0aa39c80bb> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/name> "Tatura Irrigation & Wartime Camps Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f1e039fb2cc4b35a5a19c0aa39c80bb> <http://schema.org/value> "164345"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N283f148e563b4aaca9d2c63fabf8bbb6> <http://schema.org/longitude> "145.223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N43af86293971444b958a28d56e3ac506> .
+<http://lodlaundromat.org/.well-known/genid/N283f148e563b4aaca9d2c63fabf8bbb6> <http://schema.org/latitude> "-36.4398"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43af86293971444b958a28d56e3ac506> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/telephone> "+613 58242111" .
+<http://lodlaundromat.org/.well-known/genid/N43af86293971444b958a28d56e3ac506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> <http://schema.org/url> <http://victoriancollections.net.au/organisations/tatura-irrigation-wartime-camps-museum> .
+<http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> <http://schema.org/id> "tatura-irrigation-wartime-camps-museum" .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/openingHours> "Monday - Friday 1.00pm - 3.00pm\nSaturday / Sunday / Public Holidays 2.00pm - 4.00pm\nBus trips and groups by arrangement"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N283f148e563b4aaca9d2c63fabf8bbb6> .
+<http://lodlaundromat.org/.well-known/genid/N4f1e039fb2cc4b35a5a19c0aa39c80bb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0f6e373b3bf04e5781e82da654115c77> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.4398&mlon=145.223#map=15/-36.4398/145.223> .
+<http://lodlaundromat.org/.well-known/genid/N283f148e563b4aaca9d2c63fabf8bbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N3ed1927c82e3493fae8bd2972d824027> <http://schema.org/@Type> "Dataset" .
+

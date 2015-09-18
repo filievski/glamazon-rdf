@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1a10b8dc07804005bee30d8490cee4d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://schema.org/addressLocality> "SONOMA" .
+<http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> <http://schema.org/id> "8400602421" .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> .
+<http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1a10b8dc07804005bee30d8490cee4d6> <http://schema.org/latitude> "38.3116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N136694edc1934dc48c0403c5ce0e8747> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/name> "OYATE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.3116&mlon=-122.476#map=15/38.3116/-122.476> .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://schema.org/streetAddress> "330 E THOMSON AVE" .
+<http://lodlaundromat.org/.well-known/genid/N1a10b8dc07804005bee30d8490cee4d6> <http://schema.org/longitude> "-122.476"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N136694edc1934dc48c0403c5ce0e8747> .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/telephone> "+1 (707) 996-6700" .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> .
+<http://lodlaundromat.org/.well-known/genid/N136694edc1934dc48c0403c5ce0e8747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N136694edc1934dc48c0403c5ce0e8747> <http://schema.org/value> "132295"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb98444f3862f4e7785d1f111fa8ddca3> <http://schema.org/postalCode> "95476-3957" .
+<http://lodlaundromat.org/.well-known/genid/N7440fa5f39e14f50a531e24a0edc6872> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N016aa161e6904180a95d797e3e604b3e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a10b8dc07804005bee30d8490cee4d6> .
+

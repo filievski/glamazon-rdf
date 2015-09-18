@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://schema.org/postalCode> "92363" .
+<http://lodlaundromat.org/.well-known/genid/Nd207188568e445458930bcbe0db36d11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd207188568e445458930bcbe0db36d11> <http://schema.org/longitude> "-114.606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> .
+<http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd207188568e445458930bcbe0db36d11> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> .
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://schema.org/addressLocality> "NEEDLES" .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N17070be6a3f143f093a463d551c1ac1b> .
+<http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> <http://schema.org/id> "8400600251" .
+<http://lodlaundromat.org/.well-known/genid/Nd207188568e445458930bcbe0db36d11> <http://schema.org/latitude> "34.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.84&mlon=-114.606#map=15/34.84/-114.606> .
+<http://lodlaundromat.org/.well-known/genid/N17070be6a3f143f093a463d551c1ac1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N17070be6a3f143f093a463d551c1ac1b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d59d952f4524bb885b1bde78d2c9301> <http://schema.org/streetAddress> "929 FRONT ST" .
+<http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/url> <https://www.facebook.com/.../needles-regional-museum/11489381949> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/telephone> "+1 (760) 326-5678" .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfe407cd398324f5d8ea6cccc8368b4fc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N17070be6a3f143f093a463d551c1ac1b> <http://schema.org/value> "130125"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Neb492593837a4be7944deced9723bbe2> <http://schema.org/name> "NEEDLES REGIONAL MUSEUM"@en .
+

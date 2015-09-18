@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N410a25ed818e4fd1855cd07bb69fcf40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> <http://schema.org/id> "8404200258" .
+<http://lodlaundromat.org/.well-known/genid/N25dc6b1f7b3b4944987d9fc097ab54b1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N410a25ed818e4fd1855cd07bb69fcf40> .
+<http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> .
+<http://lodlaundromat.org/.well-known/genid/N410a25ed818e4fd1855cd07bb69fcf40> <http://schema.org/latitude> "39.948"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://schema.org/streetAddress> "1320 LOCUST ST" .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> .
+<http://lodlaundromat.org/.well-known/genid/N25dc6b1f7b3b4944987d9fc097ab54b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N25dc6b1f7b3b4944987d9fc097ab54b1> .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/name> "BENJAMIN FRANKLIN TERCENTENARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://schema.org/postalCode> "19107" .
+<http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/telephone> "+1 (215) 545-3870" .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N84136349278b42a89915379230c4b58e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.948&mlon=-75.1632#map=15/39.948/-75.1632> .
+<http://lodlaundromat.org/.well-known/genid/N410a25ed818e4fd1855cd07bb69fcf40> <http://schema.org/longitude> "-75.1632"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://schema.org/addressLocality> "PHILADELPHIA" .
+<http://lodlaundromat.org/.well-known/genid/N265bb87196fa42df90ad85b9e2d637ce> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb9a343429f154402acbcb7855c646e36> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N25dc6b1f7b3b4944987d9fc097ab54b1> <http://schema.org/value> "155064"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

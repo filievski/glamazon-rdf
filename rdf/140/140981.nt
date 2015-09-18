@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6c7874383ffa4a64a97ab2f9bcec8a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N959c0bdc12be4e3ca5ca7776e4045b6f> <http://schema.org/latitude> "29.9428"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N959c0bdc12be4e3ca5ca7776e4045b6f> <http://schema.org/longitude> "-90.0725"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.9428&mlon=-90.0725#map=15/29.9428/-90.0725> .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c7874383ffa4a64a97ab2f9bcec8a71> .
+<http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://schema.org/addressLocality> "NEW ORLEANS" .
+<http://lodlaundromat.org/.well-known/genid/N6c7874383ffa4a64a97ab2f9bcec8a71> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://schema.org/streetAddress> "C/O DELACROIX CORP 206 DECATUR ST" .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/name> "LOS ISLENOS HERITAGE & CULTURAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N959c0bdc12be4e3ca5ca7776e4045b6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> .
+<http://lodlaundromat.org/.well-known/genid/N6c7874383ffa4a64a97ab2f9bcec8a71> <http://schema.org/value> "140981"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://schema.org/postalCode> "70130" .
+<http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> <http://schema.org/id> "8402200264" .
+<http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf0f6b1b1578441efacd4a8414e0ddb1f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N959c0bdc12be4e3ca5ca7776e4045b6f> .
+<http://lodlaundromat.org/.well-known/genid/N79b9a09b26704623964954500b10eef5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8fbbefb5fffe4c199890b8e5612f97a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2a529ee803ab4c95bc02d2c0e13315e5> <http://schema.org/contentUrl> <http://images.museums.io/1vBbaIvUs-JgFqv5Zyyc2aHYEtg=/1000x1000/museums/logos/000/189/522/original/194750a0332094d6f73f62c04e2558709850396f.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35ac1f6009694f8c80a54cf7034ba0d8> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/name> "Museo civico archeologico di Cologna Veneta"@it .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> .
+<http://lodlaundromat.org/.well-known/genid/N2a529ee803ab4c95bc02d2c0e13315e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N2a529ee803ab4c95bc02d2c0e13315e5> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N79ca006f106f4e7281002624681364fd> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> .
+<http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N79ca006f106f4e7281002624681364fd> <http://schema.org/longitude> "11.3833"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/url> <http://www.comune.cologna-veneta.vr.it/> .
+<http://lodlaundromat.org/.well-known/genid/N79ca006f106f4e7281002624681364fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/telephone> "+39 0442410667" .
+<http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> <http://schema.org/streetAddress> "Piazza Duomo, " .
+<http://lodlaundromat.org/.well-known/genid/N79ca006f106f4e7281002624681364fd> <http://schema.org/latitude> "45.3092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> <http://schema.org/id> "101116" .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.3092&mlon=11.3833#map=15/45.3092/11.3833> .
+<http://lodlaundromat.org/.well-known/genid/Nf51ba4757df9407ea6fcfacd7905f7cb> <http://schema.org/addressLocality> "Cologna Veneta" .
+<http://lodlaundromat.org/.well-known/genid/N16ac93ff21494217a8402baf54296ed3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N35ac1f6009694f8c80a54cf7034ba0d8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N35ac1f6009694f8c80a54cf7034ba0d8> <http://schema.org/value> "189522"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35ac1f6009694f8c80a54cf7034ba0d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbe9447efaf5742ab99a07dbf27fac58f> <http://schema.org/name> "itapi" .
+

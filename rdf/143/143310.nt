@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N80de5fe6e431415c8382997221a1f75d> <http://schema.org/value> "143310"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://schema.org/addressLocality> "MARLBOROUGH" .
+<http://lodlaundromat.org/.well-known/genid/Nc43aa90c9ed54320afdcdbb98f5ca4e2> <http://schema.org/latitude> "42.3704"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://schema.org/postalCode> "01752-1655" .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/name> "STONY BROOK MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc43aa90c9ed54320afdcdbb98f5ca4e2> .
+<http://lodlaundromat.org/.well-known/genid/Nc43aa90c9ed54320afdcdbb98f5ca4e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> <http://schema.org/id> "8402500940" .
+<http://lodlaundromat.org/.well-known/genid/N80de5fe6e431415c8382997221a1f75d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://schema.org/streetAddress> "25 BUTLER CIRCLE" .
+<http://lodlaundromat.org/.well-known/genid/Nc43aa90c9ed54320afdcdbb98f5ca4e2> <http://schema.org/longitude> "-71.5077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> .
+<http://lodlaundromat.org/.well-known/genid/N80de5fe6e431415c8382997221a1f75d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3704&mlon=-71.5077#map=15/42.3704/-71.5077> .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N80de5fe6e431415c8382997221a1f75d> .
+<http://lodlaundromat.org/.well-known/genid/N9aea61107d474e03b21a9c8837c4feb0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8f9925ff22714ed383924e4e12954967> .
+<http://lodlaundromat.org/.well-known/genid/N219d0a19c9c443b6bae128668e367de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

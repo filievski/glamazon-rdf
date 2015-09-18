@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nda1ba1502bcb44fdab26af28e9a28bbe> <http://schema.org/value> "150592"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nda1ba1502bcb44fdab26af28e9a28bbe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nda1ba1502bcb44fdab26af28e9a28bbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nda1ba1502bcb44fdab26af28e9a28bbe> .
+<http://lodlaundromat.org/.well-known/genid/N743041873b53453da92f664e386a54ee> <http://schema.org/latitude> "43.0873"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://schema.org/postalCode> "12834-1310" .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> <http://schema.org/id> "8403601886" .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0873&mlon=-73.4983#map=15/43.0873/-73.4983> .
+<http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N743041873b53453da92f664e386a54ee> .
+<http://lodlaundromat.org/.well-known/genid/N743041873b53453da92f664e386a54ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://schema.org/streetAddress> "1 ELBOW ST" .
+<http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf63f06add19649d3acb4a369f0bc1959> <http://schema.org/name> "NORTHEASTERN NEW YORK RAILROAD PRESERVATION GROUP"@en .
+<http://lodlaundromat.org/.well-known/genid/N743041873b53453da92f664e386a54ee> <http://schema.org/longitude> "-73.4983"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80ed51c281564cf3ba5b744361e4497e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne88cce4dbf2b4b94ad7b8b3cc95d10e8> <http://schema.org/addressLocality> "GREENWICH" .
+

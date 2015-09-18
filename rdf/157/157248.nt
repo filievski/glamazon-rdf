@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://schema.org/addressRegion> "SD" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/name> "SPRINGFIELD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://schema.org/addressLocality> "SPRINGFIELD" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> .
+<http://lodlaundromat.org/.well-known/genid/Nb640a70d7c324973aabf62752fcc38fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb640a70d7c324973aabf62752fcc38fb> <http://schema.org/value> "157248"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://schema.org/streetAddress> "PO BOX 531" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/telephone> "+1 (605) 369-2381" .
+<http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://schema.org/postalCode> "57062-0531" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb640a70d7c324973aabf62752fcc38fb> .
+<http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd1ea8e83e4a944f9995384ff1003f873> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8653&mlon=-97.9362#map=15/42.8653/-97.9362> .
+<http://lodlaundromat.org/.well-known/genid/Nf4f9753ed5c84489a86ca19e5d7275e9> <http://schema.org/latitude> "42.8653"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e71fa6e91649718816a091bc44f011> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf4f9753ed5c84489a86ca19e5d7275e9> .
+<http://lodlaundromat.org/.well-known/genid/Nf4f9753ed5c84489a86ca19e5d7275e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb640a70d7c324973aabf62752fcc38fb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na156aef36908433eb073114a6618ee2e> <http://schema.org/id> "8404600133" .
+<http://lodlaundromat.org/.well-known/genid/Nf4f9753ed5c84489a86ca19e5d7275e9> <http://schema.org/longitude> "-97.9362"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3efad054823540e99f98624c0c50a453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.5703&mlon=-85.1306#map=15/36.5703/-85.1306> .
+<http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://schema.org/postalCode> "38549-4351" .
+<http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> <http://schema.org/id> "8404700140" .
+<http://lodlaundromat.org/.well-known/genid/Ncc289d4479964220ac41bdbf79a50e2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/name> "BORDERLANDS FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://schema.org/streetAddress> "28 COURTHOUSE SQUARE" .
+<http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncc289d4479964220ac41bdbf79a50e2f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3efad054823540e99f98624c0c50a453> <http://schema.org/latitude> "36.5703"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3efad054823540e99f98624c0c50a453> <http://schema.org/longitude> "-85.1306"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3efad054823540e99f98624c0c50a453> .
+<http://lodlaundromat.org/.well-known/genid/Ncc289d4479964220ac41bdbf79a50e2f> <http://schema.org/value> "157469"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncc1497e887214c6997fce50240b0a03d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://schema.org/addressLocality> "BYRDSTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncc289d4479964220ac41bdbf79a50e2f> .
+<http://lodlaundromat.org/.well-known/genid/N4b6fed4d5dd144839ce9ab287392a03c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> .
+<http://lodlaundromat.org/.well-known/genid/Nc51cee696d084e749c18fc9cd1c54431> <http://schema.org/addressRegion> "TN" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4fcf8aebef9e49848ab96a81371aed77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> .
+<http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/telephone> "+1 (262) 652-7000" .
+<http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> <http://schema.org/id> "8405500503" .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5571&mlon=-87.8351#map=15/42.5571/-87.8351> .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/name> "KENOSHA MILITARY MUSEUM LTD"@en .
+<http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> .
+<http://lodlaundromat.org/.well-known/genid/N4fcf8aebef9e49848ab96a81371aed77> <http://schema.org/latitude> "42.5571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nacf29f9ac02c4d978569a9c891a829ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nacf29f9ac02c4d978569a9c891a829ef> .
+<http://lodlaundromat.org/.well-known/genid/Nacf29f9ac02c4d978569a9c891a829ef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6d5ac7d24e454cbdb8be0468684f2f8a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://schema.org/postalCode> "53143-6207" .
+<http://lodlaundromat.org/.well-known/genid/Nacf29f9ac02c4d978569a9c891a829ef> <http://schema.org/value> "163054"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1b9f3362f22344d9b921671daf5b8110> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4fcf8aebef9e49848ab96a81371aed77> .
+<http://lodlaundromat.org/.well-known/genid/N4fcf8aebef9e49848ab96a81371aed77> <http://schema.org/longitude> "-87.8351"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://schema.org/addressLocality> "KENOSHA" .
+<http://lodlaundromat.org/.well-known/genid/N611ce0dcb9794ca382161ae12655743c> <http://schema.org/streetAddress> "8035 22ND AVE" .
+

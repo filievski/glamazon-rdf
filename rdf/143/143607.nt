@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/name> "HELLENIC MUSEUM OF MICHIGAN"@en .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> .
+<http://lodlaundromat.org/.well-known/genid/N7387715babb54e0d98631b8d69b5ddff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N54223951510546158d09ae595616eae5> <http://schema.org/latitude> "42.3604"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://schema.org/streetAddress> "67 E KIRBY ST" .
+<http://lodlaundromat.org/.well-known/genid/N7387715babb54e0d98631b8d69b5ddff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7387715babb54e0d98631b8d69b5ddff> <http://schema.org/value> "143607"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/telephone> "+1 (313) 871-4100" .
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://schema.org/addressLocality> "DETROIT" .
+<http://lodlaundromat.org/.well-known/genid/N055e30c7fc544fa9b3ed10dc237af2a0> <http://schema.org/postalCode> "48202" .
+<http://lodlaundromat.org/.well-known/genid/N54223951510546158d09ae595616eae5> <http://schema.org/longitude> "-83.0652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54223951510546158d09ae595616eae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> <http://schema.org/id> "8402600144" .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7387715babb54e0d98631b8d69b5ddff> .
+<http://lodlaundromat.org/.well-known/genid/N9ba4c58e28ef42c3a924e9ea5027698b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3604&mlon=-83.0652#map=15/42.3604/-83.0652> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/url> <http://www.hellenicmi.org/> .
+<http://lodlaundromat.org/.well-known/genid/N21bce173568943e5acaef4e41e38de49> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N54223951510546158d09ae595616eae5> .
+

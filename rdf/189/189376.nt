@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N46e8081a0ffc4b29924d70a0b52e4c48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46e8081a0ffc4b29924d70a0b52e4c48> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N46e8081a0ffc4b29924d70a0b52e4c48> <http://schema.org/addressLocality> "Aosta" .
+<http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N874f3081099f450986dc679be8c92ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/url> <http://www.lovevda.it/> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/telephone> "+39 (+39) 0166 548450 - 548209" .
+<http://lodlaundromat.org/.well-known/genid/N874f3081099f450986dc679be8c92ddc> <http://schema.org/latitude> "45.7389"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N46e8081a0ffc4b29924d70a0b52e4c48> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N874f3081099f450986dc679be8c92ddc> <http://schema.org/longitude> "7.42619"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na1a8725659d94a6b82fa08907d98becd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7389&mlon=7.42619#map=15/45.7389/7.42619> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> .
+<http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N46e8081a0ffc4b29924d70a0b52e4c48> <http://schema.org/addressRegion> "Valle d'Aosta/Vall\u00E9e d'Aoste" .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na1a8725659d94a6b82fa08907d98becd> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N874f3081099f450986dc679be8c92ddc> .
+<http://lodlaundromat.org/.well-known/genid/Na1a8725659d94a6b82fa08907d98becd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> <http://schema.org/id> "112008" .
+<http://lodlaundromat.org/.well-known/genid/Na1a8725659d94a6b82fa08907d98becd> <http://schema.org/value> "189376"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N36b831eca3474db685e0b68d3ba74af6> <http://schema.org/name> "Museo etnografico \"Un tempo la veill\u00E0 nella stalla\""@it .
+<http://lodlaundromat.org/.well-known/genid/N40ab9d8a2bdf4e639358a639d975a611> <http://schema.org/@Type> "Dataset" .
+

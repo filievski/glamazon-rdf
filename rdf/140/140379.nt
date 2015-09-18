@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N18970e78f24e4a909e29d5023b38e5ee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/name> "KENTUCKY SOCIETY OF NATURAL HISTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1b5ee3417e834165ac3d11edae2cd8a6> .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://schema.org/addressLocality> "FAIRDALE" .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/url> <http://www,ksnh.org/> .
+<http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> .
+<http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N18970e78f24e4a909e29d5023b38e5ee> .
+<http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://schema.org/streetAddress> "PO BOX 883" .
+<http://lodlaundromat.org/.well-known/genid/N18970e78f24e4a909e29d5023b38e5ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b5ee3417e834165ac3d11edae2cd8a6> <http://schema.org/longitude> "-85.7608"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://schema.org/postalCode> "40118" .
+<http://lodlaundromat.org/.well-known/genid/N1b5ee3417e834165ac3d11edae2cd8a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1b5ee3417e834165ac3d11edae2cd8a6> <http://schema.org/latitude> "38.1068"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18970e78f24e4a909e29d5023b38e5ee> <http://schema.org/value> "140379"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb061060848f348bdbbc408c9f65d668e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1068&mlon=-85.7608#map=15/38.1068/-85.7608> .
+<http://lodlaundromat.org/.well-known/genid/N81fe28a11115424f980638a4910e59e3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N324bcfcd99324e7591b599a7e789d552> <http://schema.org/id> "8402100136" .
+

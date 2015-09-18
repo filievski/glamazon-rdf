@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> .
+<http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne56517aa9cd64b3c87c71fbc9f074a7c> .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.5586&mlon=-80.3902#map=15/25.5586/-80.3902> .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N11fa4209844241a2867e4c71b84557ad> .
+<http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> <http://schema.org/id> "8401200512" .
+<http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://schema.org/streetAddress> "1200 ANASTASIA AVENUE ST 425" .
+<http://lodlaundromat.org/.well-known/genid/N11fa4209844241a2867e4c71b84557ad> <http://schema.org/longitude> "-80.3902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://schema.org/addressLocality> "CORAL GABLES" .
+<http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9fcd6d4d547b46918ece04053b712c56> <http://schema.org/name> "PAPER MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N11fa4209844241a2867e4c71b84557ad> <http://schema.org/latitude> "25.5586"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne56517aa9cd64b3c87c71fbc9f074a7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne56517aa9cd64b3c87c71fbc9f074a7c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N11fa4209844241a2867e4c71b84557ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne56517aa9cd64b3c87c71fbc9f074a7c> <http://schema.org/value> "134958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd02932f50c5494db4bfd5bd2ba045e2> <http://schema.org/postalCode> "33170-4458" .
+<http://lodlaundromat.org/.well-known/genid/N50fdeb6664024b598928904f6ac5f290> <http://schema.org/name> "us" .
+

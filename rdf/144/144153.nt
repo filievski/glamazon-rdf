@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N727ac38f489b43d1a06139a0aa8bf81e> .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> .
+<http://lodlaundromat.org/.well-known/genid/N727ac38f489b43d1a06139a0aa8bf81e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc07a31a3b47748eb887ac256c35399f9> <http://schema.org/longitude> "-86.7047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc07a31a3b47748eb887ac256c35399f9> <http://schema.org/latitude> "41.8178"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://schema.org/postalCode> "49117-9240" .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N727ac38f489b43d1a06139a0aa8bf81e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N727ac38f489b43d1a06139a0aa8bf81e> <http://schema.org/value> "144153"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://schema.org/streetAddress> "16678 RED ARROW HWY" .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/name> "NEW BUFFALO RAILROAD MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc07a31a3b47748eb887ac256c35399f9> .
+<http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> <http://schema.org/id> "8402600690" .
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nabd5105f050b4b8295d92d97aa2713a6> <http://schema.org/addressLocality> "NEW BUFFALO" .
+<http://lodlaundromat.org/.well-known/genid/Nc07a31a3b47748eb887ac256c35399f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neca6dbfe47824ee99eda3f8faaf8313a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8178&mlon=-86.7047#map=15/41.8178/-86.7047> .
+<http://lodlaundromat.org/.well-known/genid/N13c705adb3504df994a57779bea6bba3> <http://schema.org/@Type> "Dataset" .
+

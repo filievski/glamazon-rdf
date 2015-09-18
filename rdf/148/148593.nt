@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://schema.org/streetAddress> "PO BOX 123" .
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://schema.org/addressLocality> "RUIDOSO" .
+<http://lodlaundromat.org/.well-known/genid/N646dd5f04c5040e5aaf82961c1839797> <http://schema.org/longitude> "-105.68"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.3336&mlon=-105.68#map=15/33.3336/-105.68> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52fcd086652c41ec8b7d951201c7e7d3> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> .
+<http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> <http://schema.org/id> "8403500183" .
+<http://lodlaundromat.org/.well-known/genid/N52fcd086652c41ec8b7d951201c7e7d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N646dd5f04c5040e5aaf82961c1839797> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> .
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N646dd5f04c5040e5aaf82961c1839797> <http://schema.org/latitude> "33.3336"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/name> "LINCOLN COUNTY HERITAGE TRUST"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9754f018dfc34435952bb3fe210e9f47> <http://schema.org/postalCode> "88355-0123" .
+<http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N68b084724a924410a62f64c242f4c259> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N646dd5f04c5040e5aaf82961c1839797> .
+<http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N52fcd086652c41ec8b7d951201c7e7d3> <http://schema.org/value> "148593"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N52fcd086652c41ec8b7d951201c7e7d3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne251b34ff4c24ce3bdcdec535046dbbb> <http://schema.org/@Type> "Dataset" .
+

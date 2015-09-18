@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7464&mlon=-93.2045#map=15/42.7464/-93.2045> .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/telephone> "+1 (641) 456-5777" .
+<http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N59785028d5f74a59a5e7b01b57d78652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N86e10c11038a4f52af957f3d744d9809> .
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://schema.org/streetAddress> "PO BOX 114" .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N59785028d5f74a59a5e7b01b57d78652> .
+<http://lodlaundromat.org/.well-known/genid/N86e10c11038a4f52af957f3d744d9809> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/name> "FRANKLIN COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N59785028d5f74a59a5e7b01b57d78652> <http://schema.org/latitude> "42.7464"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59785028d5f74a59a5e7b01b57d78652> <http://schema.org/longitude> "-93.2045"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://schema.org/postalCode> "50441-0114" .
+<http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4f5973ecfa624cbeaa3f901fd275d14b> <http://schema.org/id> "8401900675" .
+<http://lodlaundromat.org/.well-known/genid/N86e10c11038a4f52af957f3d744d9809> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2043d7b9f6304cbe9266e6dc8307d829> <http://schema.org/url> <http://historyinfranklincounty.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5ced881fef6745e0b21d1114af2ad159> <http://schema.org/addressLocality> "HAMPTON" .
+<http://lodlaundromat.org/.well-known/genid/N86e10c11038a4f52af957f3d744d9809> <http://schema.org/value> "139638"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

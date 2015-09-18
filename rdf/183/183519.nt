@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N03676a27d78d42b18d642da781fd3a13> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N03676a27d78d42b18d642da781fd3a13> <http://schema.org/url> <http://www.museums.io/en/museums/183519> .
+<http://lodlaundromat.org/.well-known/genid/N212c5a5be38e44949441dea76357f1a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/name> "Burgmuseum Burg Pottenstein"@en .
+<http://lodlaundromat.org/.well-known/genid/N212c5a5be38e44949441dea76357f1a5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N03676a27d78d42b18d642da781fd3a13> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/url> <http://www.burgpottenstein.de/> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.7698&mlon=11.4082#map=15/49.7698/11.4082> .
+<http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N03676a27d78d42b18d642da781fd3a13> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N717275d615de40038f5bf7a06f1b8da6> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/telephone> "09243/7221" .
+<http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N212c5a5be38e44949441dea76357f1a5> .
+<http://lodlaundromat.org/.well-known/genid/N717275d615de40038f5bf7a06f1b8da6> <http://schema.org/longitude> "11.4082"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N03676a27d78d42b18d642da781fd3a13> .
+<http://lodlaundromat.org/.well-known/genid/N62d3c3257c4446699736a8b6680c14ee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> .
+<http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> <http://schema.org/addressLocality> "Pottenstein" .
+<http://lodlaundromat.org/.well-known/genid/N55bdb46467cc44719bcd757b01a2f25a> <http://schema.org/postalCode> "91278" .
+<http://lodlaundromat.org/.well-known/genid/N212c5a5be38e44949441dea76357f1a5> <http://schema.org/value> "183519"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N717275d615de40038f5bf7a06f1b8da6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N717275d615de40038f5bf7a06f1b8da6> <http://schema.org/latitude> "49.7698"^^<http://www.w3.org/2001/XMLSchema#double> .
+

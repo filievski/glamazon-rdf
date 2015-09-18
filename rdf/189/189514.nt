@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Na6e341b1f9f64569adc4a2cc5a9bdbed> <http://schema.org/latitude> "45.4408"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> .
+<http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> <http://schema.org/addressLocality> "Venezia" .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Necdc5b2d4e254b5c8862c11f3aa7c01f> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na6e341b1f9f64569adc4a2cc5a9bdbed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na6e341b1f9f64569adc4a2cc5a9bdbed> <http://schema.org/longitude> "12.3302"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> .
+<http://lodlaundromat.org/.well-known/genid/Necdc5b2d4e254b5c8862c11f3aa7c01f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nfa73ddd2f8754386a3c57f92bcc1a2ae> <http://schema.org/value> "189514"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nfa73ddd2f8754386a3c57f92bcc1a2ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4408&mlon=12.3302#map=15/45.4408/12.3302> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfa73ddd2f8754386a3c57f92bcc1a2ae> .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/name> "Palazzo Mocenigo"@it .
+<http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> <http://schema.org/id> "106792" .
+<http://lodlaundromat.org/.well-known/genid/Necdc5b2d4e254b5c8862c11f3aa7c01f> <http://schema.org/contentUrl> <http://images.museums.io/Xig1ha1z4fL62lZjgS38tKHO3j0=/1000x1000/museums/logos/000/189/514/original/5933ea9c7aa55ead56ecd0a4edf5ab76b641b.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N8985f055e96c40df8d49f2108f0aa5bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> <http://schema.org/streetAddress> "Santa Croce 1992, " .
+<http://lodlaundromat.org/.well-known/genid/Nfa73ddd2f8754386a3c57f92bcc1a2ae> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/url> <http://mocenigo.visitmuve.it/> .
+<http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na6e341b1f9f64569adc4a2cc5a9bdbed> .
+<http://lodlaundromat.org/.well-known/genid/N324c79c235234f79aaf5f10e2a8161b7> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N80b010ef55654a139501b2807e5b0731> <http://schema.org/telephone> "+39 041721798" .
+

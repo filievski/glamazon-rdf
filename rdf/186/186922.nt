@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5407aa1ffb4a4e8abb2780ead14c201f> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/telephone> "+39 0309957477" .
+<http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N823d297b21bf4b4ca68f7a339975cdb2> <http://schema.org/longitude> "10.3714"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N823d297b21bf4b4ca68f7a339975cdb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/name> "Museo civico archeologico di Remedello"@it .
+<http://lodlaundromat.org/.well-known/genid/N5407aa1ffb4a4e8abb2780ead14c201f> <http://schema.org/value> "186922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> <http://schema.org/id> "103592" .
+<http://lodlaundromat.org/.well-known/genid/N823d297b21bf4b4ca68f7a339975cdb2> <http://schema.org/latitude> "45.2803"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na369fc3f1a564242960ba5fd55aae626> .
+<http://lodlaundromat.org/.well-known/genid/Na369fc3f1a564242960ba5fd55aae626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> <http://schema.org/streetAddress> "Via Cappellazzi, 1" .
+<http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5407aa1ffb4a4e8abb2780ead14c201f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.2803&mlon=10.3714#map=15/45.2803/10.3714> .
+<http://lodlaundromat.org/.well-known/genid/Na369fc3f1a564242960ba5fd55aae626> <http://schema.org/contentUrl> <http://images.museums.io/oqN91sCa73WY3ZqnXGTKXaaVtto=/1000x1000/museums/logos/000/186/922/original/a8a7c8d83b4ecb4a60b48bf6e5a54585d4f6ae53.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N5c7dc825df1344fc9a62a818e8b971a9> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N5407aa1ffb4a4e8abb2780ead14c201f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> .
+<http://lodlaundromat.org/.well-known/genid/N0bc2e0cfd374439e865630f166348119> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N823d297b21bf4b4ca68f7a339975cdb2> .
+<http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N83db0c0bed30466db4b356d7f383183b> <http://schema.org/addressLocality> "Remedello" .
+

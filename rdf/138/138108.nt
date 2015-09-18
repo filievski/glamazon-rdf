@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb3a53bf53c284898978b8b4cedbe459b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://schema.org/postalCode> "60068-3343" .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/name> "THE KALO FOUNDATION OF PARK RIDGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0142&mlon=-87.8341#map=15/42.0142/-87.8341> .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb3a53bf53c284898978b8b4cedbe459b> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a53bf53c284898978b8b4cedbe459b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N857bfb58177740ea8c43629ad1c282f1> <http://schema.org/longitude> "-87.8341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N857bfb58177740ea8c43629ad1c282f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://schema.org/addressLocality> "PARK RIDGE" .
+<http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> <http://schema.org/id> "8401701253" .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N857bfb58177740ea8c43629ad1c282f1> .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> .
+<http://lodlaundromat.org/.well-known/genid/Nb3a53bf53c284898978b8b4cedbe459b> <http://schema.org/value> "138108"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> <http://schema.org/streetAddress> "255 N NORTHWEST HWY" .
+<http://lodlaundromat.org/.well-known/genid/N6adbfdf77b17429aba039b9f2669131a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N857bfb58177740ea8c43629ad1c282f1> <http://schema.org/latitude> "42.0142"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6f90feafc46c46cc9784a38514116e08> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4269f6b89a084071b14ce123cca53969> .
+

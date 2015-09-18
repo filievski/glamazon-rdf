@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> .
+<http://lodlaundromat.org/.well-known/genid/Ncbffd9e9772640a196bee6b0c326961c> <http://schema.org/latitude> "41.8482"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndfac13bbda5949319d9eb8b3c7b7985d> <http://schema.org/value> "142873"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndfac13bbda5949319d9eb8b3c7b7985d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncbffd9e9772640a196bee6b0c326961c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://schema.org/postalCode> "02764-0513" .
+<http://lodlaundromat.org/.well-known/genid/Ncbffd9e9772640a196bee6b0c326961c> <http://schema.org/longitude> "-71.1571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> <http://schema.org/id> "8402500503" .
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://schema.org/addressLocality> "NORTH DIGTON" .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndfac13bbda5949319d9eb8b3c7b7985d> .
+<http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncb63f5954a3646458094e9fe2ac365c6> <http://schema.org/streetAddress> "PO BOX 513" .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/name> "WALKER-BLAKE GRAVEYARD RESTORATION PROJECT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncbffd9e9772640a196bee6b0c326961c> .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4b4f652025dc4bfc80da5e36a16241d4> .
+<http://lodlaundromat.org/.well-known/genid/Ndfac13bbda5949319d9eb8b3c7b7985d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N832f542583264c0491f744eda4dc1150> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8482&mlon=-71.1571#map=15/41.8482/-71.1571> .
+

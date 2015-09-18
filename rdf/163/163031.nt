@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N735597aec39b48959bf1197871c1d3b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N735597aec39b48959bf1197871c1d3b6> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> .
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://schema.org/postalCode> "54736" .
+<http://lodlaundromat.org/.well-known/genid/N86432a39353246039523988a1c8bc355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N735597aec39b48959bf1197871c1d3b6> <http://schema.org/latitude> "44.6276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/name> "PEPIN COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> <http://schema.org/id> "8405500480" .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> .
+<http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://schema.org/addressLocality> "DURAND" .
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N86432a39353246039523988a1c8bc355> <http://schema.org/value> "163031"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.6276&mlon=-91.9679#map=15/44.6276/-91.9679> .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/url> <http://www.oldpepincountycourthouse.org/> .
+<http://lodlaundromat.org/.well-known/genid/N735597aec39b48959bf1197871c1d3b6> <http://schema.org/longitude> "-91.9679"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N068507819ae94832a148dad9b25011c7> <http://schema.org/streetAddress> "315 W MADISON ST" .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/telephone> "+1 (715) 672-5423" .
+<http://lodlaundromat.org/.well-known/genid/N674d46f2f6f4429db77eb65a9e29c9c2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N86432a39353246039523988a1c8bc355> .
+<http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf4ff4dc5bc4145e3b600ae44632aba76> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N86432a39353246039523988a1c8bc355> <http://schema.org/name> "id" .
+

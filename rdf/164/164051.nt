@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N4b08d62b45044999ad4524af6ae00efc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfd5993d8bda641fe941bbaa7a1cdb766> <http://schema.org/value> "164051"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfd5993d8bda641fe941bbaa7a1cdb766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfd5993d8bda641fe941bbaa7a1cdb766> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/openingHours> "8.30 am - 4.30 pm"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b08d62b45044999ad4524af6ae00efc> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> <http://schema.org/id> "marcellin-collage" .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7839&mlon=145.078#map=15/-37.7839/145.078> .
+<http://lodlaundromat.org/.well-known/genid/Ne35bc8d3538b4b2dbe02ec836041033c> <http://schema.org/longitude> "145.078"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4b08d62b45044999ad4524af6ae00efc> .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/name> "Marcellin College"@en .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfd5993d8bda641fe941bbaa7a1cdb766> .
+<http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne35bc8d3538b4b2dbe02ec836041033c> .
+<http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> <http://schema.org/url> <http://victoriancollections.net.au/organisations/marcellin-collage> .
+<http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N74e618da95f84d1f8b07b419431c5f91> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne35bc8d3538b4b2dbe02ec836041033c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne35bc8d3538b4b2dbe02ec836041033c> <http://schema.org/latitude> "-37.7839"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N15dd6c3fe18e4268a166b7f28bfea094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

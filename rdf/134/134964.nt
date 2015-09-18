@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf5072dad84a2413b924e3633282da24c> .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd030fbf2c4214e82b289bbeb64b844e5> .
+<http://lodlaundromat.org/.well-known/genid/Nf5072dad84a2413b924e3633282da24c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/name> "MARITIME MUSEUM OF AMELIA ISLAND"@en .
+<http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd030fbf2c4214e82b289bbeb64b844e5> <http://schema.org/latitude> "30.6534"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://schema.org/postalCode> "32034-3077" .
+<http://lodlaundromat.org/.well-known/genid/Nd030fbf2c4214e82b289bbeb64b844e5> <http://schema.org/longitude> "-81.4607"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5072dad84a2413b924e3633282da24c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> .
+<http://lodlaundromat.org/.well-known/genid/Nf5072dad84a2413b924e3633282da24c> <http://schema.org/value> "134964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://schema.org/addressLocality> "FERNANDINA" .
+<http://lodlaundromat.org/.well-known/genid/Nd030fbf2c4214e82b289bbeb64b844e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7ccacadb8c2c4201a767626e8317b975> <http://schema.org/id> "8401200518" .
+<http://lodlaundromat.org/.well-known/genid/N2f943f7576d74462b187cf02e00a7a68> <http://schema.org/streetAddress> "1335 S 8TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d808fb23be24098bdd2b14cd467c4e0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6534&mlon=-81.4607#map=15/30.6534/-81.4607> .
+

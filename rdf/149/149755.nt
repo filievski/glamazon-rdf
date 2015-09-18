@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N608ef4764ee74abc9f1786389acc0230> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://schema.org/streetAddress> "124 RAYMOND AVE" .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N608ef4764ee74abc9f1786389acc0230> .
+<http://lodlaundromat.org/.well-known/genid/N608ef4764ee74abc9f1786389acc0230> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://schema.org/addressLocality> "POUGHKEEPSIE" .
+<http://lodlaundromat.org/.well-known/genid/Ndeadfdcc10ab491e87c59a4ace5aee6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndeadfdcc10ab491e87c59a4ace5aee6f> .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://schema.org/postalCode> "12604" .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6848&mlon=-73.8977#map=15/41.6848/-73.8977> .
+<http://lodlaundromat.org/.well-known/genid/Ndeadfdcc10ab491e87c59a4ace5aee6f> <http://schema.org/latitude> "41.6848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N598c6c3d04544a1f842ffa64977a5f30> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N608ef4764ee74abc9f1786389acc0230> <http://schema.org/value> "149755"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/name> "VASSAR COLLEGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N69eb214767a341f3b3c9c55ef4c852f1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> .
+<http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> <http://schema.org/id> "8403601049" .
+<http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndeadfdcc10ab491e87c59a4ace5aee6f> <http://schema.org/longitude> "-73.8977"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N881a6a2900d8460fa92918debe1622eb> <http://schema.org/@Type> "Dataset" .
+

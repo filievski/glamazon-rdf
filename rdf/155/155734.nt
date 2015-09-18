@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://schema.org/addressLocality> "BRYN MAWR" .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://schema.org/postalCode> "19010-0080" .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://schema.org/streetAddress> "PO BOX 80" .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> .
+<http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N48d1cb32526b4ca3ae5a6a888013aa15> <http://schema.org/longitude> "-75.325"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> <http://schema.org/id> "8404200928" .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0235&mlon=-75.325#map=15/40.0235/-75.325> .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> .
+<http://lodlaundromat.org/.well-known/genid/N4c857a1ff32249b0b0944d38f5a0c0e1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N72d91713b3ea4ea786ea6fd56f42959c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf140ddf4e0dd40e99dfd9e3b2a4fd81a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48d1cb32526b4ca3ae5a6a888013aa15> <http://schema.org/latitude> "40.0235"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48d1cb32526b4ca3ae5a6a888013aa15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N48d1cb32526b4ca3ae5a6a888013aa15> .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/name> "CATHERWOOD FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf140ddf4e0dd40e99dfd9e3b2a4fd81a> .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://schema.org/telephone> "+1 (610) 525-3720" .
+<http://lodlaundromat.org/.well-known/genid/Nf140ddf4e0dd40e99dfd9e3b2a4fd81a> <http://schema.org/value> "155734"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf140ddf4e0dd40e99dfd9e3b2a4fd81a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naa7bbf3a75664b93a9efb4082d5bd342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

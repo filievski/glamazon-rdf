@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N1632009392894416a13a0ddfa8d69beb> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nd07ef20950594f618690dfbc26cf4875> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1632009392894416a13a0ddfa8d69beb> <http://schema.org/url> <http://www.museums.io/en/museums/185495> .
+<http://lodlaundromat.org/.well-known/genid/Nba9ab94828da4b6980e455967cb6638d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nba9ab94828da4b6980e455967cb6638d> <http://schema.org/latitude> "25.0257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1632009392894416a13a0ddfa8d69beb> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nce6d7586c88b491bb2c67221494ee422> .
+<http://lodlaundromat.org/.well-known/genid/Nba9ab94828da4b6980e455967cb6638d> <http://schema.org/longitude> "25.0257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1632009392894416a13a0ddfa8d69beb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd07ef20950594f618690dfbc26cf4875> .
+<http://lodlaundromat.org/.well-known/genid/N1632009392894416a13a0ddfa8d69beb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nce6d7586c88b491bb2c67221494ee422> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/name> "Aleksis Kivi Memorial Cottage"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd07ef20950594f618690dfbc26cf4875> <http://schema.org/value> "185495"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd07ef20950594f618690dfbc26cf4875> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nba9ab94828da4b6980e455967cb6638d> .
+<http://lodlaundromat.org/.well-known/genid/N586a127c5ebe42eea7c133701a9a9b00> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.0257&mlon=25.0257#map=15/25.0257/25.0257> .
+<http://lodlaundromat.org/.well-known/genid/Nce6d7586c88b491bb2c67221494ee422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> .
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/name> "WESTERN RESERVE FIRE MUSEUM AT CLEVELAND INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1c15cfb0ddb5454b84f0290b6d0ff98a> <http://schema.org/longitude> "-81.6866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://schema.org/addressLocality> "CLEVELAND" .
+<http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://schema.org/postalCode> "44115" .
+<http://lodlaundromat.org/.well-known/genid/N1c15cfb0ddb5454b84f0290b6d0ff98a> <http://schema.org/latitude> "41.4931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4931&mlon=-81.6866#map=15/41.4931/-81.6866> .
+<http://lodlaundromat.org/.well-known/genid/N1c15cfb0ddb5454b84f0290b6d0ff98a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://schema.org/streetAddress> "310 CARNEGIE AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1c15cfb0ddb5454b84f0290b6d0ff98a> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1f3ecb04bb8047e08fd795452e112e74> .
+<http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> <http://schema.org/id> "8403901063" .
+<http://lodlaundromat.org/.well-known/genid/N1f3ecb04bb8047e08fd795452e112e74> <http://schema.org/value> "153285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5f7a161eee6d4441bb4bfbdc032a27ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1fa0ff182a09462492e29b1c1e59f461> .
+<http://lodlaundromat.org/.well-known/genid/N1f3ecb04bb8047e08fd795452e112e74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb3be5b8cd7994dad8b6dc6d063f36606> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1f3ecb04bb8047e08fd795452e112e74> <http://schema.org/name> "id" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Na0e21e0e85884f3485cdf5902e5223e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na0e21e0e85884f3485cdf5902e5223e8> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na0e21e0e85884f3485cdf5902e5223e8> <http://schema.org/latitude> "31.8816"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> <http://schema.org/id> "8404801846" .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://schema.org/streetAddress> "4919 E UNIV BLVD" .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/telephone> "+1 (432) 363-7737" .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0ac5d8e5d5c240edb3a5a76fb72c635d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://schema.org/postalCode> "79762" .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://schema.org/addressLocality> "ODESSA" .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> .
+<http://lodlaundromat.org/.well-known/genid/N2958b22667464d4c997f8c7ba4a27a82> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Ndb6f0c0481504a00b4d5c348131e2a33> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0ac5d8e5d5c240edb3a5a76fb72c635d> .
+<http://lodlaundromat.org/.well-known/genid/N0ac5d8e5d5c240edb3a5a76fb72c635d> <http://schema.org/value> "159746"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/name> "PRESIDENTIAL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/url> <http://presidentialmuseums.com/> .
+<http://lodlaundromat.org/.well-known/genid/N0ac5d8e5d5c240edb3a5a76fb72c635d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na0e21e0e85884f3485cdf5902e5223e8> <http://schema.org/longitude> "-102.321"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfb76573579814e9a8deba18fc06f5fa5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.8816&mlon=-102.321#map=15/31.8816/-102.321> .
+

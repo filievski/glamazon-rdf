@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> .
+<http://lodlaundromat.org/.well-known/genid/N549fc24f50814b239d68c28d578fbbc1> <http://schema.org/latitude> "40.852"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N549fc24f50814b239d68c28d578fbbc1> .
+<http://lodlaundromat.org/.well-known/genid/Nf325c28738db41ad809cc8978c6bcbb6> <http://schema.org/value> "149203"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N549fc24f50814b239d68c28d578fbbc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf325c28738db41ad809cc8978c6bcbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.852&mlon=-73.9307#map=15/40.852/-73.9307> .
+<http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> <http://schema.org/id> "8403600497" .
+<http://lodlaundromat.org/.well-known/genid/N549fc24f50814b239d68c28d578fbbc1> <http://schema.org/longitude> "-73.9307"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8ea55573ea8e4d07815ba95cd642f381> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf325c28738db41ad809cc8978c6bcbb6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/name> "COCOLART"@en .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/telephone> "+1 (646) 225-0300" .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf325c28738db41ad809cc8978c6bcbb6> .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://schema.org/streetAddress> "555 W 186TH ST APT 4C" .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://schema.org/postalCode> "10033-2736" .
+<http://lodlaundromat.org/.well-known/genid/N5188dc4aa0f7496d80872c26667c626c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N335ce86b818a41d8902dc71991580eec> <http://schema.org/addressLocality> "NEW YORK" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> .
+<http://lodlaundromat.org/.well-known/genid/N973031a20f5b4e4fab470c4390333588> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://schema.org/streetAddress> "PO BOX 862" .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> .
+<http://lodlaundromat.org/.well-known/genid/N973031a20f5b4e4fab470c4390333588> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://schema.org/postalCode> "58552" .
+<http://lodlaundromat.org/.well-known/genid/N372c846b968143478462ad66317b8824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N372c846b968143478462ad66317b8824> <http://schema.org/longitude> "-100.239"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/name> "EMMONS COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N973031a20f5b4e4fab470c4390333588> <http://schema.org/value> "152090"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.2666&mlon=-100.239#map=15/46.2666/-100.239> .
+<http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> <http://schema.org/id> "8403800046" .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N973031a20f5b4e4fab470c4390333588> .
+<http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://schema.org/addressLocality> "LINTON" .
+<http://lodlaundromat.org/.well-known/genid/N06078c7f555c40bea9ac7bde09c20065> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N372c846b968143478462ad66317b8824> <http://schema.org/latitude> "46.2666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N150fccac11894330a0e5c31ea81a7348> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N372c846b968143478462ad66317b8824> .
+<http://lodlaundromat.org/.well-known/genid/N56faa1709db24996a4d7fdd900fd41a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N8c9a561166b249e99c487952f60211bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> .
+<http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N140e0a82cea14f3b9341a3f09702a390> <http://schema.org/url> <http://www.museums.io/en/museums/184822> .
+<http://lodlaundromat.org/.well-known/genid/N140e0a82cea14f3b9341a3f09702a390> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c9a561166b249e99c487952f60211bf> <http://schema.org/value> "184822"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> <http://schema.org/addressRegion> "KwaZulu Natal" .
+<http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> <http://schema.org/streetAddress> "Hilton College, Hilton" .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N48ec1bbbce8f4d2f93e2c49d8959e960> <http://schema.org/addressLocality> "Hilton" .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://schema.org/telephone> "033 383080" .
+<http://lodlaundromat.org/.well-known/genid/N8c9a561166b249e99c487952f60211bf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N140e0a82cea14f3b9341a3f09702a390> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c9a561166b249e99c487952f60211bf> .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://schema.org/name> "Hilton College Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb8aa8ab860c14a048cf456b27d8333ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N140e0a82cea14f3b9341a3f09702a390> .
+<http://lodlaundromat.org/.well-known/genid/N140e0a82cea14f3b9341a3f09702a390> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

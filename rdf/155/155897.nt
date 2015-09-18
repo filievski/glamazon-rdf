@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/url> <http://www.wmuseumaa.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/name> "WESTMORELAND MUSEUM OF ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> .
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://schema.org/postalCode> "15601-3035" .
+<http://lodlaundromat.org/.well-known/genid/Nd862640780d54571be201595e741a092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb1def39357a44419a270395ba7c365c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb1def39357a44419a270395ba7c365c9> <http://schema.org/latitude> "40.3058"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb1def39357a44419a270395ba7c365c9> .
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://schema.org/addressLocality> "GREENSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> <http://schema.org/id> "8404201091" .
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://schema.org/streetAddress> "221 N MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> .
+<http://lodlaundromat.org/.well-known/genid/Nd862640780d54571be201595e741a092> <http://schema.org/value> "155897"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb1def39357a44419a270395ba7c365c9> <http://schema.org/longitude> "-79.5454"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd862640780d54571be201595e741a092> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0b84c7a35283459ea899a6c5b39af865> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd862640780d54571be201595e741a092> .
+<http://lodlaundromat.org/.well-known/genid/Nd7c17474a40c45a3afccc27f259bd77d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.3058&mlon=-79.5454#map=15/40.3058/-79.5454> .
+<http://lodlaundromat.org/.well-known/genid/Na3d66dbac44a4df0aab6e9be567953b1> <http://schema.org/addressRegion> "PA" .
+

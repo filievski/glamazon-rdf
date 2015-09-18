@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fc9c4f0664d4d91a481db8369162794> <http://schema.org/longitude> "-83.4962"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5357&mlon=-83.4962#map=15/40.5357/-83.4962> .
+<http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> .
+<http://lodlaundromat.org/.well-known/genid/Nfaf3fa51a1b945efb628123b047ffe32> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://schema.org/postalCode> "43340-0176" .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://schema.org/streetAddress> "PO BOX 176" .
+<http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> <http://schema.org/id> "8403901419" .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://schema.org/addressLocality> "MOUNT VICTORY" .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfaf3fa51a1b945efb628123b047ffe32> .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9fc9c4f0664d4d91a481db8369162794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fc9c4f0664d4d91a481db8369162794> <http://schema.org/latitude> "40.5357"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/name> "TRUSTEES OF MEMORIAL HALL OF MOUNT VICTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N27781f9217dc4244acd2457fc4d38aad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9fc9c4f0664d4d91a481db8369162794> .
+<http://lodlaundromat.org/.well-known/genid/Nfaf3fa51a1b945efb628123b047ffe32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfaf3fa51a1b945efb628123b047ffe32> <http://schema.org/value> "153641"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6b01cf022dc14ac9926b8945196724eb> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N14646aa83aa54fe7b9bcfab4fca756ba> <http://schema.org/url> <http://www.imls.gov/> .
+

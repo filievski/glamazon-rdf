@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6903fff548b34adf9944d97aea9f46ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c5560a13bf84c5b83820d8dead1a264> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6903fff548b34adf9944d97aea9f46ec> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.7609&mlon=11.561#map=15/47.7609/11.561> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9eb69c9b11f14c68a1a5962268ee70bb> .
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N9eb69c9b11f14c68a1a5962268ee70bb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/url> <http://www.bad-toelz.de/kultur/das-toelzer-stadtmuseum.html> .
+<http://lodlaundromat.org/.well-known/genid/N6903fff548b34adf9944d97aea9f46ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/telephone> "08041/7935156" .
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://schema.org/postalCode> "83646" .
+<http://lodlaundromat.org/.well-known/genid/N9eb69c9b11f14c68a1a5962268ee70bb> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/name> "Stadtmuseum Bad T\u00F6lz"@en .
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://schema.org/addressLocality> "Bad T\u00F6lz" .
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N9eb69c9b11f14c68a1a5962268ee70bb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c5560a13bf84c5b83820d8dead1a264> <http://schema.org/latitude> "47.7609"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> <http://schema.org/streetAddress> "Marktstra\u00DFe 48" .
+<http://lodlaundromat.org/.well-known/genid/N9eb69c9b11f14c68a1a5962268ee70bb> <http://schema.org/url> <http://www.museums.io/en/museums/183750> .
+<http://lodlaundromat.org/.well-known/genid/N0c5560a13bf84c5b83820d8dead1a264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1fd42c99d00e46aa8d48960452b798e9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na2dd065980444f33b22b4fb784be00e6> .
+<http://lodlaundromat.org/.well-known/genid/N0c5560a13bf84c5b83820d8dead1a264> <http://schema.org/longitude> "11.561"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6903fff548b34adf9944d97aea9f46ec> <http://schema.org/value> "183750"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N41dd289f5d1948c89459cab3dcb418e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> <http://schema.org/id> "8405100841" .
+<http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N41dd289f5d1948c89459cab3dcb418e3> .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> .
+<http://lodlaundromat.org/.well-known/genid/N41dd289f5d1948c89459cab3dcb418e3> <http://schema.org/value> "161335"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://schema.org/addressLocality> "GLEN ALLEN" .
+<http://lodlaundromat.org/.well-known/genid/N026ab26c8b6048c09d7bccaccd3de87e> <http://schema.org/latitude> "37.6558"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N026ab26c8b6048c09d7bccaccd3de87e> <http://schema.org/longitude> "-77.5303"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N026ab26c8b6048c09d7bccaccd3de87e> .
+<http://lodlaundromat.org/.well-known/genid/N026ab26c8b6048c09d7bccaccd3de87e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://schema.org/streetAddress> "PO BOX 1044" .
+<http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41dd289f5d1948c89459cab3dcb418e3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://schema.org/postalCode> "23060-1044" .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/name> "JOHN MARSHALL CADET ALUMNI ASSOC"@en .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41d3345d44154a2c9f4faabbabccbce2> .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N005c6e6250964382829119cb67ff2f5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N32b5e4cd09d4417f8e36be3931f38a51> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6558&mlon=-77.5303#map=15/37.6558/-77.5303> .
+

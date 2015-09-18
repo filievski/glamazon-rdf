@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9504&mlon=-75.1521#map=15/39.9504/-75.1521> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/url> <http://www.philadelphiahistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N01cd781c595443559b5dec17326ffa27> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01cd781c595443559b5dec17326ffa27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://schema.org/postalCode> "19106-2313" .
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N01cd781c595443559b5dec17326ffa27> <http://schema.org/value> "155769"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://schema.org/addressLocality> "PHILADELPHIA" .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N01cd781c595443559b5dec17326ffa27> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> .
+<http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> <http://schema.org/id> "8404200963" .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N863cae1cfc264f9cb35e8aa8dc7c3d54> .
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N863cae1cfc264f9cb35e8aa8dc7c3d54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/name> "ATWATER KENT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N443ad8a8367b434a964d72092fb33074> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N863cae1cfc264f9cb35e8aa8dc7c3d54> <http://schema.org/longitude> "-75.1521"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N863cae1cfc264f9cb35e8aa8dc7c3d54> <http://schema.org/latitude> "39.9504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N524020f2bbc147b4adcf9a4ba7a202ea> <http://schema.org/streetAddress> "15 S 7TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N02f8553087184ee0ada8cb02649e5250> <http://schema.org/telephone> "+1 (215) 843-1713" .
+

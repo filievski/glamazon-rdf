@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb430651bc6664ecbaa9c6dbd4aa81bc1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://schema.org/streetAddress> "401 W JONES AVE" .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N12e5462cefb74a12af047065e38852a2> .
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://schema.org/postalCode> "27576-2939" .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> .
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb430651bc6664ecbaa9c6dbd4aa81bc1> .
+<http://lodlaundromat.org/.well-known/genid/Nb430651bc6664ecbaa9c6dbd4aa81bc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb430651bc6664ecbaa9c6dbd4aa81bc1> <http://schema.org/value> "152019"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> <http://schema.org/id> "8403700890" .
+<http://lodlaundromat.org/.well-known/genid/Nee42e39019f2490aba628992a22e84e4> <http://schema.org/addressLocality> "SELMA" .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.5316&mlon=-78.2915#map=15/35.5316/-78.2915> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N12e5462cefb74a12af047065e38852a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N12e5462cefb74a12af047065e38852a2> <http://schema.org/longitude> "-78.2915"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12e5462cefb74a12af047065e38852a2> <http://schema.org/latitude> "35.5316"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8142c6bc11284d1db4c689db4cbf705d> <http://schema.org/name> "AMERICAN MUSEUM OF SLAVERY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd1e120c52920419d8e40954ef2a00d87> <http://schema.org/url> <http://www.imls.gov/> .
+

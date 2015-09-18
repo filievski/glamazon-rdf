@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://schema.org/addressLocality> "RENO" .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5248&mlon=-119.795#map=15/39.5248/-119.795> .
+<http://lodlaundromat.org/.well-known/genid/N64b2b5db51ca41aa81465ca14c84a464> <http://schema.org/latitude> "39.5248"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64b2b5db51ca41aa81465ca14c84a464> <http://schema.org/longitude> "-119.795"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://schema.org/streetAddress> "75 PRINGLE WAY" .
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://schema.org/addressRegion> "NV" .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/name> "NEVADA MUSEUM OF SCIENCE INDUSTRY & TECHNOLOGY"@en .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> .
+<http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> <http://schema.org/id> "8403200082" .
+<http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N975cedf027ef4584934ad5e837595851> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N975cedf027ef4584934ad5e837595851> <http://schema.org/value> "147107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N975cedf027ef4584934ad5e837595851> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N64b2b5db51ca41aa81465ca14c84a464> .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N975cedf027ef4584934ad5e837595851> .
+<http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://schema.org/postalCode> "89502" .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N94717a3d02c94f49adb7ccd7f92bd6cf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N64b2b5db51ca41aa81465ca14c84a464> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N02e12bc03bc14ea28ae4229aa2e6d282> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> .
+<http://lodlaundromat.org/.well-known/genid/N7a3c6d03aa604e8d949528bb3dda8644> <http://schema.org/@Type> "Dataset" .
+

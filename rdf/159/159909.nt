@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0478594f7d3c47d0911ebd78d4aeba1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbef6ca5760f94e0395c571138663ad99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://schema.org/postalCode> "77340-0016" .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbef6ca5760f94e0395c571138663ad99> .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://schema.org/streetAddress> "PO BOX 8942" .
+<http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0478594f7d3c47d0911ebd78d4aeba1f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbef6ca5760f94e0395c571138663ad99> <http://schema.org/latitude> "30.6945"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> .
+<http://lodlaundromat.org/.well-known/genid/N0478594f7d3c47d0911ebd78d4aeba1f> <http://schema.org/value> "159909"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbef6ca5760f94e0395c571138663ad99> <http://schema.org/longitude> "-95.5539"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://schema.org/addressLocality> "HUNTSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6945&mlon=-95.5539#map=15/30.6945/-95.5539> .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0478594f7d3c47d0911ebd78d4aeba1f> .
+<http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> <http://schema.org/id> "8404802009" .
+<http://lodlaundromat.org/.well-known/genid/N33140e8fe65f47febebd635431060cea> <http://schema.org/name> "WEST SANDY COMMUNITY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N77b1564fd8c34909a24fcaedebce7293> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c1a1bf616024927812da25643f62cf0> <http://schema.org/addressCountry> "United States" .
+

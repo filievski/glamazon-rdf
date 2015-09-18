@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://schema.org/streetAddress> "Schlo\u00DFstra\u00DFe 9" .
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0da0d684a00f4f488323396545f66c6f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/url> <http://www.schloesser.bayern.de/deutsch/schloss/objekte/ellingen.htm> .
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0da0d684a00f4f488323396545f66c6f> <http://schema.org/value> "182694"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://schema.org/postalCode> "91792" .
+<http://lodlaundromat.org/.well-known/genid/N75fa7b61dce04786935e7158df2035e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0da0d684a00f4f488323396545f66c6f> .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N75fa7b61dce04786935e7158df2035e0> .
+<http://lodlaundromat.org/.well-known/genid/Nfbe0f0da40e14690b540ed1712823895> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0da0d684a00f4f488323396545f66c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfbe0f0da40e14690b540ed1712823895> <http://schema.org/url> <http://www.museums.io/en/museums/182694> .
+<http://lodlaundromat.org/.well-known/genid/N75fa7b61dce04786935e7158df2035e0> <http://schema.org/longitude> "10.9653"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfbe0f0da40e14690b540ed1712823895> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.0611&mlon=10.9653#map=15/49.0611/10.9653> .
+<http://lodlaundromat.org/.well-known/genid/N72d534a4f4b9404ea197740ac17a9bea> <http://schema.org/addressLocality> "Ellingen" .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfbe0f0da40e14690b540ed1712823895> .
+<http://lodlaundromat.org/.well-known/genid/Nfbe0f0da40e14690b540ed1712823895> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N75fa7b61dce04786935e7158df2035e0> <http://schema.org/latitude> "49.0611"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/name> "Residenz Ellingen"@en .
+<http://lodlaundromat.org/.well-known/genid/N76e0d460f7eb4158a9ac419072ddfe83> <http://schema.org/telephone> "09141/97479-0" .
+

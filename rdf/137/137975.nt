@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N55cf55e8d1964f709089673e861e1245> <http://schema.org/value> "137975"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N519c96b793734918b1e303dcee293bb9> <http://schema.org/latitude> "41.5481"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N519c96b793734918b1e303dcee293bb9> .
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://schema.org/streetAddress> "PO BOX 433" .
+<http://lodlaundromat.org/.well-known/genid/N55cf55e8d1964f709089673e861e1245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> .
+<http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://schema.org/postalCode> "61342-0433" .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N55cf55e8d1964f709089673e861e1245> .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5481&mlon=-89.1215#map=15/41.5481/-89.1215> .
+<http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://schema.org/addressLocality> "MENDOTA" .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/telephone> "+1 (815) 539-3373" .
+<http://lodlaundromat.org/.well-known/genid/N03f2428dc3244a77a0c6d283cfe6394c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N519c96b793734918b1e303dcee293bb9> <http://schema.org/longitude> "-89.1215"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> <http://schema.org/id> "8401701120" .
+<http://lodlaundromat.org/.well-known/genid/N519c96b793734918b1e303dcee293bb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/url> <http://www.mendotamuseums.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N55cf55e8d1964f709089673e861e1245> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N710afb37be3d4932865f7866d1d94195> <http://schema.org/name> "MENDOTA MUSEUM & HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5d70a84917834004bd515c7015665538> <http://schema.org/url> <http://www.imls.gov/> .
+

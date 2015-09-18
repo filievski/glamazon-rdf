@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3160fb9503a74e90ba9c6a02ff648f6b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3160fb9503a74e90ba9c6a02ff648f6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N90d4f2d75bb94f8faf12a675163abb79> <http://schema.org/longitude> "-93.1689"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N90d4f2d75bb94f8faf12a675163abb79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9474&mlon=-93.1689#map=15/44.9474/-93.1689> .
+<http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> <http://schema.org/id> "8402700726" .
+<http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> <http://schema.org/addressLocality> "SAINT PAUL" .
+<http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3160fb9503a74e90ba9c6a02ff648f6b> <http://schema.org/value> "145286"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> <http://schema.org/postalCode> "55104-6276" .
+<http://lodlaundromat.org/.well-known/genid/N90d4f2d75bb94f8faf12a675163abb79> <http://schema.org/latitude> "44.9474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3160fb9503a74e90ba9c6a02ff648f6b> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N90d4f2d75bb94f8faf12a675163abb79> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/name> "MELSA FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1042359003824866a4994e72cd7cf3b7> .
+<http://lodlaundromat.org/.well-known/genid/N831d3e52b981414ebeb1b1ac3005775e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N663934f7876d4a5eb438ad4412e7431a> .
+

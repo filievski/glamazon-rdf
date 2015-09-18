@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N1cb1e570f6ea48839d9ef80b309ae28a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N1cb1e570f6ea48839d9ef80b309ae28a> .
+<http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> <http://schema.org/addressLocality> "Trequanda" .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/url> <http://www.museoterracotta.it/> .
+<http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/Nc9e0edd1f78046c69d0b9acd7fd831be> <http://schema.org/latitude> "43.1415"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/telephone> "+39 0577665188" .
+<http://lodlaundromat.org/.well-known/genid/Nc9e0edd1f78046c69d0b9acd7fd831be> <http://schema.org/longitude> "11.688"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> <http://schema.org/id> "103289" .
+<http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1cb1e570f6ea48839d9ef80b309ae28a> <http://schema.org/contentUrl> <http://images.museums.io/rLcUfv5OfXEamYO_RsmgZSS7jR8=/1000x1000/museums/logos/000/189/049/original/ded2dda3ed7a5e3457728660436bdec1fd86f4.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N0ca2da6499df436ebc6346357fa59117> <http://schema.org/value> "189049"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ca2da6499df436ebc6346357fa59117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N0ca2da6499df436ebc6346357fa59117> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> .
+<http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> <http://schema.org/streetAddress> "Valgelata, 10" .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0ca2da6499df436ebc6346357fa59117> .
+<http://lodlaundromat.org/.well-known/genid/Nc9e0edd1f78046c69d0b9acd7fd831be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/name> "Museo della terracotta"@it .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N61e8ea28e95248f2a2ba47fd0e5f7bba> .
+<http://lodlaundromat.org/.well-known/genid/N9c5086cdeb7e450084f323602b9df7d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1415&mlon=11.688#map=15/43.1415/11.688> .
+<http://lodlaundromat.org/.well-known/genid/N7b7a72fede7a43e8ad76b90e5e440304> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc9e0edd1f78046c69d0b9acd7fd831be> .
+

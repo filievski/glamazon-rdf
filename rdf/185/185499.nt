@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9a9d46159d7142a2be1725420f702051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9a9d46159d7142a2be1725420f702051> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N3bcb26a90380498fba835942fa093a9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3bcb26a90380498fba835942fa093a9a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N14ce6dc3b9c6481792109d86eac8b2f1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N14ce6dc3b9c6481792109d86eac8b2f1> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N14ce6dc3b9c6481792109d86eac8b2f1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N14ce6dc3b9c6481792109d86eac8b2f1> .
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9a9d46159d7142a2be1725420f702051> .
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://schema.org/name> "Jyrkk\u00E4koski Iron Works"@en .
+<http://lodlaundromat.org/.well-known/genid/N14ce6dc3b9c6481792109d86eac8b2f1> <http://schema.org/url> <http://www.museums.io/en/museums/185499> .
+<http://lodlaundromat.org/.well-known/genid/N3bcb26a90380498fba835942fa093a9a> <http://schema.org/value> "185499"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3bcb26a90380498fba835942fa093a9a> .
+<http://lodlaundromat.org/.well-known/genid/Nb47b6ab08b0a4724b5a6a03d63b2f61e> <http://schema.org/url> <http://www.sonkajarvi.fi/Suomeksi/Palvelut/Matkailu/Jyrkka/Jyrkkakosken-ruukki> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/name> "UNITED STATES GENEALOGY NETWORK"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N17a03d8557a840d08cc47eadb5ff3964> <http://schema.org/value> "131967"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> <http://schema.org/id> "8400602093" .
+<http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://schema.org/addressLocality> "OCEANSIDE" .
+<http://lodlaundromat.org/.well-known/genid/N17a03d8557a840d08cc47eadb5ff3964> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.1915&mlon=-117.376#map=15/33.1915/-117.376> .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc66b0e1fdda946a1af49b806b9839938> .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> .
+<http://lodlaundromat.org/.well-known/genid/Nc66b0e1fdda946a1af49b806b9839938> <http://schema.org/longitude> "-117.376"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N17a03d8557a840d08cc47eadb5ff3964> .
+<http://lodlaundromat.org/.well-known/genid/N0837cece332144bb9055a90563bf84cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> .
+<http://lodlaundromat.org/.well-known/genid/Nc66b0e1fdda946a1af49b806b9839938> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c5be8df081e4e2881de71faf029e341> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://schema.org/postalCode> "92054-4007" .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc66b0e1fdda946a1af49b806b9839938> <http://schema.org/latitude> "33.1915"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://schema.org/streetAddress> "404 S COAST HWY" .
+<http://lodlaundromat.org/.well-known/genid/N4d8501462ac74efdabe2e71edfa1c2ff> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N17a03d8557a840d08cc47eadb5ff3964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

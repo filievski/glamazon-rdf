@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf12e24e079af4594b1feca0c9e4faf75> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf12e24e079af4594b1feca0c9e4faf75> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://schema.org/streetAddress> "Ludwigsplatz 26" .
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/url> <http://museum.rosenheim.de/> .
+<http://lodlaundromat.org/.well-known/genid/N359a6408db2f44f4a952ec94439fafbc> <http://schema.org/value> "183588"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf12e24e079af4594b1feca0c9e4faf75> .
+<http://lodlaundromat.org/.well-known/genid/N795249fe71ac4c2e97e9b5ebf99b4357> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://schema.org/postalCode> "83022" .
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://schema.org/addressLocality> "Rosenheim" .
+<http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N359a6408db2f44f4a952ec94439fafbc> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c17d55d1d51478193293b505b7ca991> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.8564&mlon=12.1283#map=15/47.8564/12.1283> .
+<http://lodlaundromat.org/.well-known/genid/N359a6408db2f44f4a952ec94439fafbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N795249fe71ac4c2e97e9b5ebf99b4357> <http://schema.org/latitude> "47.8564"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N359a6408db2f44f4a952ec94439fafbc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/name> "St\u00E4dtisches Museum Rosenheim"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf12e24e079af4594b1feca0c9e4faf75> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N795249fe71ac4c2e97e9b5ebf99b4357> <http://schema.org/longitude> "12.1283"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N795249fe71ac4c2e97e9b5ebf99b4357> .
+<http://lodlaundromat.org/.well-known/genid/N37de22d3b18c43e2a2898f4eb66f69bd> <http://schema.org/telephone> "08031/ 365 2751" .
+<http://lodlaundromat.org/.well-known/genid/Nf12e24e079af4594b1feca0c9e4faf75> <http://schema.org/url> <http://www.museums.io/en/museums/183588> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7f47f03e58e246aa9ba47286e08d1adc> <http://schema.org/latitude> "42.8026"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7f47f03e58e246aa9ba47286e08d1adc> .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7f47f03e58e246aa9ba47286e08d1adc> <http://schema.org/longitude> "-88.4017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8026&mlon=-88.4017#map=15/42.8026/-88.4017> .
+<http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7f47f03e58e246aa9ba47286e08d1adc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://schema.org/streetAddress> "PO BOX 943" .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> <http://schema.org/id> "8405500816" .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://schema.org/postalCode> "53120-0943" .
+<http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N55cccf2454414f17a6e931bae21111f7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/name> "EAST TROY RAILROAD MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N55cccf2454414f17a6e931bae21111f7> .
+<http://lodlaundromat.org/.well-known/genid/N55cccf2454414f17a6e931bae21111f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N01978a15044140bab25ff2a98472bfa6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8a34eda9efa04ded875651edd1131e02> .
+<http://lodlaundromat.org/.well-known/genid/N55cccf2454414f17a6e931bae21111f7> <http://schema.org/value> "163367"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nabe2f2212c0e45199a7ae0a26a19283f> <http://schema.org/addressLocality> "EAST TROY" .
+

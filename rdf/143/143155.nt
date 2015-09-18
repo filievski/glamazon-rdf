@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N05e2b3f0ef8a42b3894eefc297de57b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N33429f678b824cf28385d4337581f4ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N33429f678b824cf28385d4337581f4ad> .
+<http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> <http://schema.org/id> "8402500785" .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/name> "CANNONBALL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N33429f678b824cf28385d4337581f4ad> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N05e2b3f0ef8a42b3894eefc297de57b7> <http://schema.org/latitude> "42.4161"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4161&mlon=-71.1684#map=15/42.4161/-71.1684> .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N05e2b3f0ef8a42b3894eefc297de57b7> .
+<http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://schema.org/streetAddress> "17 NEWPORT STREET" .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> .
+<http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N05e2b3f0ef8a42b3894eefc297de57b7> <http://schema.org/longitude> "-71.1684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://schema.org/postalCode> "02476-6206" .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://schema.org/addressLocality> "ARLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N33429f678b824cf28385d4337581f4ad> <http://schema.org/value> "143155"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N629bf034bd2844e4893cfc63e54cf7ad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf49468e56fbd4c64ba5d411751257d90> .
+<http://lodlaundromat.org/.well-known/genid/N5e54a144fe824bf28ac886dd3ae52ed7> <http://schema.org/addressCountry> "United States" .
+

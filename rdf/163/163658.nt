@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N2f1bede92acc41549a2e855559f037da> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1d14e9c599fd4759accfb756225c2eaa> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N1d14e9c599fd4759accfb756225c2eaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2f1bede92acc41549a2e855559f037da> .
+<http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> <http://schema.org/url> <http://victoriancollections.net.au/organisations/australian-red-cross-victoria-archives> .
+<http://lodlaundromat.org/.well-known/genid/N06811abbfa65492ea63f999f170893bb> <http://schema.org/latitude> "-37.7994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2f1bede92acc41549a2e855559f037da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N06811abbfa65492ea63f999f170893bb> .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/name> "Australian Red Cross, Victoria, Archives"@en .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> <http://schema.org/id> "australian-red-cross-victoria-archives" .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/telephone> "(03) 8327 7811" .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7994&mlon=144.953#map=15/-37.7994/144.953> .
+<http://lodlaundromat.org/.well-known/genid/N06811abbfa65492ea63f999f170893bb> <http://schema.org/longitude> "144.953"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> .
+<http://lodlaundromat.org/.well-known/genid/N06811abbfa65492ea63f999f170893bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2f1bede92acc41549a2e855559f037da> <http://schema.org/value> "163658"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nefa8c2c6f9c6481e8680ecac9d52927e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d14e9c599fd4759accfb756225c2eaa> .
+<http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N2eb398e20865409fb2250f2529c5e9b8> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://schema.org/streetAddress> "656 COUNTRY CLUB DR" .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://schema.org/addressLocality> "BATTLE CREEK" .
+<http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> <http://schema.org/id> "8402600253" .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7693fdca933443fd94df5354710dd312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7693fdca933443fd94df5354710dd312> <http://schema.org/value> "143716"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2802&mlon=-85.2123#map=15/42.2802/-85.2123> .
+<http://lodlaundromat.org/.well-known/genid/N885a34f96e00411fbfaba19601c6480d> <http://schema.org/latitude> "42.2802"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/telephone> "+1 (269) 963-1554" .
+<http://lodlaundromat.org/.well-known/genid/N885a34f96e00411fbfaba19601c6480d> <http://schema.org/longitude> "-85.2123"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7693fdca933443fd94df5354710dd312> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N885a34f96e00411fbfaba19601c6480d> .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://schema.org/postalCode> "49015-3651" .
+<http://lodlaundromat.org/.well-known/genid/N7693fdca933443fd94df5354710dd312> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne170a5b99caa4af1b639740888044e90> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N885a34f96e00411fbfaba19601c6480d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3da9fdc72f0247f2a87afecd68444dca> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2ddc96b92d4e415dad813352c81ac231> <http://schema.org/name> "HISTORIC WARBIRD FOUNDATION"@en .
+

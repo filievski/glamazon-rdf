@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nabba495b94224d65b1d6c0468b880849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://schema.org/name> "Marvol Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N54bdc6c911a7417ebd1d35816d8c65df> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N54bdc6c911a7417ebd1d35816d8c65df> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N54bdc6c911a7417ebd1d35816d8c65df> <http://schema.org/url> <http://www.museums.io/en/museums/184878> .
+<http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> <http://schema.org/streetAddress> "Hazendal Estate, Bottelary Road, near Stellenbosch" .
+<http://lodlaundromat.org/.well-known/genid/Nabba495b94224d65b1d6c0468b880849> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nabba495b94224d65b1d6c0468b880849> <http://schema.org/value> "184878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N54bdc6c911a7417ebd1d35816d8c65df> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> <http://schema.org/addressRegion> "Western Cape" .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://schema.org/telephone> "021 906 5034" .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nabba495b94224d65b1d6c0468b880849> .
+<http://lodlaundromat.org/.well-known/genid/N904826fa34834ba8ae2fbc295b981c41> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N54bdc6c911a7417ebd1d35816d8c65df> .
+<http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N27889b0f80214d1b9250518f159b6977> <http://schema.org/addressLocality> "Stellenbosch" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N56f6960ed1ec4f4db8223aeba4667c87> .
+<http://lodlaundromat.org/.well-known/genid/N56f6960ed1ec4f4db8223aeba4667c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N56f6960ed1ec4f4db8223aeba4667c87> <http://schema.org/latitude> "37.2908"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.2908&mlon=-121.972#map=15/37.2908/-121.972> .
+<http://lodlaundromat.org/.well-known/genid/N8f5491fb96e84521a035feeff9103f74> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> .
+<http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://schema.org/addressLocality> "SAN JOSE" .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://schema.org/postalCode> "95130-1568" .
+<http://lodlaundromat.org/.well-known/genid/N8f5491fb96e84521a035feeff9103f74> <http://schema.org/value> "131824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8f5491fb96e84521a035feeff9103f74> .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://schema.org/streetAddress> "3997 LATIMER AVE" .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/name> "MUSEUM OF ALL RELIGIONS"@en .
+<http://lodlaundromat.org/.well-known/genid/N55aa63342f8048a48dd19ef72e20d091> <http://schema.org/telephone> "+1 (408) 379-4046" .
+<http://lodlaundromat.org/.well-known/genid/N8f5491fb96e84521a035feeff9103f74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N56f6960ed1ec4f4db8223aeba4667c87> <http://schema.org/longitude> "-121.972"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> <http://schema.org/id> "8400601950" .
+<http://lodlaundromat.org/.well-known/genid/N0911715c85a44077ae12cc6757927708> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N66b40f79562846c88f5c3ab98aa4774d> <http://schema.org/addressCountry> "United States" .
+

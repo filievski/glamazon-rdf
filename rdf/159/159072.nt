@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nabd07a580663425ba51b72b804de00ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N70983c23209a41f5ae7955adfdc5dfa6> <http://schema.org/longitude> "-98.5828"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> <http://schema.org/id> "8404801172" .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nabd07a580663425ba51b72b804de00ea> .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://schema.org/addressLocality> "SAN ANTONIO" .
+<http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.5686&mlon=-98.5828#map=15/29.5686/-98.5828> .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://schema.org/postalCode> "78249" .
+<http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N74d1971d69c34ef395c57ca5f619f390> .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N70983c23209a41f5ae7955adfdc5dfa6> .
+<http://lodlaundromat.org/.well-known/genid/N70983c23209a41f5ae7955adfdc5dfa6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N70983c23209a41f5ae7955adfdc5dfa6> <http://schema.org/latitude> "29.5686"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0df324907dbd4cd5822b2d695fa1efbe> <http://schema.org/streetAddress> "13502 SYRACUSE" .
+<http://lodlaundromat.org/.well-known/genid/Nabd07a580663425ba51b72b804de00ea> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nabd07a580663425ba51b72b804de00ea> <http://schema.org/value> "159072"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1eb78477636a43bca04687d2a2cb4135> <http://schema.org/name> "SOMERSET HISTORICAL SOCIETY"@en .
+

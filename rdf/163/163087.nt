@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N87e55cf70a6043bfb20c3e96283c5476> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/name> "WESTBY AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://schema.org/postalCode> "54667" .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N22efc5ac41e347608f500e2999d7c04a> <http://schema.org/longitude> "-90.8609"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N22efc5ac41e347608f500e2999d7c04a> .
+<http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N22efc5ac41e347608f500e2999d7c04a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> <http://schema.org/id> "8405500536" .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6567&mlon=-90.8609#map=15/43.6567/-90.8609> .
+<http://lodlaundromat.org/.well-known/genid/N87e55cf70a6043bfb20c3e96283c5476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://schema.org/addressLocality> "WESTBY" .
+<http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N22efc5ac41e347608f500e2999d7c04a> <http://schema.org/latitude> "43.6567"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87e55cf70a6043bfb20c3e96283c5476> .
+<http://lodlaundromat.org/.well-known/genid/N87e55cf70a6043bfb20c3e96283c5476> <http://schema.org/value> "163087"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3b643d59cd5c453a98d97a0b1872ca82> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N652799098e894977b5c59c91826bd0e9> .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5162c5e4e2cb41eb9ced4980a8457a76> <http://schema.org/streetAddress> "BOX 42" .
+

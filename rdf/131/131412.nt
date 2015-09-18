@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5fc1d1c4629244aaa8ab14dd3af1ba95> <http://schema.org/value> "131412"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/name> "CERVANTES CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N5fc1d1c4629244aaa8ab14dd3af1ba95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb447eda5990e464ca98c943f571c6f7b> <http://schema.org/latitude> "33.9315"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb447eda5990e464ca98c943f571c6f7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb447eda5990e464ca98c943f571c6f7b> <http://schema.org/longitude> "-118.353"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://schema.org/addressLocality> "INGLEWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5fc1d1c4629244aaa8ab14dd3af1ba95> .
+<http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9315&mlon=-118.353#map=15/33.9315/-118.353> .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://schema.org/streetAddress> "11317 HAWTHORNE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> <http://schema.org/id> "8400601538" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/telephone> "+1 (310) 412-1033" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N83d2c2a3542c45939508773880d4b8f1> .
+<http://lodlaundromat.org/.well-known/genid/N5f5d87645c784b8784443600735e921e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb447eda5990e464ca98c943f571c6f7b> .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://schema.org/postalCode> "90304-2714" .
+<http://lodlaundromat.org/.well-known/genid/N5fc1d1c4629244aaa8ab14dd3af1ba95> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b5a4805117f471f972739cb664aa623> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1dcf25d3f932455b97378e597d92f03f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40ea2da09e6a4491b21381a819a06408> <http://schema.org/longitude> "-77.0424"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1dcf25d3f932455b97378e597d92f03f> .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://schema.org/streetAddress> "121 NORTH FAIRFAX STREET" .
+<http://lodlaundromat.org/.well-known/genid/N1dcf25d3f932455b97378e597d92f03f> <http://schema.org/value> "160674"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> .
+<http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://schema.org/addressLocality> "ALEXANDRIA" .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://schema.org/postalCode> "22314" .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> .
+<http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N709a93fd9402418d8cfededeff315eed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> <http://schema.org/id> "8405100180" .
+<http://lodlaundromat.org/.well-known/genid/N40ea2da09e6a4491b21381a819a06408> <http://schema.org/latitude> "38.8052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N40ea2da09e6a4491b21381a819a06408> .
+<http://lodlaundromat.org/.well-known/genid/N40ea2da09e6a4491b21381a819a06408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/name> "CARLYLE HOUSE HISTORIC PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/telephone> "+1 (703) 549-2997" .
+<http://lodlaundromat.org/.well-known/genid/N7f891e59cb6641d1b3303857736c131e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1dcf25d3f932455b97378e597d92f03f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9bb467b26da74771b3a3226ba490863f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8052&mlon=-77.0424#map=15/38.8052/-77.0424> .
+

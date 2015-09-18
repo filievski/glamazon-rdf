@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f1c95d9620147d0a1562601ce9fee81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N944be393cab342738f8c7b39fc1a0943> <http://schema.org/value> "128816"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N944be393cab342738f8c7b39fc1a0943> .
+<http://lodlaundromat.org/.well-known/genid/N944be393cab342738f8c7b39fc1a0943> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/telephone> "+1 (205) 373-2363" .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7f1c95d9620147d0a1562601ce9fee81> <http://schema.org/latitude> "33.1275"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://schema.org/streetAddress> "104 BROAD ST PLAZA" .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N7f1c95d9620147d0a1562601ce9fee81> <http://schema.org/longitude> "-88.1517"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N944be393cab342738f8c7b39fc1a0943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7f1c95d9620147d0a1562601ce9fee81> .
+<http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> <http://schema.org/id> "8400100346" .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.1275&mlon=-88.1517#map=15/33.1275/-88.1517> .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://schema.org/postalCode> "35442" .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> .
+<http://lodlaundromat.org/.well-known/genid/N9a197f1a1b4e4d4081e9fa80583e2896> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/name> "ALICEVILLE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> <http://schema.org/addressLocality> "ALICEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N4a292b03a93540c69992d58a2d2e3997> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na8e09fcc2f434a339031918e97fb198e> .
+

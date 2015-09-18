@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N17a8f526a9db466997e4fea04f367a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc40f86437ebd487d9022cc6c112dab24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/name> "CHOCTAW NATION HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N17a8f526a9db466997e4fea04f367a05> .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc40f86437ebd487d9022cc6c112dab24> .
+<http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.73&mlon=-95.2511#map=15/34.73/-95.2511> .
+<http://lodlaundromat.org/.well-known/genid/N17a8f526a9db466997e4fea04f367a05> <http://schema.org/longitude> "-95.2511"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> <http://schema.org/id> "8404000342" .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://schema.org/streetAddress> "PO BOX 13" .
+<http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5905230f29664cf5a91961d94582b825> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc40f86437ebd487d9022cc6c112dab24> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N17a8f526a9db466997e4fea04f367a05> <http://schema.org/latitude> "34.73"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N14fba805ea094f07ae07593ef8fdda52> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://schema.org/addressLocality> "TUSKAHOMA" .
+<http://lodlaundromat.org/.well-known/genid/Nc40f86437ebd487d9022cc6c112dab24> <http://schema.org/value> "153988"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N638cb3ed4b684110af88126b4140bc71> <http://schema.org/postalCode> "74574" .
+

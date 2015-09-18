@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Nd9bb757a4c8f47999bae83e583793924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbabfc47e602d41599fb8e204138e6180> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ae03e4f85c7425a91e920c003bff4b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbabfc47e602d41599fb8e204138e6180> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N0ae03e4f85c7425a91e920c003bff4b8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd9bb757a4c8f47999bae83e583793924> .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0ae03e4f85c7425a91e920c003bff4b8> .
+<http://lodlaundromat.org/.well-known/genid/N0ae03e4f85c7425a91e920c003bff4b8> <http://schema.org/value> "185194"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbabfc47e602d41599fb8e204138e6180> <http://schema.org/url> <http://www.museums.io/en/museums/185194> .
+<http://lodlaundromat.org/.well-known/genid/Nd9bb757a4c8f47999bae83e583793924> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://schema.org/url> <http://www.museo-opas.fi/fi/museo/kr%C3%A5k%C3%B6n-veneenrakentajainmuseo> .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://schema.org/name> "Kr\u00E5k\u00F6 Boatbuilding Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbabfc47e602d41599fb8e204138e6180> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8cfd2955d30d4915a8647f30e2220814> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbabfc47e602d41599fb8e204138e6180> .
+

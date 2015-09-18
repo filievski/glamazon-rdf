@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na913ff7e145a4a8db64b2ad16e75a30e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N51f1cd2f526e4e75bf945fa8f0ccf0b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N51f1cd2f526e4e75bf945fa8f0ccf0b3> .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4e34dcd1c35442f6b31014a9870a36d1> <http://schema.org/value> "184050"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/name> "Heimat- und Kanalmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na913ff7e145a4a8db64b2ad16e75a30e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://schema.org/streetAddress> "Burgstra\u00DFe 1" .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://schema.org/addressLocality> "Burgthann" .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na913ff7e145a4a8db64b2ad16e75a30e> .
+<http://lodlaundromat.org/.well-known/genid/N4e34dcd1c35442f6b31014a9870a36d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51f1cd2f526e4e75bf945fa8f0ccf0b3> <http://schema.org/latitude> "49.3551"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51f1cd2f526e4e75bf945fa8f0ccf0b3> <http://schema.org/longitude> "11.3164"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.3551&mlon=11.3164#map=15/49.3551/11.3164> .
+<http://lodlaundromat.org/.well-known/genid/N4e34dcd1c35442f6b31014a9870a36d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://schema.org/postalCode> "90559" .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4e34dcd1c35442f6b31014a9870a36d1> .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> .
+<http://lodlaundromat.org/.well-known/genid/N7227981784e74835a2f40e860f5734b9> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/url> <http://www.burgverein-burgthann.de/> .
+<http://lodlaundromat.org/.well-known/genid/Na913ff7e145a4a8db64b2ad16e75a30e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N430b9bb4c31d4288a1085a82ca911f7c> <http://schema.org/telephone> "09183/950925" .
+<http://lodlaundromat.org/.well-known/genid/Na913ff7e145a4a8db64b2ad16e75a30e> <http://schema.org/url> <http://www.museums.io/en/museums/184050> .
+

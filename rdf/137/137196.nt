@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2ea6a8a0ad434da7a68dae949c25445a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9957&mlon=-87.7052#map=15/41.9957/-87.7052> .
+<http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> <http://schema.org/id> "8401700341" .
+<http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://schema.org/postalCode> "60659-1415" .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2ea6a8a0ad434da7a68dae949c25445a> <http://schema.org/latitude> "41.9957"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ea6a8a0ad434da7a68dae949c25445a> <http://schema.org/longitude> "-87.7052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N487fe839630542f28a8cbb1298147d99> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N487fe839630542f28a8cbb1298147d99> .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://schema.org/streetAddress> "3025 W ROSEMONT AVE" .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/name> "RYU HERITAGE FOUNDATION NFP"@en .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ea6a8a0ad434da7a68dae949c25445a> .
+<http://lodlaundromat.org/.well-known/genid/N279b7c46f3c640b2930dc5b12a838105> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf1f16f7599074776b0ea7f0e06c3dd3e> .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N487fe839630542f28a8cbb1298147d99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N487fe839630542f28a8cbb1298147d99> <http://schema.org/value> "137196"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N19307dba68774beab1a8626e63ff92ed> <http://schema.org/addressRegion> "IL" .
+

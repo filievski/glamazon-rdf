@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://schema.org/postalCode> "31024" .
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://schema.org/streetAddress> "114 N MADISON AVE" .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> .
+<http://lodlaundromat.org/.well-known/genid/Nb1948ff54c7246308c9e764b910fb856> <http://schema.org/value> "135835"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb1948ff54c7246308c9e764b910fb856> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.3269&mlon=-83.3903#map=15/33.3269/-83.3903> .
+<http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> <http://schema.org/id> "8401300106" .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb1948ff54c7246308c9e764b910fb856> .
+<http://lodlaundromat.org/.well-known/genid/Ne36f7a627dad4f45a0addc0fcd79aefb> <http://schema.org/longitude> "-83.3903"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/telephone> "+1 (706) 485-4532" .
+<http://lodlaundromat.org/.well-known/genid/Ne36f7a627dad4f45a0addc0fcd79aefb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne36f7a627dad4f45a0addc0fcd79aefb> <http://schema.org/latitude> "33.3269"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://schema.org/addressLocality> "EATONTON" .
+<http://lodlaundromat.org/.well-known/genid/N26cf8bbc8b284583b592040b1bee6853> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/name> "EATONTON PUTNAM HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb1948ff54c7246308c9e764b910fb856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N128401a6ef0b4f698e2f88968ba47126> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N137de134afb545d2909b353ec4baa0ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne36f7a627dad4f45a0addc0fcd79aefb> .
+

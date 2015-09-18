@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> <http://schema.org/id> "8400500223" .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://schema.org/postalCode> "72201" .
+<http://lodlaundromat.org/.well-known/genid/N953282e6d28a405a92632a8ddc74cb2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd65555c845684ec6bd567027fe4e1bc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N953282e6d28a405a92632a8ddc74cb2f> .
+<http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7473&mlon=-92.2648#map=15/34.7473/-92.2648> .
+<http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://schema.org/streetAddress> "500 PRESIDENT CLLINTON AVE" .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/telephone> "+1 (501) 396-7050" .
+<http://lodlaundromat.org/.well-known/genid/Nd65555c845684ec6bd567027fe4e1bc9> <http://schema.org/latitude> "34.7473"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd65555c845684ec6bd567027fe4e1bc9> .
+<http://lodlaundromat.org/.well-known/genid/Nd65555c845684ec6bd567027fe4e1bc9> <http://schema.org/longitude> "-92.2648"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://schema.org/addressLocality> "LITTLE ROCK" .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/name> "CHILDRENS MUSEUM OF ARKANSAS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N953282e6d28a405a92632a8ddc74cb2f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N02fc8befb1804f41b5e2ba3ece7c8d18> .
+<http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N953282e6d28a405a92632a8ddc74cb2f> <http://schema.org/value> "129787"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N71bbb14cbafd474c9c6c7d185b86752b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8510feec023c40f298dfcf95c6492b2c> .
+

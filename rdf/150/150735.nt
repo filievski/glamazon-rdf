@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/name> "INTERNATIONAL FRIENDS OF THE ALBERTINA MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N071b317e5d734ba7b6a03bc59c5a3344> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7593&mlon=-73.9766#map=15/40.7593/-73.9766> .
+<http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N06ac4c8dbbec41879e4464b86befabcc> <http://schema.org/latitude> "40.7593"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06ac4c8dbbec41879e4464b86befabcc> <http://schema.org/longitude> "-73.9766"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06ac4c8dbbec41879e4464b86befabcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://schema.org/streetAddress> "645 FIFTH AVENUE SUITE 703" .
+<http://lodlaundromat.org/.well-known/genid/N071b317e5d734ba7b6a03bc59c5a3344> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N071b317e5d734ba7b6a03bc59c5a3344> .
+<http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N06ac4c8dbbec41879e4464b86befabcc> .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> .
+<http://lodlaundromat.org/.well-known/genid/N071b317e5d734ba7b6a03bc59c5a3344> <http://schema.org/value> "150735"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> <http://schema.org/id> "8403602029" .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne60ef036b1284a578c1d65fc486c4883> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3ac09ac47bb74b1695ea1975465faf1e> <http://schema.org/postalCode> "10022" .
+<http://lodlaundromat.org/.well-known/genid/Nee7abcc7ae034dff827aac8bd04fd58d> <http://schema.org/@Type> "Dataset" .
+

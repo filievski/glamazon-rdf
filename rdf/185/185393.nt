@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N94debcc2f3bd4e6d885774c4004900b4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N94debcc2f3bd4e6d885774c4004900b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3ecb8b00db46491d8674b0b4a7668628> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N3ecb8b00db46491d8674b0b4a7668628> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N30a0bb339ef240ef84dc2b83d1d837e1> <http://schema.org/url> <http://www.museums.io/en/museums/185393> .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3ecb8b00db46491d8674b0b4a7668628> .
+<http://lodlaundromat.org/.well-known/genid/N30a0bb339ef240ef84dc2b83d1d837e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N30a0bb339ef240ef84dc2b83d1d837e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N30a0bb339ef240ef84dc2b83d1d837e1> .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://schema.org/name> "Hanko Front Line Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://schema.org/url> <http://www.jatkosota.fi/rintamamuseo> .
+<http://lodlaundromat.org/.well-known/genid/N30a0bb339ef240ef84dc2b83d1d837e1> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N865061993faf441bba9fba44a624fb8a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N94debcc2f3bd4e6d885774c4004900b4> .
+<http://lodlaundromat.org/.well-known/genid/N94debcc2f3bd4e6d885774c4004900b4> <http://schema.org/value> "185393"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6eeaaf03f7e74db39afb1da94731e511> .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6eeaaf03f7e74db39afb1da94731e511> <http://schema.org/latitude> "46.0294"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> .
+<http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> <http://schema.org/addressLocality> "Sedegliano" .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N549416042bbd4592b36b3bc865c0d173> .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.0294&mlon=12.9897#map=15/46.0294/12.9897> .
+<http://lodlaundromat.org/.well-known/genid/N8a1f2e16636c45cf8f37b7bddeddd6cb> <http://schema.org/value> "186345"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8a1f2e16636c45cf8f37b7bddeddd6cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> <http://schema.org/streetAddress> "Via Caterina Percoto, 7/1" .
+<http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> <http://schema.org/addressRegion> "Friuli-Venezia Giulia" .
+<http://lodlaundromat.org/.well-known/genid/N6eeaaf03f7e74db39afb1da94731e511> <http://schema.org/longitude> "12.9897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N549416042bbd4592b36b3bc865c0d173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N549416042bbd4592b36b3bc865c0d173> <http://schema.org/contentUrl> <http://images.museums.io/nxed6in_FbxNq5nIGtyX0-xItP8=/1000x1000/museums/logos/000/186/345/original/c7fbc5211ff78217dd5dce20838a44e0c31.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> <http://schema.org/id> "100315" .
+<http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0013e1ee8c8946d6b38d24fb3d6905f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/url> <http://www.assoc-p-turoldo.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N6eeaaf03f7e74db39afb1da94731e511> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8a1f2e16636c45cf8f37b7bddeddd6cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/name> "Casa natale di Padre David Maria Turoldo"@it .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5793419ebd26490197f87601bad866bd> .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/telephone> "+39 0432916384" .
+<http://lodlaundromat.org/.well-known/genid/N6fdd02e68e5b4278800558e677d76ac4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a1f2e16636c45cf8f37b7bddeddd6cb> .
+

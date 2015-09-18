@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2c85b1ea9fd34e15ba0ba729ef805e88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> .
+<http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> <http://schema.org/id> "8404200980" .
+<http://lodlaundromat.org/.well-known/genid/N2c85b1ea9fd34e15ba0ba729ef805e88> <http://schema.org/longitude> "-79.8278"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> .
+<http://lodlaundromat.org/.well-known/genid/N07a4c18457964054819fd149c748bb9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N07a4c18457964054819fd149c748bb9c> <http://schema.org/value> "155786"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://schema.org/postalCode> "16428-0571" .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2c85b1ea9fd34e15ba0ba729ef805e88> .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N07a4c18457964054819fd149c748bb9c> .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://schema.org/addressLocality> "NORTH EAST" .
+<http://lodlaundromat.org/.well-known/genid/N2c85b1ea9fd34e15ba0ba729ef805e88> <http://schema.org/latitude> "42.1949"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/name> "LAKE SHORE RAILWAY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N92d84bd4827a4997882d92f43a3665e2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N07a4c18457964054819fd149c748bb9c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7df0dedd9c6f40808356c286b5adb5f9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1949&mlon=-79.8278#map=15/42.1949/-79.8278> .
+<http://lodlaundromat.org/.well-known/genid/N06262cf637594893afa2a62592d40fbc> <http://schema.org/streetAddress> "PO BOX 571" .
+

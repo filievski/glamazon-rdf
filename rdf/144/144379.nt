@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://schema.org/streetAddress> "222 HANCOCK ST" .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> .
+<http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3d4f2cfaf38f47b6b1dc5285a1411ff4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N21800d9ccb82433e877c81403a3e5748> .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://schema.org/addressLocality> "HANCOCK" .
+<http://lodlaundromat.org/.well-known/genid/N21800d9ccb82433e877c81403a3e5748> <http://schema.org/longitude> "-88.5818"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21800d9ccb82433e877c81403a3e5748> <http://schema.org/latitude> "47.126"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N21800d9ccb82433e877c81403a3e5748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> <http://schema.org/id> "8402600916" .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3d4f2cfaf38f47b6b1dc5285a1411ff4> .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.126&mlon=-88.5818#map=15/47.126/-88.5818> .
+<http://lodlaundromat.org/.well-known/genid/N3d4f2cfaf38f47b6b1dc5285a1411ff4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b32e373983c4d5580a911afc1b55919> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9a130527f8a44f49ac1755254afeb259> <http://schema.org/postalCode> "49930" .
+<http://lodlaundromat.org/.well-known/genid/N3d4f2cfaf38f47b6b1dc5285a1411ff4> <http://schema.org/value> "144379"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nebbae7e9e6914453beeef0a826b95319> <http://schema.org/name> "HANCOCK PEWABIC HOUSE & MUSEUM SOCIETY"@en .
+

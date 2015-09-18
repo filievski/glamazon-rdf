@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> <http://schema.org/id> "8401800510" .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N68cc948eca3543c6a642109c9265205a> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> .
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26f9f0aaf5f44a9e9b2c35444441ed8e> <http://schema.org/latitude> "41.6694"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6694&mlon=-86.3178#map=15/41.6694/-86.3178> .
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://schema.org/addressLocality> "SOUTH BEND" .
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://schema.org/streetAddress> "PO BOX 3356" .
+<http://lodlaundromat.org/.well-known/genid/N26f9f0aaf5f44a9e9b2c35444441ed8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neba3bf80e66248638b9cc67dbcd44c3f> <http://schema.org/postalCode> "46619-0356" .
+<http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/name> "MILITARY HONOR PARK AND MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N68cc948eca3543c6a642109c9265205a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N68cc948eca3543c6a642109c9265205a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N26f9f0aaf5f44a9e9b2c35444441ed8e> .
+<http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26f9f0aaf5f44a9e9b2c35444441ed8e> <http://schema.org/longitude> "-86.3178"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52715fb7f0d9436fa355628366010684> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb7b7685c38a24bc4bbaf592887065d93> .
+<http://lodlaundromat.org/.well-known/genid/N68cc948eca3543c6a642109c9265205a> <http://schema.org/value> "138724"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://schema.org/addressLocality> "Gr\u00FCnwald" .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9c092d48e8f3436191281a84dfdab1e3> .
+<http://lodlaundromat.org/.well-known/genid/N9c092d48e8f3436191281a84dfdab1e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/telephone> "089/6413218" .
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://schema.org/postalCode> "82031" .
+<http://lodlaundromat.org/.well-known/genid/N9c092d48e8f3436191281a84dfdab1e3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/url> <http://www.archaeologie-bayern.de/de/zweigmuseen/gruenwald/> .
+<http://lodlaundromat.org/.well-known/genid/Nac40b34b6d074429aec12e17974571fb> <http://schema.org/url> <http://www.museums.io/en/museums/182828> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> .
+<http://lodlaundromat.org/.well-known/genid/Nac40b34b6d074429aec12e17974571fb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9c092d48e8f3436191281a84dfdab1e3> <http://schema.org/value> "182828"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9d44de5496b842ab99677476479fb0d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9d44de5496b842ab99677476479fb0d8> <http://schema.org/longitude> "11.5194"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/name> "Burgmuseum Gr\u00FCnwald"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Nac40b34b6d074429aec12e17974571fb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.0428&mlon=11.5194#map=15/48.0428/11.5194> .
+<http://lodlaundromat.org/.well-known/genid/Nac40b34b6d074429aec12e17974571fb> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9d44de5496b842ab99677476479fb0d8> .
+<http://lodlaundromat.org/.well-known/genid/Ne7b569c0676f42618c171a55dfd50988> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac40b34b6d074429aec12e17974571fb> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b2b6dc8d4e424ca17e765dea2dae7a> <http://schema.org/streetAddress> "Zeillerstra\u00DFe 3" .
+<http://lodlaundromat.org/.well-known/genid/N9d44de5496b842ab99677476479fb0d8> <http://schema.org/latitude> "48.0428"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://schema.org/streetAddress> "PO BOX 6" .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/name> "BUNKER HILL HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndc48e6d6098a4f1da6c4de0c0f9a155d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndc48e6d6098a4f1da6c4de0c0f9a155d> <http://schema.org/longitude> "-89.9543"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndc48e6d6098a4f1da6c4de0c0f9a155d> .
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://schema.org/addressLocality> "BUNKER HILL" .
+<http://lodlaundromat.org/.well-known/genid/N3b44295b47fc49f5bf37d5bfa0f3e03a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> <http://schema.org/id> "8401701163" .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3b44295b47fc49f5bf37d5bfa0f3e03a> .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.041&mlon=-89.9543#map=15/39.041/-89.9543> .
+<http://lodlaundromat.org/.well-known/genid/N3b44295b47fc49f5bf37d5bfa0f3e03a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://schema.org/postalCode> "62014-0006" .
+<http://lodlaundromat.org/.well-known/genid/N97e5cd6783b9445ab0b7d80da71aab84> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b44295b47fc49f5bf37d5bfa0f3e03a> <http://schema.org/value> "138018"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndc48e6d6098a4f1da6c4de0c0f9a155d> <http://schema.org/latitude> "39.041"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0bed34d561d3448a8bb9bf1976237aaf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> .
+<http://lodlaundromat.org/.well-known/genid/N584be934c89641caadf26d336054c7ca> <http://schema.org/url> <http://www.imls.gov/> .
+

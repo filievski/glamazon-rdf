@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N75ef4db2a7c44879b5e6676084852c8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7926&mlon=-73.7795#map=15/40.7926/-73.7795> .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://schema.org/streetAddress> "208 TOTTEN AVENUE BOX 6" .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://schema.org/addressLocality> "BAYSIDE" .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/telephone> "+1 (718) 352-1548" .
+<http://lodlaundromat.org/.well-known/genid/N75ef4db2a7c44879b5e6676084852c8e> <http://schema.org/latitude> "40.7926"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N75ef4db2a7c44879b5e6676084852c8e> <http://schema.org/longitude> "-73.7795"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb27bc89aff24493486bee79bd2aaa01f> <http://schema.org/postalCode> "11359-1014" .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N180daec8b3054006a171d4a537d32849> .
+<http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N75ef4db2a7c44879b5e6676084852c8e> .
+<http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> <http://schema.org/id> "8403600728" .
+<http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N180daec8b3054006a171d4a537d32849> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N180daec8b3054006a171d4a537d32849> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N79e35d1546074f64906c7b3321c6e917> <http://schema.org/name> "BAYSIDE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N180daec8b3054006a171d4a537d32849> <http://schema.org/value> "149434"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N20635715170449fc8ede2ff5fc1335a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

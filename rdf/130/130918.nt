@@ -1,0 +1,33 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://schema.org/streetAddress> "610 16TH ST SUITE 230" .
+<http://lodlaundromat.org/.well-known/genid/N6357ae4791c74f4fbef124a69285ccb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> .
+<http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7e00ee06ee8f4744a4922e583c40b949> .
+<http://lodlaundromat.org/.well-known/genid/N3322b44bd07d4ae9a25611a4c12d9369> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N7e00ee06ee8f4744a4922e583c40b949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.8072&mlon=-122.274#map=15/37.8072/-122.274> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Museum_of_Art_and_Digital_Entertainment> .
+<http://lodlaundromat.org/.well-known/genid/N3322b44bd07d4ae9a25611a4c12d9369> <http://schema.org/contentUrl> <http://images.museums.io/6vJCAiUy9AAaKakNc8T0zExASVk=/1000x1000/museums/logos/000/130/918/original/TheMADE.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> <http://schema.org/id> "8400601044" .
+<http://lodlaundromat.org/.well-known/genid/N3322b44bd07d4ae9a25611a4c12d9369> <http://schema.org/license> <https://creativecommons.org/licenses/by/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/url> <http://themade.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7e00ee06ee8f4744a4922e583c40b949> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6357ae4791c74f4fbef124a69285ccb8> <http://schema.org/latitude> "37.8072"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://schema.org/postalCode> "94612-1290" .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6357ae4791c74f4fbef124a69285ccb8> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/name> "MUSEUM OF ART AND DIGITAL ENTERTAINMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e00ee06ee8f4744a4922e583c40b949> <http://schema.org/value> "130918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3322b44bd07d4ae9a25611a4c12d9369> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/telephone> "+1 (510) 788-5702" .
+<http://lodlaundromat.org/.well-known/genid/N25d1563ec3684a44b229c43444a60f31> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> .
+<http://lodlaundromat.org/.well-known/genid/N3322b44bd07d4ae9a25611a4c12d9369> <http://schema.org/creator> "Derek Yu, Andre LaMothe" .
+<http://lodlaundromat.org/.well-known/genid/N6357ae4791c74f4fbef124a69285ccb8> <http://schema.org/longitude> "-122.274"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a9e14d3402a4806b96535162d7a595c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6ac45e2ad84a6aabb084c91e90791e> <http://schema.org/addressLocality> "OAKLAND" .
+

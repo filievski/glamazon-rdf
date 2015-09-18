@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9a3e3d652e0c41de87125af10c2edf2a> .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/name> "BATES SCHOOLHOUSE COMMUNITY CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb516c335c27f466bb975ad0d69fb159e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> <http://schema.org/id> "8400500125" .
+<http://lodlaundromat.org/.well-known/genid/Nb516c335c27f466bb975ad0d69fb159e> <http://schema.org/value> "129689"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://schema.org/addressLocality> "WALDRON" .
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://schema.org/streetAddress> "1516 LOOKOUT LANE" .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb516c335c27f466bb975ad0d69fb159e> .
+<http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/Nb516c335c27f466bb975ad0d69fb159e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.8972&mlon=-94.0901#map=15/34.8972/-94.0901> .
+<http://lodlaundromat.org/.well-known/genid/N9a3e3d652e0c41de87125af10c2edf2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> .
+<http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://schema.org/postalCode> "72958-7891" .
+<http://lodlaundromat.org/.well-known/genid/N5b99cc35a197463a8a9cd0bb7ff29520> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9a3e3d652e0c41de87125af10c2edf2a> <http://schema.org/longitude> "-94.0901"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7731f598c8284ecea9d965721053f537> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N780ffc82399f4a83bd20c063b102e513> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9a3e3d652e0c41de87125af10c2edf2a> <http://schema.org/latitude> "34.8972"^^<http://www.w3.org/2001/XMLSchema#double> .
+

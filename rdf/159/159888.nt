@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7cf67e518d3e4eef900bb4ef0759d14e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7cf67e518d3e4eef900bb4ef0759d14e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/name> "HUGH TOWNLEY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://schema.org/postalCode> "75201" .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> .
+<http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> <http://schema.org/id> "8404801988" .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7cf67e518d3e4eef900bb4ef0759d14e> <http://schema.org/value> "159888"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://schema.org/streetAddress> "3100 LINCOLN PLAZA 500 N AKARD ST" .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://schema.org/addressLocality> "DALLAS" .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7857&mlon=-96.7992#map=15/32.7857/-96.7992> .
+<http://lodlaundromat.org/.well-known/genid/N4ca2a82047ca4232a9ffec17cd437d9c> <http://schema.org/longitude> "-96.7992"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02c0a382486b4e4cb77bfe2cc87345db> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N4ca2a82047ca4232a9ffec17cd437d9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ca2a82047ca4232a9ffec17cd437d9c> .
+<http://lodlaundromat.org/.well-known/genid/N1817eb01ac5e433893ebab67e1b69d61> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7556403e52a54bd995de8c1bead0352e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7cf67e518d3e4eef900bb4ef0759d14e> .
+<http://lodlaundromat.org/.well-known/genid/N4ca2a82047ca4232a9ffec17cd437d9c> <http://schema.org/latitude> "32.7857"^^<http://www.w3.org/2001/XMLSchema#double> .
+

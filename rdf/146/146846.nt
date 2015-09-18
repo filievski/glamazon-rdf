@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.888&mlon=-98.375#map=15/40.888/-98.375> .
+<http://lodlaundromat.org/.well-known/genid/Naacc1b9c9c1343e7bbfe57205a97e602> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naacc1b9c9c1343e7bbfe57205a97e602> .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> .
+<http://lodlaundromat.org/.well-known/genid/N09d24bb4b7eb41b080c6aff1b07ee026> <http://schema.org/longitude> "-98.375"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N09d24bb4b7eb41b080c6aff1b07ee026> .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> .
+<http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Naacc1b9c9c1343e7bbfe57205a97e602> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> <http://schema.org/id> "8403100185" .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://schema.org/addressLocality> "GRAND ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/Naacc1b9c9c1343e7bbfe57205a97e602> <http://schema.org/value> "146846"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/name> "STUHR MUSEUM OF THE PRAIRIE PIONEER"@en .
+<http://lodlaundromat.org/.well-known/genid/N09d24bb4b7eb41b080c6aff1b07ee026> <http://schema.org/latitude> "40.888"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/Nf98c7bdfc9934050b366d50bc57918ae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N09d24bb4b7eb41b080c6aff1b07ee026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://schema.org/streetAddress> "3133 W HWY 34" .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N92792c3e31af4398a7a5cd330e28c91f> <http://schema.org/postalCode> "68801" .
+<http://lodlaundromat.org/.well-known/genid/N560b50c798e94ab88d8408b9562b8e06> <http://schema.org/telephone> "+1 (308) 385-5316" .
+

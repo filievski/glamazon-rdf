@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N45424e9f98314eeb8d4309a0439e112c> <http://schema.org/url> <http://www.museums.io/en/museums/183149> .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N45424e9f98314eeb8d4309a0439e112c> .
+<http://lodlaundromat.org/.well-known/genid/N45424e9f98314eeb8d4309a0439e112c> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ne113aaaab89e4b1bae38394e5c8e07fa> <http://schema.org/latitude> "49.6986"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3250fb3142c24e2cb44ae2973076983c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> .
+<http://lodlaundromat.org/.well-known/genid/Ne113aaaab89e4b1bae38394e5c8e07fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3250fb3142c24e2cb44ae2973076983c> <http://schema.org/value> "183149"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3250fb3142c24e2cb44ae2973076983c> .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://schema.org/streetAddress> "Burg Miltenberg" .
+<http://lodlaundromat.org/.well-known/genid/N45424e9f98314eeb8d4309a0439e112c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne113aaaab89e4b1bae38394e5c8e07fa> <http://schema.org/longitude> "9.2507"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/name> "Museum.Burg.Miltenberg"@en .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/url> <http://www.museum-miltenberg.de/pages/museum.burg.-miltenberg.php> .
+<http://lodlaundromat.org/.well-known/genid/N45424e9f98314eeb8d4309a0439e112c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://schema.org/postalCode> "63897" .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6986&mlon=9.2507#map=15/49.6986/9.2507> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne113aaaab89e4b1bae38394e5c8e07fa> .
+<http://lodlaundromat.org/.well-known/genid/N3250fb3142c24e2cb44ae2973076983c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N553d01486d764886bea2bc06530afccd> <http://schema.org/telephone> "09371/668504" .
+<http://lodlaundromat.org/.well-known/genid/Nda002fc8dbc74744b3fe6b6f585e6755> <http://schema.org/addressLocality> "Miltenberg" .
+

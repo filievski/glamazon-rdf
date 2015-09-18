@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://schema.org/streetAddress> "36 BORDEN PLACE" .
+<http://lodlaundromat.org/.well-known/genid/N103a89c511b64c04989ddfc8a02ce8a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> .
+<http://lodlaundromat.org/.well-known/genid/N96b5e598a64a4a77aa52488d116d0343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/name> "LITTLE SILVER HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N96b5e598a64a4a77aa52488d116d0343> .
+<http://lodlaundromat.org/.well-known/genid/N96b5e598a64a4a77aa52488d116d0343> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> <http://schema.org/id> "8403400606" .
+<http://lodlaundromat.org/.well-known/genid/N103a89c511b64c04989ddfc8a02ce8a5> <http://schema.org/longitude> "-74.0208"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.3358&mlon=-74.0208#map=15/40.3358/-74.0208> .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://schema.org/addressLocality> "LITTLE SILVER" .
+<http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://schema.org/postalCode> "07739" .
+<http://lodlaundromat.org/.well-known/genid/N103a89c511b64c04989ddfc8a02ce8a5> <http://schema.org/latitude> "40.3358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N585216db0ed34cd0a8f34bd8fcbc31a7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N03edc8d97de84263a99d11b4de807c30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N103a89c511b64c04989ddfc8a02ce8a5> .
+<http://lodlaundromat.org/.well-known/genid/N96b5e598a64a4a77aa52488d116d0343> <http://schema.org/value> "148238"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N737d41a24f5847edb0f668439958de43> <http://schema.org/url> <http://www.imls.gov/> .
+

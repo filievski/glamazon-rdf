@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N48abd5b4c4d74e70bf0f8fcce56f79b4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1416&mlon=11.558#map=15/48.1416/11.558> .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N422e6b8c9dbc4045acad82312f1907c6> .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/name> "Kindermuseum M\u00FCnchen"@en .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N48abd5b4c4d74e70bf0f8fcce56f79b4> .
+<http://lodlaundromat.org/.well-known/genid/N48abd5b4c4d74e70bf0f8fcce56f79b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N422e6b8c9dbc4045acad82312f1907c6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://schema.org/postalCode> "80335" .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4171be5c3cf43678b7a9e3c007876fb> .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/url> <http://www.kindermuseum-muenchen.de/> .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N422e6b8c9dbc4045acad82312f1907c6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N22b953e5975b4e138d188920e7ea14df> <http://schema.org/telephone> "089/54 04 644 0" .
+<http://lodlaundromat.org/.well-known/genid/N48abd5b4c4d74e70bf0f8fcce56f79b4> <http://schema.org/value> "183242"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N422e6b8c9dbc4045acad82312f1907c6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb4171be5c3cf43678b7a9e3c007876fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1cfe439e98a94677bb758d7c9b2c3c5e> <http://schema.org/streetAddress> "Arnulfstra\u00DFe 3" .
+<http://lodlaundromat.org/.well-known/genid/Nb4171be5c3cf43678b7a9e3c007876fb> <http://schema.org/latitude> "48.1416"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N422e6b8c9dbc4045acad82312f1907c6> <http://schema.org/url> <http://www.museums.io/en/museums/183242> .
+<http://lodlaundromat.org/.well-known/genid/Nb4171be5c3cf43678b7a9e3c007876fb> <http://schema.org/longitude> "11.558"^^<http://www.w3.org/2001/XMLSchema#double> .
+

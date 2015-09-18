@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N232e99c87ba34be4b092899dc98b5766> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N35853ab4254b443db873fe5f02f3e9a4> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/openingHours> "Richmond Library opening hours\r\nMonday\r\n10am - 8pm\r\nTuesday\r\n10am - 8pm\r\nWednesday         \r\n10am \u2013 8pm\r\nThursday\r\n10am \u2013 6pm\r\nFriday\r\n1pm \u2013 6pm\r\nSaturday\r\n10am \u2013 3pm\r\nSunday\r\n2pm \u2013 5pm\r\nHowever office open 1st, 3rd and 5th Tuesday each month 10am - 4 pm"@en .
+<http://lodlaundromat.org/.well-known/genid/N35853ab4254b443db873fe5f02f3e9a4> <http://schema.org/longitude> "144.998"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35853ab4254b443db873fe5f02f3e9a4> <http://schema.org/latitude> "-37.8253"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> .
+<http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> <http://schema.org/url> <http://victoriancollections.net.au/organisations/womens-art-register> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/url> <http://www.womensartregister.org/> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/name> "Womens Art Register"@en .
+<http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/telephone> "0424333136" .
+<http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb3204eda40f34dd59f56d5a47fc1b3b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nb3204eda40f34dd59f56d5a47fc1b3b1> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8253&mlon=144.998#map=15/-37.8253/144.998> .
+<http://lodlaundromat.org/.well-known/genid/N35853ab4254b443db873fe5f02f3e9a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb3204eda40f34dd59f56d5a47fc1b3b1> .
+<http://lodlaundromat.org/.well-known/genid/N104805985ffb4d2886b4ae4a533da497> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N232e99c87ba34be4b092899dc98b5766> .
+<http://lodlaundromat.org/.well-known/genid/N232e99c87ba34be4b092899dc98b5766> <http://schema.org/value> "164483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N232e99c87ba34be4b092899dc98b5766> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N78de0682cc7949a3bd5dd1718244bd39> <http://schema.org/id> "womens-art-register" .
+

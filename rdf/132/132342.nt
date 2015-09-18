@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6e8a0ded1fc74049896d116ce023fde2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N516307297ab1435da911b691e676de83> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/name> "SAN FRANICSCO LANDMARK NUMBER 2 FUND"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://schema.org/streetAddress> "660 CALIFORNIA STREET" .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> .
+<http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e8a0ded1fc74049896d116ce023fde2> <http://schema.org/latitude> "37.7925"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e8a0ded1fc74049896d116ce023fde2> <http://schema.org/longitude> "-122.405"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> <http://schema.org/id> "8400602468" .
+<http://lodlaundromat.org/.well-known/genid/Nf226d273133f46b9b8d5744d06ddf1ab> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N516307297ab1435da911b691e676de83> .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6e8a0ded1fc74049896d116ce023fde2> .
+<http://lodlaundromat.org/.well-known/genid/N51128b4dfc2d408ea4a00574c22f7e8b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7925&mlon=-122.405#map=15/37.7925/-122.405> .
+<http://lodlaundromat.org/.well-known/genid/N516307297ab1435da911b691e676de83> <http://schema.org/value> "132342"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc12cb6f7be0e4b2b8928fd29f5062e01> <http://schema.org/postalCode> "94108-2501" .
+<http://lodlaundromat.org/.well-known/genid/N516307297ab1435da911b691e676de83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

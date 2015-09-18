@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N23fc70535ed741988ba4c086b5deae0c> .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23fc70535ed741988ba4c086b5deae0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23fc70535ed741988ba4c086b5deae0c> <http://schema.org/value> "147573"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9e029e96341344b5b2bddb0e158c6e62> .
+<http://lodlaundromat.org/.well-known/genid/N9e029e96341344b5b2bddb0e158c6e62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://schema.org/addressLocality> "RYE" .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://schema.org/streetAddress> "26 NEPTUNE DR" .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0326&mlon=-70.7201#map=15/43.0326/-70.7201> .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://schema.org/postalCode> "03870-2820" .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> .
+<http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2950f491b13140cab84ae7082d598cf3> <http://schema.org/name> "FRIENDS OF PULPIT ROCK TOWER"@en .
+<http://lodlaundromat.org/.well-known/genid/N68474d7f33dd4e5e9824a19e4737188a> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9e029e96341344b5b2bddb0e158c6e62> <http://schema.org/latitude> "43.0326"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e029e96341344b5b2bddb0e158c6e62> <http://schema.org/longitude> "-70.7201"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N15f26124e6ec472d81fdb00b4f82e7ef> <http://schema.org/id> "8403300348" .
+<http://lodlaundromat.org/.well-known/genid/N23fc70535ed741988ba4c086b5deae0c> <http://schema.org/name> "id" .
+

@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N8f09c1b76fdc4e90a927178ee5d91d79> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c905efc84384da1b47333bb9e36802b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> <http://schema.org/id> "colac-rsl" .
+<http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> <http://schema.org/url> <http://victoriancollections.net.au/organisations/colac-rsl> .
+<http://lodlaundromat.org/.well-known/genid/Nb75d8d50ecbd46408a38428480452141> <http://schema.org/longitude> "143.591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8f09c1b76fdc4e90a927178ee5d91d79> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.3392&mlon=143.591#map=15/-38.3392/143.591> .
+<http://lodlaundromat.org/.well-known/genid/Nb75d8d50ecbd46408a38428480452141> <http://schema.org/latitude> "-38.3392"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> .
+<http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N1c905efc84384da1b47333bb9e36802b> <http://schema.org/value> "163800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8f09c1b76fdc4e90a927178ee5d91d79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1c905efc84384da1b47333bb9e36802b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/telephone> "03 52312942" .
+<http://lodlaundromat.org/.well-known/genid/Nb75d8d50ecbd46408a38428480452141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb75d8d50ecbd46408a38428480452141> .
+<http://lodlaundromat.org/.well-known/genid/N0319affed7c24130873f55b538eb34af> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1c905efc84384da1b47333bb9e36802b> .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/name> "Colac RSL Sub Branch"@en .
+<http://lodlaundromat.org/.well-known/genid/N7766ff09a739402594156296b34f3d12> <http://schema.org/openingHours> "10am till late"@en .
+

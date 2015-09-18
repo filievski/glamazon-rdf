@@ -1,0 +1,31 @@
+<http://lodlaundromat.org/.well-known/genid/Necced31a5d3b4aa9ba25cdcc47c8b1d1> <http://schema.org/longitude> "-116.533"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Necced31a5d3b4aa9ba25cdcc47c8b1d1> <http://schema.org/latitude> "33.8392"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Necced31a5d3b4aa9ba25cdcc47c8b1d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8392&mlon=-116.533#map=15/33.8392/-116.533> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Necced31a5d3b4aa9ba25cdcc47c8b1d1> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/telephone> "+1 (760) 322-4800" .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/name> "PALM SPRINGS ART MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf3defe31b17941a8a60aaef399f93413> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/Nc76b1785ce194e9b9dd4f3587bfa2749> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://schema.org/streetAddress> "PO BOX 2310" .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc76b1785ce194e9b9dd4f3587bfa2749> .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://schema.org/postalCode> "92262" .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> <http://schema.org/id> "8400602589" .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> .
+<http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbfd44688b593422fa27bd2c20bab26ea> <http://schema.org/addressLocality> "PALM SPRINGS" .
+<http://lodlaundromat.org/.well-known/genid/Nc76b1785ce194e9b9dd4f3587bfa2749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc76b1785ce194e9b9dd4f3587bfa2749> <http://schema.org/value> "132463"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf3defe31b17941a8a60aaef399f93413> <http://schema.org/url> <https://www.facebook.com/PalmSpringsArtMuseum> .
+<http://lodlaundromat.org/.well-known/genid/Nf3defe31b17941a8a60aaef399f93413> <http://schema.org/contactType> "Facebook" .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nf3defe31b17941a8a60aaef399f93413> .
+<http://lodlaundromat.org/.well-known/genid/Nb269f4349b3d45918ee86413496d723b> <http://schema.org/url> <http://www.psmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc931e6b7210f46f8a2b1d0c0cc32a7f0> <http://schema.org/name> "us" .
+

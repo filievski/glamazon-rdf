@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3112&mlon=-105.58#map=15/41.3112/-105.58> .
+<http://lodlaundromat.org/.well-known/genid/N81354c72fe8d4c46a0c65b033f93fe66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/name> "AMERICAN HERITAGE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N81354c72fe8d4c46a0c65b033f93fe66> <http://schema.org/longitude> "-105.58"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N19e2f7f8bc2c401784016b8a4be79d10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N81354c72fe8d4c46a0c65b033f93fe66> .
+<http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N81354c72fe8d4c46a0c65b033f93fe66> <http://schema.org/latitude> "41.3112"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N19e2f7f8bc2c401784016b8a4be79d10> .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://schema.org/streetAddress> "1000 E. UNIVERSITY AVENUE, DEPARTMENT 3924" .
+<http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> <http://schema.org/id> "8405600049" .
+<http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1068a30b0210466384498bb3ddb8debb> .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://schema.org/telephone> "+1 (307) 766-4114" .
+<http://lodlaundromat.org/.well-known/genid/N19e2f7f8bc2c401784016b8a4be79d10> <http://schema.org/value> "163469"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N19e2f7f8bc2c401784016b8a4be79d10> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na639d1871abc42568758b0f046c79bd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://schema.org/postalCode> "82071-3924" .
+<http://lodlaundromat.org/.well-known/genid/N5659b9c936cc485c86c1e4b33ca634f0> <http://schema.org/addressLocality> "LARAMIE" .
+

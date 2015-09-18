@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0f33d264d86242dc9ddb2e691058c964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0f33d264d86242dc9ddb2e691058c964> <http://schema.org/longitude> "10.5711"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f33d264d86242dc9ddb2e691058c964> <http://schema.org/latitude> "49.3037"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/url> <http://www.ansbach.de/cda/showpage.php?SiteID=371&language=de> .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://schema.org/streetAddress> "Kaspar-Hauser-Platz 1" .
+<http://lodlaundromat.org/.well-known/genid/N91add128ffe340f9ac45b8ac2bacb7be> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N01ed3f943b584f6bb8e5b9b4e4fb942c> .
+<http://lodlaundromat.org/.well-known/genid/N01ed3f943b584f6bb8e5b9b4e4fb942c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01ed3f943b584f6bb8e5b9b4e4fb942c> <http://schema.org/value> "182883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.3037&mlon=10.5711#map=15/49.3037/10.5711> .
+<http://lodlaundromat.org/.well-known/genid/N91add128ffe340f9ac45b8ac2bacb7be> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/name> "Markgrafenmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://schema.org/postalCode> "91522" .
+<http://lodlaundromat.org/.well-known/genid/N91add128ffe340f9ac45b8ac2bacb7be> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N91add128ffe340f9ac45b8ac2bacb7be> .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/telephone> "0981/9775056" .
+<http://lodlaundromat.org/.well-known/genid/N2912957c21d94916b39d81777582ef6b> <http://schema.org/addressLocality> "Ansbach" .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N91add128ffe340f9ac45b8ac2bacb7be> <http://schema.org/url> <http://www.museums.io/en/museums/182883> .
+<http://lodlaundromat.org/.well-known/genid/N56361901a7784b99a5c8a063ac5b51f4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0f33d264d86242dc9ddb2e691058c964> .
+<http://lodlaundromat.org/.well-known/genid/N01ed3f943b584f6bb8e5b9b4e4fb942c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

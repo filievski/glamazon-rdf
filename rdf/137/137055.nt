@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6f7c7580d98d43ae92b06a13b9d2317e> <http://schema.org/value> "137055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N33a1214a86a34e399a9b8619ce8843a3> <http://schema.org/latitude> "41.9254"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> <http://schema.org/id> "8401700200" .
+<http://lodlaundromat.org/.well-known/genid/N33a1214a86a34e399a9b8619ce8843a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N33a1214a86a34e399a9b8619ce8843a3> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6f7c7580d98d43ae92b06a13b9d2317e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6f7c7580d98d43ae92b06a13b9d2317e> .
+<http://lodlaundromat.org/.well-known/genid/N33a1214a86a34e399a9b8619ce8843a3> <http://schema.org/longitude> "-87.6526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://schema.org/postalCode> "60614" .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/telephone> "+1 (773) 325-7506" .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/name> "DEPAUL ART MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6f7c7580d98d43ae92b06a13b9d2317e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/url> <http://museums.depaul.edu/artwebsite> .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf5e99f6c87714c9eb3946cc24a29514f> .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://schema.org/streetAddress> "935 W FULLERTON AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nb1af7cd4b59e461e9b50968c1013d6ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9254&mlon=-87.6526#map=15/41.9254/-87.6526> .
+<http://lodlaundromat.org/.well-known/genid/N5239bc993c494357a75c2b9f9229aead> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

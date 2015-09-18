@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N60f156780a4f4c89afbf3001fde5b087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N60f156780a4f4c89afbf3001fde5b087> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60f156780a4f4c89afbf3001fde5b087> .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2462&mlon=-76.7077#map=15/39.2462/-76.7077> .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://schema.org/addressLocality> "BALTIMORE" .
+<http://lodlaundromat.org/.well-known/genid/N29d96ff68bbc4c099aa36261d8a6e2e3> <http://schema.org/latitude> "39.2462"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29d96ff68bbc4c099aa36261d8a6e2e3> .
+<http://lodlaundromat.org/.well-known/genid/N29d96ff68bbc4c099aa36261d8a6e2e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> <http://schema.org/id> "8402400535" .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://schema.org/name> "FRIENDS OF COWDENSVILLE A M E INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N60f156780a4f4c89afbf3001fde5b087> <http://schema.org/value> "142242"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N29d96ff68bbc4c099aa36261d8a6e2e3> <http://schema.org/longitude> "-76.7077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://schema.org/postalCode> "21227-2739" .
+<http://lodlaundromat.org/.well-known/genid/N7b70b90be0bc4e3c8e05b8bbc16b0c3c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://schema.org/streetAddress> "1108 SULPHUR SPRING RD" .
+<http://lodlaundromat.org/.well-known/genid/N183dc2e665664430b848839e9a381f41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93ff225de75e489d960b2eb2e2ce4562> <http://schema.org/addressRegion> "MD" .
+

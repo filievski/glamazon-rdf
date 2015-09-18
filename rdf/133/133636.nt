@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://schema.org/postalCode> "06082-3345" .
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://schema.org/streetAddress> "100 BIGELOW COMMONS" .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> <http://schema.org/id> "8400900111" .
+<http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N216301c08edd4cd787ef81d1c150194b> .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N74802ac114444311959e4ce4d9b98b1e> .
+<http://lodlaundromat.org/.well-known/genid/N74802ac114444311959e4ce4d9b98b1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0004&mlon=-72.6043#map=15/42.0004/-72.6043> .
+<http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N216301c08edd4cd787ef81d1c150194b> <http://schema.org/longitude> "-72.6043"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/name> "ASSOCIATION FOR PRESERVATION TECHNOLOGY NORTHEAST INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N82d8bd75b19742218477fc4703857e29> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> .
+<http://lodlaundromat.org/.well-known/genid/N216301c08edd4cd787ef81d1c150194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://schema.org/addressLocality> "ENFIELD" .
+<http://lodlaundromat.org/.well-known/genid/Ne7a31cb5ffcc4886a4cc612d876f3adb> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N74802ac114444311959e4ce4d9b98b1e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N74802ac114444311959e4ce4d9b98b1e> <http://schema.org/value> "133636"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N309803bbe24b45e7a480876f3d319b11> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N216301c08edd4cd787ef81d1c150194b> <http://schema.org/latitude> "42.0004"^^<http://www.w3.org/2001/XMLSchema#double> .
+

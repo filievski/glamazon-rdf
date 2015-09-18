@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://schema.org/streetAddress> "PO BOX 270" .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0d2b534030344f60a149555420165431> .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://schema.org/postalCode> "16428-0270" .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N552c5f92c3ef4ff9b7174f57b5fe1154> .
+<http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0d2b534030344f60a149555420165431> <http://schema.org/latitude> "42.1039"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1039&mlon=-79.8435#map=15/42.1039/-79.8435> .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/name> "HORNBY SCHOOL RESTORATION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/telephone> "+1 (814) 323-4404" .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> .
+<http://lodlaundromat.org/.well-known/genid/N0072f5114f5043749e435ae0011c9c0c> <http://schema.org/addressLocality> "NORTH EAST" .
+<http://lodlaundromat.org/.well-known/genid/N0d2b534030344f60a149555420165431> <http://schema.org/longitude> "-79.8435"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d522c9f4f2b498dbef687fe680dae37> <http://schema.org/url> <http://hornbyschool.org/welcome.html> .
+<http://lodlaundromat.org/.well-known/genid/N552c5f92c3ef4ff9b7174f57b5fe1154> <http://schema.org/value> "155854"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N552c5f92c3ef4ff9b7174f57b5fe1154> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0d2b534030344f60a149555420165431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N552c5f92c3ef4ff9b7174f57b5fe1154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nab84914776db457f899ab4439d314d3f> <http://schema.org/id> "8404201048" .
+

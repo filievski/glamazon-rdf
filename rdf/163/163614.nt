@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a7e9727c6d24e9699fc16b2e4733fb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6381b136da434872ba8558e8987dc112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6381b136da434872ba8558e8987dc112> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N0e88dcf3dce84d13b15c2ff8c187640e> <http://schema.org/value> "163614"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/name> "Alfred Archives"@en .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4a7e9727c6d24e9699fc16b2e4733fb3> .
+<http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> <http://schema.org/url> <http://victoriancollections.net.au/organisations/alfred-archives> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0e88dcf3dce84d13b15c2ff8c187640e> .
+<http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/url> <http://www.alfred.org.au/Department.aspx?ID=121> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8454&mlon=144.983#map=15/-37.8454/144.983> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6381b136da434872ba8558e8987dc112> .
+<http://lodlaundromat.org/.well-known/genid/N4a7e9727c6d24e9699fc16b2e4733fb3> <http://schema.org/latitude> "-37.8454"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0e88dcf3dce84d13b15c2ff8c187640e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a7e9727c6d24e9699fc16b2e4733fb3> <http://schema.org/longitude> "144.983"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e88dcf3dce84d13b15c2ff8c187640e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N678a8bd820ad43248ecb2f9cfb5bfd43> <http://schema.org/id> "alfred-archives" .
+<http://lodlaundromat.org/.well-known/genid/N9c83ed03b0f348bea9e0dde1fa3c7850> <http://schema.org/telephone> "(03) 9076 2022" .
+

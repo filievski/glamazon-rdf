@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://schema.org/streetAddress> "4619 E WASHINGTON ST" .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/url> <http://www.pueblogrande.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N99ff40efba5b4e6e962aae1a7e4f1a10> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N04690ae596514f0aae6fd09d218eaaf5> .
+<http://lodlaundromat.org/.well-known/genid/N99ff40efba5b4e6e962aae1a7e4f1a10> <http://schema.org/latitude> "33.448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04690ae596514f0aae6fd09d218eaaf5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://schema.org/addressLocality> "PHOENIX" .
+<http://lodlaundromat.org/.well-known/genid/N04690ae596514f0aae6fd09d218eaaf5> <http://schema.org/value> "129403"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/telephone> "+1 (602) 495-0901" .
+<http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.448&mlon=-111.985#map=15/33.448/-111.985> .
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://schema.org/name> "PUEBLO GRANDE MUSEUM AUXILIARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://schema.org/postalCode> "85034-1909" .
+<http://lodlaundromat.org/.well-known/genid/N04690ae596514f0aae6fd09d218eaaf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf59be5b44bd94b6c887d5e093319bc28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a7f7bc6d925413a967cadf9f4e721b2> <http://schema.org/id> "8400400305" .
+<http://lodlaundromat.org/.well-known/genid/N8ece5664c75e49e4a5caff86b49d10bb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N99ff40efba5b4e6e962aae1a7e4f1a10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N99ff40efba5b4e6e962aae1a7e4f1a10> <http://schema.org/longitude> "-111.985"^^<http://www.w3.org/2001/XMLSchema#double> .
+

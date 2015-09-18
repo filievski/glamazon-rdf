@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2845e620710c4a9e91a2efe45c36c8d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.0806&mlon=-106.015#map=15/33.0806/-106.015> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N386ea06742d94b67924156d38dfc730b> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/name> "RED BRICK BUILDING RESTORATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N386ea06742d94b67924156d38dfc730b> <http://schema.org/longitude> "-106.015"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://schema.org/addressLocality> "TULAROSA" .
+<http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2845e620710c4a9e91a2efe45c36c8d9> <http://schema.org/value> "148686"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://schema.org/streetAddress> "PO BOX 612" .
+<http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> <http://schema.org/id> "8403500276" .
+<http://lodlaundromat.org/.well-known/genid/N386ea06742d94b67924156d38dfc730b> <http://schema.org/latitude> "33.0806"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned6519143f514840b9325cb13597ba57> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2845e620710c4a9e91a2efe45c36c8d9> .
+<http://lodlaundromat.org/.well-known/genid/N2845e620710c4a9e91a2efe45c36c8d9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N065c98d2cf274b38a76d7a63f7725393> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N386ea06742d94b67924156d38dfc730b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/N33b9e3bb885a4fd6b3702420dc95863b> <http://schema.org/postalCode> "88352-0612" .
+

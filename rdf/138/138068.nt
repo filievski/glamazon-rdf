@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4385f68d6dd24fd1b74b4d745455f0a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://schema.org/addressLocality> "PONTIAC" .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e825362114f4cd7a4ef4c83874a8c40> <http://schema.org/latitude> "40.8903"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4385f68d6dd24fd1b74b4d745455f0a3> <http://schema.org/value> "138068"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://schema.org/streetAddress> "1905 EAST VIEW DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> .
+<http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> <http://schema.org/id> "8401701213" .
+<http://lodlaundromat.org/.well-known/genid/N7e825362114f4cd7a4ef4c83874a8c40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4385f68d6dd24fd1b74b4d745455f0a3> .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8903&mlon=-88.6195#map=15/40.8903/-88.6195> .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7e825362114f4cd7a4ef4c83874a8c40> .
+<http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncc32bf4c8470467284e11fcad3a34f66> <http://schema.org/name> "LIVINGSTON COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e825362114f4cd7a4ef4c83874a8c40> <http://schema.org/longitude> "-88.6195"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9bc29591857b41d8b6265f082143397d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4385f68d6dd24fd1b74b4d745455f0a3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://schema.org/postalCode> "61764" .
+<http://lodlaundromat.org/.well-known/genid/N05cdd93d8a2e4267ba7ff5f46c7374fd> <http://schema.org/addressCountry> "United States" .
+

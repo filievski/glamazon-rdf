@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N300a97b0fd9f4bdca0ec7521f4a7a258> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N300a97b0fd9f4bdca0ec7521f4a7a258> <http://schema.org/value> "157063"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N054ba69f5ea8483c8c024feb9e92eb5e> <http://schema.org/latitude> "33.6637"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://schema.org/addressLocality> "ST. MATTHEWS" .
+<http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> <http://schema.org/id> "8404500358" .
+<http://lodlaundromat.org/.well-known/genid/N054ba69f5ea8483c8c024feb9e92eb5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://schema.org/postalCode> "29135-1479" .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> .
+<http://lodlaundromat.org/.well-known/genid/N054ba69f5ea8483c8c024feb9e92eb5e> <http://schema.org/longitude> "-80.7792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N300a97b0fd9f4bdca0ec7521f4a7a258> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N054ba69f5ea8483c8c024feb9e92eb5e> .
+<http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N300a97b0fd9f4bdca0ec7521f4a7a258> .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N189791b3176445f8b406c1f129c70eac> <http://schema.org/streetAddress> "102 COURTHOUSE DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/name> "COUNTY OF CALHOUN"@en .
+<http://lodlaundromat.org/.well-known/genid/N5c09da394a634bbc991a7e78e1c75a38> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndc843cd1575e4367b0e336624fd29db2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.6637&mlon=-80.7792#map=15/33.6637/-80.7792> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> <http://schema.org/id> "8404800515" .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N534fa3de1e1841359cd69e55f4d5d808> <http://schema.org/value> "158415"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://schema.org/addressLocality> "RICHARDSON" .
+<http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://schema.org/postalCode> "75080-5819" .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8f42f81b8943437a91dd1ee1ceed7b49> .
+<http://lodlaundromat.org/.well-known/genid/N29ea12a8bc2742d1bb581aff00e29a9e> <http://schema.org/streetAddress> "209 DOVER DR" .
+<http://lodlaundromat.org/.well-known/genid/N8f42f81b8943437a91dd1ee1ceed7b49> <http://schema.org/latitude> "32.9495"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f42f81b8943437a91dd1ee1ceed7b49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N534fa3de1e1841359cd69e55f4d5d808> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/name> "SCHOLA SAINT GEORGE LTD INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne8c64e5b402043219f6db69062596b8c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8f42f81b8943437a91dd1ee1ceed7b49> <http://schema.org/longitude> "-96.7585"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.9495&mlon=-96.7585#map=15/32.9495/-96.7585> .
+<http://lodlaundromat.org/.well-known/genid/N874671dc9d7241848738385afa08bd82> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N534fa3de1e1841359cd69e55f4d5d808> .
+<http://lodlaundromat.org/.well-known/genid/N534fa3de1e1841359cd69e55f4d5d808> <http://schema.org/name> "id" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N057d5ae9f763401e8d76778be71f3c98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N057d5ae9f763401e8d76778be71f3c98> .
+<http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N057d5ae9f763401e8d76778be71f3c98> <http://schema.org/latitude> "39.6604"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://schema.org/postalCode> "47842-0006" .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6604&mlon=-87.4118#map=15/39.6604/-87.4118> .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> .
+<http://lodlaundromat.org/.well-known/genid/Nbc75d957f3664814a20b6abb0cbffe68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbc75d957f3664814a20b6abb0cbffe68> <http://schema.org/value> "138577"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> <http://schema.org/id> "8401800363" .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://schema.org/addressLocality> "CLINTON" .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/name> "LITTLE ITALY FESTIVAL TOWN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> .
+<http://lodlaundromat.org/.well-known/genid/N14a6ecda2d8a40d287fbff8e4c73ed38> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc75d957f3664814a20b6abb0cbffe68> .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://schema.org/streetAddress> "PO BOX 6" .
+<http://lodlaundromat.org/.well-known/genid/N9fbf09fa6bfe400cb33498dc70121603> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N057d5ae9f763401e8d76778be71f3c98> <http://schema.org/longitude> "-87.4118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67c4c6541fb64c539a2b37ed4eda6bcc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc75d957f3664814a20b6abb0cbffe68> <http://schema.org/name> "id" .
+

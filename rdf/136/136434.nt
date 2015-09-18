@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11c34450eaf34be0994e8e34d901871a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> <http://schema.org/id> "8401300705" .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N47f2272eb3f94f9c8ab6f1c87e0c165f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N47f2272eb3f94f9c8ab6f1c87e0c165f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://schema.org/streetAddress> "PO BOX 221" .
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/url> <http://www.gilmercountyhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://schema.org/addressLocality> "ELLIJAY" .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/telephone> "+1 (706) 276-1861" .
+<http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47f2272eb3f94f9c8ab6f1c87e0c165f> .
+<http://lodlaundromat.org/.well-known/genid/N47f2272eb3f94f9c8ab6f1c87e0c165f> <http://schema.org/value> "136434"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.6956&mlon=-84.5281#map=15/34.6956/-84.5281> .
+<http://lodlaundromat.org/.well-known/genid/N14c2ded0b7b340fa8cd740e1d4830ddc> <http://schema.org/postalCode> "30540-0030" .
+<http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N11c34450eaf34be0994e8e34d901871a> .
+<http://lodlaundromat.org/.well-known/genid/N11c34450eaf34be0994e8e34d901871a> <http://schema.org/longitude> "-84.5281"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb1a97c74b8c74177a726a56dbe3759cb> .
+<http://lodlaundromat.org/.well-known/genid/N786bd486f5e24f8a929a49c0c18c4ff0> <http://schema.org/name> "GILMER COUNTY HISTORICAL PRESERVATION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N11c34450eaf34be0994e8e34d901871a> <http://schema.org/latitude> "34.6956"^^<http://www.w3.org/2001/XMLSchema#double> .
+

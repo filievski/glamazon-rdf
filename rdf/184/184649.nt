@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://schema.org/name> "Red Location Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb1da28b7bf17476891ba86a5b021c005> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb1da28b7bf17476891ba86a5b021c005> .
+<http://lodlaundromat.org/.well-known/genid/N383324f1f493456c92ac94974632290f> <http://schema.org/url> <http://www.museums.io/en/museums/184649> .
+<http://lodlaundromat.org/.well-known/genid/Nb1da28b7bf17476891ba86a5b021c005> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> <http://schema.org/streetAddress> "Cnr Olaf Palmer & Singaphi Street, New Brighton, Port Elizabeth" .
+<http://lodlaundromat.org/.well-known/genid/N383324f1f493456c92ac94974632290f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> <http://schema.org/addressLocality> "Port Elizabeth" .
+<http://lodlaundromat.org/.well-known/genid/Nb1da28b7bf17476891ba86a5b021c005> <http://schema.org/value> "184649"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N383324f1f493456c92ac94974632290f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> <http://schema.org/addressRegion> "Eastern Cape" .
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> .
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N383324f1f493456c92ac94974632290f> .
+<http://lodlaundromat.org/.well-known/genid/N383324f1f493456c92ac94974632290f> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc5bb72700c834607a2ef7283566808eb> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N23f5268a364c47ac85c191a54ca88c2d> <http://schema.org/telephone> "041 408 8400" .
+

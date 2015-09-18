@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbac3b75124e8461ca862e53381334def> <http://schema.org/latitude> "46.4079"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbc816941a991443c8d91e1f296ab1e75> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc816941a991443c8d91e1f296ab1e75> .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/telephone> "+1 (406) 846-2070" .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://schema.org/postalCode> "59722" .
+<http://lodlaundromat.org/.well-known/genid/Nbc816941a991443c8d91e1f296ab1e75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbc816941a991443c8d91e1f296ab1e75> <http://schema.org/value> "146401"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbac3b75124e8461ca862e53381334def> <http://schema.org/longitude> "-112.736"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://schema.org/addressLocality> "DEER LODGE" .
+<http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.4079&mlon=-112.736#map=15/46.4079/-112.736> .
+<http://lodlaundromat.org/.well-known/genid/N66efa5fe99f144ceb4096453cb7d0e57> <http://schema.org/streetAddress> "266 WARREN LN" .
+<http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> <http://schema.org/id> "8403000044" .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N17dd952fc7a5451caabbfb26878ed290> .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/name> "GRANT KOHRS RANCH NATL HSTRC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbac3b75124e8461ca862e53381334def> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01a50ab1ee82451987efa505cd796f76> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbac3b75124e8461ca862e53381334def> .
+

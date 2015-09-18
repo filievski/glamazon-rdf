@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N47383d486f2a43b48fe2ea7e9a94205f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://schema.org/streetAddress> "309 STEUBEN ST" .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> <http://schema.org/id> "8403600137" .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://schema.org/postalCode> "14870" .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://schema.org/addressLocality> "PAINTED POST" .
+<http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/name> "PAINTED POST ERWIN MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N89aaeb7399624f9e80a5eb7ea62634e9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/telephone> "+1 (607) 962-0249" .
+<http://lodlaundromat.org/.well-known/genid/N47383d486f2a43b48fe2ea7e9a94205f> <http://schema.org/value> "148843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4700b0fbdf0645409a59b69a03e05f21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/url> <http://www.pattersoninnmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.162&mlon=-77.0908#map=15/42.162/-77.0908> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> .
+<http://lodlaundromat.org/.well-known/genid/N47383d486f2a43b48fe2ea7e9a94205f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4700b0fbdf0645409a59b69a03e05f21> <http://schema.org/latitude> "42.162"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1730c9d49ab744d89a99b118d08bbe63> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4700b0fbdf0645409a59b69a03e05f21> .
+<http://lodlaundromat.org/.well-known/genid/Neb4a48043493445f93a0c3c53f5202ec> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47383d486f2a43b48fe2ea7e9a94205f> .
+<http://lodlaundromat.org/.well-known/genid/N4700b0fbdf0645409a59b69a03e05f21> <http://schema.org/longitude> "-77.0908"^^<http://www.w3.org/2001/XMLSchema#double> .
+

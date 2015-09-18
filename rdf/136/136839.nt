@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7f95603672e34c3b9e6e2dea13b9a8e1> <http://schema.org/latitude> "45.9197"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7f95603672e34c3b9e6e2dea13b9a8e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7f95603672e34c3b9e6e2dea13b9a8e1> .
+<http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> <http://schema.org/id> "8401600189" .
+<http://lodlaundromat.org/.well-known/genid/N7f95603672e34c3b9e6e2dea13b9a8e1> <http://schema.org/longitude> "-116.121"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://schema.org/streetAddress> "208 E S 7TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://schema.org/addressRegion> "ID" .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.9197&mlon=-116.121#map=15/45.9197/-116.121> .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://schema.org/postalCode> "83530" .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/name> "IDAHO COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb67e31665c9c47c683ff97a7c9107016> .
+<http://lodlaundromat.org/.well-known/genid/Nb67e31665c9c47c683ff97a7c9107016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb67e31665c9c47c683ff97a7c9107016> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb67e31665c9c47c683ff97a7c9107016> <http://schema.org/value> "136839"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na8a01092286a4e53a4aac50bc730f4b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6b6cf44757134dafb4d3a1b1cf2222d7> <http://schema.org/addressLocality> "GRANGEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N313a0a570ab2448886f1008dc3d0d499> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

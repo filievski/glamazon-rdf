@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a976f4b77b455ba7e76f9e0309082a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://schema.org/streetAddress> "1929 STATE HIGHWAY 180" .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2314&mlon=-87.9871#map=15/30.2314/-87.9871> .
+<http://lodlaundromat.org/.well-known/genid/N035b6acd662149069ecd34c6fabf19dc> <http://schema.org/longitude> "-87.9871"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a976f4b77b455ba7e76f9e0309082a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://schema.org/postalCode> "36542-8095" .
+<http://lodlaundromat.org/.well-known/genid/N035b6acd662149069ecd34c6fabf19dc> <http://schema.org/latitude> "30.2314"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/name> "DEFENDERS OF FORT MORGAN"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N035b6acd662149069ecd34c6fabf19dc> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> <http://schema.org/id> "8400100354" .
+<http://lodlaundromat.org/.well-known/genid/N035b6acd662149069ecd34c6fabf19dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a233dd6aec46b3a4abfc2386ed3a3a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne1c2a34655a1448688b055d03737ae40> <http://schema.org/addressLocality> "GULF SHORES" .
+<http://lodlaundromat.org/.well-known/genid/N6dae08de169542d09f96110ffbe633cc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb5a976f4b77b455ba7e76f9e0309082a> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a976f4b77b455ba7e76f9e0309082a> <http://schema.org/value> "128824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

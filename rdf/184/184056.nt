@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N44ebe4ff518442dc9f4e8e36e4b07ad7> <http://schema.org/latitude> "49.4589"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44ebe4ff518442dc9f4e8e36e4b07ad7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/url> <http://www.cadolzburg.de/pages/sehenswuerdigkeiten/rangau---heimathaus.php> .
+<http://lodlaundromat.org/.well-known/genid/N44ebe4ff518442dc9f4e8e36e4b07ad7> <http://schema.org/longitude> "10.8519"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://schema.org/addressLocality> "Cadolzburg" .
+<http://lodlaundromat.org/.well-known/genid/N517e2afa028f4a639e2c4437b52199cf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> .
+<http://lodlaundromat.org/.well-known/genid/N517e2afa028f4a639e2c4437b52199cf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N742e29565ed2458588383010a240961c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N44ebe4ff518442dc9f4e8e36e4b07ad7> .
+<http://lodlaundromat.org/.well-known/genid/N517e2afa028f4a639e2c4437b52199cf> <http://schema.org/url> <http://www.museums.io/en/museums/184056> .
+<http://lodlaundromat.org/.well-known/genid/N517e2afa028f4a639e2c4437b52199cf> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N517e2afa028f4a639e2c4437b52199cf> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N742e29565ed2458588383010a240961c> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.4589&mlon=10.8519#map=15/49.4589/10.8519> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://schema.org/postalCode> "90556" .
+<http://lodlaundromat.org/.well-known/genid/N742e29565ed2458588383010a240961c> <http://schema.org/value> "184056"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N742e29565ed2458588383010a240961c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/name> "Rangau-Heimathaus"@en .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://schema.org/streetAddress> "Pisendelplatz 1" .
+<http://lodlaundromat.org/.well-known/genid/N16af0c350dbd446bb70d738a39350b55> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9e32af637446a5bc8a96e0e49b0c98> <http://schema.org/telephone> "09103/50932" .
+

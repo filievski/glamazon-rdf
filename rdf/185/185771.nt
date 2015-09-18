@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N51f67cc4feb14e5d9cbf9f9c394a5a9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f066334ca44611bbc754b10db4ed59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N51f67cc4feb14e5d9cbf9f9c394a5a9d> .
+<http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb7f066334ca44611bbc754b10db4ed59> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> .
+<http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/telephone> "+39 0983.83209 / 0983.82260 / 0983.891511 (centralino comune)" .
+<http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> <http://schema.org/id> "108408" .
+<http://lodlaundromat.org/.well-known/genid/Nb7f066334ca44611bbc754b10db4ed59> <http://schema.org/longitude> "16.5193"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N327eb722bfe44eebb8c1f5327751d9d2> <http://schema.org/contentUrl> <http://images.museums.io/GGGpPvmMiCclwogFc0G38w_QEZ8=/1000x1000/museums/logos/000/185/771/original/7f65ea16c652ff767dfe51980532db0b8da929.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N327eb722bfe44eebb8c1f5327751d9d2> .
+<http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/name> "Museo Minimo"@it .
+<http://lodlaundromat.org/.well-known/genid/N51f67cc4feb14e5d9cbf9f9c394a5a9d> <http://schema.org/value> "185771"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f066334ca44611bbc754b10db4ed59> <http://schema.org/latitude> "39.5984"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51f67cc4feb14e5d9cbf9f9c394a5a9d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc67bce7516174294bb7d35800585abdf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5984&mlon=16.5193#map=15/39.5984/16.5193> .
+<http://lodlaundromat.org/.well-known/genid/N327eb722bfe44eebb8c1f5327751d9d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> <http://schema.org/streetAddress> "Via Barbara Abenante , 35" .
+<http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N08334eb6224c4eecac2563583c6580cb> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N45512b34859b413dbda11eea57be1631> <http://schema.org/addressLocality> "Corigliano Calabro" .
+

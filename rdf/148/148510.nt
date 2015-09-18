@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc31cbd70b6364158af2a5cde3f00eee7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/name> "AMADOR HOTEL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> .
+<http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> <http://schema.org/id> "8403500100" .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc31cbd70b6364158af2a5cde3f00eee7> .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://schema.org/postalCode> "88004-1268" .
+<http://lodlaundromat.org/.well-known/genid/Nf13835b22dda40b78e12577403f780e4> <http://schema.org/latitude> "32.3274"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://schema.org/streetAddress> "PO BOX 1268" .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf13835b22dda40b78e12577403f780e4> .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.3274&mlon=-106.783#map=15/32.3274/-106.783> .
+<http://lodlaundromat.org/.well-known/genid/Na612ff6b5344423cbcd13fb822ee6033> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://schema.org/addressLocality> "LAS CRUCES" .
+<http://lodlaundromat.org/.well-known/genid/Nf13835b22dda40b78e12577403f780e4> <http://schema.org/longitude> "-106.783"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na05ebbeac39f435c800102a701bbbfe2> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf13835b22dda40b78e12577403f780e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0d6b1b93ba28493f8e922b31c7480672> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc31cbd70b6364158af2a5cde3f00eee7> <http://schema.org/value> "148510"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc31cbd70b6364158af2a5cde3f00eee7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

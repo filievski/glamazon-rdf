@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://schema.org/streetAddress> "PO BOX 333" .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/name> "CRAWFORD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> .
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N76816324bc494ef5a0c8daed273e8a91> <http://schema.org/latitude> "42.6799"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://schema.org/postalCode> "69339-0333" .
+<http://lodlaundromat.org/.well-known/genid/Nb5d8b2d92c29458cbc3ad2ea1cd3b149> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb5d8b2d92c29458cbc3ad2ea1cd3b149> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N76816324bc494ef5a0c8daed273e8a91> .
+<http://lodlaundromat.org/.well-known/genid/N76816324bc494ef5a0c8daed273e8a91> <http://schema.org/longitude> "-103.412"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb5d8b2d92c29458cbc3ad2ea1cd3b149> .
+<http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> <http://schema.org/id> "8403100223" .
+<http://lodlaundromat.org/.well-known/genid/Nb5d8b2d92c29458cbc3ad2ea1cd3b149> <http://schema.org/value> "146884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://schema.org/addressLocality> "CRAWFORD" .
+<http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N145ac95fdc9d4410b28da7002e1fbae7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6799&mlon=-103.412#map=15/42.6799/-103.412> .
+<http://lodlaundromat.org/.well-known/genid/N58d0daf6f4484c5390b68eb1832a425f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0492c49742a1431ba2308ea650e31d27> .
+<http://lodlaundromat.org/.well-known/genid/N76816324bc494ef5a0c8daed273e8a91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

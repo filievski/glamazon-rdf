@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5d7bee7fb13647269cf44cf785dc28b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0895e96e416748908dcc1246868b61cb> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://schema.org/streetAddress> "1300 SW 12TH AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://schema.org/postalCode> "33308-1313" .
+<http://lodlaundromat.org/.well-known/genid/N5d7bee7fb13647269cf44cf785dc28b2> <http://schema.org/longitude> "-80.2143"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.7606&mlon=-80.2143#map=15/25.7606/-80.2143> .
+<http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0895e96e416748908dcc1246868b61cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/telephone> "+1 (305) 858-8006" .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5d7bee7fb13647269cf44cf785dc28b2> .
+<http://lodlaundromat.org/.well-known/genid/N5d7bee7fb13647269cf44cf785dc28b2> <http://schema.org/latitude> "25.7606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> <http://schema.org/id> "8401200226" .
+<http://lodlaundromat.org/.well-known/genid/N0895e96e416748908dcc1246868b61cb> <http://schema.org/value> "134672"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0895e96e416748908dcc1246868b61cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/name> "CUBAN MUSEUM OF THE AMERICAS"@en .
+<http://lodlaundromat.org/.well-known/genid/N4ea028a53931474f9f67e72cd049f7cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2bd3b2dec4e84d9382bfac72a4bac92c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e4c1da4981452a9182eae1595344cc> <http://schema.org/addressLocality> "MIAMI" .
+

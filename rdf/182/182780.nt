@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/url> <http://www.gablingen.de/verzeichnis/objekt.php?mandat=78916> .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4518&mlon=10.82#map=15/48.4518/10.82> .
+<http://lodlaundromat.org/.well-known/genid/N89284c263f764006a8f9f6845c29d954> <http://schema.org/latitude> "48.4518"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N50ee07224ef14e0184f736c7df231689> <http://schema.org/url> <http://www.museums.io/en/museums/182780> .
+<http://lodlaundromat.org/.well-known/genid/N89284c263f764006a8f9f6845c29d954> <http://schema.org/longitude> "10.82"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N89284c263f764006a8f9f6845c29d954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/telephone> "08230/701349" .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb93babcd177b430b8f5575562f59f1de> .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N50ee07224ef14e0184f736c7df231689> .
+<http://lodlaundromat.org/.well-known/genid/Nb93babcd177b430b8f5575562f59f1de> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://schema.org/addressLocality> "Gablingen" .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N89284c263f764006a8f9f6845c29d954> .
+<http://lodlaundromat.org/.well-known/genid/N50ee07224ef14e0184f736c7df231689> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://schema.org/streetAddress> "Holzhauser Weg 5" .
+<http://lodlaundromat.org/.well-known/genid/N282dd63d587240eaa6c3133a89932c05> <http://schema.org/name> "Arch\u00E4ologisches Heimatmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50ee07224ef14e0184f736c7df231689> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://schema.org/postalCode> "86456" .
+<http://lodlaundromat.org/.well-known/genid/Nb93babcd177b430b8f5575562f59f1de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N50ee07224ef14e0184f736c7df231689> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb93babcd177b430b8f5575562f59f1de> <http://schema.org/value> "182780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na7750b3dd5ab413cbcce62931060e3e8> <http://schema.org/addressCountry> "Germany" .
+

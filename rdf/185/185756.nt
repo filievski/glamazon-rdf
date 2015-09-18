@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Na5539f0add294964b7585f4fbd78ca31> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf1f2ed9857a4e4ab9a72d8ccaaa861f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf1f2ed9857a4e4ab9a72d8ccaaa861f> <http://schema.org/latitude> "39.5107"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N503aaaccc3564af2a77141e37fd96286> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na5539f0add294964b7585f4fbd78ca31> .
+<http://lodlaundromat.org/.well-known/genid/Ndf1f2ed9857a4e4ab9a72d8ccaaa861f> <http://schema.org/longitude> "16.2903"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> .
+<http://lodlaundromat.org/.well-known/genid/Na5539f0add294964b7585f4fbd78ca31> <http://schema.org/value> "185756"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndf1f2ed9857a4e4ab9a72d8ccaaa861f> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5107&mlon=16.2903#map=15/39.5107/16.2903> .
+<http://lodlaundromat.org/.well-known/genid/N503aaaccc3564af2a77141e37fd96286> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/name> "Museo diocesano di arte sacra di Bisignano"@it .
+<http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> <http://schema.org/streetAddress> "Via Principe di Piemonte , " .
+<http://lodlaundromat.org/.well-known/genid/Nef2427d60c8b4a89b1959356466c60b3> <http://schema.org/telephone> "+39 " .
+<http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> <http://schema.org/addressLocality> "Bisignano" .
+<http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/Na5539f0add294964b7585f4fbd78ca31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N98a3bf486e7b43bf82bbc2b2868b6a2a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N503aaaccc3564af2a77141e37fd96286> <http://schema.org/contentUrl> <http://images.museums.io/hAbqcFvwbZLD_lAnTE9XJyamXhE=/1000x1000/museums/logos/000/185/756/original/8f3952e6f3b3ea683cdfa8c6799492d2ce2551b.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> <http://schema.org/id> "108484" .
+<http://lodlaundromat.org/.well-known/genid/N84c2949e17b54ae493535314374e4654> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

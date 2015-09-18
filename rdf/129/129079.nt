@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb4c13a12c99d43c49c371966f8ef9764> <http://schema.org/longitude> "-135.336"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98191c508a0b4e7487063e16338b1c3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N98191c508a0b4e7487063e16338b1c3b> .
+<http://lodlaundromat.org/.well-known/genid/N98191c508a0b4e7487063e16338b1c3b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> .
+<http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb4c13a12c99d43c49c371966f8ef9764> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb4c13a12c99d43c49c371966f8ef9764> <http://schema.org/latitude> "57.0596"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4c13a12c99d43c49c371966f8ef9764> .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> .
+<http://lodlaundromat.org/.well-known/genid/N98191c508a0b4e7487063e16338b1c3b> <http://schema.org/value> "129079"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9bd0497a42f04aa7a3572213f185cc26> <http://schema.org/id> "8400200150" .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://schema.org/addressLocality> "SITKA" .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://schema.org/postalCode> "99835-1624" .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/name> "SITKA CANCER SURVIVORS SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc1122d3ca1134fde939b21de376c53d6> <http://schema.org/streetAddress> "PO BOX 1624" .
+<http://lodlaundromat.org/.well-known/genid/N356ead06f2ae4f7caf1f01de26b8e39c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=57.0596&mlon=-135.336#map=15/57.0596/-135.336> .
+

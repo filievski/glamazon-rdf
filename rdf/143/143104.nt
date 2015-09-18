@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8272&mlon=-71.1387#map=15/41.8272/-71.1387> .
+<http://lodlaundromat.org/.well-known/genid/N75b49c614fc74ca4bf9a7ed9f3e29e3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N75b49c614fc74ca4bf9a7ed9f3e29e3d> .
+<http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N115b74f3f749481691961c633d41059e> <http://schema.org/latitude> "41.8272"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://schema.org/streetAddress> "707 BROOK ST" .
+<http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://schema.org/addressLocality> "DIGHTON" .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://schema.org/postalCode> "02715" .
+<http://lodlaundromat.org/.well-known/genid/N75b49c614fc74ca4bf9a7ed9f3e29e3d> <http://schema.org/value> "143104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N115b74f3f749481691961c633d41059e> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> .
+<http://lodlaundromat.org/.well-known/genid/N115b74f3f749481691961c633d41059e> <http://schema.org/longitude> "-71.1387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9469a85dcb474303a4593347caebb887> <http://schema.org/name> "INTERNATIONAL MUSEUM OF MILITARY HISTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N115b74f3f749481691961c633d41059e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N804db95072ca40f7994f2c2a2ba18681> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N75b49c614fc74ca4bf9a7ed9f3e29e3d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98464bf9fa9d4a189ecddcb878ad02e9> <http://schema.org/id> "8402500734" .
+

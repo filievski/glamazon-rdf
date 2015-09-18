@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N43fde660db634e96bdc78a7ab9eaf747> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N43fde660db634e96bdc78a7ab9eaf747> <http://schema.org/url> <http://www.museums.io/en/museums/182752> .
+<http://lodlaundromat.org/.well-known/genid/N8a433e49ef79441588a9f711ae6b602e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://schema.org/addressLocality> "Freising" .
+<http://lodlaundromat.org/.well-known/genid/N6e71effb3fa24838a084fac703a2a8ee> <http://schema.org/latitude> "48.4114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8a433e49ef79441588a9f711ae6b602e> <http://schema.org/value> "182752"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N43fde660db634e96bdc78a7ab9eaf747> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N6e71effb3fa24838a084fac703a2a8ee> <http://schema.org/longitude> "11.7298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6e71effb3fa24838a084fac703a2a8ee> .
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://schema.org/postalCode> "85354" .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4114&mlon=11.7298#map=15/48.4114/11.7298> .
+<http://lodlaundromat.org/.well-known/genid/N6e71effb3fa24838a084fac703a2a8ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43fde660db634e96bdc78a7ab9eaf747> .
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N2b320b32911544a6a77bb92bc40ae1ac> <http://schema.org/streetAddress> "Am Schafhof 1" .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a433e49ef79441588a9f711ae6b602e> .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/name> "Schafhof - Europ\u00E4isches K\u00FCnstlerhaus Oberbayern"@en .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/telephone> "08161/146231" .
+<http://lodlaundromat.org/.well-known/genid/Nce02aa6123bc4bafafb72ad314659d20> <http://schema.org/url> <http://schafhof-kuenstlerhaus.bezirk-oberbayern.de/> .
+<http://lodlaundromat.org/.well-known/genid/N8a433e49ef79441588a9f711ae6b602e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N43fde660db634e96bdc78a7ab9eaf747> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8a4ff173057c4abaa714ea27dc07aa67> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a4ff173057c4abaa714ea27dc07aa67> .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://schema.org/streetAddress> "P.O. BOX 9" .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndee646dd8f324fa58f8f788cae325fd9> .
+<http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/name> "DENALI NATIONAL PARK AND PRESERVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N8a4ff173057c4abaa714ea27dc07aa67> <http://schema.org/value> "189594"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://schema.org/postalCode> "99755" .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/telephone> "+1 (907) 683-9536" .
+<http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> <http://schema.org/id> "8400200177" .
+<http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=63.5449&mlon=-151.0#map=15/63.5449/-151.0> .
+<http://lodlaundromat.org/.well-known/genid/N8a4ff173057c4abaa714ea27dc07aa67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndee646dd8f324fa58f8f788cae325fd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndee646dd8f324fa58f8f788cae325fd9> <http://schema.org/latitude> "63.5449"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7245514337a0484fbe646aa7e8f6f9d3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3ea41adb543e4315aa2477182a152dc6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://schema.org/addressLocality> "DENALI PARK" .
+<http://lodlaundromat.org/.well-known/genid/N280f8e5e5b924e568e689548e63dea77> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/Ndee646dd8f324fa58f8f788cae325fd9> <http://schema.org/longitude> "-151.0"^^<http://www.w3.org/2001/XMLSchema#double> .
+

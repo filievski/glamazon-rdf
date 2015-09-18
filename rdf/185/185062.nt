@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Nd9cd7eed3ddc42679080a4c77f1ac095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd9cd7eed3ddc42679080a4c77f1ac095> <http://schema.org/value> "185062"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N56f0d69ef0e54ff5bc27f805fac0a594> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N56f0d69ef0e54ff5bc27f805fac0a594> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://schema.org/url> <http://www.lapinmuseot.fi/enontekio/enontekionkotiseutumuseo.html> .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://schema.org/name> "Enonteki\u00F6 Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd9cd7eed3ddc42679080a4c77f1ac095> .
+<http://lodlaundromat.org/.well-known/genid/Nd9cd7eed3ddc42679080a4c77f1ac095> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56f0d69ef0e54ff5bc27f805fac0a594> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N56f0d69ef0e54ff5bc27f805fac0a594> .
+<http://lodlaundromat.org/.well-known/genid/N56f0d69ef0e54ff5bc27f805fac0a594> <http://schema.org/url> <http://www.museums.io/en/museums/185062> .
+<http://lodlaundromat.org/.well-known/genid/N783d1186082e4b9995f153f5faaa1194> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N04a257c0c1484853b29039b10253296e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N783d1186082e4b9995f153f5faaa1194> .
+<http://lodlaundromat.org/.well-known/genid/N783d1186082e4b9995f153f5faaa1194> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

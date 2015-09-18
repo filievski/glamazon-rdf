@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N551974aba15945e1bf362bfee46f42b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> .
+<http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N551974aba15945e1bf362bfee46f42b8> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab691cdf664c432488bbdda2141566f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://schema.org/addressLocality> "KNOXVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nab691cdf664c432488bbdda2141566f3> <http://schema.org/value> "157551"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nab691cdf664c432488bbdda2141566f3> .
+<http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> <http://schema.org/id> "8404700222" .
+<http://lodlaundromat.org/.well-known/genid/Nab691cdf664c432488bbdda2141566f3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/name> "KNOXVILLE CIVIL WAR ROUNDTABLE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://schema.org/streetAddress> "PO BOX 52232" .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N551974aba15945e1bf362bfee46f42b8> <http://schema.org/longitude> "-84.0132"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N551974aba15945e1bf362bfee46f42b8> <http://schema.org/latitude> "35.946"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.946&mlon=-84.0132#map=15/35.946/-84.0132> .
+<http://lodlaundromat.org/.well-known/genid/N614ab909362046c5b8e74507ca783193> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> .
+<http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b1a6a05ec654563a3cd1d80c1e9a866> <http://schema.org/postalCode> "37950-2232" .
+<http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2efdab7f59a64453b29d546a85454ff1> <http://schema.org/url> <http://www.imls.gov/> .
+

@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> <http://schema.org/id> "106587" .
+<http://lodlaundromat.org/.well-known/genid/N9bd25e53a8114ae0a0cffbf0dd368542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5585efacf7f14cae9d964bad12b06d37> .
+<http://lodlaundromat.org/.well-known/genid/N5585efacf7f14cae9d964bad12b06d37> <http://schema.org/latitude> "40.97"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N663b22f9e101451b9e19d2c1fc554095> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/name> "Raccolta museale comunale Villamaina"@it .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/telephone> "+39 0825 442083" .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9bd25e53a8114ae0a0cffbf0dd368542> .
+<http://lodlaundromat.org/.well-known/genid/N663b22f9e101451b9e19d2c1fc554095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.97&mlon=15.088#map=15/40.97/15.088> .
+<http://lodlaundromat.org/.well-known/genid/N9bd25e53a8114ae0a0cffbf0dd368542> <http://schema.org/value> "185937"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9bd25e53a8114ae0a0cffbf0dd368542> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> .
+<http://lodlaundromat.org/.well-known/genid/N663b22f9e101451b9e19d2c1fc554095> <http://schema.org/contentUrl> <http://images.museums.io/7vNjiJ6L_yxzoGYqR1OdIDtkzhI=/1000x1000/museums/logos/000/185/937/original/20d410c6218d70a2e422d3482792c7159e81afce.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> <http://schema.org/streetAddress> "Via Roma, 77" .
+<http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> <http://schema.org/addressLocality> "Villamaina" .
+<http://lodlaundromat.org/.well-known/genid/N5585efacf7f14cae9d964bad12b06d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8aa1478ce8b74df69a5f50f40c3c40fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2c9a4afbd0fa4662a468c4e9eb623097> .
+<http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5585efacf7f14cae9d964bad12b06d37> <http://schema.org/longitude> "15.088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N14f4b347b82e465780626b4806e00125> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

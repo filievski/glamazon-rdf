@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/name> "Emmanuel College"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> <http://schema.org/id> "emmanuel-college" .
+<http://lodlaundromat.org/.well-known/genid/N7584867daffe4b5bae9fd14153cdfdf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7584867daffe4b5bae9fd14153cdfdf6> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/telephone> "(03) 5560 0888" .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/url> <http://www.emmanuel.vic.edu.au/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf872575d0d1424a85ac7634c8d780bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7584867daffe4b5bae9fd14153cdfdf6> <http://schema.org/value> "163862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N7584867daffe4b5bae9fd14153cdfdf6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfbb4d95625ea4dc3a4d412beb49520de> <http://schema.org/url> <http://victoriancollections.net.au/organisations/emmanuel-college> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndf872575d0d1424a85ac7634c8d780bb> .
+<http://lodlaundromat.org/.well-known/genid/Ndf872575d0d1424a85ac7634c8d780bb> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Ne55c05794d4a4ad8bffb3cf240ece65f> <http://schema.org/latitude> "-38.3603"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.3603&mlon=142.468#map=15/-38.3603/142.468> .
+<http://lodlaundromat.org/.well-known/genid/Ne55c05794d4a4ad8bffb3cf240ece65f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nae84dd81862c4ca69508690f8fd7080a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne55c05794d4a4ad8bffb3cf240ece65f> .
+<http://lodlaundromat.org/.well-known/genid/Ne55c05794d4a4ad8bffb3cf240ece65f> <http://schema.org/longitude> "142.468"^^<http://www.w3.org/2001/XMLSchema#double> .
+

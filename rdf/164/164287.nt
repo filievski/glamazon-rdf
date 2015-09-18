@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6dd26d26a95847e7baef6103c840e94f> .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0a0b3ff025f94547b30724dff402f0db> .
+<http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N014089ee314e4919a20dfed5b1480ed1> .
+<http://lodlaundromat.org/.well-known/genid/N6dd26d26a95847e7baef6103c840e94f> <http://schema.org/latitude> "-36.3765"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.3765&mlon=140.987#map=15/-36.3765/140.987> .
+<http://lodlaundromat.org/.well-known/genid/N014089ee314e4919a20dfed5b1480ed1> <http://schema.org/value> "164287"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6dd26d26a95847e7baef6103c840e94f> <http://schema.org/longitude> "140.987"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a0b3ff025f94547b30724dff402f0db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> <http://schema.org/url> <http://victoriancollections.net.au/organisations/serviceton-historic-railway-station> .
+<http://lodlaundromat.org/.well-known/genid/N0a0b3ff025f94547b30724dff402f0db> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> .
+<http://lodlaundromat.org/.well-known/genid/N31148999e81b4d219673b5bc4f28f43d> <http://schema.org/name> "Serviceton Historic Railway Station"@en .
+<http://lodlaundromat.org/.well-known/genid/N6dd26d26a95847e7baef6103c840e94f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> <http://schema.org/id> "serviceton-historic-railway-station" .
+<http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb744cdca7d1b4e87b8e85da2c61dfa74> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N014089ee314e4919a20dfed5b1480ed1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N014089ee314e4919a20dfed5b1480ed1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/url> <http://www.waxatxchautauqua.org/> .
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://schema.org/addressLocality> "WAXAHACHIE" .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/name> "CHAUTAUQUA PRESERVATION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc59df504ca304856a66a9506fbaefc54> .
+<http://lodlaundromat.org/.well-known/genid/Nc59df504ca304856a66a9506fbaefc54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc59df504ca304856a66a9506fbaefc54> <http://schema.org/value> "159673"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> .
+<http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nc59df504ca304856a66a9506fbaefc54> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb4ddacd9f9a24db4a1d128cab19695eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://schema.org/postalCode> "75168-0126" .
+<http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4ddacd9f9a24db4a1d128cab19695eb> .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> .
+<http://lodlaundromat.org/.well-known/genid/Nb4ddacd9f9a24db4a1d128cab19695eb> <http://schema.org/longitude> "-96.8461"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb4ddacd9f9a24db4a1d128cab19695eb> <http://schema.org/latitude> "32.3877"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N58a7ba3869ef4051944702a06c9fec55> <http://schema.org/streetAddress> "PO BOX 126" .
+<http://lodlaundromat.org/.well-known/genid/N9fa07b23b9f74b4fa3d6c10210585bfc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.3877&mlon=-96.8461#map=15/32.3877/-96.8461> .
+<http://lodlaundromat.org/.well-known/genid/N18327057d046455db5bd7e2ab669a153> <http://schema.org/id> "8404801773" .
+

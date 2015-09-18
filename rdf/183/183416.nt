@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N59f0cbba02be4dcfaf8dad6d79147393> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N59f0cbba02be4dcfaf8dad6d79147393> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://schema.org/addressLocality> "Oberreute" .
+<http://lodlaundromat.org/.well-known/genid/Nc530dc88dae6424aa8055774cf5b7d22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N31c5acf40e8a4e9fba0e543b3f3a5b8c> <http://schema.org/value> "183416"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N31c5acf40e8a4e9fba0e543b3f3a5b8c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc530dc88dae6424aa8055774cf5b7d22> <http://schema.org/latitude> "47.5626"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc530dc88dae6424aa8055774cf5b7d22> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/url> <http://www.oberreute.de/> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/telephone> "08387/2253" .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N59f0cbba02be4dcfaf8dad6d79147393> .
+<http://lodlaundromat.org/.well-known/genid/N31c5acf40e8a4e9fba0e543b3f3a5b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/name> "Heimatstube Oberreute \u2013 Das Museum im Rathaus"@en .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N31c5acf40e8a4e9fba0e543b3f3a5b8c> .
+<http://lodlaundromat.org/.well-known/genid/N59f0cbba02be4dcfaf8dad6d79147393> <http://schema.org/url> <http://www.museums.io/en/museums/183416> .
+<http://lodlaundromat.org/.well-known/genid/Nc530dc88dae6424aa8055774cf5b7d22> <http://schema.org/longitude> "9.94281"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://schema.org/streetAddress> "Hauptstra\u00DFe 33" .
+<http://lodlaundromat.org/.well-known/genid/N59f0cbba02be4dcfaf8dad6d79147393> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N04e0397fd90a455fbeaa9f5dfef1a299> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5626&mlon=9.94281#map=15/47.5626/9.94281> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Nd6c1fe1f701a4b84abfc6f892410a8e6> <http://schema.org/postalCode> "88179" .
+

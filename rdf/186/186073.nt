@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N35c2a36343c440cb9220bf277624122c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5604c705da614d98bed8e38e55bd5b82> <http://schema.org/value> "186073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35c2a36343c440cb9220bf277624122c> <http://schema.org/latitude> "40.2482"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5604c705da614d98bed8e38e55bd5b82> .
+<http://lodlaundromat.org/.well-known/genid/N5604c705da614d98bed8e38e55bd5b82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> <http://schema.org/addressLocality> "Moio della Civitella" .
+<http://lodlaundromat.org/.well-known/genid/N5604c705da614d98bed8e38e55bd5b82> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N35c2a36343c440cb9220bf277624122c> .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/telephone> "+39 097466788" .
+<http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2482&mlon=15.2695#map=15/40.2482/15.2695> .
+<http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N35c2a36343c440cb9220bf277624122c> <http://schema.org/longitude> "15.2695"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> <http://schema.org/id> "101901" .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb9d973711c834b929d9b45f312da8119> .
+<http://lodlaundromat.org/.well-known/genid/N9493dd527df645e2a3276349d13bd763> <http://schema.org/name> "Museo della civilt\u00E0 contadina di Moio della Civitella"@it .
+<http://lodlaundromat.org/.well-known/genid/N706434968e254c6ea392e471d1ad92a3> <http://schema.org/streetAddress> "Via Municipio (Via Enzo D'Oris), 39" .
+

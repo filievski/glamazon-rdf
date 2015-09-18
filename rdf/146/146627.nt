@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2a10e5bf523c4ea9aa85d5611b06c4b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd8074d6e3a994a6aa05277e9bc152e6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd8074d6e3a994a6aa05277e9bc152e6a> .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> <http://schema.org/id> "8403000270" .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://schema.org/postalCode> "59601-4909" .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2a10e5bf523c4ea9aa85d5611b06c4b9> .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> .
+<http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> .
+<http://lodlaundromat.org/.well-known/genid/N456945f9739e43b49bd47c78bafaab77> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2a10e5bf523c4ea9aa85d5611b06c4b9> <http://schema.org/value> "146627"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://schema.org/streetAddress> "2401 COLONIAL DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N2a10e5bf523c4ea9aa85d5611b06c4b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.5898&mlon=-111.998#map=15/46.5898/-111.998> .
+<http://lodlaundromat.org/.well-known/genid/Nd8074d6e3a994a6aa05277e9bc152e6a> <http://schema.org/latitude> "46.5898"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd8074d6e3a994a6aa05277e9bc152e6a> <http://schema.org/longitude> "-111.998"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1e5905378a294182a5f9af271f182f13> <http://schema.org/name> "BROADWATER CUPOLA PARK CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N766f94c709a144b0863d667992c9939d> <http://schema.org/addressLocality> "HELENA" .
+

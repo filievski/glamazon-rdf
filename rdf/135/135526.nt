@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N47a7c2201fa34556a9941672e76acc70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> <http://schema.org/id> "8401201081" .
+<http://lodlaundromat.org/.well-known/genid/N4f83e2533a9345b0836aae4b7d39ac67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.7154&mlon=-80.0534#map=15/26.7154/-80.0534> .
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://schema.org/addressLocality> "WEST PALM BEACH" .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/name> "HISTORICAL SOCIETY OF PALM BEACH COUNTY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N47a7c2201fa34556a9941672e76acc70> <http://schema.org/value> "135526"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> .
+<http://lodlaundromat.org/.well-known/genid/N47a7c2201fa34556a9941672e76acc70> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f83e2533a9345b0836aae4b7d39ac67> <http://schema.org/longitude> "-80.0534"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47a7c2201fa34556a9941672e76acc70> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f83e2533a9345b0836aae4b7d39ac67> .
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://schema.org/postalCode> "33401-4605" .
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8db53590722c49818d4c4b80482fb39c> <http://schema.org/telephone> "+1 (561) 832-4164" .
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6adfae93fc39447ca5d80d0bb4852d2f> <http://schema.org/streetAddress> "300 N DIXIE HWY 4TH FL N" .
+<http://lodlaundromat.org/.well-known/genid/N5f9a6577020840909b5e2447ad0df1fa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4f83e2533a9345b0836aae4b7d39ac67> <http://schema.org/latitude> "26.7154"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N05dfcbb10dfc4b66bffb5e3c9126ee4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N05dfcbb10dfc4b66bffb5e3c9126ee4b> .
+<http://lodlaundromat.org/.well-known/genid/N55dd09061b2f44b69b13f42b4f3b9e30> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://schema.org/addressLocality> "EVANSTON" .
+<http://lodlaundromat.org/.well-known/genid/N05dfcbb10dfc4b66bffb5e3c9126ee4b> <http://schema.org/latitude> "42.0496"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> .
+<http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0496&mlon=-87.6786#map=15/42.0496/-87.6786> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/telephone> "+1 (847) 491-3741" .
+<http://lodlaundromat.org/.well-known/genid/N55dd09061b2f44b69b13f42b4f3b9e30> <http://schema.org/value> "137410"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/name> "NORTHWESTERN UNIVERSITY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://schema.org/streetAddress> "633 CLARK STREETCROWN C" .
+<http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N55dd09061b2f44b69b13f42b4f3b9e30> .
+<http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N55dd09061b2f44b69b13f42b4f3b9e30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N05dfcbb10dfc4b66bffb5e3c9126ee4b> <http://schema.org/longitude> "-87.6786"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26c36ab65e17414890ab48bd5d110f7a> <http://schema.org/url> <http://www.northwestern.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N2dd4b6704e1b49d28dc5fcdc0b793ab1> <http://schema.org/id> "8401700555" .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Na69c91eb8eb941d4833773f264535176> <http://schema.org/postalCode> "60208-0001" .
+

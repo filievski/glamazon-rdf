@@ -3,19 +3,34 @@ from rdflib import Graph
 import rdflib
 import os, json
 
-def parse_ntriples(name):
+def parse_ntriples(name, f):
 
 
     subpath=name[0:3] + "/" 
     newpath="rdf/" + subpath + name.split(".")[0] + ".nt"
-    q="https://raw.githubusercontent.com/barnaclebarnes/glamazon/master/organisations/" + subfolder + name
+    q="https://raw.githubusercontent.com/barnaclebarnes/glamazon/master/organisations/" + subpath + name
     url = "http://rdf-translator.appspot.com/convert/json-ld/nt/" + q
     try:
-        raw_result = urllib2.urlopen(url).read()
+    	raw_result = urllib2.urlopen(url).read()
     except:
-        print "Request error"
-        w_err.write(name + "\n")
-        return
+        print "Request error. Trying to query with the full json"
+
+	content=""
+	for line in f:
+            content+=line
+
+    #content="@prefix : <http://example.org/#> . :a :b :c ."
+
+    	try:
+    	    to_check = json.loads(content)
+	    q={'content': content}
+    	    url = "http://rdf-translator.appspot.com/convert/json-ld/nt/content?" + urllib.urlencode(q)
+            raw_result = urllib2.urlopen(url).read()
+    	#result=json.loads(raw_result)
+    	except:
+            print "Request error both ways"
+            w_err.write(name + "\n")
+            return
 
     g = Graph()
     g.parse(data=raw_result, format="nt")
@@ -34,16 +49,23 @@ def parse_ntriples(name):
 
         g2.add((t0, t[1], t2))
 
-    g2.serialize(destination=newpath, format='ntriples'))
+    g2.serialize(destination=newpath, format='nt')
 
 
 path="/scratch/fii800/glamazon/"
 
-w_err=open("log_errors.txt", "w")
+w_err=open("new_errors.txt", "w")
+r_err=open("log_errors.txt", "r")
 
 if __name__=="__main__":
-    
-    for subdir, dirs, files in os.walk(path):
-        for file in files:
-            if file.endswith(".json"):
-                parse_ntriples(file)
+ 
+    for file in r_err:
+	file=file.strip()
+	if file!="":
+	    f=open("/scratch/fii800/glamazon/organisations/" + file[0:3] + "/" + file, "r")
+	    parse_ntriples(file, f)
+#    for subdir, dirs, files in os.walk(path):
+#        for file in files:
+#            if file.endswith(".json"):
+#                f=open(os.path.join(subdir, file))
+#		parse_ntriples(file, f)

@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0045&mlon=12.0452#map=15/45.0045/12.0452> .
+<http://lodlaundromat.org/.well-known/genid/Nd04db2b755cc4de3b130f33db5956bba> <http://schema.org/latitude> "45.0045"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e50742c2a5a4d0a84a1c8fbad8fcfde> <http://schema.org/contentUrl> <http://images.museums.io/Eht8qE0M_si4kQJR9lMqsiN_fhc=/1000x1000/museums/logos/000/189/458/original/5cfc24f5f54b82ca38f87c24a266b3bfdf8231d.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nd04db2b755cc4de3b130f33db5956bba> <http://schema.org/longitude> "12.0452"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N847f6f03d54348deb225512727362ff7> <http://schema.org/value> "189458"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> <http://schema.org/streetAddress> "Via Capitello, 11" .
+<http://lodlaundromat.org/.well-known/genid/Nd04db2b755cc4de3b130f33db5956bba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N847f6f03d54348deb225512727362ff7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/telephone> "+39 042521530" .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd04db2b755cc4de3b130f33db5956bba> .
+<http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> .
+<http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> <http://schema.org/id> "100950" .
+<http://lodlaundromat.org/.well-known/genid/N847f6f03d54348deb225512727362ff7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N2e50742c2a5a4d0a84a1c8fbad8fcfde> .
+<http://lodlaundromat.org/.well-known/genid/N2e50742c2a5a4d0a84a1c8fbad8fcfde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N847f6f03d54348deb225512727362ff7> .
+<http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1ad97f759bfc491bbc67c624c0abe292> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N519fc9a3284d43b2889cb4fa8375233d> <http://schema.org/name> "Septem Maria Museum"@it .
+<http://lodlaundromat.org/.well-known/genid/N1034bba422a14b8498420f7f3277a5bc> <http://schema.org/addressLocality> "Adria" .
+

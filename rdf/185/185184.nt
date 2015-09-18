@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nf78f88661c2f44b6b8896988b40faccb> <http://schema.org/longitude> "25.706"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf78f88661c2f44b6b8896988b40faccb> <http://schema.org/latitude> "25.706"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd875fcfb440457983a33c1850b3b580> .
+<http://lodlaundromat.org/.well-known/genid/N02b5e8e32a90446daee2e5deb5bd5495> <http://schema.org/value> "185184"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf78f88661c2f44b6b8896988b40faccb> .
+<http://lodlaundromat.org/.well-known/genid/Ndede9286bcf644968e87a9aa192113b6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndede9286bcf644968e87a9aa192113b6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndede9286bcf644968e87a9aa192113b6> <http://schema.org/url> <http://www.museums.io/en/museums/185184> .
+<http://lodlaundromat.org/.well-known/genid/Ncd875fcfb440457983a33c1850b3b580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndede9286bcf644968e87a9aa192113b6> .
+<http://lodlaundromat.org/.well-known/genid/N02b5e8e32a90446daee2e5deb5bd5495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/name> "Aviation Museum of Central Finland"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02b5e8e32a90446daee2e5deb5bd5495> .
+<http://lodlaundromat.org/.well-known/genid/Ndede9286bcf644968e87a9aa192113b6> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N02b5e8e32a90446daee2e5deb5bd5495> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf78f88661c2f44b6b8896988b40faccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf9023e65ed52441ab14bd4b289464f54> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.706&mlon=25.706#map=15/25.706/25.706> .
+<http://lodlaundromat.org/.well-known/genid/Ncd875fcfb440457983a33c1850b3b580> <http://schema.org/addressCountry> "Finland" .
+

@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9d3a270eb6104a319aaabb2e94ee3a9e> <http://schema.org/latitude> "22.9013"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fbd5b754fd0441cabeeda0229903ace> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf6bc0d4e1cff4593864bf1e1f205ad7b> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N9fbd5b754fd0441cabeeda0229903ace> <http://schema.org/url> <http://www.museums.io/en/museums/185127> .
+<http://lodlaundromat.org/.well-known/genid/Nf6bc0d4e1cff4593864bf1e1f205ad7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=22.9013&mlon=22.9013#map=15/22.9013/22.9013> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9fbd5b754fd0441cabeeda0229903ace> .
+<http://lodlaundromat.org/.well-known/genid/N9fbd5b754fd0441cabeeda0229903ace> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9fbd5b754fd0441cabeeda0229903ace> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N9d3a270eb6104a319aaabb2e94ee3a9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfa13242efa7541b4be9b40aebab58b47> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/name> "Marttila Church Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfa13242efa7541b4be9b40aebab58b47> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9d3a270eb6104a319aaabb2e94ee3a9e> .
+<http://lodlaundromat.org/.well-known/genid/Nfa13242efa7541b4be9b40aebab58b47> <http://schema.org/value> "185127"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/url> <http://www.marttila.fi/Default.aspx?id=323056> .
+<http://lodlaundromat.org/.well-known/genid/N9d3a270eb6104a319aaabb2e94ee3a9e> <http://schema.org/longitude> "22.9013"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd1b55bbc04944c1e8d454553d8b30ae9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf6bc0d4e1cff4593864bf1e1f205ad7b> .
+<http://lodlaundromat.org/.well-known/genid/Nfa13242efa7541b4be9b40aebab58b47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

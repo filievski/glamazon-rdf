@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://schema.org/streetAddress> "PO BOX 385" .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> .
+<http://lodlaundromat.org/.well-known/genid/N1b6e753b6f5249ddaaec5b0ad3e52d0d> <http://schema.org/latitude> "47.7308"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b6e753b6f5249ddaaec5b0ad3e52d0d> <http://schema.org/longitude> "-121.96"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a51d434fea40be9cf3777907065727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://schema.org/postalCode> "98019-0385" .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/name> "DOUGHERTY FARMSTEAD"@en .
+<http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b6e753b6f5249ddaaec5b0ad3e52d0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a51d434fea40be9cf3777907065727> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> <http://schema.org/id> "8405300394" .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://schema.org/addressLocality> "DUVALL" .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1b6e753b6f5249ddaaec5b0ad3e52d0d> .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/telephone> "+1 (425) 788-1266" .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.7308&mlon=-121.96#map=15/47.7308/-121.96> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a51d434fea40be9cf3777907065727> <http://schema.org/value> "161945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N79b68bd078234c9caf94e7a26795457f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N26a428eb4ff5492e9551b1b632afeaf7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6a1525006ebe4f3bacbfc8cbce19518e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf2a51d434fea40be9cf3777907065727> .
+

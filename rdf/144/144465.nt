@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://schema.org/postalCode> "48334" .
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://schema.org/addressLocality> "FARMINGTON" .
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://schema.org/streetAddress> "32659 OLDE FRANKLIN DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/name> "FARMINGTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc0615789c4844ef18d72b39adf7a8134> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> <http://schema.org/id> "8402601002" .
+<http://lodlaundromat.org/.well-known/genid/N105100c42100479ebd9224f2e197793f> <http://schema.org/longitude> "-83.3341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc0615789c4844ef18d72b39adf7a8134> <http://schema.org/value> "144465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> .
+<http://lodlaundromat.org/.well-known/genid/N105100c42100479ebd9224f2e197793f> <http://schema.org/latitude> "42.5284"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd60b612c6ae45bdbcf64eacd1aec67e> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> .
+<http://lodlaundromat.org/.well-known/genid/N2e67b429095e4967b087b7954f27af2f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N105100c42100479ebd9224f2e197793f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5284&mlon=-83.3341#map=15/42.5284/-83.3341> .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N105100c42100479ebd9224f2e197793f> .
+<http://lodlaundromat.org/.well-known/genid/N2698c707cbe64394bb7a116d021c1015> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc0615789c4844ef18d72b39adf7a8134> .
+<http://lodlaundromat.org/.well-known/genid/Nc0615789c4844ef18d72b39adf7a8134> <http://schema.org/name> "id" .
+

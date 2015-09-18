@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N21df9430b6544974a7e7aa981104421d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N21df9430b6544974a7e7aa981104421d> <http://schema.org/value> "182756"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N40567e667ae84db0af6200e7df015bd6> .
+<http://lodlaundromat.org/.well-known/genid/N40567e667ae84db0af6200e7df015bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/url> <http://www.bayerischer-wald.de/kultur/museen/naturmuseen/schloss-wolfstein.html> .
+<http://lodlaundromat.org/.well-known/genid/N40567e667ae84db0af6200e7df015bd6> <http://schema.org/latitude> "48.8128"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc1ab1fd23c74d78996c5c8f43fa5d0e> .
+<http://lodlaundromat.org/.well-known/genid/Nbc1ab1fd23c74d78996c5c8f43fa5d0e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/telephone> "08551/57109" .
+<http://lodlaundromat.org/.well-known/genid/N21df9430b6544974a7e7aa981104421d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/name> "Schloss Wolfstein"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://schema.org/addressLocality> "Freyung" .
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N21df9430b6544974a7e7aa981104421d> .
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://schema.org/streetAddress> "Wolfkerstra\u00DFe 3" .
+<http://lodlaundromat.org/.well-known/genid/Nbc1ab1fd23c74d78996c5c8f43fa5d0e> <http://schema.org/url> <http://www.museums.io/en/museums/182756> .
+<http://lodlaundromat.org/.well-known/genid/Nbc1ab1fd23c74d78996c5c8f43fa5d0e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbc1ab1fd23c74d78996c5c8f43fa5d0e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Na92eaef2f2a54746bd9a97f7d9cec40e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.8128&mlon=13.5428#map=15/48.8128/13.5428> .
+<http://lodlaundromat.org/.well-known/genid/N4f24c21e3cde4e33bfd74104c9424988> <http://schema.org/postalCode> "94078" .
+<http://lodlaundromat.org/.well-known/genid/N40567e667ae84db0af6200e7df015bd6> <http://schema.org/longitude> "13.5428"^^<http://www.w3.org/2001/XMLSchema#double> .
+

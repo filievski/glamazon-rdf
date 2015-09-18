@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7195&mlon=-74.0506#map=15/40.7195/-74.0506> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09591fcd3e1c4472a0e95305991d79fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N09591fcd3e1c4472a0e95305991d79fa> .
+<http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8503360157fa48258c94da9399f9fd0d> <http://schema.org/value> "147997"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://schema.org/streetAddress> "350 MONTGOMERY STREET 3RD FLR" .
+<http://lodlaundromat.org/.well-known/genid/N09591fcd3e1c4472a0e95305991d79fa> <http://schema.org/longitude> "-74.0506"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/url> <http://www.jerseycitymuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/name> "JERSEY CITY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8503360157fa48258c94da9399f9fd0d> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://schema.org/addressLocality> "JERSEY CITY" .
+<http://lodlaundromat.org/.well-known/genid/N8503360157fa48258c94da9399f9fd0d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8503360157fa48258c94da9399f9fd0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> <http://schema.org/postalCode> "07302-4041" .
+<http://lodlaundromat.org/.well-known/genid/N09591fcd3e1c4472a0e95305991d79fa> <http://schema.org/latitude> "40.7195"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d3d7ffe9c324915a4a1b806e14dc318> <http://schema.org/id> "8403400365" .
+<http://lodlaundromat.org/.well-known/genid/N99c412b572c24accaf7b4513348e1094> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8ac3eae13d4f4eaf88ab09c0f1f1c72c> .
+

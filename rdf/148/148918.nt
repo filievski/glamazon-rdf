@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9b27e50b3b8f4c3092ae4f640e187c4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> <http://schema.org/id> "8403600212" .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N42e556bca3d0448ca55b6d944a42b367> .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> .
+<http://lodlaundromat.org/.well-known/genid/N727e8ea2eb2a462b92713031a4941045> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://schema.org/postalCode> "10035" .
+<http://lodlaundromat.org/.well-known/genid/N727e8ea2eb2a462b92713031a4941045> <http://schema.org/value> "148918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N727e8ea2eb2a462b92713031a4941045> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/telephone> "+1 (212) 348-8300" .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/name> "JAZZ MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/url> <http://www.jazzmuseuminharlem.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://schema.org/streetAddress> "104 E 126TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N727e8ea2eb2a462b92713031a4941045> .
+<http://lodlaundromat.org/.well-known/genid/N9b27e50b3b8f4c3092ae4f640e187c4e> <http://schema.org/latitude> "40.8055"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8055&mlon=-73.9379#map=15/40.8055/-73.9379> .
+<http://lodlaundromat.org/.well-known/genid/Ncb5e37e9faa54e9f9deb488e9c73bbfd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9b27e50b3b8f4c3092ae4f640e187c4e> .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/N9b27e50b3b8f4c3092ae4f640e187c4e> <http://schema.org/longitude> "-73.9379"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3c9f2bdf445a48d989e43d6441f4dfbf> <http://schema.org/addressRegion> "NY" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na08fe7f4574f4bdab3c61cc427c98301> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4b256a587f854ff6893007499017f550> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://schema.org/streetAddress> "PO BOX 2081" .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://schema.org/addressLocality> "LONGMONT" .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/name> "BOULDER COUNTY BUSINESS HALL OF FAME INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/url> <http://halloffamebiz.com/> .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.1619&mlon=-105.104#map=15/40.1619/-105.104> .
+<http://lodlaundromat.org/.well-known/genid/N4b256a587f854ff6893007499017f550> <http://schema.org/longitude> "-105.104"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4b256a587f854ff6893007499017f550> .
+<http://lodlaundromat.org/.well-known/genid/N4b256a587f854ff6893007499017f550> <http://schema.org/latitude> "40.1619"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na08fe7f4574f4bdab3c61cc427c98301> <http://schema.org/value> "133366"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na08fe7f4574f4bdab3c61cc427c98301> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://schema.org/postalCode> "80502-2081" .
+<http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na08fe7f4574f4bdab3c61cc427c98301> .
+<http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2fa24c07453149e28a1fd397ed50dd5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> .
+<http://lodlaundromat.org/.well-known/genid/N71538a7012d443239973e63563244060> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N1e50c329123c4c8896476d025f24b808> <http://schema.org/id> "8400800542" .
+

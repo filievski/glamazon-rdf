@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/Ndc54432b213b43c89dc3ac30bbd62a57> <http://schema.org/url> <http://www.museums.io/en/museums/185022> .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://schema.org/name> "Vryheid Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://schema.org/telephone> "034 982 2133" .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndc54432b213b43c89dc3ac30bbd62a57> .
+<http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> <http://schema.org/addressRegion> "KwaZulu Natal" .
+<http://lodlaundromat.org/.well-known/genid/N3f9eaa4623e0478db80ba27ad8f48256> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nea23b93640d1493a9ed663b5d3994580> .
+<http://lodlaundromat.org/.well-known/genid/Ndc54432b213b43c89dc3ac30bbd62a57> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> <http://schema.org/addressLocality> "Vryheid" .
+<http://lodlaundromat.org/.well-known/genid/Ndc54432b213b43c89dc3ac30bbd62a57> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nea23b93640d1493a9ed663b5d3994580> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndc54432b213b43c89dc3ac30bbd62a57> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Nab7af4bc766e49c48acc3dc989fca1c3> <http://schema.org/streetAddress> "Landdrost Street, Vryheid" .
+<http://lodlaundromat.org/.well-known/genid/Nea23b93640d1493a9ed663b5d3994580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nea23b93640d1493a9ed663b5d3994580> <http://schema.org/value> "185022"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

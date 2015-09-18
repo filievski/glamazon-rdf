@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N88e62ed7b7c340efb7ec0248e35826b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/telephone> "+39 034543495 - 034543926" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N713e6a5f760c4377868ab0cbf98cfc13> .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> .
+<http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> <http://schema.org/addressLocality> "San Giovanni Bianco" .
+<http://lodlaundromat.org/.well-known/genid/N713e6a5f760c4377868ab0cbf98cfc13> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N6fdb68aedae44e8ba28c6437bdf44026> .
+<http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N6fdb68aedae44e8ba28c6437bdf44026> <http://schema.org/contentUrl> <http://images.museums.io/Xc7ZauSFf4NSLwZSn6PBqazpFGg=/1000x1000/museums/logos/000/186/841/original/d58cccf3cc3991887b2c81c379d37f84c5196482.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/url> <http://news.valbrembanaweb.com/index.php/museo-ceresa-san-giovanni-bianco/> .
+<http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> <http://schema.org/id> "104924" .
+<http://lodlaundromat.org/.well-known/genid/N96610af7f1d441d2a9df645dbfa43935> <http://schema.org/streetAddress> "Via Giuseppe Milesi, 1" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/name> "Museo Casa Ceresa"@it .
+<http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N713e6a5f760c4377868ab0cbf98cfc13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N713e6a5f760c4377868ab0cbf98cfc13> <http://schema.org/value> "186841"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N88e62ed7b7c340efb7ec0248e35826b3> .
+<http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2bffceb785fa4747895c7a18bd801467> .
+<http://lodlaundromat.org/.well-known/genid/N88e62ed7b7c340efb7ec0248e35826b3> <http://schema.org/latitude> "45.876"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N017dad2d589d4131ba131dd24e4dd595> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.876&mlon=9.65224#map=15/45.876/9.65224> .
+<http://lodlaundromat.org/.well-known/genid/N6fdb68aedae44e8ba28c6437bdf44026> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N88e62ed7b7c340efb7ec0248e35826b3> <http://schema.org/longitude> "9.65224"^^<http://www.w3.org/2001/XMLSchema#double> .
+

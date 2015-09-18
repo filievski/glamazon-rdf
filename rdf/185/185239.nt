@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na9e47d18272149eea4ecf1d7c9264836> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://schema.org/name> "Nagu Local History Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na9e47d18272149eea4ecf1d7c9264836> .
+<http://lodlaundromat.org/.well-known/genid/Nda63ee975d4b40bc8f14e333daa623ab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nda63ee975d4b40bc8f14e333daa623ab> .
+<http://lodlaundromat.org/.well-known/genid/Nc4cccac1e20d468c92c52769cf39baa6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://schema.org/url> <http://www.nauvo.net/museumsfin.htm> .
+<http://lodlaundromat.org/.well-known/genid/Nda63ee975d4b40bc8f14e333daa623ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda63ee975d4b40bc8f14e333daa623ab> <http://schema.org/value> "185239"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc4cccac1e20d468c92c52769cf39baa6> <http://schema.org/url> <http://www.museums.io/en/museums/185239> .
+<http://lodlaundromat.org/.well-known/genid/Nc4cccac1e20d468c92c52769cf39baa6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc4cccac1e20d468c92c52769cf39baa6> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N7b5e4ac42df944868caf3a9f8b17af5d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc4cccac1e20d468c92c52769cf39baa6> .
+<http://lodlaundromat.org/.well-known/genid/Na9e47d18272149eea4ecf1d7c9264836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

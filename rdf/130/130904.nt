@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N56f8094ece454e5aa14b46d460d2678b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68054c1ed5404088a717cf0942af0f8d> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N56f8094ece454e5aa14b46d460d2678b> .
+<http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> <http://schema.org/id> "8400601030" .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://schema.org/streetAddress> "3145 GEARY BLVD STE 425" .
+<http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N68054c1ed5404088a717cf0942af0f8d> <http://schema.org/longitude> "-122.453"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N56f8094ece454e5aa14b46d460d2678b> <http://schema.org/value> "130904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N68054c1ed5404088a717cf0942af0f8d> <http://schema.org/latitude> "37.7817"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/name> "POP ART MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N56f8094ece454e5aa14b46d460d2678b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N68054c1ed5404088a717cf0942af0f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N73a3d17a9c194d6997b53bcab7f43e7c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d174483af5440f86c2fb6ed17bd9e2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7817&mlon=-122.453#map=15/37.7817/-122.453> .
+<http://lodlaundromat.org/.well-known/genid/N17ad1a85bd4c43a3a4c79cefb2e21978> <http://schema.org/postalCode> "94118-3316" .
+

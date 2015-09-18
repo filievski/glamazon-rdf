@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N51a19d1cdd8444efb817974a0e147e24> <http://schema.org/latitude> "44.9883"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51a19d1cdd8444efb817974a0e147e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N51a19d1cdd8444efb817974a0e147e24> <http://schema.org/longitude> "-93.1404"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/name> "FITZGERALD IN SAINT PAUL"@en .
+<http://lodlaundromat.org/.well-known/genid/N053372763fa1440f9f2f0ee6302e594c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://schema.org/postalCode> "55117-3303" .
+<http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> <http://schema.org/id> "8402700677" .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://schema.org/streetAddress> "950 HOYT AVENUE WEST" .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9883&mlon=-93.1404#map=15/44.9883/-93.1404> .
+<http://lodlaundromat.org/.well-known/genid/N8c6f7a0133c248fb94418f3ba933c551> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N053372763fa1440f9f2f0ee6302e594c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N053372763fa1440f9f2f0ee6302e594c> .
+<http://lodlaundromat.org/.well-known/genid/N05020414b1c94004ac6f06e84bb89924> <http://schema.org/addressLocality> "SAINT PAUL" .
+<http://lodlaundromat.org/.well-known/genid/N053372763fa1440f9f2f0ee6302e594c> <http://schema.org/value> "145237"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N98b891432bc44cb29ae2faea06b3ddc2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N51a19d1cdd8444efb817974a0e147e24> .
+

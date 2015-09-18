@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/name> "OASIS GALLERY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e8926fc53c94481823942cf22b63e1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://schema.org/addressLocality> "MARQUETTE" .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> .
+<http://lodlaundromat.org/.well-known/genid/N3e8926fc53c94481823942cf22b63e1a> <http://schema.org/value> "144392"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://schema.org/postalCode> "49855" .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/url> <http://www.oasisgallery.com/> .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7f3f94f7addb4ea38f24de1a35dde0b9> .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/telephone> "+1 (906) 225-1377" .
+<http://lodlaundromat.org/.well-known/genid/N7f3f94f7addb4ea38f24de1a35dde0b9> <http://schema.org/latitude> "46.5433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://schema.org/streetAddress> "130 W WASHINGTON ROOM NO U-7" .
+<http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.5433&mlon=-87.3937#map=15/46.5433/-87.3937> .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> .
+<http://lodlaundromat.org/.well-known/genid/N1eedd1de2e9d471292b01e340948aecf> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N3e8926fc53c94481823942cf22b63e1a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3e8926fc53c94481823942cf22b63e1a> .
+<http://lodlaundromat.org/.well-known/genid/N7f3f94f7addb4ea38f24de1a35dde0b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7f3f94f7addb4ea38f24de1a35dde0b9> <http://schema.org/longitude> "-87.3937"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7e598d1c026b4781b8914029ed98e102> <http://schema.org/id> "8402600929" .
+<http://lodlaundromat.org/.well-known/genid/N7bf20df11280430b8f3c87472e3c493f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/telephone> "+1 (562) 777-3444" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Hathaway_Ranch_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N59694b2e76c94cafa1fcbd9e26f56aff> <http://schema.org/value> "130274"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N311c74bf5ab742fa8b514a9c3f066ca2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N311c74bf5ab742fa8b514a9c3f066ca2> <http://schema.org/latitude> "33.9353"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N311c74bf5ab742fa8b514a9c3f066ca2> <http://schema.org/longitude> "-118.08"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9353&mlon=-118.08#map=15/33.9353/-118.08> .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://schema.org/streetAddress> "11901 FLORENCE AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N311c74bf5ab742fa8b514a9c3f066ca2> .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://schema.org/postalCode> "90670" .
+<http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> <http://schema.org/id> "8400600400" .
+<http://lodlaundromat.org/.well-known/genid/N59694b2e76c94cafa1fcbd9e26f56aff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N59694b2e76c94cafa1fcbd9e26f56aff> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://schema.org/addressLocality> "SANTA FE SPRINGS" .
+<http://lodlaundromat.org/.well-known/genid/N59694b2e76c94cafa1fcbd9e26f56aff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7ce217fb5c41d58453c4dffd76a470> <http://schema.org/name> "HATHAWAY RANCH MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd0aa2cd678e745bca38e0d02f5210115> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N84031846013f497592b826052c90c7e7> <http://schema.org/name> "us" .
+

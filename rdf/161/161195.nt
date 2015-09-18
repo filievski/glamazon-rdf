@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://schema.org/streetAddress> "PO BOX 1366" .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> .
+<http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> <http://schema.org/id> "8405100701" .
+<http://lodlaundromat.org/.well-known/genid/N147dfbd9f1ca4356b1768fc604290c03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23dfc46e2e634a5e9a5ff3d21a3ab1f1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N147dfbd9f1ca4356b1768fc604290c03> <http://schema.org/longitude> "-79.9424"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N147dfbd9f1ca4356b1768fc604290c03> .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> .
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N147dfbd9f1ca4356b1768fc604290c03> <http://schema.org/latitude> "37.271"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.271&mlon=-79.9424#map=15/37.271/-79.9424> .
+<http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N23dfc46e2e634a5e9a5ff3d21a3ab1f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N52d9a564e4f949af9f6caad3786af10b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://schema.org/postalCode> "24007-1366" .
+<http://lodlaundromat.org/.well-known/genid/N864a2b3551e54f4ea85ee855400dc046> <http://schema.org/addressLocality> "ROANOKE" .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/name> "ROANOKE VALLEY PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N18b67c6e814d491382bf19c7ecd84ac6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N23dfc46e2e634a5e9a5ff3d21a3ab1f1> .
+<http://lodlaundromat.org/.well-known/genid/N23dfc46e2e634a5e9a5ff3d21a3ab1f1> <http://schema.org/value> "161195"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

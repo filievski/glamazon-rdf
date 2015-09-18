@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> .
+<http://lodlaundromat.org/.well-known/genid/N9cf60c27ffb24c3ba29cedcfbeace35d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://schema.org/postalCode> "54701-3601" .
+<http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://schema.org/streetAddress> "220 S BARSTOW ST" .
+<http://lodlaundromat.org/.well-known/genid/N9cf60c27ffb24c3ba29cedcfbeace35d> <http://schema.org/value> "163271"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na70d8032cd0c4d778f41553b89e2f260> .
+<http://lodlaundromat.org/.well-known/genid/N9cf60c27ffb24c3ba29cedcfbeace35d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/name> "CHILDRENS MUSEUM OF EAU CLAIRE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9cf60c27ffb24c3ba29cedcfbeace35d> .
+<http://lodlaundromat.org/.well-known/genid/N8346b04b6df14a26aec6d95679f0ba40> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.8115&mlon=-91.5#map=15/44.8115/-91.5> .
+<http://lodlaundromat.org/.well-known/genid/Na70d8032cd0c4d778f41553b89e2f260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na70d8032cd0c4d778f41553b89e2f260> <http://schema.org/longitude> "-91.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c0a61158f6740aeb1052bab85cb151c> <http://schema.org/id> "8405500720" .
+<http://lodlaundromat.org/.well-known/genid/N51be40589d104aff9d5ee4386ecc8eb9> <http://schema.org/addressLocality> "EAU CLAIRE" .
+<http://lodlaundromat.org/.well-known/genid/Na70d8032cd0c4d778f41553b89e2f260> <http://schema.org/latitude> "44.8115"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/name> "Hazelman Cottage"@en .
+<http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nca4f5ec5ced74c489c9041f9f442ea6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N273b8d4e27754faa89856e5811324521> .
+<http://lodlaundromat.org/.well-known/genid/N273b8d4e27754faa89856e5811324521> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nca4f5ec5ced74c489c9041f9f442ea6d> .
+<http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> <http://schema.org/url> <http://victoriancollections.net.au/organisations/hazelman-cottage> .
+<http://lodlaundromat.org/.well-known/genid/N7ab78e07ed1c46309ea1717f2bb6330e> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nca4f5ec5ced74c489c9041f9f442ea6d> <http://schema.org/value> "163938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.3218&mlon=145.048#map=15/-36.3218/145.048> .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7ab78e07ed1c46309ea1717f2bb6330e> .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> .
+<http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> <http://schema.org/id> "hazelman-cottage" .
+<http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N273b8d4e27754faa89856e5811324521> <http://schema.org/longitude> "145.048"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ab78e07ed1c46309ea1717f2bb6330e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N90f52281110745029fd306b1c2eff864> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5acf8307451d4ed0b4e6c4c8e81586da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nca4f5ec5ced74c489c9041f9f442ea6d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N273b8d4e27754faa89856e5811324521> <http://schema.org/latitude> "-36.3218"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/url> <http://www.museodellamarsica.beniculturali.it/> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> .
+<http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> <http://schema.org/streetAddress> "Largo Cavalieri di Vittorio Veneto" .
+<http://lodlaundromat.org/.well-known/genid/Nb52d5005d69540c88e61a09bb8cbb949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nb52d5005d69540c88e61a09bb8cbb949> .
+<http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N4a73b5b885224728bc639fd396181db5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N4a73b5b885224728bc639fd396181db5> <http://schema.org/latitude> "42.0845"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0845&mlon=13.5455#map=15/42.0845/13.5455> .
+<http://lodlaundromat.org/.well-known/genid/Nb52d5005d69540c88e61a09bb8cbb949> <http://schema.org/contentUrl> <http://images.museums.io/nq0-6yK2qqKOxNMwhM0ITFj7gu4=/1000x1000/museums/logos/000/185/586/original/927a96d4a2dfce85225f8ecf6477da57aa66497d.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N78ca306b43e1432181ad6bac3125fb3e> <http://schema.org/value> "185586"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> <http://schema.org/addressRegion> "Abruzzo" .
+<http://lodlaundromat.org/.well-known/genid/N78ca306b43e1432181ad6bac3125fb3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N78ca306b43e1432181ad6bac3125fb3e> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/telephone> "+39 0863792922 (uffici) - 0863793730 (portineria)" .
+<http://lodlaundromat.org/.well-known/genid/Nfc482400a3824dfc8a9947b69edb2d39> <http://schema.org/addressLocality> "Celano" .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/name> "Museo d'arte sacra della Marsica"@it .
+<http://lodlaundromat.org/.well-known/genid/N4a73b5b885224728bc639fd396181db5> <http://schema.org/longitude> "13.5455"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78ca306b43e1432181ad6bac3125fb3e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N70d70958ea174d6f947790901d084370> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4a73b5b885224728bc639fd396181db5> .
+<http://lodlaundromat.org/.well-known/genid/N948b2ecef7b241dcac1dac42188f3706> <http://schema.org/id> "20268" .
+

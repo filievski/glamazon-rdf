@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N4364666794c64abd831fc0efa168bad2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22472a167ccb407b95950e640f4e849b> <http://schema.org/longitude> "18.3815"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfe36a3c2b0a64befb2dbd7f4aeedce1c> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N8583b26dbb7b4e3984690538585546ac> <http://schema.org/value> "184648"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4364666794c64abd831fc0efa168bad2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/name> "Robben Island Museum/ World Heritage Site"@en .
+<http://lodlaundromat.org/.well-known/genid/N4364666794c64abd831fc0efa168bad2> <http://schema.org/url> <http://www.museums.io/en/museums/184648> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4364666794c64abd831fc0efa168bad2> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N22472a167ccb407b95950e640f4e849b> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfe36a3c2b0a64befb2dbd7f4aeedce1c> .
+<http://lodlaundromat.org/.well-known/genid/N22472a167ccb407b95950e640f4e849b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.8168&mlon=18.3815#map=15/-33.8168/18.3815> .
+<http://lodlaundromat.org/.well-known/genid/N8583b26dbb7b4e3984690538585546ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N22472a167ccb407b95950e640f4e849b> <http://schema.org/latitude> "-33.8168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4364666794c64abd831fc0efa168bad2> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nfe36a3c2b0a64befb2dbd7f4aeedce1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6f94c6f502e446e79f4c991fccc32f84> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8583b26dbb7b4e3984690538585546ac> .
+<http://lodlaundromat.org/.well-known/genid/N8583b26dbb7b4e3984690538585546ac> <http://schema.org/name> "id" .
+

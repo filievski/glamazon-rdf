@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N31b8dc90293a4633ad9997e44a8bbba0> <http://schema.org/latitude> "33.7331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7331&mlon=-118.29#map=15/33.7331/-118.29> .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://schema.org/postalCode> "90731" .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://schema.org/streetAddress> "NAGOYA WAY BERTH 77 PIER 18" .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/name> "SAN PEDRO ART ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N31b8dc90293a4633ad9997e44a8bbba0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N38a88d2aa054468f94b8109913741c38> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N38a88d2aa054468f94b8109913741c38> <http://schema.org/value> "132709"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N31b8dc90293a4633ad9997e44a8bbba0> .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://schema.org/addressLocality> "SAN PEDRO" .
+<http://lodlaundromat.org/.well-known/genid/N31b8dc90293a4633ad9997e44a8bbba0> <http://schema.org/longitude> "-118.29"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> <http://schema.org/id> "8400602835" .
+<http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd6f8f666a38044068b99720082a312fd> .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N38a88d2aa054468f94b8109913741c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N91eb52d0e5444395aa9acad8bd94e2f5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N38a88d2aa054468f94b8109913741c38> .
+<http://lodlaundromat.org/.well-known/genid/Nb3c64fa6df80472389685532f3b6b5df> <http://schema.org/addressRegion> "CA" .
+

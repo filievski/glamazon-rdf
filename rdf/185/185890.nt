@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nd2ddc06f7c7f4428a38a79f3d690ba22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nbe3abc9029764d489ad1233c5c4ee380> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N12e4c4497940421b80b9b1ff93233698> .
+<http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3abc9029764d489ad1233c5c4ee380> <http://schema.org/contentUrl> <http://images.museums.io/yJvPBHIClQ8ePo66mNeFINt5ohU=/1000x1000/museums/logos/000/185/890/original/713165284a58b92b74a6d8ce6d456121c22e41f.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> .
+<http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> <http://schema.org/id> "111066" .
+<http://lodlaundromat.org/.well-known/genid/Nbe3abc9029764d489ad1233c5c4ee380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> .
+<http://lodlaundromat.org/.well-known/genid/Nd2ddc06f7c7f4428a38a79f3d690ba22> <http://schema.org/longitude> "16.3324"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> <http://schema.org/addressLocality> "Serra San Bruno" .
+<http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/url> <http://www.comune.serrasanbruno.vv.it/> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5783&mlon=16.3324#map=15/38.5783/16.3324> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> <http://schema.org/streetAddress> "Via San Biagio" .
+<http://lodlaundromat.org/.well-known/genid/N12e4c4497940421b80b9b1ff93233698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/telephone> "+39 0963 71287" .
+<http://lodlaundromat.org/.well-known/genid/N12e4c4497940421b80b9b1ff93233698> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd2ddc06f7c7f4428a38a79f3d690ba22> .
+<http://lodlaundromat.org/.well-known/genid/Nd2ddc06f7c7f4428a38a79f3d690ba22> <http://schema.org/latitude> "38.5783"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6c5edb0d1846da9d81dd1171ea47ce> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N1474c00c6d8c4db0904a49dc7e2cdd03> <http://schema.org/name> "Museo parrocchiale San Biagio"@it .
+<http://lodlaundromat.org/.well-known/genid/N80c9f788b88348c48ccd14706a1ddac1> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N12e4c4497940421b80b9b1ff93233698> <http://schema.org/value> "185890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

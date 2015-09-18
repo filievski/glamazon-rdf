@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb442db2d1b2444029898991933c0c9af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb442db2d1b2444029898991933c0c9af> <http://schema.org/latitude> "38.2507"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49db25333b03473c96a295cb4b85af4c> <http://schema.org/value> "160656"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/url> <http://www.museumatcolonialbeach.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2507&mlon=-76.9625#map=15/38.2507/-76.9625> .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb442db2d1b2444029898991933c0c9af> .
+<http://lodlaundromat.org/.well-known/genid/N49db25333b03473c96a295cb4b85af4c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> .
+<http://lodlaundromat.org/.well-known/genid/Nb442db2d1b2444029898991933c0c9af> <http://schema.org/longitude> "-76.9625"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N49db25333b03473c96a295cb4b85af4c> .
+<http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> <http://schema.org/id> "8405100162" .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/name> "COLONIAL BEACH HISTORICAL SCTY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/telephone> "+1 (804) 224-3379" .
+<http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N811baebc1b774cd9ab181add980992df> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N49db25333b03473c96a295cb4b85af4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://schema.org/postalCode> "22443" .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://schema.org/addressLocality> "COLONIAL BEACH" .
+<http://lodlaundromat.org/.well-known/genid/Nc315f2a68e1d47cda8b08df948d1468c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> .
+<http://lodlaundromat.org/.well-known/genid/N72744eb487a9422b8f87d116dbfdfa23> <http://schema.org/streetAddress> "128 HAWTHORN ST" .
+

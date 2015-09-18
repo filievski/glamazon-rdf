@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> <http://schema.org/streetAddress> "San Polo, 2454" .
+<http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6f4d0e38374b40dca2953e451510b9ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/telephone> "+39 041 718234" .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6f4d0e38374b40dca2953e451510b9ec> .
+<http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N017bb0efdfa84d5386a92fb1ca2fba01> <http://schema.org/latitude> "45.4363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N017bb0efdfa84d5386a92fb1ca2fba01> <http://schema.org/longitude> "12.3288"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> <http://schema.org/id> "112101" .
+<http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> <http://schema.org/addressLocality> "Venezia" .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndc00e10584ee48a1aea8783b723879f4> .
+<http://lodlaundromat.org/.well-known/genid/N017bb0efdfa84d5386a92fb1ca2fba01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/name> "Museo della Scuola grande di San Giovanni Evangelista"@it .
+<http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N017bb0efdfa84d5386a92fb1ca2fba01> .
+<http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6f4d0e38374b40dca2953e451510b9ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4c16bcbe1fb04a1cb76d83bfd5f9d95a> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4363&mlon=12.3288#map=15/45.4363/12.3288> .
+<http://lodlaundromat.org/.well-known/genid/N6f4d0e38374b40dca2953e451510b9ec> <http://schema.org/value> "189505"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1af193c4bb6142aabd6fb4391704d2d0> <http://schema.org/url> <http://www.scuolasangiovanni.it/> .
+

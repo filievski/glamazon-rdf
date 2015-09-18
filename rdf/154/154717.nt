@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> <http://schema.org/id> "8404100510" .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9872dba021614523b66d1d757309ff9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://schema.org/streetAddress> "2933 NE 29TH AVE" .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9872dba021614523b66d1d757309ff9a> <http://schema.org/value> "154717"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://schema.org/addressLocality> "PORTLAND" .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://schema.org/postalCode> "97212" .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.5442&mlon=-122.636#map=15/45.5442/-122.636> .
+<http://lodlaundromat.org/.well-known/genid/N56e5b3f6eeb2494ab0b4c6796789c6a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N56e5b3f6eeb2494ab0b4c6796789c6a5> <http://schema.org/longitude> "-122.636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N56e5b3f6eeb2494ab0b4c6796789c6a5> <http://schema.org/latitude> "45.5442"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9872dba021614523b66d1d757309ff9a> .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> .
+<http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/name> "GARDEN PARTNERS"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a32d26a5ced4a75a17f4d1e45e3dcc7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N60f79be38e1c4615866e67ab2987efef> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N56e5b3f6eeb2494ab0b4c6796789c6a5> .
+<http://lodlaundromat.org/.well-known/genid/N7f4097aa6608414ba90bfecafe0a8d16> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N9872dba021614523b66d1d757309ff9a> <http://schema.org/name> "id" .
+

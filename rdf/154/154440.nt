@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N39672609f8aa43af9f5f8a1e4a99429d> <http://schema.org/value> "154440"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N39672609f8aa43af9f5f8a1e4a99429d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> <http://schema.org/id> "8404100233" .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N39672609f8aa43af9f5f8a1e4a99429d> .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7a78ed67a58b4690b7caf2c703f49b7e> .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/name> "MYRTLE CREEK PIONEER CEMETARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0151&mlon=-123.291#map=15/43.0151/-123.291> .
+<http://lodlaundromat.org/.well-known/genid/N7a78ed67a58b4690b7caf2c703f49b7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N7a78ed67a58b4690b7caf2c703f49b7e> <http://schema.org/latitude> "43.0151"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c1c0ef019754227b1dee201ad545b5e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9aa51864fc9d42898665912f4718043e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> .
+<http://lodlaundromat.org/.well-known/genid/N7a78ed67a58b4690b7caf2c703f49b7e> <http://schema.org/longitude> "-123.291"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://schema.org/streetAddress> "PO BOX 192" .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://schema.org/postalCode> "97457-0019" .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N39672609f8aa43af9f5f8a1e4a99429d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2b1088292a8942f0a0739df2456028da> <http://schema.org/addressLocality> "MYRTLE CREEK" .
+

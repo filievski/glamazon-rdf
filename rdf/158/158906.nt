@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0f7736282efe45ad837bb09b9c00d7f4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N349870d04bda47cfb74986b6b48a7b14> <http://schema.org/latitude> "30.5923"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N349870d04bda47cfb74986b6b48a7b14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N349870d04bda47cfb74986b6b48a7b14> <http://schema.org/longitude> "-103.894"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/telephone> "+1 (432) 426-3404" .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0f7736282efe45ad837bb09b9c00d7f4> .
+<http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.5923&mlon=-103.894#map=15/30.5923/-103.894> .
+<http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/url> <http://www.fortdavis.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> .
+<http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f7736282efe45ad837bb09b9c00d7f4> <http://schema.org/value> "158906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://schema.org/streetAddress> "PO BOX 233" .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0b20052eb7714eff85e6b59cb71909e1> <http://schema.org/id> "8404801006" .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://schema.org/postalCode> "79734" .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N349870d04bda47cfb74986b6b48a7b14> .
+<http://lodlaundromat.org/.well-known/genid/Nb9f7b7e8f6aa49858a690a6ca0d25f08> <http://schema.org/name> "FORT DAVIS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N18b7ab4a806149759a5a7971d8334379> <http://schema.org/addressLocality> "FORT DAVIS" .
+<http://lodlaundromat.org/.well-known/genid/N0f7736282efe45ad837bb09b9c00d7f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

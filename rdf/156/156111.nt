@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N45ff3cf41a344fd289c366e141495b1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N45ff3cf41a344fd289c366e141495b1b> .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://schema.org/postalCode> "15120-1035" .
+<http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4013&mlon=-79.9178#map=15/40.4013/-79.9178> .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/url> <http://bmnecc.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/telephone> "+1 (412) 461-6188" .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4626fbb928af40948b51e4e2579407e8> .
+<http://lodlaundromat.org/.well-known/genid/N4626fbb928af40948b51e4e2579407e8> <http://schema.org/value> "156111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4626fbb928af40948b51e4e2579407e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> <http://schema.org/id> "8404201305" .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/name> "BULGARIAN-MACEDONIAN NATIONAL EDUCATIONAL AND CULTURAL CENTR"@en .
+<http://lodlaundromat.org/.well-known/genid/N0386d075e702478f8a0c468a61f56c7f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> .
+<http://lodlaundromat.org/.well-known/genid/N45ff3cf41a344fd289c366e141495b1b> <http://schema.org/latitude> "40.4013"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N09fc831008de4a59a171d0d0061bf09a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4626fbb928af40948b51e4e2579407e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N45ff3cf41a344fd289c366e141495b1b> <http://schema.org/longitude> "-79.9178"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://schema.org/addressLocality> "WEST HOMESTEAD" .
+<http://lodlaundromat.org/.well-known/genid/Nc358b7d0c7464c08a410dd8a4df5e2e2> <http://schema.org/streetAddress> "449 W 8TH AVE 451" .
+

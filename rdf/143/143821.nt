@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N19e7f36ef62242afa9b7ba04b19a960f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nef8ace5ec137414fb86eea6c5adc196d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nef8ace5ec137414fb86eea6c5adc196d> .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://schema.org/streetAddress> "PO BOX 617" .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://schema.org/postalCode> "49720-0617" .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/name> "CHARLEVOIX CIRCLE OF ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> .
+<http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/url> <http://www.charlevoixcircle.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nef8ace5ec137414fb86eea6c5adc196d> <http://schema.org/value> "143821"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N19e7f36ef62242afa9b7ba04b19a960f> <http://schema.org/latitude> "45.3021"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://schema.org/addressLocality> "CHARLEVOIX" .
+<http://lodlaundromat.org/.well-known/genid/Nef8ace5ec137414fb86eea6c5adc196d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/telephone> "+1 (231) 547-3554" .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N19e7f36ef62242afa9b7ba04b19a960f> .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.3021&mlon=-85.2525#map=15/45.3021/-85.2525> .
+<http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3403ee424fea4bab8d9784a4894a15cf> <http://schema.org/id> "8402600358" .
+<http://lodlaundromat.org/.well-known/genid/N19e7f36ef62242afa9b7ba04b19a960f> <http://schema.org/longitude> "-85.2525"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N52b62aba9ad94723a2287a0b63fd4f15> .
+<http://lodlaundromat.org/.well-known/genid/N121fa0550bb7492a9361d9d58c88362b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

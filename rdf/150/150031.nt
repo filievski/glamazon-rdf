@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne514a150f2914a9a9acb6409c7b7d52c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> .
+<http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> <http://schema.org/id> "8403601325" .
+<http://lodlaundromat.org/.well-known/genid/Nc9e16bf73a6c4cdebd9b40340b95dbf6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc9e16bf73a6c4cdebd9b40340b95dbf6> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9814&mlon=-76.333#map=15/42.9814/-76.333> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/name> "CENTRAL NEW YORK CHAPTER NRHS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne514a150f2914a9a9acb6409c7b7d52c> .
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne514a150f2914a9a9acb6409c7b7d52c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> .
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://schema.org/postalCode> "13108-0229" .
+<http://lodlaundromat.org/.well-known/genid/Nc9e16bf73a6c4cdebd9b40340b95dbf6> <http://schema.org/latitude> "42.9814"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7cda1ad882c044deb44bbff2ba4ae1fc> <http://schema.org/url> <http://www.cnynrhs.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc9e16bf73a6c4cdebd9b40340b95dbf6> <http://schema.org/longitude> "-76.333"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne514a150f2914a9a9acb6409c7b7d52c> <http://schema.org/value> "150031"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncbd776819f0f4dbf9126c682bd747737> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://schema.org/streetAddress> "PO BOX 229" .
+<http://lodlaundromat.org/.well-known/genid/N3dd2fe0695cb47ba92fad0a359c4b01c> <http://schema.org/addressLocality> "MARCELLUS" .
+

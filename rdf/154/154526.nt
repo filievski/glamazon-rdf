@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9686&mlon=-117.128#map=15/42.9686/-117.128> .
+<http://lodlaundromat.org/.well-known/genid/N56ed4eab0b464be1a451ef94ee23da0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N56ed4eab0b464be1a451ef94ee23da0e> <http://schema.org/latitude> "42.9686"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N56ed4eab0b464be1a451ef94ee23da0e> .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> .
+<http://lodlaundromat.org/.well-known/genid/Ne5ee0745eca9480d93070a61495aa164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> <http://schema.org/id> "8404100319" .
+<http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/telephone> "+1 (541) 586-2100" .
+<http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/name> "JORDAN VALLEY-OWYHEE HERITAGE COUNCIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne5ee0745eca9480d93070a61495aa164> .
+<http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5634729edfa746b6b54946ca220b9388> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> .
+<http://lodlaundromat.org/.well-known/genid/N56ed4eab0b464be1a451ef94ee23da0e> <http://schema.org/longitude> "-117.128"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://schema.org/streetAddress> "PO BOX 361" .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://schema.org/postalCode> "97910-0361" .
+<http://lodlaundromat.org/.well-known/genid/Nb6dc9336852c48899089adb7eeeb23bf> <http://schema.org/addressLocality> "JORDAN VALLEY" .
+<http://lodlaundromat.org/.well-known/genid/Ne5ee0745eca9480d93070a61495aa164> <http://schema.org/value> "154526"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5899828b8f6242e39b581837e09f1b1e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne5ee0745eca9480d93070a61495aa164> <http://schema.org/name> "id" .
+

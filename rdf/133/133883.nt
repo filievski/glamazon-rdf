@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N234ed8fba1d8419f95ee0d955e914ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa730e2e7b07409da93140827cfe9cf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> <http://schema.org/id> "8400900358" .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://schema.org/postalCode> "06853-0106" .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N234ed8fba1d8419f95ee0d955e914ba4> <http://schema.org/longitude> "-73.4371"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/telephone> "+1 (203) 831-0136" .
+<http://lodlaundromat.org/.well-known/genid/N234ed8fba1d8419f95ee0d955e914ba4> <http://schema.org/latitude> "41.0713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0713&mlon=-73.4371#map=15/41.0713/-73.4371> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/name> "ROWAYTON HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://schema.org/streetAddress> "PO BOX 106" .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N234ed8fba1d8419f95ee0d955e914ba4> .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/Nfa730e2e7b07409da93140827cfe9cf2> <http://schema.org/value> "133883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/url> <http://www.rowaytonhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N9589ace52fdd4ff2b444b87412c6c963> <http://schema.org/addressLocality> "ROWAYTON" .
+<http://lodlaundromat.org/.well-known/genid/Nfa730e2e7b07409da93140827cfe9cf2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N77d0e3343c0a413b8dfe2280b036d817> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfa730e2e7b07409da93140827cfe9cf2> .
+<http://lodlaundromat.org/.well-known/genid/N123356f566e34a95b28f62674b5b2042> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

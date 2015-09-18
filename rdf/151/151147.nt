@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb58220143a1741f0a4301f5b009a9957> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/url> <http://www.tuftsarchives.org/index.html> .
+<http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> <http://schema.org/postalCode> "28370" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6a6f6399b33041a88538c25fefde51fd> .
+<http://lodlaundromat.org/.well-known/genid/N6a6f6399b33041a88538c25fefde51fd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/telephone> "+1 (910) 295-3642" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb58220143a1741f0a4301f5b009a9957> .
+<http://lodlaundromat.org/.well-known/genid/N6a6f6399b33041a88538c25fefde51fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> .
+<http://lodlaundromat.org/.well-known/genid/Nb58220143a1741f0a4301f5b009a9957> <http://schema.org/latitude> "35.1958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> <http://schema.org/addressLocality> "PINEHURST" .
+<http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/name> "TUFTS ARCHIVES"@en .
+<http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N427fd25e991f46ff84cf0fb503e40979> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N158c3e30ab2d46a8ba7722f1afcc6970> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.1958&mlon=-79.4663#map=15/35.1958/-79.4663> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> <http://schema.org/id> "8403700018" .
+<http://lodlaundromat.org/.well-known/genid/N6a6f6399b33041a88538c25fefde51fd> <http://schema.org/value> "151147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb58220143a1741f0a4301f5b009a9957> <http://schema.org/longitude> "-79.4663"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fad86eaa824b4ca50d334359cce9e4> <http://schema.org/url> <http://www.imls.gov/> .
+

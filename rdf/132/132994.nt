@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> .
+<http://lodlaundromat.org/.well-known/genid/N3491059c14b64f5699bf7faafbee87c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3491059c14b64f5699bf7faafbee87c6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfa35b63883c646ceb1c91082778af19a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://schema.org/postalCode> "81401-9593" .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.4876&mlon=-107.813#map=15/38.4876/-107.813> .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3491059c14b64f5699bf7faafbee87c6> .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://schema.org/streetAddress> "68169 MIAMI RD" .
+<http://lodlaundromat.org/.well-known/genid/N7b3ce13dc077411d82824ffed9b9ff5f> <http://schema.org/addressLocality> "MONTROSE" .
+<http://lodlaundromat.org/.well-known/genid/Nfa35b63883c646ceb1c91082778af19a> <http://schema.org/latitude> "38.4876"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/name> "MUSEUM OF THE MOUNTAIN WEST"@en .
+<http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/telephone> "+1 (970) 249-4162" .
+<http://lodlaundromat.org/.well-known/genid/Nf75f8cdc5cf74844a989bbcc136b9ffa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfa35b63883c646ceb1c91082778af19a> .
+<http://lodlaundromat.org/.well-known/genid/N3491059c14b64f5699bf7faafbee87c6> <http://schema.org/value> "132994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> <http://schema.org/id> "8400800170" .
+<http://lodlaundromat.org/.well-known/genid/Nfa35b63883c646ceb1c91082778af19a> <http://schema.org/longitude> "-107.813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0921f8d421064dc4b51eea1a7955831e> <http://schema.org/name> "us" .
+

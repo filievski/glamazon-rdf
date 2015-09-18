@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://schema.org/streetAddress> "3024 FAIRFIELD AVE" .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/name> "LUTHERAN PARK CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://schema.org/addressLocality> "FORT WAYNE" .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf77ba7b320c14401b22e4f6cd55fb57e> .
+<http://lodlaundromat.org/.well-known/genid/Nf77ba7b320c14401b22e4f6cd55fb57e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf77ba7b320c14401b22e4f6cd55fb57e> <http://schema.org/longitude> "-85.1449"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d1aead1428f4ff79922da88b23ebd84> <http://schema.org/value> "138405"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> .
+<http://lodlaundromat.org/.well-known/genid/Nf77ba7b320c14401b22e4f6cd55fb57e> <http://schema.org/latitude> "41.0582"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d1aead1428f4ff79922da88b23ebd84> .
+<http://lodlaundromat.org/.well-known/genid/N5d1aead1428f4ff79922da88b23ebd84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0582&mlon=-85.1449#map=15/41.0582/-85.1449> .
+<http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> <http://schema.org/id> "8401800191" .
+<http://lodlaundromat.org/.well-known/genid/N1652556d9e7940d383f045afd6f3b9db> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://schema.org/postalCode> "46807-1604" .
+<http://lodlaundromat.org/.well-known/genid/N5d1aead1428f4ff79922da88b23ebd84> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N391b17bd2ce5472c9aed061294a7a322> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> .
+<http://lodlaundromat.org/.well-known/genid/N8c60dd1bd65448c3b3b635259b80a806> <http://schema.org/addressCountry> "United States" .
+

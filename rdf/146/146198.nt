@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://schema.org/postalCode> "65737-8571" .
+<http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://schema.org/addressLocality> "REEDS SPRING" .
+<http://lodlaundromat.org/.well-known/genid/N14ed224b1d0048a19d5ba657ff04b3cb> <http://schema.org/value> "146198"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> .
+<http://lodlaundromat.org/.well-known/genid/N641fb7b24e6e4c6d9fbc77d5694077df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/name> "MUSEUM OF UNEXPLAINED"@en .
+<http://lodlaundromat.org/.well-known/genid/N641fb7b24e6e4c6d9fbc77d5694077df> <http://schema.org/longitude> "-93.4556"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> .
+<http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N14ed224b1d0048a19d5ba657ff04b3cb> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.6542&mlon=-93.4556#map=15/36.6542/-93.4556> .
+<http://lodlaundromat.org/.well-known/genid/N641fb7b24e6e4c6d9fbc77d5694077df> <http://schema.org/latitude> "36.6542"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N14ed224b1d0048a19d5ba657ff04b3cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N14ed224b1d0048a19d5ba657ff04b3cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://schema.org/streetAddress> "103 PINHOOK LN" .
+<http://lodlaundromat.org/.well-known/genid/Nc5a5f6a26d3f469f90aa345a0936d9ac> <http://schema.org/id> "8402900627" .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N641fb7b24e6e4c6d9fbc77d5694077df> .
+<http://lodlaundromat.org/.well-known/genid/N6e63d82ff04845ce88ddc0a5bf35c0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N30b7d670377c4a5b865e3156643e527a> <http://schema.org/addressCountry> "United States" .
+

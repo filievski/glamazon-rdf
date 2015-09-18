@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> .
+<http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://schema.org/postalCode> "55408-2108" .
+<http://lodlaundromat.org/.well-known/genid/N5886ec82e63848dea6e25a4a25063bf0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N00856f9d37044148814dc305c1efdf64> <http://schema.org/latitude> "44.9512"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N00856f9d37044148814dc305c1efdf64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5886ec82e63848dea6e25a4a25063bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/telephone> "+1 (612) 874-2807" .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://schema.org/streetAddress> "2822 LYNDALE AVE S" .
+<http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5886ec82e63848dea6e25a4a25063bf0> .
+<http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> <http://schema.org/id> "8402700336" .
+<http://lodlaundromat.org/.well-known/genid/N00856f9d37044148814dc305c1efdf64> <http://schema.org/longitude> "-93.2881"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/url> <http://www.intermediaarts.org/> .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://schema.org/addressLocality> "MINNEAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N00856f9d37044148814dc305c1efdf64> .
+<http://lodlaundromat.org/.well-known/genid/N302b7d379452471ea9b0dcb463de894c> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/name> "INTERMEDIA ARTS MINNESOTA INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5886ec82e63848dea6e25a4a25063bf0> <http://schema.org/value> "144896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1fa98d7834a942deb4f9860b432691c1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9512&mlon=-93.2881#map=15/44.9512/-93.2881> .
+<http://lodlaundromat.org/.well-known/genid/N86c0cb4dec5c4512900ce7de69eb5400> <http://schema.org/@Type> "Dataset" .
+

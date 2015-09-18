@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N5b8748709b7c48ae90070dc4f10c9031> <http://schema.org/latitude> "33.8421"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/url> <http://www.printmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> <http://schema.org/id> "8400600328" .
+<http://lodlaundromat.org/.well-known/genid/N5b8748709b7c48ae90070dc4f10c9031> <http://schema.org/longitude> "-118.282"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://schema.org/postalCode> "90745" .
+<http://lodlaundromat.org/.well-known/genid/Nd90ccf1456554b25a5b4be21a8199dbd> <http://schema.org/value> "130202"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://schema.org/streetAddress> "315 W TORRANCE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd90ccf1456554b25a5b4be21a8199dbd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N3d2cc15d6dd54cacb24b972ad1372876> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd90ccf1456554b25a5b4be21a8199dbd> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/telephone> "+1 (310) 515-7166" .
+<http://lodlaundromat.org/.well-known/genid/Nd90ccf1456554b25a5b4be21a8199dbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5b8748709b7c48ae90070dc4f10c9031> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5b8748709b7c48ae90070dc4f10c9031> .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/name> "INTERNATIONAL PRINTING MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8421&mlon=-118.282#map=15/33.8421/-118.282> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5a8158de348319c9c8cd92b4e164e> <http://schema.org/addressLocality> "CARSON" .
+<http://lodlaundromat.org/.well-known/genid/N62e0b6691898443ab29a50fe65534d2d> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/International_Printing_Museum> .
+

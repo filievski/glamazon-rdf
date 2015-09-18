@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na65f9599d47e4516a15ccba0f367fccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N9f12285b4dc64f28b85f9412e5f9bea6> <http://schema.org/longitude> "12.3345"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4341&mlon=12.3345#map=15/45.4341/12.3345> .
+<http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Na65f9599d47e4516a15ccba0f367fccc> <http://schema.org/contentUrl> <http://images.museums.io/JgHDaQggSNFgGkdS92zv25tT_n8=/1000x1000/museums/logos/000/189/516/original/b07f4b31b3367d1bfd6b339d32cec312ff98393.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na65f9599d47e4516a15ccba0f367fccc> .
+<http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d1f057030c44dabb912cb68b1ef956a> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> .
+<http://lodlaundromat.org/.well-known/genid/N9f12285b4dc64f28b85f9412e5f9bea6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9f12285b4dc64f28b85f9412e5f9bea6> .
+<http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> <http://schema.org/addressLocality> "Venezia" .
+<http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/url> <http://marciana.venezia.sbn.it/> .
+<http://lodlaundromat.org/.well-known/genid/Na581dfee742b40819d858c605b61798a> <http://schema.org/streetAddress> "Piazza San Marco (Ala napoleonica: ingresso dal Museo Correr)" .
+<http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> <http://schema.org/id> "113127" .
+<http://lodlaundromat.org/.well-known/genid/N5d1f057030c44dabb912cb68b1ef956a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5d1f057030c44dabb912cb68b1ef956a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/name> "Sale monumentali della Biblioteca nazionale Marciana"@it .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N47ac742b2be74465ab49b6cd0c0be805> .
+<http://lodlaundromat.org/.well-known/genid/N9f12285b4dc64f28b85f9412e5f9bea6> <http://schema.org/latitude> "45.4341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d1f057030c44dabb912cb68b1ef956a> <http://schema.org/value> "189516"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8fcfa27f982745d0af14ea9f6bddccbe> <http://schema.org/telephone> "+39 041.2407223" .
+

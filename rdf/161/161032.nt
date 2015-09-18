@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8049&mlon=-77.0401#map=15/38.8049/-77.0401> .
+<http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/url> <http://www.torpedofactory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> .
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N12f6d893c5a64722ba2505b0774ccddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> .
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://schema.org/addressLocality> "ALEXANDRIA" .
+<http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> <http://schema.org/id> "8405100538" .
+<http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Na132d270a7194a6db17b5e6d6dcc90fc> <http://schema.org/longitude> "-77.0401"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12f6d893c5a64722ba2505b0774ccddf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N12f6d893c5a64722ba2505b0774ccddf> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/telephone> "+1 (703) 838-4565" .
+<http://lodlaundromat.org/.well-known/genid/N12f6d893c5a64722ba2505b0774ccddf> <http://schema.org/value> "161032"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N802e75db46114d008e63a144e40cc7c0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/name> "FRIENDS OF THE TORPEDO FACTORY ART CENTER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://schema.org/streetAddress> "105 N UNION STREET" .
+<http://lodlaundromat.org/.well-known/genid/N6a411b4def2546b6bb29120de47fe4a9> <http://schema.org/postalCode> "22314-3217" .
+<http://lodlaundromat.org/.well-known/genid/N5a0be8b11a22448a890a6568fad70615> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na132d270a7194a6db17b5e6d6dcc90fc> .
+<http://lodlaundromat.org/.well-known/genid/Na132d270a7194a6db17b5e6d6dcc90fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na132d270a7194a6db17b5e6d6dcc90fc> <http://schema.org/latitude> "38.8049"^^<http://www.w3.org/2001/XMLSchema#double> .
+

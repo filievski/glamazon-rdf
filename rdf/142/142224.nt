@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne545af85b9964fc89abd9000aa2ab987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://schema.org/postalCode> "21722" .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6201&mlon=-77.8995#map=15/39.6201/-77.8995> .
+<http://lodlaundromat.org/.well-known/genid/Nfc4e9185a9b34d4e960e80f72cd95950> <http://schema.org/latitude> "39.6201"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://schema.org/streetAddress> "11269 DAM 5 RD" .
+<http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> <http://schema.org/id> "8402400517" .
+<http://lodlaundromat.org/.well-known/genid/Ne545af85b9964fc89abd9000aa2ab987> <http://schema.org/value> "142224"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfc4e9185a9b34d4e960e80f72cd95950> .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/name> "WASHINGTON COUNTY MENNONITE HISTORIC LIBRARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5d702aceef714d87b4c43ceb41528ec9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne545af85b9964fc89abd9000aa2ab987> .
+<http://lodlaundromat.org/.well-known/genid/Nfc4e9185a9b34d4e960e80f72cd95950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://schema.org/addressLocality> "CLEAR SPRING" .
+<http://lodlaundromat.org/.well-known/genid/Ne545af85b9964fc89abd9000aa2ab987> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8adca4e6e6594906aaf21a6dc69acd6a> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfc4e9185a9b34d4e960e80f72cd95950> <http://schema.org/longitude> "-77.8995"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nffed4696316f4407be9747e411d04218> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

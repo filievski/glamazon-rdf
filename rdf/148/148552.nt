@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N387972410f3d4c66a5e47d54af5df2f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/url> <http://wagonmoundnm.com/beanday.htm> .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/telephone> "+1 (575) 447-1597" .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N99c970660e874d3698528d3060605d39> .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> .
+<http://lodlaundromat.org/.well-known/genid/N99c970660e874d3698528d3060605d39> <http://schema.org/value> "148552"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N387972410f3d4c66a5e47d54af5df2f8> <http://schema.org/longitude> "-104.705"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N387972410f3d4c66a5e47d54af5df2f8> .
+<http://lodlaundromat.org/.well-known/genid/N387972410f3d4c66a5e47d54af5df2f8> <http://schema.org/latitude> "36.0104"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://schema.org/addressLocality> "WAGON MOUND" .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/name> "WAGON MOUND BEAN DAY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N934e3672b320424ebe361bd31db085c6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.0104&mlon=-104.705#map=15/36.0104/-104.705> .
+<http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N99c970660e874d3698528d3060605d39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N99c970660e874d3698528d3060605d39> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://schema.org/streetAddress> "PO BOX 216" .
+<http://lodlaundromat.org/.well-known/genid/Naa81efd282444d299ffaa8c0d19842c4> <http://schema.org/id> "8403500142" .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N80c5498ad6014a9fbf793fb43bdab6d0> <http://schema.org/postalCode> "87752-0216" .
+

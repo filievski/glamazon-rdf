@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://schema.org/postalCode> "91781" .
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/name> "R\u00F6mische Thermenanlage"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://schema.org/streetAddress> "Am R\u00F6merbad 17 a" .
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.0307&mlon=10.9582#map=15/49.0307/10.9582> .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e0df48c044c15bc55362cba05be39> <http://schema.org/longitude> "10.9582"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb273f6ebb5004d4991ac74979ec98919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncd9e0df48c044c15bc55362cba05be39> .
+<http://lodlaundromat.org/.well-known/genid/Nb273f6ebb5004d4991ac74979ec98919> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N927159e5532c46278ba19336f7edac79> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e0df48c044c15bc55362cba05be39> <http://schema.org/latitude> "49.0307"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/url> <http://museen-weissenburg.de/de/unsere-museen/roemische-thermen> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/telephone> "09141/907-124" .
+<http://lodlaundromat.org/.well-known/genid/Nb273f6ebb5004d4991ac74979ec98919> <http://schema.org/value> "183855"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N927159e5532c46278ba19336f7edac79> .
+<http://lodlaundromat.org/.well-known/genid/N927159e5532c46278ba19336f7edac79> <http://schema.org/url> <http://www.museums.io/en/museums/183855> .
+<http://lodlaundromat.org/.well-known/genid/N927159e5532c46278ba19336f7edac79> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb273f6ebb5004d4991ac74979ec98919> .
+<http://lodlaundromat.org/.well-known/genid/N927159e5532c46278ba19336f7edac79> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e0df48c044c15bc55362cba05be39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0b863c8b6758454683e98ff7ad518e56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c4ac56434634feb83a0f2856f9114cb> <http://schema.org/addressLocality> "Wei\u00DFenburg" .
+

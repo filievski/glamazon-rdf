@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://schema.org/name> "Lydenburg Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N469462114b6b473ab9d9851a1785c31a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N04d32222968945a8aed0e83eb670c736> .
+<http://lodlaundromat.org/.well-known/genid/N04d32222968945a8aed0e83eb670c736> <http://schema.org/value> "184872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N469462114b6b473ab9d9851a1785c31a> .
+<http://lodlaundromat.org/.well-known/genid/N469462114b6b473ab9d9851a1785c31a> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> .
+<http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> <http://schema.org/streetAddress> "On R37 Long Tom Pass at entrance Gustav Klingbiel Nature Reserve" .
+<http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> <http://schema.org/addressRegion> "Mpumalanga" .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N469462114b6b473ab9d9851a1785c31a> <http://schema.org/url> <http://www.museums.io/en/museums/184872> .
+<http://lodlaundromat.org/.well-known/genid/N7aa064dd1bc84a10a9acba0d2fbfba74> <http://schema.org/telephone> "013 235 2213" .
+<http://lodlaundromat.org/.well-known/genid/N04d32222968945a8aed0e83eb670c736> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N469462114b6b473ab9d9851a1785c31a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N04d32222968945a8aed0e83eb670c736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N52ecdfe2213946a3bebb64c69191f0a0> <http://schema.org/addressLocality> "Lydenburg" .
+

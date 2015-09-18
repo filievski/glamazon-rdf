@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N40aa870fc87949f6bd31e3e85813ba08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7cd042ebc6d345abbdd928fd27c80d23> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7cd042ebc6d345abbdd928fd27c80d23> <http://schema.org/value> "145925"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N40aa870fc87949f6bd31e3e85813ba08> <http://schema.org/longitude> "-93.0019"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N40aa870fc87949f6bd31e3e85813ba08> .
+<http://lodlaundromat.org/.well-known/genid/N40aa870fc87949f6bd31e3e85813ba08> <http://schema.org/latitude> "40.4761"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> .
+<http://lodlaundromat.org/.well-known/genid/N7cd042ebc6d345abbdd928fd27c80d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4761&mlon=-93.0019#map=15/40.4761/-93.0019> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7cd042ebc6d345abbdd928fd27c80d23> .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://schema.org/name> "THE PUTNAM COUNTY HISTORICALSOCIETY INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://schema.org/addressLocality> "UNIONVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N82719a9042b04cb4a0faed441a20ca57> <http://schema.org/id> "8402900354" .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://schema.org/postalCode> "63565" .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://schema.org/streetAddress> "201 S 16TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N6b492ab93e3b40449e231791cede8965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd64e934c29f54d34a27f26722dbe4af6> <http://schema.org/addressRegion> "MO" .
+

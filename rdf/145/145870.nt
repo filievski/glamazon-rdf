@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5ecc3d4da9254c339576cab9f5c61e64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/url> <http://cranesmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5ecc3d4da9254c339576cab9f5c61e64> <http://schema.org/latitude> "38.9214"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> <http://schema.org/id> "8402900299" .
+<http://lodlaundromat.org/.well-known/genid/N3d94ff391e82446eaf965af1f78615d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> .
+<http://lodlaundromat.org/.well-known/genid/N5ecc3d4da9254c339576cab9f5c61e64> <http://schema.org/longitude> "-91.7077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://schema.org/addressLocality> "WILLIAMSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9214&mlon=-91.7077#map=15/38.9214/-91.7077> .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://schema.org/postalCode> "63388" .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> .
+<http://lodlaundromat.org/.well-known/genid/N6bfd815acf564404b8846b50f03d0622> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://schema.org/streetAddress> "10665 OLD HWY 40" .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3d94ff391e82446eaf965af1f78615d4> .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5ecc3d4da9254c339576cab9f5c61e64> .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d94ff391e82446eaf965af1f78615d4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N311fd223ec5742debd09f7de24c65305> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N2f788d03b8894c739fc496fd86c34eea> <http://schema.org/name> "CRANE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3d94ff391e82446eaf965af1f78615d4> <http://schema.org/value> "145870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

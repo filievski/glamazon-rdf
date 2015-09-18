@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N05ae199d97e74600b29de472fb5126aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N05ae199d97e74600b29de472fb5126aa> .
+<http://lodlaundromat.org/.well-known/genid/N914af3bd0fa347559da171957dbf22b1> <http://schema.org/value> "129421"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.6144&mlon=-112.446#map=15/34.6144/-112.446> .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> .
+<http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://schema.org/postalCode> "86301-6001" .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N914af3bd0fa347559da171957dbf22b1> .
+<http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> <http://schema.org/id> "8400400323" .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://schema.org/streetAddress> "1403 HERITAGE PARK RD" .
+<http://lodlaundromat.org/.well-known/genid/N05ae199d97e74600b29de472fb5126aa> <http://schema.org/longitude> "-112.446"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://schema.org/addressLocality> "PRESCOTT" .
+<http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N05ae199d97e74600b29de472fb5126aa> <http://schema.org/latitude> "34.6144"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N914af3bd0fa347559da171957dbf22b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2d8ee9dab8e34aa58708d5dd57e9e54c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://schema.org/name> "PRESCOTT ANIMAL PARK ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd7364522c42c48f793ba59fecde12310> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2338116f35ea40baa8bb33262349bb7d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N914af3bd0fa347559da171957dbf22b1> <http://schema.org/name> "id" .
+

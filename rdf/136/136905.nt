@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b8046ca8a764921ba2622a76b0abe45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b8046ca8a764921ba2622a76b0abe45> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://schema.org/postalCode> "60185" .
+<http://lodlaundromat.org/.well-known/genid/Nce4072b602bd4a95afcdfee84b6e123f> <http://schema.org/latitude> "41.8843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> <http://schema.org/id> "8401700050" .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7b8046ca8a764921ba2622a76b0abe45> .
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://schema.org/streetAddress> "132 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/name> "TURNER TOWN HALL"@en .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> .
+<http://lodlaundromat.org/.well-known/genid/N7b8046ca8a764921ba2622a76b0abe45> <http://schema.org/value> "136905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://schema.org/addressLocality> "WEST CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Nce4072b602bd4a95afcdfee84b6e123f> <http://schema.org/longitude> "-88.2047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8843&mlon=-88.2047#map=15/41.8843/-88.2047> .
+<http://lodlaundromat.org/.well-known/genid/Nce4072b602bd4a95afcdfee84b6e123f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N727fc6034389458ca905c5065947842c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nce4072b602bd4a95afcdfee84b6e123f> .
+<http://lodlaundromat.org/.well-known/genid/N7a1b79c89cbf455eac5c0fcd653a2e01> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N09862f1436d84f05b5be118ef3a5996a> <http://schema.org/@Type> "Dataset" .
+

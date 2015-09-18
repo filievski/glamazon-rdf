@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/url> <http://www.farnsworthmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3def24019a544c90a5d34f52cecbfcea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> .
+<http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> <http://schema.org/id> "8402300167" .
+<http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N18135118c6334bd3926c78d161025dd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N18135118c6334bd3926c78d161025dd4> .
+<http://lodlaundromat.org/.well-known/genid/N18135118c6334bd3926c78d161025dd4> <http://schema.org/longitude> "-69.1095"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://schema.org/postalCode> "04841-3347" .
+<http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1037&mlon=-69.1095#map=15/44.1037/-69.1095> .
+<http://lodlaundromat.org/.well-known/genid/N3def24019a544c90a5d34f52cecbfcea> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/telephone> "+1 (207) 596-6457" .
+<http://lodlaundromat.org/.well-known/genid/N18135118c6334bd3926c78d161025dd4> <http://schema.org/latitude> "44.1037"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://schema.org/streetAddress> "16 MUSEUM STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/name> "WILLIAM A FARNSWORTH LIBRARY AND ART MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3def24019a544c90a5d34f52cecbfcea> <http://schema.org/value> "141318"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb07d5dc806d64704856b1e3ef6f3f386> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3def24019a544c90a5d34f52cecbfcea> .
+<http://lodlaundromat.org/.well-known/genid/Na97570aa18964178b0fa0dca6bb9a9c3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N484b4ed48f4541739a3b34d71eb16ee1> <http://schema.org/addressLocality> "ROCKLAND" .
+

@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nb62cd8c896c04394936c6edb871de278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-26.9857&mlon=32.8217#map=15/-26.9857/32.8217> .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb62cd8c896c04394936c6edb871de278> .
+<http://lodlaundromat.org/.well-known/genid/N775d31c8998c4f1791955fd97cba0403> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4eed8917709e4067a2d58dd7b7511b9a> .
+<http://lodlaundromat.org/.well-known/genid/Nb62cd8c896c04394936c6edb871de278> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N775d31c8998c4f1791955fd97cba0403> <http://schema.org/url> <http://www.museums.io/en/museums/184571> .
+<http://lodlaundromat.org/.well-known/genid/N4eed8917709e4067a2d58dd7b7511b9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N775d31c8998c4f1791955fd97cba0403> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nf6b9e1fec1c84b52967df87f4aaef3b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N775d31c8998c4f1791955fd97cba0403> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf6b9e1fec1c84b52967df87f4aaef3b4> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/name> "Greater St Lucia Wetland Park"@en .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N775d31c8998c4f1791955fd97cba0403> .
+<http://lodlaundromat.org/.well-known/genid/N5364bc1bda8f4e14b20d3678ecc25814> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf6b9e1fec1c84b52967df87f4aaef3b4> .
+<http://lodlaundromat.org/.well-known/genid/N4eed8917709e4067a2d58dd7b7511b9a> <http://schema.org/latitude> "-26.9857"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb62cd8c896c04394936c6edb871de278> <http://schema.org/value> "184571"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4eed8917709e4067a2d58dd7b7511b9a> <http://schema.org/longitude> "32.8217"^^<http://www.w3.org/2001/XMLSchema#double> .
+

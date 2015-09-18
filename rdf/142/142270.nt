@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N398105d611154ba28b1bc2c7eff2cecd> <http://schema.org/value> "142270"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/name> "FOREST GLEN COMMONWEALTH"@en .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N398105d611154ba28b1bc2c7eff2cecd> .
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://schema.org/postalCode> "21769-8023" .
+<http://lodlaundromat.org/.well-known/genid/N398105d611154ba28b1bc2c7eff2cecd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://schema.org/streetAddress> "204 W MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> .
+<http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> <http://schema.org/id> "8402400563" .
+<http://lodlaundromat.org/.well-known/genid/N2d57c737400d4374a830cc395d38f53e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c3cd17bc441420496a767c9d40897d8> <http://schema.org/addressLocality> "MIDDLETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.4439&mlon=-77.5479#map=15/39.4439/-77.5479> .
+<http://lodlaundromat.org/.well-known/genid/N2d57c737400d4374a830cc395d38f53e> <http://schema.org/latitude> "39.4439"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N398105d611154ba28b1bc2c7eff2cecd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7f477fc4339d4396b3c07f7ceba7376b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2d57c737400d4374a830cc395d38f53e> .
+<http://lodlaundromat.org/.well-known/genid/N8937e49fe1844117888a8758974e806d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2d57c737400d4374a830cc395d38f53e> <http://schema.org/longitude> "-77.5479"^^<http://www.w3.org/2001/XMLSchema#double> .
+

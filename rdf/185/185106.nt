@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/name> "Liminka Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1148d6d25eb94e87bab3c1608e19cf52> .
+<http://lodlaundromat.org/.well-known/genid/N665bd512daf44b209ef08cc7ede6daec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbf51d33059bf4ca7b1144686e7661ebb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N665bd512daf44b209ef08cc7ede6daec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N665bd512daf44b209ef08cc7ede6daec> .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbf51d33059bf4ca7b1144686e7661ebb> .
+<http://lodlaundromat.org/.well-known/genid/N665bd512daf44b209ef08cc7ede6daec> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nbf51d33059bf4ca7b1144686e7661ebb> <http://schema.org/value> "185106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1148d6d25eb94e87bab3c1608e19cf52> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N665bd512daf44b209ef08cc7ede6daec> <http://schema.org/url> <http://www.museums.io/en/museums/185106> .
+<http://lodlaundromat.org/.well-known/genid/N1148d6d25eb94e87bab3c1608e19cf52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.3842&mlon=25.3842#map=15/25.3842/25.3842> .
+<http://lodlaundromat.org/.well-known/genid/N40c042f255c34e13aecc73ec1a3db8a3> <http://schema.org/longitude> "25.3842"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40c042f255c34e13aecc73ec1a3db8a3> <http://schema.org/latitude> "25.3842"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbf51d33059bf4ca7b1144686e7661ebb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/url> <http://www.liminka.fi/sivu/fi/liminka_virkistaa/kulttuuri-_ja_vapaa-aika/kulttuuripalvelut/museoalue/> .
+<http://lodlaundromat.org/.well-known/genid/N40c042f255c34e13aecc73ec1a3db8a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N21a5bf08a53e4da6bcb1d588403ccbbb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N40c042f255c34e13aecc73ec1a3db8a3> .
+

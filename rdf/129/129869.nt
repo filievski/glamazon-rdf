@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d99e6e3c96445f195f3f79bc09f50db> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> .
+<http://lodlaundromat.org/.well-known/genid/N3d99e6e3c96445f195f3f79bc09f50db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4fd0c216b28a46d2b7a7e47fe730cfb8> .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N4fd0c216b28a46d2b7a7e47fe730cfb8> <http://schema.org/latitude> "35.0738"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d99e6e3c96445f195f3f79bc09f50db> <http://schema.org/value> "129869"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.0738&mlon=-91.8932#map=15/35.0738/-91.8932> .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://schema.org/streetAddress> "906 W LOUISIANA" .
+<http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> <http://schema.org/id> "8400500305" .
+<http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne4f1842e9c714d95a1a86ae9dc726c6f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/name> "COVENANT FARM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://schema.org/postalCode> "72012-2626" .
+<http://lodlaundromat.org/.well-known/genid/N4fd0c216b28a46d2b7a7e47fe730cfb8> <http://schema.org/longitude> "-91.8932"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na0cf2c33426045a087cec79af56f8c38> <http://schema.org/addressLocality> "BEEBE" .
+<http://lodlaundromat.org/.well-known/genid/N4fd0c216b28a46d2b7a7e47fe730cfb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2d4e0574740f43fbb4b4ae61322f2a6a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3d99e6e3c96445f195f3f79bc09f50db> .
+

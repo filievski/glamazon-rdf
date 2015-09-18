@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/url> <http://www.braunau-sudetenland.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.7177&mlon=11.0596#map=15/49.7177/11.0596> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nffe877fc2eb44b1393ca3987a70efa4d> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N24e06ae17df94436b18b75d41a7cbdea> .
+<http://lodlaundromat.org/.well-known/genid/N24e06ae17df94436b18b75d41a7cbdea> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://schema.org/addressLocality> "Forchheim" .
+<http://lodlaundromat.org/.well-known/genid/N24e06ae17df94436b18b75d41a7cbdea> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nffe877fc2eb44b1393ca3987a70efa4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nffe877fc2eb44b1393ca3987a70efa4d> <http://schema.org/longitude> "11.0596"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N24e06ae17df94436b18b75d41a7cbdea> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/name> "Braunauer Heimatmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://schema.org/postalCode> "91301" .
+<http://lodlaundromat.org/.well-known/genid/N24e06ae17df94436b18b75d41a7cbdea> <http://schema.org/url> <http://www.museums.io/en/museums/182739> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/telephone> "09191/64563" .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> .
+<http://lodlaundromat.org/.well-known/genid/Nd3784c2fcb7c4593b98c55d99eaab7a2> <http://schema.org/streetAddress> "Paradeplatz 2" .
+<http://lodlaundromat.org/.well-known/genid/N0a59fbec740f4abb98d869626ab63a38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0a59fbec740f4abb98d869626ab63a38> <http://schema.org/value> "182739"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nffe877fc2eb44b1393ca3987a70efa4d> <http://schema.org/latitude> "49.7177"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0a59fbec740f4abb98d869626ab63a38> .
+<http://lodlaundromat.org/.well-known/genid/N22e87a43bc7c47aa92bfdddcde57edc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a59fbec740f4abb98d869626ab63a38> <http://schema.org/name> "id" .
+

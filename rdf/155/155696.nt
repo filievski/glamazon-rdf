@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N083b13566c764a89a662d78253c280dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/name> "RAY CARR AUTOMOTIVE MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N083b13566c764a89a662d78253c280dc> .
+<http://lodlaundromat.org/.well-known/genid/N54c88cadbaf6430195ffb0026b69c5f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0985&mlon=-75.6746#map=15/40.0985/-75.6746> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://schema.org/postalCode> "19425-3608" .
+<http://lodlaundromat.org/.well-known/genid/N083b13566c764a89a662d78253c280dc> <http://schema.org/latitude> "40.0985"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> <http://schema.org/id> "8404200890" .
+<http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://schema.org/streetAddress> "35 WYNDEMERE LAKE DR" .
+<http://lodlaundromat.org/.well-known/genid/N54c88cadbaf6430195ffb0026b69c5f1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N54c88cadbaf6430195ffb0026b69c5f1> .
+<http://lodlaundromat.org/.well-known/genid/N6ef39a22929a48288739b213961370bb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf923a8beca1e4a8c89f8d7d50f67cbbe> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N083b13566c764a89a662d78253c280dc> <http://schema.org/longitude> "-75.6746"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54c88cadbaf6430195ffb0026b69c5f1> <http://schema.org/value> "155696"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3b2f05b7adad498ca4b481240b748f3a> <http://schema.org/addressLocality> "CHESTER SPRGS" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N626195bc9fa84ce2b4c19a7db96b7996> .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/name> "CINCINNATI OBSERVATORY CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/telephone> "+1 (513) 321-5186" .
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://schema.org/addressLocality> "CINCINNATI" .
+<http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> <http://schema.org/id> "8403900787" .
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd24f0dd552ed4c8db38284944479d679> .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/url> <http://www.cincinnatiobservatory.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd24f0dd552ed4c8db38284944479d679> <http://schema.org/value> "153010"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://schema.org/streetAddress> "3489 OBSERVATORY PL" .
+<http://lodlaundromat.org/.well-known/genid/Nd24f0dd552ed4c8db38284944479d679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N626195bc9fa84ce2b4c19a7db96b7996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N626195bc9fa84ce2b4c19a7db96b7996> <http://schema.org/latitude> "39.1384"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1384&mlon=-84.4227#map=15/39.1384/-84.4227> .
+<http://lodlaundromat.org/.well-known/genid/N626195bc9fa84ce2b4c19a7db96b7996> <http://schema.org/longitude> "-84.4227"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://schema.org/postalCode> "45208-2563" .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> .
+<http://lodlaundromat.org/.well-known/genid/N1ee40997d1bc4d1dbfc3bfa463cecf82> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd20ab82c694e424bb33e4387f0ea1946> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd24f0dd552ed4c8db38284944479d679> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f79e4ffe2eb49f7914c035014456169> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

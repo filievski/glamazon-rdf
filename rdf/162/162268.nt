@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> <http://schema.org/id> "8405300717" .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb0ab8c4130924da18cd534b6e94137ed> <http://schema.org/value> "162268"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://schema.org/addressLocality> "YACOLT" .
+<http://lodlaundromat.org/.well-known/genid/N3bcbf115f1164bc0898d1d7d6d4b2848> <http://schema.org/latitude> "45.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3bcbf115f1164bc0898d1d7d6d4b2848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3bcbf115f1164bc0898d1d7d6d4b2848> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb0ab8c4130924da18cd534b6e94137ed> .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://schema.org/postalCode> "98675-3100" .
+<http://lodlaundromat.org/.well-known/genid/Nb0ab8c4130924da18cd534b6e94137ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/telephone> "+1 (360) 686-3537" .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/name> "POMEROY LIVING HISTORY FARM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://schema.org/streetAddress> "20902 NE LUCIA FALLS RD" .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb0ab8c4130924da18cd534b6e94137ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3bcbf115f1164bc0898d1d7d6d4b2848> <http://schema.org/longitude> "-122.459"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7497f417a53643e88fe1427a29da1dbb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.84&mlon=-122.459#map=15/45.84/-122.459> .
+<http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3077bdf804614722a6d09b584595e276> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1f20780bad564a0bb082f70768be87b2> <http://schema.org/@Type> "Dataset" .
+

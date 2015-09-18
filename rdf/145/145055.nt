@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nec9f5912953a4f67834aa6a45f36a9ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4ee85c1a8c954b3b809f0f49925170f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ee85c1a8c954b3b809f0f49925170f0> .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> <http://schema.org/id> "8402700495" .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://schema.org/addressLocality> "NEW BRIGHTON" .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/name> "NEW LONDON TO NEW BRIGHTON ANTIQUE CAR RUN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4ee85c1a8c954b3b809f0f49925170f0> <http://schema.org/latitude> "45.0631"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nec9f5912953a4f67834aa6a45f36a9ad> .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> .
+<http://lodlaundromat.org/.well-known/genid/Nec9f5912953a4f67834aa6a45f36a9ad> <http://schema.org/value> "145055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4ee85c1a8c954b3b809f0f49925170f0> <http://schema.org/longitude> "-93.1931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://schema.org/postalCode> "55112-2797" .
+<http://lodlaundromat.org/.well-known/genid/N8faba0fc48d6485cbc1dc2624c288e8d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0631&mlon=-93.1931#map=15/45.0631/-93.1931> .
+<http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nec9f5912953a4f67834aa6a45f36a9ad> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://schema.org/streetAddress> "803 OLD HWY 8 NW" .
+<http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e72c69f891a45dda0d64edf48909c59> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N39a41e6bcb8c4b249775c4aade9a2ce9> <http://schema.org/addressRegion> "MN" .
+

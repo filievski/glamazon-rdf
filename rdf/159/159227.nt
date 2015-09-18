@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf6cb1fd3dfe34066ad4ab9b4176c1068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://schema.org/streetAddress> "2001 S WATER ST" .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/name> "HIGHLAND LAKES WILDLIFE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://schema.org/addressLocality> "BURNET" .
+<http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> .
+<http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> <http://schema.org/id> "8404801327" .
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf6cb1fd3dfe34066ad4ab9b4176c1068> <http://schema.org/value> "159227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> .
+<http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c47d5dfca63421188f0d2b1a486cc07> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf6cb1fd3dfe34066ad4ab9b4176c1068> .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6409025c8a6b44c894e21851d32917d1> .
+<http://lodlaundromat.org/.well-known/genid/Nf6cb1fd3dfe34066ad4ab9b4176c1068> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://schema.org/postalCode> "78611-3561" .
+<http://lodlaundromat.org/.well-known/genid/N30352636883d4618989fa1f865239f6d> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N6409025c8a6b44c894e21851d32917d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6409025c8a6b44c894e21851d32917d1> <http://schema.org/longitude> "-98.2337"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N207bcc0e93a54874ad15ecac1b77ff27> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.7421&mlon=-98.2337#map=15/30.7421/-98.2337> .
+<http://lodlaundromat.org/.well-known/genid/N6409025c8a6b44c894e21851d32917d1> <http://schema.org/latitude> "30.7421"^^<http://www.w3.org/2001/XMLSchema#double> .
+

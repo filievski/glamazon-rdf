@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nf2b744cfb20344e787b776a1beaa4b8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf2b744cfb20344e787b776a1beaa4b8e> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e649ba5f3542f1ac637cafeff7ad53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e649ba5f3542f1ac637cafeff7ad53> <http://schema.org/longitude> "24.7667"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8b99b3ba34a3422ea2f187e5ccb70a6d> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N521035f2630b49dbb08d764abfa59ff6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb1e649ba5f3542f1ac637cafeff7ad53> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-28.7333&mlon=24.7667#map=15/-28.7333/24.7667> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N521035f2630b49dbb08d764abfa59ff6> .
+<http://lodlaundromat.org/.well-known/genid/N8b99b3ba34a3422ea2f187e5ccb70a6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf2b744cfb20344e787b776a1beaa4b8e> <http://schema.org/value> "184699"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e649ba5f3542f1ac637cafeff7ad53> <http://schema.org/latitude> "-28.7333"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N521035f2630b49dbb08d764abfa59ff6> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N521035f2630b49dbb08d764abfa59ff6> <http://schema.org/url> <http://www.museums.io/en/museums/184699> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8b99b3ba34a3422ea2f187e5ccb70a6d> .
+<http://lodlaundromat.org/.well-known/genid/N53db5c3226cd413d85a0ee7d192f0b82> <http://schema.org/name> "William Humphrey's Art Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf2b744cfb20344e787b776a1beaa4b8e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N521035f2630b49dbb08d764abfa59ff6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

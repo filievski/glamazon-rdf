@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Neb3c6b2363b84267aa5516546258af37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> <http://schema.org/addressLocality> "Pau" .
+<http://lodlaundromat.org/.well-known/genid/N5c8df67d766a4b4e8e2fe3cb9780b11e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/name> "Museo dell'ossidiana"@it .
+<http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> .
+<http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> <http://schema.org/addressRegion> "Sardegna" .
+<http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> <http://schema.org/streetAddress> "Via San Giorgio, 80" .
+<http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Neb3c6b2363b84267aa5516546258af37> <http://schema.org/latitude> "39.7903"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb3c6b2363b84267aa5516546258af37> .
+<http://lodlaundromat.org/.well-known/genid/N5c8df67d766a4b4e8e2fe3cb9780b11e> <http://schema.org/value> "188343"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/url> <http://www.museossidiana.it/> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7903&mlon=8.80308#map=15/39.7903/8.80308> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf0e691315a7f45a89adc1f7230743b5e> .
+<http://lodlaundromat.org/.well-known/genid/N5c8df67d766a4b4e8e2fe3cb9780b11e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> .
+<http://lodlaundromat.org/.well-known/genid/Neb3c6b2363b84267aa5516546258af37> <http://schema.org/longitude> "8.80308"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/telephone> "+39 0783 939002" .
+<http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> <http://schema.org/id> "103410" .
+<http://lodlaundromat.org/.well-known/genid/N4214c943bc284a65818370e13c583e27> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf0e691315a7f45a89adc1f7230743b5e> <http://schema.org/contentUrl> <http://images.museums.io/uLOHtRrU2w6afiWMCmt00jm5iLg=/1000x1000/museums/logos/000/188/343/original/11db656579ce8896abba791f3b76740ea66d2af.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N63403d80d3c24537806caf9da33dce17> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N80782c281cfa4c48b6dabb63b9a7efcd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5c8df67d766a4b4e8e2fe3cb9780b11e> .
+<http://lodlaundromat.org/.well-known/genid/Nf0e691315a7f45a89adc1f7230743b5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+

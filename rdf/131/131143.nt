@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a04f23d47f643f3bbaa76d5d91c7bec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.0498&mlon=-117.251#map=15/33.0498/-117.251> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na8304d8d0c6f4695beb5b55fc70375cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na8304d8d0c6f4695beb5b55fc70375cc> <http://schema.org/latitude> "33.0498"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4a04f23d47f643f3bbaa76d5d91c7bec> <http://schema.org/value> "131143"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na8304d8d0c6f4695beb5b55fc70375cc> .
+<http://lodlaundromat.org/.well-known/genid/N4a04f23d47f643f3bbaa76d5d91c7bec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a04f23d47f643f3bbaa76d5d91c7bec> .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/name> "CHILDREN'S DISCOVERY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://schema.org/postalCode> "92024-3057" .
+<http://lodlaundromat.org/.well-known/genid/Na8304d8d0c6f4695beb5b55fc70375cc> <http://schema.org/longitude> "-117.251"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4df2a9d570074cf1bd2d130b2922b298> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a93a78487349359d941259d3767609> <http://schema.org/id> "8400601269" .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://schema.org/addressLocality> "ENCINITAS" .
+<http://lodlaundromat.org/.well-known/genid/N3e156a9043da4f749f533dc474d6b6f8> <http://schema.org/streetAddress> "265 VILLAGE RUN W" .
+

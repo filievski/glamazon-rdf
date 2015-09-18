@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N89d46ceb1bb84d05869fd0992a0d5ac2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> .
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N89d46ceb1bb84d05869fd0992a0d5ac2> .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> .
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://schema.org/streetAddress> "4202 E FOWLER AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.0546&mlon=-82.412#map=15/28.0546/-82.412> .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N10f63d0decaa463bb6ea328d06d316ff> <http://schema.org/value> "134452"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/telephone> "+1 (813) 974-2849" .
+<http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N10f63d0decaa463bb6ea328d06d316ff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://schema.org/addressLocality> "TAMPA" .
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://schema.org/postalCode> "33620" .
+<http://lodlaundromat.org/.well-known/genid/N10f63d0decaa463bb6ea328d06d316ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0836abccc8454f038141025454918de0> <http://schema.org/id> "8401200006" .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/name> "UNIVERSITY OF SOUTH FLORIDA ART MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N70fdc9f3bdf340799c059bbec0a93ab6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N89d46ceb1bb84d05869fd0992a0d5ac2> <http://schema.org/longitude> "-82.412"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d716014543c4854977655d16a687120> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N10f63d0decaa463bb6ea328d06d316ff> .
+<http://lodlaundromat.org/.well-known/genid/N89d46ceb1bb84d05869fd0992a0d5ac2> <http://schema.org/latitude> "28.0546"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://schema.org/streetAddress> "PO BOX 1788" .
+<http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> .
+<http://lodlaundromat.org/.well-known/genid/N6a8b0b94666a41b888163f4e6661c432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6a8b0b94666a41b888163f4e6661c432> <http://schema.org/value> "135377"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6e0a64918f46b9b62a166ce342beb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6e0a64918f46b9b62a166ce342beb7> <http://schema.org/latitude> "28.8129"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.8129&mlon=-81.266#map=15/28.8129/-81.266> .
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://schema.org/postalCode> "32772-1788" .
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://schema.org/addressLocality> "SANFORD" .
+<http://lodlaundromat.org/.well-known/genid/N6a8b0b94666a41b888163f4e6661c432> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/telephone> "+1 (407) 302-1000" .
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbd6e0a64918f46b9b62a166ce342beb7> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6e0a64918f46b9b62a166ce342beb7> <http://schema.org/longitude> "-81.266"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd75af6f32b3f47a9993c830a6d054489> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6a8b0b94666a41b888163f4e6661c432> .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://schema.org/name> "SANFORD CITY OF INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9cdea4fa3bc74ae19643060c190734ef> <http://schema.org/id> "8401200932" .
+<http://lodlaundromat.org/.well-known/genid/N3493f04f570b4d5cab5f5561c01b8b93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c307158f8464136ac6cd4673d753125> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N30ec9ea2ffee4e6ca1ee03919582f821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30ec9ea2ffee4e6ca1ee03919582f821> .
+<http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> <http://schema.org/streetAddress> "Via Eclano, 20" .
+<http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/name> "Museo civico di arte sacra"@it .
+<http://lodlaundromat.org/.well-known/genid/N30ec9ea2ffee4e6ca1ee03919582f821> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/telephone> "+39 0825 447078" .
+<http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N6c61887036b74a218f652b507dac3a64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> <http://schema.org/addressLocality> "Mirabella Eclano" .
+<http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N30ec9ea2ffee4e6ca1ee03919582f821> <http://schema.org/value> "185922"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> .
+<http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> <http://schema.org/id> "107075" .
+<http://lodlaundromat.org/.well-known/genid/N0c307158f8464136ac6cd4673d753125> <http://schema.org/longitude> "14.9939"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N6c61887036b74a218f652b507dac3a64> .
+<http://lodlaundromat.org/.well-known/genid/Naf4e5e2da409443caf62508b86bb1f50> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/N0c307158f8464136ac6cd4673d753125> <http://schema.org/latitude> "41.0419"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c307158f8464136ac6cd4673d753125> .
+<http://lodlaundromat.org/.well-known/genid/N6c61887036b74a218f652b507dac3a64> <http://schema.org/contentUrl> <http://images.museums.io/5XpCIMxSP_uywvkJiHy_-hfSaeQ=/1000x1000/museums/logos/000/185/922/original/4a8426bbd258e53115f6bea8556e75fcca53223.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> .
+<http://lodlaundromat.org/.well-known/genid/N01816c67f3344002b8a908f37aee64c9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0419&mlon=14.9939#map=15/41.0419/14.9939> .
+<http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1503356877a44a299594dc5ae2902425> <http://schema.org/name> "itapi" .
+

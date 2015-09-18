@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6114&mlon=-70.6594#map=15/42.6114/-70.6594> .
+<http://lodlaundromat.org/.well-known/genid/N206a0c9f9cff4ee9bc9c334befff2fc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N206a0c9f9cff4ee9bc9c334befff2fc7> .
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://schema.org/streetAddress> "PO BOX 1306" .
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> .
+<http://lodlaundromat.org/.well-known/genid/N206a0c9f9cff4ee9bc9c334befff2fc7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf1d774affd2844a2a899bc75a6fd5dd6> <http://schema.org/longitude> "-70.6594"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/name> "GLOUCESTER ADVENTURE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf1d774affd2844a2a899bc75a6fd5dd6> .
+<http://lodlaundromat.org/.well-known/genid/N206a0c9f9cff4ee9bc9c334befff2fc7> <http://schema.org/value> "142804"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> <http://schema.org/id> "8402500434" .
+<http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf1d774affd2844a2a899bc75a6fd5dd6> <http://schema.org/latitude> "42.6114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf1d774affd2844a2a899bc75a6fd5dd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/telephone> "+1 (978) 281-8079" .
+<http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://schema.org/postalCode> "01931-1306" .
+<http://lodlaundromat.org/.well-known/genid/N4e1394f5c13a441eafbee43e39ab29e0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/url> <http://schooner-adventure.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dd3299a03461b85cd1df2097ea4fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N31c7967a444d4da48299f4dbd107d579> <http://schema.org/addressLocality> "GLOUCESTER" .
+

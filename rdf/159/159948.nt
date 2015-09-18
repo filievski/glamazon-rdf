@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf984c406babd424c97007346560f0fdb> .
+<http://lodlaundromat.org/.well-known/genid/N7d8ce9330cbf421ea5c3dde1045978d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://schema.org/addressLocality> "LEHI" .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://schema.org/postalCode> "84043" .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> .
+<http://lodlaundromat.org/.well-known/genid/Nf67c46a30c0b43e78eff8acf889eeb4b> <http://schema.org/streetAddress> "2929 THANKSGIVING WAY" .
+<http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> <http://schema.org/id> "8404900014" .
+<http://lodlaundromat.org/.well-known/genid/Nf984c406babd424c97007346560f0fdb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/url> <http://www.westernpaleolabs.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/name> "WESTERN PALEONTOLOGICAL LABS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.425&mlon=-111.885#map=15/40.425/-111.885> .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/telephone> "+1 (801) 437-4878" .
+<http://lodlaundromat.org/.well-known/genid/N7d8ce9330cbf421ea5c3dde1045978d9> <http://schema.org/latitude> "40.425"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf984c406babd424c97007346560f0fdb> <http://schema.org/value> "159948"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf984c406babd424c97007346560f0fdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nba304a30150a4bf7b317c95175d193f6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7d8ce9330cbf421ea5c3dde1045978d9> <http://schema.org/longitude> "-111.885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb96bba04562b4fa3849003b773a463c4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7d8ce9330cbf421ea5c3dde1045978d9> .
+

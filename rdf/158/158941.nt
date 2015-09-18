@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1a35ad5ef8d14719b56a5465d396c41b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/name> "LYNDON BAINES JOHNSON FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N1a35ad5ef8d14719b56a5465d396c41b> <http://schema.org/latitude> "30.2843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://schema.org/postalCode> "78705" .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://schema.org/addressLocality> "AUSTIN" .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a35ad5ef8d14719b56a5465d396c41b> .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5761e349581f4041804fc1922945f086> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5761e349581f4041804fc1922945f086> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5761e349581f4041804fc1922945f086> <http://schema.org/value> "158941"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2843&mlon=-97.7277#map=15/30.2843/-97.7277> .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://schema.org/streetAddress> "2313 RED RIVER ST" .
+<http://lodlaundromat.org/.well-known/genid/N1a35ad5ef8d14719b56a5465d396c41b> <http://schema.org/longitude> "-97.7277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7f07207f5369425396cab1c087701484> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5761e349581f4041804fc1922945f086> .
+<http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0bf1e4a9b86a49c4859efbd7caac00c1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> <http://schema.org/id> "8404801041" .
+<http://lodlaundromat.org/.well-known/genid/Ne83e7b8a484045818da41d23ad2bd919> <http://schema.org/@Type> "Dataset" .
+

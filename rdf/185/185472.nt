@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N798b0bbf2c9c45e08c7b6519b1b15a39> <http://schema.org/value> "185472"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N798b0bbf2c9c45e08c7b6519b1b15a39> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0940b7b5254146068c1ba619d9b5bb81> <http://schema.org/url> <http://www.museums.io/en/museums/185472> .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=24.4625&mlon=24.4625#map=15/24.4625/24.4625> .
+<http://lodlaundromat.org/.well-known/genid/N0940b7b5254146068c1ba619d9b5bb81> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0940b7b5254146068c1ba619d9b5bb81> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb17c9d9d154d4a899ad0860e5914af35> .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N798b0bbf2c9c45e08c7b6519b1b15a39> .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0940b7b5254146068c1ba619d9b5bb81> .
+<http://lodlaundromat.org/.well-known/genid/N9b3ec11b1f9a485bbddcb0989106c4c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0940b7b5254146068c1ba619d9b5bb81> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9b3ec11b1f9a485bbddcb0989106c4c7> <http://schema.org/longitude> "24.4625"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9b3ec11b1f9a485bbddcb0989106c4c7> .
+<http://lodlaundromat.org/.well-known/genid/Nb17c9d9d154d4a899ad0860e5914af35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9b3ec11b1f9a485bbddcb0989106c4c7> <http://schema.org/latitude> "24.4625"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N798b0bbf2c9c45e08c7b6519b1b15a39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb17c9d9d154d4a899ad0860e5914af35> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://schema.org/name> "Birthplace of Sibelius"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e5ec237cba64babb345612842ced943> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

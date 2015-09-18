@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0dcbdce6dd014ac28644556612df0974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0dcbdce6dd014ac28644556612df0974> .
+<http://lodlaundromat.org/.well-known/genid/N0dcbdce6dd014ac28644556612df0974> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://schema.org/addressLocality> "STOCKTON" .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> .
+<http://lodlaundromat.org/.well-known/genid/N0837976218554ceb94acfa9f3aab0a7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0dcbdce6dd014ac28644556612df0974> <http://schema.org/value> "145901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> <http://schema.org/id> "8402900330" .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://schema.org/postalCode> "65785" .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6995&mlon=-93.7962#map=15/37.6995/-93.7962> .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf644c7d65d784df6b45c79b2472edbb7> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0837976218554ceb94acfa9f3aab0a7b> .
+<http://lodlaundromat.org/.well-known/genid/N0837976218554ceb94acfa9f3aab0a7b> <http://schema.org/longitude> "-93.7962"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0837976218554ceb94acfa9f3aab0a7b> <http://schema.org/latitude> "37.6995"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/url> <http://www.rootsweb.ancestry.com/~mocchs/> .
+<http://lodlaundromat.org/.well-known/genid/Nf85d961aa33447eaa3623f11bd69a8d8> <http://schema.org/name> "CEDAR COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N74057101c1b34738a8d968334b64b589> <http://schema.org/streetAddress> "PO BOX 111" .
+

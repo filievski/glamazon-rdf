@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N83dd30ba9ca342a1bce59c25cc70079e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://schema.org/addressLocality> "HOISINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://schema.org/streetAddress> "1315 SUSANK ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> <http://schema.org/id> "8402000454" .
+<http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/name> "HOISINGTON COMMUNITY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> .
+<http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5529&mlon=-98.7752#map=15/38.5529/-98.7752> .
+<http://lodlaundromat.org/.well-known/genid/N83dd30ba9ca342a1bce59c25cc70079e> <http://schema.org/latitude> "38.5529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://schema.org/postalCode> "67544" .
+<http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc22d0a58b5614d79996d64de47fa4ef4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> .
+<http://lodlaundromat.org/.well-known/genid/N8b0ea526b3a04b0094731b555caf6e62> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N83dd30ba9ca342a1bce59c25cc70079e> .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc22d0a58b5614d79996d64de47fa4ef4> .
+<http://lodlaundromat.org/.well-known/genid/Nc22d0a58b5614d79996d64de47fa4ef4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc22d0a58b5614d79996d64de47fa4ef4> <http://schema.org/value> "140128"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N17d1efa814d544afb42715fc8896ea2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N83dd30ba9ca342a1bce59c25cc70079e> <http://schema.org/longitude> "-98.7752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51a6afb7ff664678b606e371ab680066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

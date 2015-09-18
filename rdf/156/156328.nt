@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://schema.org/streetAddress> "1527 BALLINGER ST" .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://schema.org/addressLocality> "PITTSBURGH" .
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N1d534fd73d554a23b99e0952fdb056c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1d534fd73d554a23b99e0952fdb056c1> .
+<http://lodlaundromat.org/.well-known/genid/N1d534fd73d554a23b99e0952fdb056c1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/name> "PENNSYLVANIA WOMENS HALL OF ACHIEVEMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/N1d534fd73d554a23b99e0952fdb056c1> <http://schema.org/value> "156328"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> <http://schema.org/postalCode> "15210-3401" .
+<http://lodlaundromat.org/.well-known/genid/N5f82c44f199d41b1a1731c537338148b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5f82c44f199d41b1a1731c537338148b> <http://schema.org/latitude> "40.4005"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5f82c44f199d41b1a1731c537338148b> .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> .
+<http://lodlaundromat.org/.well-known/genid/N5f82c44f199d41b1a1731c537338148b> <http://schema.org/longitude> "-80.0025"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4005&mlon=-80.0025#map=15/40.4005/-80.0025> .
+<http://lodlaundromat.org/.well-known/genid/N4412728464c748839eb66291296f4185> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5d688eb39a0247ebb0654ba1b8e46c69> .
+<http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> <http://schema.org/id> "8404201522" .
+<http://lodlaundromat.org/.well-known/genid/Nbba9e7b277084e0a91aa8f78b999229a> <http://schema.org/url> <http://www.imls.gov/> .
+

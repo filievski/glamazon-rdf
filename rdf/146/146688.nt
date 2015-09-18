@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbae8f3f3deb44949a7a8d47e12f0cc4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://schema.org/addressLocality> "FALLS CITY" .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/name> "RICHARDSON COUNTY HSTRCL SCTY"@en .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0588&mlon=-95.6041#map=15/40.0588/-95.6041> .
+<http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbae8f3f3deb44949a7a8d47e12f0cc4c> <http://schema.org/latitude> "40.0588"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> <http://schema.org/id> "8403100027" .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://schema.org/streetAddress> "1401 CHASE ST" .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/telephone> "+1 (401) 242-7378" .
+<http://lodlaundromat.org/.well-known/genid/N5ed093edda1e4c22b91ec280609c8a96> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbae8f3f3deb44949a7a8d47e12f0cc4c> .
+<http://lodlaundromat.org/.well-known/genid/N38fb8fb282d24f4cac63b78ad6e62cab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N38fb8fb282d24f4cac63b78ad6e62cab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbae8f3f3deb44949a7a8d47e12f0cc4c> <http://schema.org/longitude> "-95.6041"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://schema.org/postalCode> "68355" .
+<http://lodlaundromat.org/.well-known/genid/N38fb8fb282d24f4cac63b78ad6e62cab> <http://schema.org/value> "146688"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8463c5ab89e442ba8ad6e387bf8a84f0> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N468a28b70aab485683a7d9401c762515> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N38fb8fb282d24f4cac63b78ad6e62cab> .
+

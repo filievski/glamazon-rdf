@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/name> "HECTOR HISTORICAL CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0f34fb16c24ca4abfb1e1e60ae835d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N66910d4232444bdfa4c0bac8cd8a86f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://schema.org/addressLocality> "HECTOR" .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N66910d4232444bdfa4c0bac8cd8a86f2> .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://schema.org/postalCode> "55342-0482" .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0f34fb16c24ca4abfb1e1e60ae835d> <http://schema.org/value> "145274"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0f34fb16c24ca4abfb1e1e60ae835d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7388&mlon=-94.7133#map=15/44.7388/-94.7133> .
+<http://lodlaundromat.org/.well-known/genid/N6f7b8f35ef2249aa90782f00296778e1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbb0f34fb16c24ca4abfb1e1e60ae835d> .
+<http://lodlaundromat.org/.well-known/genid/N66910d4232444bdfa4c0bac8cd8a86f2> <http://schema.org/latitude> "44.7388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42a8e37fd5034df08dd8416eb74bc719> <http://schema.org/id> "8402700714" .
+<http://lodlaundromat.org/.well-known/genid/N8e05f199e1764da9a9f12b82f73be99c> <http://schema.org/streetAddress> "PO BOX 698" .
+<http://lodlaundromat.org/.well-known/genid/N66910d4232444bdfa4c0bac8cd8a86f2> <http://schema.org/longitude> "-94.7133"^^<http://www.w3.org/2001/XMLSchema#double> .
+

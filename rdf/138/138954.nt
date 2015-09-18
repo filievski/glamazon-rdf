@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd9b901e0425c491a9b516fd4a7bbcf9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://schema.org/postalCode> "46107" .
+<http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> <http://schema.org/id> "8401800740" .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://schema.org/addressLocality> "BEECH GROVE" .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf7b48f11d34142d2b620539cfc2938b8> <http://schema.org/latitude> "39.7216"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf7b48f11d34142d2b620539cfc2938b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://schema.org/streetAddress> "1102 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd9b901e0425c491a9b516fd4a7bbcf9a> .
+<http://lodlaundromat.org/.well-known/genid/Nd9b901e0425c491a9b516fd4a7bbcf9a> <http://schema.org/value> "138954"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf7b48f11d34142d2b620539cfc2938b8> <http://schema.org/longitude> "-86.0944"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd9b901e0425c491a9b516fd4a7bbcf9a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0a8a0d68dfe74aeead2741a52a1a966c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/name> "BEECH GROVE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a1542e64b1b46e3964f714ef6f82b8b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf7b48f11d34142d2b620539cfc2938b8> .
+<http://lodlaundromat.org/.well-known/genid/N988ffc9a958e4fa6b6dff6ce381fdef0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7216&mlon=-86.0944#map=15/39.7216/-86.0944> .
+

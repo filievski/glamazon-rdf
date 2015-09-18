@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N8761dcd671ef4341ae656e242fb00824> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> <http://schema.org/id> "berriwillock-memory-bank" .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> .
+<http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc89b9912a63a4aecb9ab30480c2c135c> <http://schema.org/latitude> "-35.6353"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc89b9912a63a4aecb9ab30480c2c135c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc89b9912a63a4aecb9ab30480c2c135c> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nae04f13bc261470d980c5ad00c6e59a1> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/openingHours> "By Appointment"@en .
+<http://lodlaundromat.org/.well-known/genid/N8761dcd671ef4341ae656e242fb00824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/name> "Berriwillock Memory Bank"@en .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-35.6353&mlon=142.994#map=15/-35.6353/142.994> .
+<http://lodlaundromat.org/.well-known/genid/Nae04f13bc261470d980c5ad00c6e59a1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nae04f13bc261470d980c5ad00c6e59a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nae04f13bc261470d980c5ad00c6e59a1> <http://schema.org/value> "163708"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/telephone> "61350792390" .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/url> <http://berriwillock.vic.au/history> .
+<http://lodlaundromat.org/.well-known/genid/Nbd5d6a712eba41f7a75ab184c70d16ec> <http://schema.org/url> <http://victoriancollections.net.au/organisations/berriwillock-memory-bank> .
+<http://lodlaundromat.org/.well-known/genid/N50bcdbb971754d498e61d1a02004a2a4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8761dcd671ef4341ae656e242fb00824> .
+<http://lodlaundromat.org/.well-known/genid/Nc89b9912a63a4aecb9ab30480c2c135c> <http://schema.org/longitude> "142.994"^^<http://www.w3.org/2001/XMLSchema#double> .
+

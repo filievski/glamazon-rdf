@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://schema.org/postalCode> "62664-9628" .
+<http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> <http://schema.org/id> "8401700463" .
+<http://lodlaundromat.org/.well-known/genid/N892d551284d143e8974e2a9e3d90ba51> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b4de7bd44a348ddaa898fdad4671135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b4de7bd44a348ddaa898fdad4671135> <http://schema.org/latitude> "40.2034"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/name> "MASON CITY ILLINOIS AREA AND FAMILY HISTORY SOCIETY NFP"@en .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://schema.org/addressLocality> "MASON CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N892d551284d143e8974e2a9e3d90ba51> .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N892d551284d143e8974e2a9e3d90ba51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2034&mlon=-89.6832#map=15/40.2034/-89.6832> .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://schema.org/streetAddress> "1443 E PINE STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> .
+<http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc1683e59b3c94031b21b697b6142255c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9b4de7bd44a348ddaa898fdad4671135> .
+<http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b4de7bd44a348ddaa898fdad4671135> <http://schema.org/longitude> "-89.6832"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na9b34b76d0054ab6984467adc1217ca4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N976595079e41424184cf01c59445e790> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N892d551284d143e8974e2a9e3d90ba51> <http://schema.org/value> "137318"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1a97a9600ee44c228d90ede1cdec8f9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> .
+<http://lodlaundromat.org/.well-known/genid/N42dc31e8f2a2490f8c28a935ff10daf0> <http://schema.org/latitude> "36.4173"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42dc31e8f2a2490f8c28a935ff10daf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/name> "FALL BRANCH HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N1a97a9600ee44c228d90ede1cdec8f9b> <http://schema.org/value> "157484"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1a97a9600ee44c228d90ede1cdec8f9b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> <http://schema.org/id> "8404700155" .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://schema.org/addressLocality> "FALL BRANCH" .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N42dc31e8f2a2490f8c28a935ff10daf0> .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> .
+<http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1a97a9600ee44c228d90ede1cdec8f9b> .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://schema.org/streetAddress> "112 FIRE HALL ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N7f711432100c489dbaaa8134c6de9e8b> <http://schema.org/postalCode> "37656" .
+<http://lodlaundromat.org/.well-known/genid/N07076c4ec4cf409d80726ff1b0554760> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N918750538e414fff919683e36a8f8de4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.4173&mlon=-82.6208#map=15/36.4173/-82.6208> .
+<http://lodlaundromat.org/.well-known/genid/N42dc31e8f2a2490f8c28a935ff10daf0> <http://schema.org/longitude> "-82.6208"^^<http://www.w3.org/2001/XMLSchema#double> .
+

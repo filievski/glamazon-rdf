@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nab81f921431549b8844cad29ae5876bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N615ce48e07c34ec79de23269b3ecdd8e> <http://schema.org/longitude> "-88.8168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N615ce48e07c34ec79de23269b3ecdd8e> <http://schema.org/latitude> "35.6159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> .
+<http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> <http://schema.org/id> "8404700495" .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nab81f921431549b8844cad29ae5876bc> .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/name> "CHILDRENS MUSEUM OF WEST TENNESSEE FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nab81f921431549b8844cad29ae5876bc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N615ce48e07c34ec79de23269b3ecdd8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nab81f921431549b8844cad29ae5876bc> <http://schema.org/value> "157824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://schema.org/addressLocality> "JACKSON" .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.6159&mlon=-88.8168#map=15/35.6159/-88.8168> .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N615ce48e07c34ec79de23269b3ecdd8e> .
+<http://lodlaundromat.org/.well-known/genid/N53d4068457704fa993a743a2d148cb09> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N541309207e054a9d9580d9edd6c14c66> .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://schema.org/streetAddress> "305 E COLLEGE ST" .
+<http://lodlaundromat.org/.well-known/genid/N18e0a26512fc46e28e980929a2366ad5> <http://schema.org/postalCode> "38301-6215" .
+

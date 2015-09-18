@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d4918b42d5b499f9d1467b5c02255cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndfc66cf8999043bbbac84a67347b0212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://schema.org/postalCode> "86609" .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8d4918b42d5b499f9d1467b5c02255cb> .
+<http://lodlaundromat.org/.well-known/genid/Ndfc66cf8999043bbbac84a67347b0212> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.7173&mlon=10.7787#map=15/48.7173/10.7787> .
+<http://lodlaundromat.org/.well-known/genid/N8d4918b42d5b499f9d1467b5c02255cb> <http://schema.org/latitude> "48.7173"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N598ab06be14f49edbe0b64b3963a35c6> <http://schema.org/url> <http://www.museums.io/en/museums/182655> .
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/telephone> "0906/789-170" .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndfc66cf8999043bbbac84a67347b0212> .
+<http://lodlaundromat.org/.well-known/genid/N8d4918b42d5b499f9d1467b5c02255cb> <http://schema.org/longitude> "10.7787"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://schema.org/addressLocality> "Donauw\u00F6rth" .
+<http://lodlaundromat.org/.well-known/genid/N598ab06be14f49edbe0b64b3963a35c6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N598ab06be14f49edbe0b64b3963a35c6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N296258cef9cf4be0821dc540a8a09578> <http://schema.org/streetAddress> "Museumsplatz 1" .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N598ab06be14f49edbe0b64b3963a35c6> .
+<http://lodlaundromat.org/.well-known/genid/Ndfc66cf8999043bbbac84a67347b0212> <http://schema.org/value> "182655"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd0500f6ec4fd4e199c57cded8bc26d3d> <http://schema.org/name> "Lovriner Stube"@en .
+<http://lodlaundromat.org/.well-known/genid/N598ab06be14f49edbe0b64b3963a35c6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

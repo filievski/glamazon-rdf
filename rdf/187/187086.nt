@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd5c98cd90a504623a44b94c1fcd8821c> <http://schema.org/value> "187086"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nff6c4cbabb104c1981bcece10bb65871> .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.5227&mlon=9.16376#map=15/45.5227/9.16376> .
+<http://lodlaundromat.org/.well-known/genid/Nff6c4cbabb104c1981bcece10bb65871> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> <http://schema.org/streetAddress> "Via Ippocrate, 45" .
+<http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> <http://schema.org/id> "103716" .
+<http://lodlaundromat.org/.well-known/genid/Nd5c98cd90a504623a44b94c1fcd8821c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/telephone> "+39 02 64445326" .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/url> <http://www.mapp-arca.it/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd5c98cd90a504623a44b94c1fcd8821c> .
+<http://lodlaundromat.org/.well-known/genid/Nff6c4cbabb104c1981bcece10bb65871> <http://schema.org/longitude> "9.16376"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/name> "Museo regionale della psichiatria - Museo d'arte Paolo Pini"@it .
+<http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd8b2460b88c404797d464325fc84bc1> <http://schema.org/addressLocality> "Milano" .
+<http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3b896ed070fa461ab1a7d1ba22597085> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N68e21d96138846c4ade2f671478ff762> .
+<http://lodlaundromat.org/.well-known/genid/Nd5c98cd90a504623a44b94c1fcd8821c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nff6c4cbabb104c1981bcece10bb65871> <http://schema.org/latitude> "45.5227"^^<http://www.w3.org/2001/XMLSchema#double> .
+

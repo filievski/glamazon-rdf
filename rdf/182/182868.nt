@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/url> <http://www.heroldsbach.de/> .
+<http://lodlaundromat.org/.well-known/genid/N5761a82478b34b4485823b0672c8c9ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5761a82478b34b4485823b0672c8c9ba> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5b841d67c82e415a96ccbe37ee4cbe42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5b841d67c82e415a96ccbe37ee4cbe42> <http://schema.org/latitude> "49.6923"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6923&mlon=11.0001#map=15/49.6923/11.0001> .
+<http://lodlaundromat.org/.well-known/genid/N5b841d67c82e415a96ccbe37ee4cbe42> <http://schema.org/longitude> "11.0001"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5761a82478b34b4485823b0672c8c9ba> <http://schema.org/value> "182868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/telephone> "09190/929212" .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://schema.org/postalCode> "91336" .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5761a82478b34b4485823b0672c8c9ba> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5b841d67c82e415a96ccbe37ee4cbe42> .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc8c9449862fa46cd8ef42ffc3325f2f5> .
+<http://lodlaundromat.org/.well-known/genid/Nc8c9449862fa46cd8ef42ffc3325f2f5> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://schema.org/addressLocality> "Heroldsbach" .
+<http://lodlaundromat.org/.well-known/genid/Nc8c9449862fa46cd8ef42ffc3325f2f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc8c9449862fa46cd8ef42ffc3325f2f5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc8c9449862fa46cd8ef42ffc3325f2f5> <http://schema.org/url> <http://www.museums.io/en/museums/182868> .
+<http://lodlaundromat.org/.well-known/genid/N0aa9c6461de54b4daaf49b17bb0c4827> <http://schema.org/streetAddress> "Hauptstra\u00DFe 9" .
+<http://lodlaundromat.org/.well-known/genid/Nbd82087cdc3646cd86e68515a682292b> <http://schema.org/name> "Heimatkundliche Sammlung"@en .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N884be5b6ce984c5b9ffdef3c2d6b3aeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://schema.org/streetAddress> "400 FRED WEHRAN DR" .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N884be5b6ce984c5b9ffdef3c2d6b3aeb> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/name> "AVIATION HALL OF FAME OF NEW JERSEY"@en .
+<http://lodlaundromat.org/.well-known/genid/N884be5b6ce984c5b9ffdef3c2d6b3aeb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> .
+<http://lodlaundromat.org/.well-known/genid/N5d9735d285534631a9a3d51143da806a> <http://schema.org/latitude> "40.8546"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://schema.org/postalCode> "07608-1114" .
+<http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> <http://schema.org/id> "8403400592" .
+<http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N884be5b6ce984c5b9ffdef3c2d6b3aeb> <http://schema.org/value> "148224"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/url> <http://www.njahof.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5d9735d285534631a9a3d51143da806a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5d9735d285534631a9a3d51143da806a> .
+<http://lodlaundromat.org/.well-known/genid/N6678dc8a3bc04daeb0eb1ea08e449b22> <http://schema.org/addressLocality> "TETERBORO" .
+<http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8546&mlon=-74.0535#map=15/40.8546/-74.0535> .
+<http://lodlaundromat.org/.well-known/genid/N5d9735d285534631a9a3d51143da806a> <http://schema.org/longitude> "-74.0535"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf414a4c6c2d4653a5abe223223aab39> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9b20ce4c44574951a60da882f9390a21> .
+

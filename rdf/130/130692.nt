@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> .
+<http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6061aa4890934af5a351d6b986533570> .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N277a0f03f0a7402e9001857079ebfc3b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://schema.org/addressLocality> "EL VERANO" .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2881&mlon=-122.458#map=15/38.2881/-122.458> .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N277a0f03f0a7402e9001857079ebfc3b> .
+<http://lodlaundromat.org/.well-known/genid/N6061aa4890934af5a351d6b986533570> <http://schema.org/longitude> "-122.458"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> .
+<http://lodlaundromat.org/.well-known/genid/N6061aa4890934af5a351d6b986533570> <http://schema.org/latitude> "38.2881"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> <http://schema.org/id> "8400600818" .
+<http://lodlaundromat.org/.well-known/genid/N277a0f03f0a7402e9001857079ebfc3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc90ed83aa0d04ebca23ebbb98a549074> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N277a0f03f0a7402e9001857079ebfc3b> <http://schema.org/value> "130692"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N14b799dfe69d4c72a27158b2eb61a398> <http://schema.org/name> "SONOMA VETERANS MEMORIAL PARK ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://schema.org/streetAddress> "PO BOX 153" .
+<http://lodlaundromat.org/.well-known/genid/N28174419b17e4dfeb09aebba88980e92> <http://schema.org/postalCode> "95433-0153" .
+<http://lodlaundromat.org/.well-known/genid/N6061aa4890934af5a351d6b986533570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

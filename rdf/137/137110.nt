@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> .
+<http://lodlaundromat.org/.well-known/genid/Nddc17a1b91b9444cbf8bf76fe2980e36> <http://schema.org/value> "137110"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://schema.org/streetAddress> "107 E BROADWAY ST" .
+<http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nddc17a1b91b9444cbf8bf76fe2980e36> .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nddc17a1b91b9444cbf8bf76fe2980e36> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0937&mlon=-89.9775#map=15/42.0937/-89.9775> .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://schema.org/addressLocality> "MOUNT CARROLL" .
+<http://lodlaundromat.org/.well-known/genid/Nddc17a1b91b9444cbf8bf76fe2980e36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0da73d7f02d3421896b4a11cad4e608e> .
+<http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> <http://schema.org/id> "8401700255" .
+<http://lodlaundromat.org/.well-known/genid/Nd6bd9236a1fb453e87849bed8a498332> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://schema.org/postalCode> "61053" .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/telephone> "+1 (815) 244-3474" .
+<http://lodlaundromat.org/.well-known/genid/Na91a07246fb845b6a649a698b79ec7b5> <http://schema.org/name> "CARROLL COUNTY HIST SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N0da73d7f02d3421896b4a11cad4e608e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0da73d7f02d3421896b4a11cad4e608e> <http://schema.org/longitude> "-89.9775"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbc02d20fd83f4ea7a5a95b39170176b8> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N0da73d7f02d3421896b4a11cad4e608e> <http://schema.org/latitude> "42.0937"^^<http://www.w3.org/2001/XMLSchema#double> .
+

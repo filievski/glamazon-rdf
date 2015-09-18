@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/name> "Heinola Art Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne383a301e02943feb4dd7714e624b106> .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/url> <http://www.heinola.fi/FIN/Palvelut/Museot/museot.htm> .
+<http://lodlaundromat.org/.well-known/genid/N438f9fdf12db47a58c363da189d35cec> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N438f9fdf12db47a58c363da189d35cec> <http://schema.org/url> <http://www.museums.io/en/museums/185529> .
+<http://lodlaundromat.org/.well-known/genid/Ne383a301e02943feb4dd7714e624b106> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N438f9fdf12db47a58c363da189d35cec> .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndb352599830243f8a851ebd86319de46> .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.0291&mlon=26.0291#map=15/26.0291/26.0291> .
+<http://lodlaundromat.org/.well-known/genid/Ndb352599830243f8a851ebd86319de46> <http://schema.org/latitude> "26.0291"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne383a301e02943feb4dd7714e624b106> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N438f9fdf12db47a58c363da189d35cec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0e4b4ab9430447daa111cd648c03694a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndf881848080847a593536aa0137b1c9e> .
+<http://lodlaundromat.org/.well-known/genid/Ndb352599830243f8a851ebd86319de46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf881848080847a593536aa0137b1c9e> <http://schema.org/value> "185529"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N438f9fdf12db47a58c363da189d35cec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf881848080847a593536aa0137b1c9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndf881848080847a593536aa0137b1c9e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndb352599830243f8a851ebd86319de46> <http://schema.org/longitude> "26.0291"^^<http://www.w3.org/2001/XMLSchema#double> .
+

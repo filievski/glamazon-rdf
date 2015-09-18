@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> .
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://schema.org/addressLocality> "PORTLAND" .
+<http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://schema.org/postalCode> "97240-9724" .
+<http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/url> <http://www.oregonmuseums.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N3b10b640700247b5a223ad4c0d31f0d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb53a86f49d884949b5b04b33b5a507a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b10b640700247b5a223ad4c0d31f0d1> <http://schema.org/longitude> "-122.675"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e5d5415d49d404db297a8bd2e9bf22f> <http://schema.org/streetAddress> "PO BOX 40013" .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb53a86f49d884949b5b04b33b5a507a3> .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/name> "OREGON MUSEUMS ASSOCIATON"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> <http://schema.org/id> "8404100514" .
+<http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb53a86f49d884949b5b04b33b5a507a3> <http://schema.org/value> "154721"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.522&mlon=-122.675#map=15/45.522/-122.675> .
+<http://lodlaundromat.org/.well-known/genid/Nb53a86f49d884949b5b04b33b5a507a3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3b10b640700247b5a223ad4c0d31f0d1> .
+<http://lodlaundromat.org/.well-known/genid/Nab018458fca144ed80b43a8e450ce48f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4b4702b733064892a0173de9b76136bb> .
+<http://lodlaundromat.org/.well-known/genid/N3b10b640700247b5a223ad4c0d31f0d1> <http://schema.org/latitude> "45.522"^^<http://www.w3.org/2001/XMLSchema#double> .
+

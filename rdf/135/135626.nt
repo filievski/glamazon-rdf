@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N053f11f6d89f437ab31ae7ee9be9f85b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> .
+<http://lodlaundromat.org/.well-known/genid/N053f11f6d89f437ab31ae7ee9be9f85b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N053f11f6d89f437ab31ae7ee9be9f85b> <http://schema.org/value> "135626"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/name> "SOUTH FLORIDA PIONEER MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf7733cee4ade4f4181f808eebb924a19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf7733cee4ade4f4181f808eebb924a19> .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N053f11f6d89f437ab31ae7ee9be9f85b> .
+<http://lodlaundromat.org/.well-known/genid/Nf7733cee4ade4f4181f808eebb924a19> <http://schema.org/latitude> "25.4405"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://schema.org/addressLocality> "FLORIDA CITY" .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.4405&mlon=-80.4987#map=15/25.4405/-80.4987> .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://schema.org/postalCode> "33034-0312" .
+<http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> <http://schema.org/id> "8401201181" .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N57b816a2392c4922a16d3c3dc291148d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3062abcd3c4141c59e3f9bf9a5d40bd4> <http://schema.org/streetAddress> "PO BOX 343312" .
+<http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf7733cee4ade4f4181f808eebb924a19> <http://schema.org/longitude> "-80.4987"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5d0b11e23f8044878b6dccaef3dc8b3c> <http://schema.org/@Type> "Dataset" .
+

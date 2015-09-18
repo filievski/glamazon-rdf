@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2ad2da9d73884039b521d6a1f6fa11b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/telephone> "+1 (212) 382-0029" .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ad2da9d73884039b521d6a1f6fa11b9> .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3848&mlon=-74.1208#map=15/42.3848/-74.1208> .
+<http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> <http://schema.org/id> "8403601077" .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9b6969e822514638864b8fb0bb830910> .
+<http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://schema.org/postalCode> "12423" .
+<http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9b6969e822514638864b8fb0bb830910> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> .
+<http://lodlaundromat.org/.well-known/genid/N2ad2da9d73884039b521d6a1f6fa11b9> <http://schema.org/latitude> "42.3848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://schema.org/name> "DURHAM CENTER MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1231a8518826428d86be948bfa7436e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://schema.org/addressLocality> "EAST DURHAM" .
+<http://lodlaundromat.org/.well-known/genid/N9b6969e822514638864b8fb0bb830910> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2ad2da9d73884039b521d6a1f6fa11b9> <http://schema.org/longitude> "-74.1208"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b6969e822514638864b8fb0bb830910> <http://schema.org/value> "149783"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncef532f28c1c4c49b0313e32dd4b8b51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://schema.org/streetAddress> "PO BOX 192" .
+<http://lodlaundromat.org/.well-known/genid/Nfa621fd41c224d589798e504b9e871a9> <http://schema.org/addressRegion> "NY" .
+

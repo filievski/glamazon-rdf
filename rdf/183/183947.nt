@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/name> "Heimatmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N25dc46fc491040dab66bd7c29d176ea5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfe46c84a97e44701ac699c29b6b5f3c2> <http://schema.org/value> "183947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://schema.org/streetAddress> "Von-Riedheim-Stra\u00DFe 6" .
+<http://lodlaundromat.org/.well-known/genid/N25dc46fc491040dab66bd7c29d176ea5> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4575&mlon=10.3522#map=15/48.4575/10.3522> .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://schema.org/addressLocality> "Rettenbach" .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N25dc46fc491040dab66bd7c29d176ea5> .
+<http://lodlaundromat.org/.well-known/genid/Nfe46c84a97e44701ac699c29b6b5f3c2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> <http://schema.org/postalCode> "89364" .
+<http://lodlaundromat.org/.well-known/genid/N78d13edda90c40398202d56727685fb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N946337b7fd724e5d8f4e6962e2ab18e3> .
+<http://lodlaundromat.org/.well-known/genid/Nfe46c84a97e44701ac699c29b6b5f3c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25dc46fc491040dab66bd7c29d176ea5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfe46c84a97e44701ac699c29b6b5f3c2> .
+<http://lodlaundromat.org/.well-known/genid/N78d13edda90c40398202d56727685fb4> <http://schema.org/longitude> "10.3522"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78d13edda90c40398202d56727685fb4> <http://schema.org/latitude> "48.4575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25dc46fc491040dab66bd7c29d176ea5> <http://schema.org/url> <http://www.museums.io/en/museums/183947> .
+<http://lodlaundromat.org/.well-known/genid/N93bd85fddc7e4225b7081cd2bf51bb93> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78d13edda90c40398202d56727685fb4> .
+

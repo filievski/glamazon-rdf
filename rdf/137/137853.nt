@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9059980af694de2a5011a99272feda4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N743e0975792740308dd419f75368f87c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://schema.org/streetAddress> "PO BOX 880" .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf9059980af694de2a5011a99272feda4> .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://schema.org/addressLocality> "JACKSONVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.732&mlon=-90.2386#map=15/39.732/-90.2386> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/name> "CHAPIN COMMUNITY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> <http://schema.org/id> "8401700998" .
+<http://lodlaundromat.org/.well-known/genid/N743e0975792740308dd419f75368f87c> <http://schema.org/longitude> "-90.2386"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N743e0975792740308dd419f75368f87c> <http://schema.org/latitude> "39.732"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf9059980af694de2a5011a99272feda4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N23e1144302b24ec88601ad58ccd93565> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N743e0975792740308dd419f75368f87c> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a14f907c2d4467a12e5fbd66144ed2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9059980af694de2a5011a99272feda4> <http://schema.org/value> "137853"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://schema.org/postalCode> "62650" .
+<http://lodlaundromat.org/.well-known/genid/N3c8b54198b6643d0bc026d0e603927a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://schema.org/streetAddress> "PO BOX 889" .
+<http://lodlaundromat.org/.well-known/genid/Ndd91e41665c3418888b5ae69e2b4ab98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndd91e41665c3418888b5ae69e2b4ab98> .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://schema.org/addressLocality> "TUCSON" .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/name> "JEWISH HISTORY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.221&mlon=-110.972#map=15/32.221/-110.972> .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd373cd4e073745b5b828e3898f6bcf68> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd373cd4e073745b5b828e3898f6bcf68> <http://schema.org/value> "129483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8b25b389753e4840a07afaacd9a54a01> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd373cd4e073745b5b828e3898f6bcf68> .
+<http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3444e23d48664faf9e60dbc54940acf1> <http://schema.org/postalCode> "85702-0889" .
+<http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndd91e41665c3418888b5ae69e2b4ab98> <http://schema.org/latitude> "32.221"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda71f9ed18074d8e8f0f66ab68f9de4e> <http://schema.org/id> "8400400385" .
+<http://lodlaundromat.org/.well-known/genid/Nd373cd4e073745b5b828e3898f6bcf68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndd91e41665c3418888b5ae69e2b4ab98> <http://schema.org/longitude> "-110.972"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/Nb80f43b8f0884a97a31a3739790bda71> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb80f43b8f0884a97a31a3739790bda71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndab89548a74846759edfb7f9a5fa9ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4a8d09b194874e618cc26dcce6fecc2d> <http://schema.org/url> <http://www.museums.io/en/museums/185458> .
+<http://lodlaundromat.org/.well-known/genid/Ndab89548a74846759edfb7f9a5fa9ae1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4a8d09b194874e618cc26dcce6fecc2d> .
+<http://lodlaundromat.org/.well-known/genid/N64439ac357094824b7781c52ee11197c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndab89548a74846759edfb7f9a5fa9ae1> <http://schema.org/name> "Museum Centre of Turku, Pharmacy Museum and The Qwensel House"@en .
+<http://lodlaundromat.org/.well-known/genid/N4a8d09b194874e618cc26dcce6fecc2d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a8d09b194874e618cc26dcce6fecc2d> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nb80f43b8f0884a97a31a3739790bda71> <http://schema.org/value> "185458"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64439ac357094824b7781c52ee11197c> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Ndab89548a74846759edfb7f9a5fa9ae1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb80f43b8f0884a97a31a3739790bda71> .
+<http://lodlaundromat.org/.well-known/genid/Ndab89548a74846759edfb7f9a5fa9ae1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N64439ac357094824b7781c52ee11197c> .
+<http://lodlaundromat.org/.well-known/genid/N4a8d09b194874e618cc26dcce6fecc2d> <http://schema.org/@Type> "Dataset" .
+

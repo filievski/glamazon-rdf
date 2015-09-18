@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb1352c25154f479e983d00046507a9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> .
+<http://lodlaundromat.org/.well-known/genid/Ne67a4a62506a480c904c20dec9553f37> <http://schema.org/value> "151840"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne67a4a62506a480c904c20dec9553f37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne67a4a62506a480c904c20dec9553f37> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.3503&mlon=-80.1955#map=15/35.3503/-80.1955> .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb1352c25154f479e983d00046507a9d6> .
+<http://lodlaundromat.org/.well-known/genid/Nb1352c25154f479e983d00046507a9d6> <http://schema.org/longitude> "-80.1955"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1352c25154f479e983d00046507a9d6> <http://schema.org/latitude> "35.3503"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> <http://schema.org/id> "8403700711" .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/name> "STANLEY COUNTY HISTORIC PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf905ed2a47d04adbbcad63543a3738f8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne67a4a62506a480c904c20dec9553f37> .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N7e537428b2ce4736a9a77b8f8b7e392e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://schema.org/addressLocality> "ALBEMARLE" .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://schema.org/postalCode> "28001" .
+<http://lodlaundromat.org/.well-known/genid/N28b6e2607c714a8bb45a39e5288eb011> <http://schema.org/streetAddress> "245 E MAIN ST" .
+

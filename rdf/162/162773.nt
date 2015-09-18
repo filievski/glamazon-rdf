@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> <http://schema.org/id> "8405500222" .
+<http://lodlaundromat.org/.well-known/genid/N546cc38d2d5148599fa2f96462de1228> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N546cc38d2d5148599fa2f96462de1228> .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://schema.org/postalCode> "53223" .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://schema.org/addressLocality> "BROWN DEER" .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://schema.org/streetAddress> "6543 W FLORAL LANE" .
+<http://lodlaundromat.org/.well-known/genid/Nbd636e83ad204250b5cfb23db47f892c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N546cc38d2d5148599fa2f96462de1228> <http://schema.org/longitude> "-87.9912"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N546cc38d2d5148599fa2f96462de1228> <http://schema.org/latitude> "43.1899"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbd636e83ad204250b5cfb23db47f892c> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/name> "BROWN DEER HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbd636e83ad204250b5cfb23db47f892c> <http://schema.org/value> "162773"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> .
+<http://lodlaundromat.org/.well-known/genid/Nbd636e83ad204250b5cfb23db47f892c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> .
+<http://lodlaundromat.org/.well-known/genid/N51d29ce84ffd4016bc8febc64689f609> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1899&mlon=-87.9912#map=15/43.1899/-87.9912> .
+<http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N615e95b6f39e421ebbea0c3ba5434eaa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1cbb06557eea47a9be393ea6d6db5e66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

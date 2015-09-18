@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N31276fd5b68345c48e4f3ee516509097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N31276fd5b68345c48e4f3ee516509097> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5dbb8464168a4708b55c3f67753b0f41> <http://schema.org/latitude> "34.3677"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> .
+<http://lodlaundromat.org/.well-known/genid/N31276fd5b68345c48e4f3ee516509097> <http://schema.org/value> "151204"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/name> "HISTORICAL SOCIETY-TOPSAIL"@en .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N31276fd5b68345c48e4f3ee516509097> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/telephone> "+1 (910) 328-8663" .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://schema.org/postalCode> "28445" .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5dbb8464168a4708b55c3f67753b0f41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://schema.org/streetAddress> "720 CHANNEL BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N5dbb8464168a4708b55c3f67753b0f41> <http://schema.org/longitude> "-77.6292"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> <http://schema.org/id> "8403700075" .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.3677&mlon=-77.6292#map=15/34.3677/-77.6292> .
+<http://lodlaundromat.org/.well-known/genid/N425a7b34de444757bcd9d9efb4b869ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5dbb8464168a4708b55c3f67753b0f41> .
+<http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9e25efed064e4eb4857e76e9cbe4fc29> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N70621d67f4a242e796f39ed29a54b4e7> <http://schema.org/addressLocality> "HOLLY RIDGE" .
+

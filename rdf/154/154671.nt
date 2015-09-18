@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda38ed5d822c489cb8224a0c23cc6e43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nda38ed5d822c489cb8224a0c23cc6e43> .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.5641&mlon=-123.26#map=15/44.5641/-123.26> .
+<http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://schema.org/streetAddress> "214 NW MONROE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> .
+<http://lodlaundromat.org/.well-known/genid/Ne814aea7d7614babb849583ff7b6235c> <http://schema.org/value> "154671"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne814aea7d7614babb849583ff7b6235c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/name> "CORVALLIS ENVIRONMENTAL CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/url> <http://www.corvallisenvironmentalcenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nda38ed5d822c489cb8224a0c23cc6e43> <http://schema.org/longitude> "-123.26"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda38ed5d822c489cb8224a0c23cc6e43> <http://schema.org/latitude> "44.5641"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne814aea7d7614babb849583ff7b6235c> .
+<http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> <http://schema.org/id> "8404100464" .
+<http://lodlaundromat.org/.well-known/genid/Ne814aea7d7614babb849583ff7b6235c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N895588c925f84171b3c115cdfd280776> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://schema.org/addressLocality> "CORVALLIS" .
+<http://lodlaundromat.org/.well-known/genid/Nd7e9e6001bc24fe6b1d30061c2d22080> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://schema.org/postalCode> "97339-2189" .
+<http://lodlaundromat.org/.well-known/genid/N6d471e492fb64237bca73c5b3a373c69> <http://schema.org/addressCountry> "United States" .
+

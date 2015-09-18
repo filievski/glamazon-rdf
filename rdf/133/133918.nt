@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://schema.org/streetAddress> "PO BOX 16918" .
+<http://lodlaundromat.org/.well-known/genid/N62a989971b064b4baf7ce423f61c7b8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nabe0a13c2c4642b8be639a2ae1c7fa42> .
+<http://lodlaundromat.org/.well-known/genid/Nabe0a13c2c4642b8be639a2ae1c7fa42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> <http://schema.org/id> "8400900393" .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> .
+<http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/name> "JEWISH HISTORICAL SOCIETY OF GREATER STAMFORD INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nabe0a13c2c4642b8be639a2ae1c7fa42> <http://schema.org/value> "133918"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nabe0a13c2c4642b8be639a2ae1c7fa42> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://schema.org/addressLocality> "STAMFORD" .
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N62a989971b064b4baf7ce423f61c7b8b> .
+<http://lodlaundromat.org/.well-known/genid/N62a989971b064b4baf7ce423f61c7b8b> <http://schema.org/latitude> "41.0791"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N62a989971b064b4baf7ce423f61c7b8b> <http://schema.org/longitude> "-73.5444"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N00c16dcf16d54ed6916ab6ea813e4f3c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0791&mlon=-73.5444#map=15/41.0791/-73.5444> .
+<http://lodlaundromat.org/.well-known/genid/Na1a3f14d283c4f5dae7ca088183cf71f> <http://schema.org/postalCode> "06905-6905" .
+<http://lodlaundromat.org/.well-known/genid/N8712a4b40c7f486885b9653f9cc1baa0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

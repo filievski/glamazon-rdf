@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> .
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N629240db26494cfbaf8b28167f79d7f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N629240db26494cfbaf8b28167f79d7f0> <http://schema.org/value> "134597"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N16bf627de3de493ebef39d3fa679c74d> <http://schema.org/latitude> "27.8916"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N16bf627de3de493ebef39d3fa679c74d> .
+<http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> .
+<http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> <http://schema.org/id> "8401200151" .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.8916&mlon=-82.7708#map=15/27.8916/-82.7708> .
+<http://lodlaundromat.org/.well-known/genid/N16bf627de3de493ebef39d3fa679c74d> <http://schema.org/longitude> "-82.7708"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N16bf627de3de493ebef39d3fa679c74d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N22d2e02dc9c74d7293e568c6d0553ff6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://schema.org/streetAddress> "13094 95TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://schema.org/addressLocality> "LARGO" .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/name> "KID'S FIREHOUSE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N9767fc5dc19c40ecbbf4ab3a6446306e> <http://schema.org/postalCode> "33773" .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/telephone> "+1 (727) 585-5360" .
+<http://lodlaundromat.org/.well-known/genid/N8872ebf6d30d47589fbfe6b04881dd0d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N629240db26494cfbaf8b28167f79d7f0> .
+<http://lodlaundromat.org/.well-known/genid/N629240db26494cfbaf8b28167f79d7f0> <http://schema.org/name> "id" .
+

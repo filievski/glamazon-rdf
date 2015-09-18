@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://schema.org/postalCode> "02645-2625" .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/name> "FRIENDS OF THE SOUTH HARWICH MEETINGHOUSE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> .
+<http://lodlaundromat.org/.well-known/genid/Nfe350482aec847a4b2584f5fa93cd49b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na09a285c465b495c83542acc43cc683a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na09a285c465b495c83542acc43cc683a> .
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://schema.org/streetAddress> "237 SOUTH ST" .
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://schema.org/addressLocality> "HARWICH" .
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> <http://schema.org/id> "8402501026" .
+<http://lodlaundromat.org/.well-known/genid/Nfe350482aec847a4b2584f5fa93cd49b> <http://schema.org/latitude> "41.6826"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6826&mlon=-70.0843#map=15/41.6826/-70.0843> .
+<http://lodlaundromat.org/.well-known/genid/Nfe350482aec847a4b2584f5fa93cd49b> <http://schema.org/longitude> "-70.0843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na09a285c465b495c83542acc43cc683a> <http://schema.org/value> "143396"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N93ef006253624d5ab789c6276cbec2d0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfe350482aec847a4b2584f5fa93cd49b> .
+<http://lodlaundromat.org/.well-known/genid/Na09a285c465b495c83542acc43cc683a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N751a7296c3e74e449e5489a915a84807> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N635d8f67fb3849efa75ce0476c1b62f2> <http://schema.org/@Type> "Dataset" .
+

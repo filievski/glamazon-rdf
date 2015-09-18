@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7212f6baa34b49f584104fe2a6ae9927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/url> <http://www.riverheadfoundation.org/> .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://schema.org/addressLocality> "RIVERHEAD" .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7212f6baa34b49f584104fe2a6ae9927> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N69805360be8b45bc9bb0a71568b9946a> <http://schema.org/latitude> "40.9189"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9189&mlon=-72.6561#map=15/40.9189/-72.6561> .
+<http://lodlaundromat.org/.well-known/genid/N7212f6baa34b49f584104fe2a6ae9927> <http://schema.org/value> "149352"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://schema.org/postalCode> "11901-2556" .
+<http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> <http://schema.org/id> "8403600646" .
+<http://lodlaundromat.org/.well-known/genid/N69805360be8b45bc9bb0a71568b9946a> <http://schema.org/longitude> "-72.6561"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N69805360be8b45bc9bb0a71568b9946a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7212f6baa34b49f584104fe2a6ae9927> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N69805360be8b45bc9bb0a71568b9946a> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/telephone> "+1 (631) 369-9840" .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/name> "RIVERHEAD FOUNDATION FOR MARINE RESEARCH AND PRESERVATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://schema.org/streetAddress> "467 E MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N17f39bdc49be445ab592aea5a9550b09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1fdac7842d204835922b2b884a90925b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> .
+<http://lodlaundromat.org/.well-known/genid/N51443dcb1b3c4d5082f88090684ba3f4> <http://schema.org/name> "us" .
+

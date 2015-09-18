@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.7556&mlon=-122.49#map=15/48.7556/-122.49> .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://schema.org/postalCode> "98225-2200" .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/name> "MUSEUMWOW COM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> <http://schema.org/id> "8405300607" .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ca9751caeea4357a15899693f42457a> .
+<http://lodlaundromat.org/.well-known/genid/N2ca9751caeea4357a15899693f42457a> <http://schema.org/longitude> "-122.49"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c38a54a35334c30ac6d92c1eeb8b13e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://schema.org/streetAddress> "1801 ROEDER AVENUE SUITE 132" .
+<http://lodlaundromat.org/.well-known/genid/N2ca9751caeea4357a15899693f42457a> <http://schema.org/latitude> "48.7556"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N8d36858e00ab48fba297a7c60960ce0d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c38a54a35334c30ac6d92c1eeb8b13e> .
+<http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3eecce66274640ee932aeedd72e1ef75> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N534dfaaad0e64a0191304074675ca10f> <http://schema.org/addressLocality> "BELLINGHAM" .
+<http://lodlaundromat.org/.well-known/genid/N2ca9751caeea4357a15899693f42457a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c38a54a35334c30ac6d92c1eeb8b13e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c38a54a35334c30ac6d92c1eeb8b13e> <http://schema.org/value> "162158"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

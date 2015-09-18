@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> .
+<http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N0e50e5a9d3514af0a3039b2c64682c59> <http://schema.org/latitude> "41.6418"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6418&mlon=-83.545#map=15/41.6418/-83.545> .
+<http://lodlaundromat.org/.well-known/genid/Nd94ab7fa7a3446cc8f18bdfc1dda8211> <http://schema.org/value> "153459"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://schema.org/postalCode> "43699-0099" .
+<http://lodlaundromat.org/.well-known/genid/Nd94ab7fa7a3446cc8f18bdfc1dda8211> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> <http://schema.org/id> "8403901237" .
+<http://lodlaundromat.org/.well-known/genid/Nd94ab7fa7a3446cc8f18bdfc1dda8211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://schema.org/streetAddress> "PO BOX 10099" .
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://schema.org/addressLocality> "TOLEDO" .
+<http://lodlaundromat.org/.well-known/genid/N0e50e5a9d3514af0a3039b2c64682c59> <http://schema.org/longitude> "-83.545"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0e50e5a9d3514af0a3039b2c64682c59> .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/name> "RUTHERFORD B & LUCY WEBB HAYES FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd94ab7fa7a3446cc8f18bdfc1dda8211> .
+<http://lodlaundromat.org/.well-known/genid/Nf48c63ec61374725af74f17766e45ffe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> .
+<http://lodlaundromat.org/.well-known/genid/N0e50e5a9d3514af0a3039b2c64682c59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na7cce85f5ac444d188f41520e99121b0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N45ae7d07cf574aca8aa9ab63c07a5751> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

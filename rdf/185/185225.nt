@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N9222ccb23c544710b5ef0a043a246ba1> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/name> "KUH Hospital Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndfd3d499199b4733a65d3eb7ecc3d6d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndfd3d499199b4733a65d3eb7ecc3d6d6> .
+<http://lodlaundromat.org/.well-known/genid/N1933c5fcffa44c7da3e886d501860580> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne906bb243c6a406d97c15ec858b54d9a> <http://schema.org/url> <http://www.museums.io/en/museums/185225> .
+<http://lodlaundromat.org/.well-known/genid/Ne906bb243c6a406d97c15ec858b54d9a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndfd3d499199b4733a65d3eb7ecc3d6d6> <http://schema.org/latitude> "27.6627"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndfd3d499199b4733a65d3eb7ecc3d6d6> <http://schema.org/longitude> "27.6627"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9222ccb23c544710b5ef0a043a246ba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne906bb243c6a406d97c15ec858b54d9a> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N1933c5fcffa44c7da3e886d501860580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne906bb243c6a406d97c15ec858b54d9a> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/url> <http://www.psshp.fi/sairaanhoitopiiri/sairaalamuseo> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.6627&mlon=27.6627#map=15/27.6627/27.6627> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1933c5fcffa44c7da3e886d501860580> .
+<http://lodlaundromat.org/.well-known/genid/Ne906bb243c6a406d97c15ec858b54d9a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1933c5fcffa44c7da3e886d501860580> <http://schema.org/value> "185225"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84b3af88a750466a81ad3f88b7e06d7c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9222ccb23c544710b5ef0a043a246ba1> .
+

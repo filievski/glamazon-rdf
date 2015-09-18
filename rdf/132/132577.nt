@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://schema.org/postalCode> "92652-0427" .
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/url> <http://www.timotca.org/> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5e832920b95c4d4d97385ba61f88fe0f> .
+<http://lodlaundromat.org/.well-known/genid/Ne61873fe51b4479fb096dfb3c6cab202> <http://schema.org/longitude> "-117.783"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> .
+<http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://schema.org/streetAddress> "PO BOX 427" .
+<http://lodlaundromat.org/.well-known/genid/Ne61873fe51b4479fb096dfb3c6cab202> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.5431&mlon=-117.783#map=15/33.5431/-117.783> .
+<http://lodlaundromat.org/.well-known/genid/Ne61873fe51b4479fb096dfb3c6cab202> <http://schema.org/latitude> "33.5431"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne61873fe51b4479fb096dfb3c6cab202> .
+<http://lodlaundromat.org/.well-known/genid/N07f756eca0af403bb73dc74a6dc9e327> <http://schema.org/addressLocality> "LAGUANA BEACH" .
+<http://lodlaundromat.org/.well-known/genid/N5e832920b95c4d4d97385ba61f88fe0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1cc28a9b0ddc453bb75e403da6ba08cc> <http://schema.org/name> "INTERNATIONAL MUSEUM OF 20TH CENTURY ARTS TIMOTCA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc0face90766849b9be9a9a2477ee942c> <http://schema.org/id> "8400602703" .
+<http://lodlaundromat.org/.well-known/genid/N5e832920b95c4d4d97385ba61f88fe0f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5e832920b95c4d4d97385ba61f88fe0f> <http://schema.org/value> "132577"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://schema.org/postalCode> "54765-0132" .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.1778&mlon=-91.6865#map=15/45.1778/-91.6865> .
+<http://lodlaundromat.org/.well-known/genid/N6ab507cfac1f41e3a28d4dcf10a1c141> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd2b218d1e8724e8ea7ccb984b76193dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://schema.org/streetAddress> "PO BOX 132" .
+<http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> <http://schema.org/id> "8405500565" .
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Nd2b218d1e8724e8ea7ccb984b76193dd> <http://schema.org/longitude> "-91.6865"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd2b218d1e8724e8ea7ccb984b76193dd> <http://schema.org/latitude> "45.1778"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> .
+<http://lodlaundromat.org/.well-known/genid/N6ab507cfac1f41e3a28d4dcf10a1c141> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6ab507cfac1f41e3a28d4dcf10a1c141> .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd2b218d1e8724e8ea7ccb984b76193dd> .
+<http://lodlaundromat.org/.well-known/genid/N6ab507cfac1f41e3a28d4dcf10a1c141> <http://schema.org/value> "163116"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2748c5cb9c36448b9f414511ae3eefb9> <http://schema.org/name> "SAND CREEK ARTS RECREATION AND THEATRE CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a3581c0d4d043e4b81dea0b17a8b739> <http://schema.org/addressLocality> "SAND CREEK" .
+<http://lodlaundromat.org/.well-known/genid/N32ee023fb7a547d1afcd1b90abd70635> <http://schema.org/url> <http://www.imls.gov/> .
+

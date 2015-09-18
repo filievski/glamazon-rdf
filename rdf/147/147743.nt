@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N4f6ada03c4874e91b84d7bc9a7d95ea5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/telephone> "+1 (609) 267-4488" .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N98f017760e3f4fcf9a92ba6842286d58> .
+<http://lodlaundromat.org/.well-known/genid/N4f6ada03c4874e91b84d7bc9a7d95ea5> <http://schema.org/longitude> "-74.8358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f6ada03c4874e91b84d7bc9a7d95ea5> .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://schema.org/addressLocality> "LUMBERTON" .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://schema.org/streetAddress> "68 STACY HAINES RD" .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://schema.org/postalCode> "08048" .
+<http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N98f017760e3f4fcf9a92ba6842286d58> <http://schema.org/value> "147743"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/url> <http://airvictorymuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> <http://schema.org/id> "8403400111" .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/name> "AIR VICTORY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f6ada03c4874e91b84d7bc9a7d95ea5> <http://schema.org/latitude> "39.9409"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f58a8a514d64bddb6ddc252c00dfdea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N260242442f7d4b0f999d01aa03fc0010> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9409&mlon=-74.8358#map=15/39.9409/-74.8358> .
+<http://lodlaundromat.org/.well-known/genid/N635e2d0965a247808f10ae30a0c1d16d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N98f017760e3f4fcf9a92ba6842286d58> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98f017760e3f4fcf9a92ba6842286d58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

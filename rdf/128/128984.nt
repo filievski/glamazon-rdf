@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> <http://schema.org/id> "8400200055" .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/name> "FAIRBANKS CHILDRENS MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://schema.org/streetAddress> "PO BOX 72477" .
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://schema.org/postalCode> "99707-2477" .
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3ea492337e764ff2972283a49516f6a3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb416fe98959846819d91b42ba9849b92> <http://schema.org/latitude> "64.8426"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb416fe98959846819d91b42ba9849b92> .
+<http://lodlaundromat.org/.well-known/genid/N3ea492337e764ff2972283a49516f6a3> <http://schema.org/value> "128984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb416fe98959846819d91b42ba9849b92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N463fc7ff978a4a38a7c503bd2850b529> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ea492337e764ff2972283a49516f6a3> .
+<http://lodlaundromat.org/.well-known/genid/N6e01f953fdd24b37861396bf39e4f1b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=64.8426&mlon=-147.725#map=15/64.8426/-147.725> .
+<http://lodlaundromat.org/.well-known/genid/N29aebd387e8140bbb41154494a41203f> <http://schema.org/addressLocality> "FAIRBANKS" .
+<http://lodlaundromat.org/.well-known/genid/Nb416fe98959846819d91b42ba9849b92> <http://schema.org/longitude> "-147.725"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ea492337e764ff2972283a49516f6a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

@@ -1,0 +1,35 @@
+<http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc17faf4ff5ea4ae580de2c8dba3b8f7a> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> .
+<http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb7243cb440644898b1639981e5ba7e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/Nfb224469e0fa42e996307cc74cab7e0f> <http://schema.org/url> <https://www.facebook.com/citymuseum> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nfb7243cb440644898b1639981e5ba7e7> .
+<http://lodlaundromat.org/.well-known/genid/Nfb7243cb440644898b1639981e5ba7e7> <http://schema.org/contactType> "Twitter" .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://schema.org/addressLocality> "SAINT LOUIS" .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> .
+<http://lodlaundromat.org/.well-known/genid/N8f0ff3987bcd4385a861a08c751fa9cf> <http://schema.org/value> "146136"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8f0ff3987bcd4385a861a08c751fa9cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8f0ff3987bcd4385a861a08c751fa9cf> .
+<http://lodlaundromat.org/.well-known/genid/N8f0ff3987bcd4385a861a08c751fa9cf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/name> "CITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nfb224469e0fa42e996307cc74cab7e0f> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/telephone> "+1 (314) 231-2489" .
+<http://lodlaundromat.org/.well-known/genid/Nc17faf4ff5ea4ae580de2c8dba3b8f7a> <http://schema.org/latitude> "38.6331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc17faf4ff5ea4ae580de2c8dba3b8f7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://schema.org/streetAddress> "701 N 15TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> <http://schema.org/id> "8402900565" .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.6331&mlon=-90.2002#map=15/38.6331/-90.2002> .
+<http://lodlaundromat.org/.well-known/genid/Ne85c19ad48b74c2ea66f75393f89e9cd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc17faf4ff5ea4ae580de2c8dba3b8f7a> <http://schema.org/longitude> "-90.2002"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://schema.org/postalCode> "63103-1925" .
+<http://lodlaundromat.org/.well-known/genid/Nfb7243cb440644898b1639981e5ba7e7> <http://schema.org/url> <https://twitter.com/citymuseum> .
+<http://lodlaundromat.org/.well-known/genid/N78d09b3edb3d4017b9b2c296370ec19f> <http://schema.org/url> <http://www.citymuseum.org/site/> .
+<http://lodlaundromat.org/.well-known/genid/N88de788a37b54691a248455bbacdd92b> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Nfb224469e0fa42e996307cc74cab7e0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/Nfb224469e0fa42e996307cc74cab7e0f> <http://schema.org/contactType> "Facebook" .
+

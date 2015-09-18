@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9b4476a1f10a46748d2cb6e2d7ea2b99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://schema.org/postalCode> "04742-1193" .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> .
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://schema.org/addressLocality> "FORT FAIRFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N9b4476a1f10a46748d2cb6e2d7ea2b99> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> .
+<http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/name> "FRONTIER HERITAGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N168df49da69d4d32acc533bcc3b805dd> <http://schema.org/longitude> "-67.8259"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N168df49da69d4d32acc533bcc3b805dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9b4476a1f10a46748d2cb6e2d7ea2b99> .
+<http://lodlaundromat.org/.well-known/genid/N168df49da69d4d32acc533bcc3b805dd> <http://schema.org/latitude> "46.7681"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.7681&mlon=-67.8259#map=15/46.7681/-67.8259> .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N168df49da69d4d32acc533bcc3b805dd> .
+<http://lodlaundromat.org/.well-known/genid/Nbd530b7950954f99afde07e6554c6e74> <http://schema.org/streetAddress> "18 COMMUNITY CENTER DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N60c28e542b1a4a42a47ff35647da9330> <http://schema.org/id> "8402300250" .
+<http://lodlaundromat.org/.well-known/genid/N22858c7f06fd4adca5149ea459936154> <http://schema.org/telephone> "+1 (207) 476-5093" .
+<http://lodlaundromat.org/.well-known/genid/N9b4476a1f10a46748d2cb6e2d7ea2b99> <http://schema.org/value> "141401"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

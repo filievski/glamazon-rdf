@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://schema.org/addressLocality> "MILLBRAE" .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na23f9deeaf5a4997ba216a2769d4242f> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://schema.org/postalCode> "94030" .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10d01903ed4e46989149b7aa5619a33a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na23f9deeaf5a4997ba216a2769d4242f> <http://schema.org/longitude> "-122.401"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na23f9deeaf5a4997ba216a2769d4242f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na23f9deeaf5a4997ba216a2769d4242f> <http://schema.org/latitude> "37.6024"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/url> <http://www.millbraehs.org/> .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/name> "MILLBRAE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N48d4c5688b414561ab51d3f2b1c35de5> <http://schema.org/id> "8400602396" .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6024&mlon=-122.401#map=15/37.6024/-122.401> .
+<http://lodlaundromat.org/.well-known/genid/N14710deceaa2412c9a0e706b93de6f6e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N10d01903ed4e46989149b7aa5619a33a> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://schema.org/streetAddress> "PO BOX 511" .
+<http://lodlaundromat.org/.well-known/genid/N10d01903ed4e46989149b7aa5619a33a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0726a36b77d346df844b76aed1b3c656> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N10d01903ed4e46989149b7aa5619a33a> <http://schema.org/value> "132270"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

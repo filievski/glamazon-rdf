@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> <http://schema.org/addressLocality> "Citt\u00E0 di Castello" .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> .
+<http://lodlaundromat.org/.well-known/genid/N8c668a8c7d684eabbaf798bc617b1ea3> <http://schema.org/value> "189210"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/telephone> "+39 0758554705" .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c668a8c7d684eabbaf798bc617b1ea3> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nfb0020e0e01f4edba190f21fb15e53d3> .
+<http://lodlaundromat.org/.well-known/genid/Nfb0020e0e01f4edba190f21fb15e53d3> <http://schema.org/contentUrl> <http://images.museums.io/gw-ZWNMS7vqwSH5BHTyqRHw5nuA=/1000x1000/museums/logos/000/189/210/original/418b5c16e5d0dccfdbbebceaea8affd5fc6379.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nf5cd939bf1324e2a9810c2a0ab3434c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf5cd939bf1324e2a9810c2a0ab3434c9> .
+<http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf5cd939bf1324e2a9810c2a0ab3434c9> <http://schema.org/longitude> "12.1315"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/name> "Oratorio di San Crescentino"@it .
+<http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N2fb0a2965a864df19c966e51cc7e5ca3> <http://schema.org/streetAddress> "Localit\u00E0 Morra, " .
+<http://lodlaundromat.org/.well-known/genid/N8c668a8c7d684eabbaf798bc617b1ea3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> .
+<http://lodlaundromat.org/.well-known/genid/Ndd57663ca2c746d8a5501f76ede71cdb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.3852&mlon=12.1315#map=15/43.3852/12.1315> .
+<http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfb0020e0e01f4edba190f21fb15e53d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nf5cd939bf1324e2a9810c2a0ab3434c9> <http://schema.org/latitude> "43.3852"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ef5b0d3c4a6467682b9e09c3f3dd0fa> <http://schema.org/id> "100694" .
+<http://lodlaundromat.org/.well-known/genid/N8c668a8c7d684eabbaf798bc617b1ea3> <http://schema.org/name> "id" .
+

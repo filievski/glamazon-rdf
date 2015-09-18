@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> .
+<http://lodlaundromat.org/.well-known/genid/N610d49021d90459887fa6efad1312606> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://schema.org/streetAddress> "1500 PARK AVE" .
+<http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Neba55259c37e4a5b88211e61f8d4ce02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/name> "FRIENDS-SANTA CRUZ STATE PRK"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> <http://schema.org/id> "8400600452" .
+<http://lodlaundromat.org/.well-known/genid/N610d49021d90459887fa6efad1312606> <http://schema.org/latitude> "36.9796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://schema.org/addressLocality> "CAPITOLA" .
+<http://lodlaundromat.org/.well-known/genid/N7167c9d9520846e4b4f46ce44c96b639> <http://schema.org/postalCode> "95010" .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N610d49021d90459887fa6efad1312606> .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Neba55259c37e4a5b88211e61f8d4ce02> .
+<http://lodlaundromat.org/.well-known/genid/N610d49021d90459887fa6efad1312606> <http://schema.org/longitude> "-121.939"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/telephone> "+1 (831) 462-3113" .
+<http://lodlaundromat.org/.well-known/genid/Ncee6f2d3f40b4313b6c21a8cf8987dca> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/url> <http://thatsmypark.org/> .
+<http://lodlaundromat.org/.well-known/genid/Neba55259c37e4a5b88211e61f8d4ce02> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N35eff5fa5e4b4e3eabdbae8ece9c4dca> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.9796&mlon=-121.939#map=15/36.9796/-121.939> .
+<http://lodlaundromat.org/.well-known/genid/Neba55259c37e4a5b88211e61f8d4ce02> <http://schema.org/value> "130326"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

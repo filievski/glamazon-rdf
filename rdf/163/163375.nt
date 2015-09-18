@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3a4196463563484489af7e2e0cd7fdde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N3a4196463563484489af7e2e0cd7fdde> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne8650376171b4da28c8be1de7fc24748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne8650376171b4da28c8be1de7fc24748> <http://schema.org/longitude> "-88.447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.782&mlon=-88.447#map=15/43.782/-88.447> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/name> "CHILDRENS MUSEUM OF FOND DU LAC INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://schema.org/postalCode> "54935-2342" .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/url> <http://www.cmfdl.org/> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne8650376171b4da28c8be1de7fc24748> .
+<http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> <http://schema.org/id> "8405500824" .
+<http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> .
+<http://lodlaundromat.org/.well-known/genid/N3b9f33984e9c4e34bcb9d9c93af25119> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9f4fe890be354eb491aa03495732f82a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a4196463563484489af7e2e0cd7fdde> .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne8650376171b4da28c8be1de7fc24748> <http://schema.org/latitude> "43.782"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://schema.org/streetAddress> "116 N MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Na0eecee4171c4492820a5ed51a13506a> <http://schema.org/addressLocality> "FOND DU LAC" .
+<http://lodlaundromat.org/.well-known/genid/N3a4196463563484489af7e2e0cd7fdde> <http://schema.org/value> "163375"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

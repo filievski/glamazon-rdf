@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5b69ab5c3a604440801160f19fe127f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N6e0c93a264744f81bc6b7e22d0502ed8> .
+<http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> <http://schema.org/id> "103378" .
+<http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> <http://schema.org/addressLocality> "Nuoro" .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/telephone> "+39 0784 252110" .
+<http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> <http://schema.org/addressRegion> "Sardegna" .
+<http://lodlaundromat.org/.well-known/genid/N76740bf229f04a5f8cdbfbc98343212f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/url> <http://www.museoman.it/> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> .
+<http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> .
+<http://lodlaundromat.org/.well-known/genid/N6e0c93a264744f81bc6b7e22d0502ed8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5b69ab5c3a604440801160f19fe127f4> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.3215&mlon=9.33363#map=15/40.3215/9.33363> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/name> "Museo MAN - Museo d'arte Provincia di Nuoro"@it .
+<http://lodlaundromat.org/.well-known/genid/N76740bf229f04a5f8cdbfbc98343212f> <http://schema.org/longitude> "9.33363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N76740bf229f04a5f8cdbfbc98343212f> .
+<http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N76740bf229f04a5f8cdbfbc98343212f> <http://schema.org/latitude> "40.3215"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6e0c93a264744f81bc6b7e22d0502ed8> <http://schema.org/contentUrl> <http://images.museums.io/5BjJNa8LSzidPGmp_RtGMlbbpGg=/1000x1000/museums/logos/000/188/304/original/6d6ec1f1ef71815f1aba4d69c7c76cc1b4718a3c.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N5b69ab5c3a604440801160f19fe127f4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5b69ab5c3a604440801160f19fe127f4> <http://schema.org/value> "188304"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc297f3ceac444857850367db3c99819f> <http://schema.org/streetAddress> "Via Satta, 27" .
+<http://lodlaundromat.org/.well-known/genid/N91f22a4f2737467f80e9e9804f6400f9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e995a70e94336abd88b8594d45db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

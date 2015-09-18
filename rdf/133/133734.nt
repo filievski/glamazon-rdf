@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4745&mlon=-72.1003#map=15/41.4745/-72.1003> .
+<http://lodlaundromat.org/.well-known/genid/Nba78bbb5daa846a891b86b7186cbb03f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nba78bbb5daa846a891b86b7186cbb03f> <http://schema.org/value> "133734"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://schema.org/streetAddress> "1819 NORWICH NEW LONDON TPKE" .
+<http://lodlaundromat.org/.well-known/genid/Nf7e46d22a55146a5ae6696b1e1e58d61> <http://schema.org/latitude> "41.4745"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/url> <http://www.mohegan.nsn.us/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/name> "TANTAQUIDGEON INDIAN MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf7e46d22a55146a5ae6696b1e1e58d61> <http://schema.org/longitude> "-72.1003"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> .
+<http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd26cc45d0744ec3b4d8d16f51c6c472> <http://schema.org/id> "8400900209" .
+<http://lodlaundromat.org/.well-known/genid/Nba78bbb5daa846a891b86b7186cbb03f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf7e46d22a55146a5ae6696b1e1e58d61> .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/telephone> "+1 (860) 848-0594" .
+<http://lodlaundromat.org/.well-known/genid/Nf7e46d22a55146a5ae6696b1e1e58d61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://schema.org/addressLocality> "UNCASVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ned8cf08f56dc4c658f103bf91714eb44> <http://schema.org/postalCode> "06382" .
+<http://lodlaundromat.org/.well-known/genid/N7d4e31adfdfb4de7b1ec7b478c1a92de> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nba78bbb5daa846a891b86b7186cbb03f> .
+

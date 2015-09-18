@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nfe4be0dbc26a4c9cb7b6fe2a93be178e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://schema.org/streetAddress> "PO BOX 137" .
+<http://lodlaundromat.org/.well-known/genid/N6617e7cd6b8842a0b17763f686ca0054> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://schema.org/postalCode> "53150" .
+<http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> <http://schema.org/id> "8405500510" .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://schema.org/addressLocality> "MUSKEGO" .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> .
+<http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9038&mlon=-88.1138#map=15/42.9038/-88.1138> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfe4be0dbc26a4c9cb7b6fe2a93be178e> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/name> "MUSKEGO HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfe4be0dbc26a4c9cb7b6fe2a93be178e> <http://schema.org/latitude> "42.9038"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/url> <http://muskegohistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4be0dbc26a4c9cb7b6fe2a93be178e> <http://schema.org/longitude> "-88.1138"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ec30100b6dc43a79380d965ec091b0c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6617e7cd6b8842a0b17763f686ca0054> .
+<http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6617e7cd6b8842a0b17763f686ca0054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N576d23b13a384ad3ad63a60a750e4b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6617e7cd6b8842a0b17763f686ca0054> <http://schema.org/value> "163061"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1e31920ff3cd4b19a66fd8e0688fa93d> <http://schema.org/@Type> "Dataset" .
+

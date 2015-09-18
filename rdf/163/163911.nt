@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nec8c8774ce554f17a84f9efd0a7d4e12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1d5805af0a1c4a1198d97656fac1fdb8> <http://schema.org/latitude> "-36.8603"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nec8c8774ce554f17a84f9efd0a7d4e12> .
+<http://lodlaundromat.org/.well-known/genid/N1d5805af0a1c4a1198d97656fac1fdb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb97599d2a19c4a9c94ad10a468fccadc> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> <http://schema.org/url> <http://victoriancollections.net.au/organisations/goldfields-history-arts-society-inc> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> .
+<http://lodlaundromat.org/.well-known/genid/N1d5805af0a1c4a1198d97656fac1fdb8> <http://schema.org/longitude> "143.732"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb97599d2a19c4a9c94ad10a468fccadc> .
+<http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> <http://schema.org/id> "goldfields-history-arts-society-inc" .
+<http://lodlaundromat.org/.well-known/genid/Nb97599d2a19c4a9c94ad10a468fccadc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nec8c8774ce554f17a84f9efd0a7d4e12> <http://schema.org/value> "163911"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1d5805af0a1c4a1198d97656fac1fdb8> .
+<http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.8603&mlon=143.732#map=15/-36.8603/143.732> .
+<http://lodlaundromat.org/.well-known/genid/N1f0aaf206c514a099da64104f7b37eea> <http://schema.org/name> "Goldfields History & Arts Society"@en .
+<http://lodlaundromat.org/.well-known/genid/Nec8c8774ce554f17a84f9efd0a7d4e12> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N36408d20f5fd45e392d96fe69300f30d> <http://schema.org/name> "au_vic" .
+

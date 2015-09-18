@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> .
+<http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N432e00efde7647f38f62d8f58c8b205e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N432e00efde7647f38f62d8f58c8b205e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7774&mlon=-71.0798#map=15/42.7774/-71.0798> .
+<http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1e023d89bd2741f4b29daf3f4abf722c> .
+<http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N432e00efde7647f38f62d8f58c8b205e> .
+<http://lodlaundromat.org/.well-known/genid/N1e023d89bd2741f4b29daf3f4abf722c> <http://schema.org/longitude> "-71.0798"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfd2e4d8cfccb4d179ca09543b8b45ddd> <http://schema.org/id> "8402500717" .
+<http://lodlaundromat.org/.well-known/genid/N1e023d89bd2741f4b29daf3f4abf722c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N432e00efde7647f38f62d8f58c8b205e> <http://schema.org/value> "143087"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://schema.org/addressLocality> "HAVERHILL" .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://schema.org/streetAddress> "87 WINTER ST" .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://schema.org/postalCode> "01830-5759" .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> .
+<http://lodlaundromat.org/.well-known/genid/N4817ec5e9ba4401e8c6b978e8b0a5056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1e023d89bd2741f4b29daf3f4abf722c> <http://schema.org/latitude> "42.7774"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncd04c452c7e44c9692607bba2a792d5a> <http://schema.org/name> "HISTORIC HAVERHILL INC"@en .
+

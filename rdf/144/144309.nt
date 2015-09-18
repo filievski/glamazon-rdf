@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/name> "BRETHREN HERITAGE ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc536e83c88ae4705a990162980d9ae29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3081&mlon=-86.0413#map=15/44.3081/-86.0413> .
+<http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8a3981d168d141dcb92257771e631953> <http://schema.org/longitude> "-86.0413"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> .
+<http://lodlaundromat.org/.well-known/genid/N8a3981d168d141dcb92257771e631953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc536e83c88ae4705a990162980d9ae29> .
+<http://lodlaundromat.org/.well-known/genid/Nc536e83c88ae4705a990162980d9ae29> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8a3981d168d141dcb92257771e631953> <http://schema.org/latitude> "44.3081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> .
+<http://lodlaundromat.org/.well-known/genid/N0dd517f62a8b4c25865e3db75a7395b9> <http://schema.org/id> "8402600846" .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://schema.org/postalCode> "49619-9706" .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://schema.org/addressLocality> "BRETHREN" .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://schema.org/streetAddress> "13121 GRAF ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nc536e83c88ae4705a990162980d9ae29> <http://schema.org/value> "144309"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N6db654f0251e46f1ad407fa8a3cf9b93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9370c7001d3444ea9adfc5db1dc9b4f6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8a3981d168d141dcb92257771e631953> .
+

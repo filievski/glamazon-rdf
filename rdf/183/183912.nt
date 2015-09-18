@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/name> "Heimatstube Weprowatz"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd227cd0275ce400c8709a9e6386dc56a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N27fbc600b85b43978dea968a48efdb19> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd227cd0275ce400c8709a9e6386dc56a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N278d2110dab74e8eabbc979694425173> <http://schema.org/longitude> "10.958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N27fbc600b85b43978dea968a48efdb19> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N27fbc600b85b43978dea968a48efdb19> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/url> <http://www.weprowatz.de/html/heimatstube.html> .
+<http://lodlaundromat.org/.well-known/genid/N27fbc600b85b43978dea968a48efdb19> <http://schema.org/url> <http://www.museums.io/en/museums/183912> .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://schema.org/streetAddress> "F\u00FCrther Stra\u00DFe 8" .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.4423&mlon=10.958#map=15/49.4423/10.958> .
+<http://lodlaundromat.org/.well-known/genid/N278d2110dab74e8eabbc979694425173> <http://schema.org/latitude> "49.4423"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd227cd0275ce400c8709a9e6386dc56a> <http://schema.org/value> "183912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N278d2110dab74e8eabbc979694425173> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N27fbc600b85b43978dea968a48efdb19> .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://schema.org/postalCode> "90513" .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N278d2110dab74e8eabbc979694425173> .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd227cd0275ce400c8709a9e6386dc56a> .
+<http://lodlaundromat.org/.well-known/genid/N526d118514b94c5caccb79cb632a459b> <http://schema.org/addressLocality> "Zirndorf" .
+<http://lodlaundromat.org/.well-known/genid/N222e1b281350496fb7f3e39bd469dbe3> <http://schema.org/telephone> "0911/605783" .
+

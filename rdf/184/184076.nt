@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N296091a5ce8d4f5aaf468f2611ca3956> <http://schema.org/longitude> "8.80837"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N296091a5ce8d4f5aaf468f2611ca3956> <http://schema.org/latitude> "53.0755"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N896b9ed8eb834b0589a24ed964f383b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc1edf154962343cdbe38c7f55155a242> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N896b9ed8eb834b0589a24ed964f383b0> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0755&mlon=8.80837#map=15/53.0755/8.80837> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/name> "Museum at St. Peter's Cathedral"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf17330fc377047bdba33644d8566aa97> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc1edf154962343cdbe38c7f55155a242> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N296091a5ce8d4f5aaf468f2611ca3956> .
+<http://lodlaundromat.org/.well-known/genid/N896b9ed8eb834b0589a24ed964f383b0> <http://schema.org/email> "mailto:dommuseum@stpetridom.de" .
+<http://lodlaundromat.org/.well-known/genid/Nf17330fc377047bdba33644d8566aa97> <http://schema.org/url> <http://www.museums.io/en/museums/184076> .
+<http://lodlaundromat.org/.well-known/genid/Nf17330fc377047bdba33644d8566aa97> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N896b9ed8eb834b0589a24ed964f383b0> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nf17330fc377047bdba33644d8566aa97> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf17330fc377047bdba33644d8566aa97> .
+<http://lodlaundromat.org/.well-known/genid/N296091a5ce8d4f5aaf468f2611ca3956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc1edf154962343cdbe38c7f55155a242> <http://schema.org/value> "184076"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N770ef754d9a64e818d3b1ba9f074a803> <http://schema.org/telephone> "+49 421 3347142" .
+<http://lodlaundromat.org/.well-known/genid/Nc1edf154962343cdbe38c7f55155a242> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

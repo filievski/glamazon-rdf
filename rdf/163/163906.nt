@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nad8cf7ca8a214da683d54730da28978e> .
+<http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/telephone> "(03) 9524 3333 " .
+<http://lodlaundromat.org/.well-known/genid/Nad8cf7ca8a214da683d54730da28978e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9430681577fd4d34ae83672e48071946> <http://schema.org/value> "163906"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N852ebbcfdbb949539253711f7ab172b8> .
+<http://lodlaundromat.org/.well-known/genid/N852ebbcfdbb949539253711f7ab172b8> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/url> <http://www.gleneira.vic.gov.au/Connect/Arts_and_culture/Gallery> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9430681577fd4d34ae83672e48071946> .
+<http://lodlaundromat.org/.well-known/genid/N9430681577fd4d34ae83672e48071946> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> <http://schema.org/id> "glen-eira-city-gallery" .
+<http://lodlaundromat.org/.well-known/genid/Nad8cf7ca8a214da683d54730da28978e> <http://schema.org/latitude> "-37.8803"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8803&mlon=145.023#map=15/-37.8803/145.023> .
+<http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> <http://schema.org/url> <http://victoriancollections.net.au/organisations/glen-eira-city-gallery> .
+<http://lodlaundromat.org/.well-known/genid/N852ebbcfdbb949539253711f7ab172b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9430681577fd4d34ae83672e48071946> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/openingHours> "Monday\u2013Friday 10am\u2013 5pm\r\nWeekends 1pm\u20135pm\r\nClosed public holidays"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f0dabfca49b414a880934b5d3923973> <http://schema.org/name> "Glen Eira City Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/Ned64597f73914915a1a39adefbbf0b5a> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nad8cf7ca8a214da683d54730da28978e> <http://schema.org/longitude> "145.023"^^<http://www.w3.org/2001/XMLSchema#double> .
+

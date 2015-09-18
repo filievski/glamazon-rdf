@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N02fe19b557c04e5ba35abd76eab87d04> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://schema.org/addressLocality> "LAKE FOREST" .
+<http://lodlaundromat.org/.well-known/genid/Nffaedb867cdf4d2c96ee856024a851b5> <http://schema.org/longitude> "-87.897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> .
+<http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> .
+<http://lodlaundromat.org/.well-known/genid/N02fe19b557c04e5ba35abd76eab87d04> <http://schema.org/value> "137155"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02fe19b557c04e5ba35abd76eab87d04> .
+<http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N02fe19b557c04e5ba35abd76eab87d04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://schema.org/streetAddress> "150 FIELD DRIVE SUITE 100" .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nffaedb867cdf4d2c96ee856024a851b5> .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2426&mlon=-87.897#map=15/42.2426/-87.897> .
+<http://lodlaundromat.org/.well-known/genid/Nffaedb867cdf4d2c96ee856024a851b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nffaedb867cdf4d2c96ee856024a851b5> <http://schema.org/latitude> "42.2426"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76495db172da4cef9e8d116f5cbe4e7f> <http://schema.org/name> "THE LAKE FOREST TR"@en .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://schema.org/postalCode> "60045-2583" .
+<http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> <http://schema.org/id> "8401700300" .
+<http://lodlaundromat.org/.well-known/genid/N550b8e122d2a4f778cad2a23bafacc26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ea19b2cc0864fd9a91ded276a68aae4> <http://schema.org/url> <http://www.imls.gov/> .
+

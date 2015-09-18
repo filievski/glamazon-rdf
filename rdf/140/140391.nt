@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.8875&mlon=-87.4856#map=15/36.8875/-87.4856> .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://schema.org/streetAddress> "916 ELIZABETH DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N8cfcc631075c4966b700cc6a87cfca91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35aba0a79e3a453ea41add677f52588d> .
+<http://lodlaundromat.org/.well-known/genid/N8cfcc631075c4966b700cc6a87cfca91> <http://schema.org/latitude> "36.8875"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8cfcc631075c4966b700cc6a87cfca91> <http://schema.org/longitude> "-87.4856"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8cfcc631075c4966b700cc6a87cfca91> .
+<http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N35aba0a79e3a453ea41add677f52588d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35aba0a79e3a453ea41add677f52588d> <http://schema.org/value> "140391"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> .
+<http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://schema.org/postalCode> "42240-2427" .
+<http://lodlaundromat.org/.well-known/genid/N94b35173868f47418cfbc323a29730a3> <http://schema.org/name> "JAMESTOWNE SOCIETY KENTUCKY TRACE COMPANY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N35aba0a79e3a453ea41add677f52588d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e50720665124f559b678bfb46e43a8d> <http://schema.org/id> "8402100148" .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://schema.org/addressLocality> "HOPKINSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N84762d28df4645c69decb43e1bbea12e> <http://schema.org/addressCountry> "United States" .
+

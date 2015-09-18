@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N5a8c4d3efd3745bbab3f190c50f93022> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/telephone> "03 5494 3486" .
+<http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67613bf6922f4d50ac998e145d336eaf> <http://schema.org/value> "163992"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> .
+<http://lodlaundromat.org/.well-known/genid/N5a8c4d3efd3745bbab3f190c50f93022> <http://schema.org/latitude> "-36.4214"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndd47557c4a724b03b2515977a1e94f87> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/name> "Korong Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> <http://schema.org/id> "korong-historical-society" .
+<http://lodlaundromat.org/.well-known/genid/N5a8c4d3efd3745bbab3f190c50f93022> <http://schema.org/longitude> "143.614"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N67613bf6922f4d50ac998e145d336eaf> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.4214&mlon=143.614#map=15/-36.4214/143.614> .
+<http://lodlaundromat.org/.well-known/genid/Ndd47557c4a724b03b2515977a1e94f87> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> <http://schema.org/url> <http://victoriancollections.net.au/organisations/korong-historical-society> .
+<http://lodlaundromat.org/.well-known/genid/Ndd47557c4a724b03b2515977a1e94f87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67613bf6922f4d50ac998e145d336eaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N338093ec1c594fb599de0e453d304f9c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5a8c4d3efd3745bbab3f190c50f93022> .
+<http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N67613bf6922f4d50ac998e145d336eaf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a90eca5b82e49d58ffedca3bd382f33> <http://schema.org/name> "au_vic" .
+

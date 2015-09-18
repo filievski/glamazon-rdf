@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> .
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://schema.org/streetAddress> "PO BOX 56" .
+<http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4eb85379dbb0493fb9b595f77b9805a1> .
+<http://lodlaundromat.org/.well-known/genid/N4eb85379dbb0493fb9b595f77b9805a1> <http://schema.org/latitude> "43.522"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a51690d79334afe9375a2e8a1144ec3> <http://schema.org/value> "145041"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5a51690d79334afe9375a2e8a1144ec3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/name> "HESPER-MABEL AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4eb85379dbb0493fb9b595f77b9805a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> .
+<http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4eb85379dbb0493fb9b595f77b9805a1> <http://schema.org/longitude> "-91.7723"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.522&mlon=-91.7723#map=15/43.522/-91.7723> .
+<http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> <http://schema.org/id> "8402700481" .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93e312c6ab414896bbf27dd8e8858577> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5a51690d79334afe9375a2e8a1144ec3> .
+<http://lodlaundromat.org/.well-known/genid/N5a51690d79334afe9375a2e8a1144ec3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://schema.org/addressLocality> "MABEL" .
+<http://lodlaundromat.org/.well-known/genid/Ne7ee03469b494b1187ceed45ed2fd1d3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb983ccb4a850461d82fc039fcf568933> <http://schema.org/postalCode> "55954-0056" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb46cbf4af1ab4b95b6860d658a522d5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> <http://schema.org/id> "8403900477" .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://schema.org/addressLocality> "CAMPBELL" .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://schema.org/postalCode> "44405" .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://schema.org/streetAddress> "40 CHAMBERS ST" .
+<http://lodlaundromat.org/.well-known/genid/Nd95ea6cd501f458da73f36b056196040> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> .
+<http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/name> "IRON SOUP HISTORICAL PRESERVATION CO"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd95ea6cd501f458da73f36b056196040> <http://schema.org/value> "152700"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N25dd2ba71e404cb099bd5c19733c5c1b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0696&mlon=-80.5863#map=15/41.0696/-80.5863> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/url> <http://www.ironsoup.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nd95ea6cd501f458da73f36b056196040> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd95ea6cd501f458da73f36b056196040> .
+<http://lodlaundromat.org/.well-known/genid/Nb46cbf4af1ab4b95b6860d658a522d5e> <http://schema.org/latitude> "41.0696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9697e0c08b0849549860faa9cc6442f6> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nb46cbf4af1ab4b95b6860d658a522d5e> <http://schema.org/longitude> "-80.5863"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf472053861c5459eb4de9f044661cd70> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb46cbf4af1ab4b95b6860d658a522d5e> .
+

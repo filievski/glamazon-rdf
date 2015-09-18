@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5bef668ff0dd46e5a070a1da60848475> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5bef668ff0dd46e5a070a1da60848475> <http://schema.org/latitude> "38.9364"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://schema.org/addressLocality> "COLUMBIA" .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N78f05b0b10244265be24085859f0ff2c> <http://schema.org/value> "145832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://schema.org/postalCode> "65203-1997" .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> .
+<http://lodlaundromat.org/.well-known/genid/N5bef668ff0dd46e5a070a1da60848475> <http://schema.org/longitude> "-92.3606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N32e3d8638f4443b7a6ebddc35a112f9a> <http://schema.org/id> "8402900261" .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/name> "MISSOURI VETERANS HISTORY PROJECT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9364&mlon=-92.3606#map=15/38.9364/-92.3606> .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> .
+<http://lodlaundromat.org/.well-known/genid/N78f05b0b10244265be24085859f0ff2c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N78f05b0b10244265be24085859f0ff2c> .
+<http://lodlaundromat.org/.well-known/genid/N78f05b0b10244265be24085859f0ff2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Nef82c5019c5b4ca8842a284e581dbb74> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5bef668ff0dd46e5a070a1da60848475> .
+<http://lodlaundromat.org/.well-known/genid/N20e494c814784055b9b5ce714c5df5af> <http://schema.org/streetAddress> "1400 FORUM BLVD STE 38 BOX 461" .
+

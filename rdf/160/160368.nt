@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://schema.org/streetAddress> "PO BOX 246" .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/name> "HISTORICAL SOCIETY OF WINDHAM COUNTY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0a06e428bcc84d428b13aed3e325a22d> <http://schema.org/value> "160368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://schema.org/postalCode> "05345-0246" .
+<http://lodlaundromat.org/.well-known/genid/Nd0219925091a4686aad637271ff18ec2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd0219925091a4686aad637271ff18ec2> .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0a06e428bcc84d428b13aed3e325a22d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> <http://schema.org/id> "8405000174" .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9841&mlon=-72.6557#map=15/42.9841/-72.6557> .
+<http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> .
+<http://lodlaundromat.org/.well-known/genid/Nd0219925091a4686aad637271ff18ec2> <http://schema.org/longitude> "-72.6557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N231fb0d511fc403f94fcfab7aee0929f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/url> <http://www.historicalsocietyofwindhamcounty.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd0219925091a4686aad637271ff18ec2> <http://schema.org/latitude> "42.9841"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0a06e428bcc84d428b13aed3e325a22d> .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0a06e428bcc84d428b13aed3e325a22d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b83294a21044bda8aabd9a45174bd8c> <http://schema.org/telephone> "+1 (802) 365-4148" .
+<http://lodlaundromat.org/.well-known/genid/Nb812127e5bd14b0db4a39bf3465cda91> <http://schema.org/addressLocality> "NEWFANE" .
+

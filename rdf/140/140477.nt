@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N539d335c842744878af16f04b4c8f4e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N539d335c842744878af16f04b4c8f4e8> .
+<http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N95aebccd3e5c431fbc96e516338754ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N95aebccd3e5c431fbc96e516338754ce> <http://schema.org/latitude> "38.299"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N539d335c842744878af16f04b4c8f4e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> <http://schema.org/id> "8402100234" .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://schema.org/streetAddress> "205 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N95aebccd3e5c431fbc96e516338754ce> .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://schema.org/addressLocality> "PARIS" .
+<http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N539d335c842744878af16f04b4c8f4e8> <http://schema.org/value> "140477"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/name> "THOROUGHBRED BREEDERS MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://schema.org/postalCode> "40361" .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8249dc0295d04e519b29d8096b79f7d8> .
+<http://lodlaundromat.org/.well-known/genid/N95aebccd3e5c431fbc96e516338754ce> <http://schema.org/longitude> "-84.1501"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fe7abef9f1644c4ab76a5c9cef9d9ef> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.299&mlon=-84.1501#map=15/38.299/-84.1501> .
+<http://lodlaundromat.org/.well-known/genid/N841d07f66c64403792e75e7ff99fbd77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N82b1756cd44945d7ab0c14e32d443ca6> <http://schema.org/longitude> "11.744"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1dc59b5cbdbd48688c0e2e061c33a3e6> <http://schema.org/value> "182753"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://schema.org/streetAddress> "Marienplatz 7" .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/url> <http://www.stadtmuseum.freising.de/> .
+<http://lodlaundromat.org/.well-known/genid/N1dc59b5cbdbd48688c0e2e061c33a3e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbf32ade1f95c491080e0f99bda007a69> <http://schema.org/url> <http://www.museums.io/en/museums/182753> .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nbf32ade1f95c491080e0f99bda007a69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N82b1756cd44945d7ab0c14e32d443ca6> <http://schema.org/latitude> "48.4004"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1dc59b5cbdbd48688c0e2e061c33a3e6> .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://schema.org/postalCode> "85354" .
+<http://lodlaundromat.org/.well-known/genid/N660d40dd3fcf470cb2389d76349b6af8> <http://schema.org/addressLocality> "Freising" .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N82b1756cd44945d7ab0c14e32d443ca6> .
+<http://lodlaundromat.org/.well-known/genid/N1dc59b5cbdbd48688c0e2e061c33a3e6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbf32ade1f95c491080e0f99bda007a69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4004&mlon=11.744#map=15/48.4004/11.744> .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/telephone> "08161/5444555" .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/name> "Stadtmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N92604ef33de5446197db4c89a8bfaf28> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbf32ade1f95c491080e0f99bda007a69> .
+<http://lodlaundromat.org/.well-known/genid/Nbf32ade1f95c491080e0f99bda007a69> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N82b1756cd44945d7ab0c14e32d443ca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

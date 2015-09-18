@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na75f8706e2ad43579818175aa1f265b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://schema.org/streetAddress> "PO BOX 111" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/telephone> "+1 (215) 362-0428" .
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N415bebcf73de482d97cb0f1d6c44fc72> .
+<http://lodlaundromat.org/.well-known/genid/N415bebcf73de482d97cb0f1d6c44fc72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N415bebcf73de482d97cb0f1d6c44fc72> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> .
+<http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> .
+<http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> <http://schema.org/id> "8404200704" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/name> "HATFIELD MUSEUM AND HISTORY SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://schema.org/addressLocality> "HATFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/url> <http://hatfieldhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N47f29ec646464d759dcf678ce4050a3d> <http://schema.org/postalCode> "19440" .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na75f8706e2ad43579818175aa1f265b0> .
+<http://lodlaundromat.org/.well-known/genid/N85aabb21f05d4b37be4a201cc74cdbad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2802&mlon=-75.2915#map=15/40.2802/-75.2915> .
+<http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N415bebcf73de482d97cb0f1d6c44fc72> <http://schema.org/value> "155510"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na75f8706e2ad43579818175aa1f265b0> <http://schema.org/latitude> "40.2802"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na75f8706e2ad43579818175aa1f265b0> <http://schema.org/longitude> "-75.2915"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncdbbf4e5759447a4a94517b8f43535e1> <http://schema.org/name> "us" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N51ef882358b84fe490bc39651edcf994> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na1e35f18eada4a67853dcdd44fb0a4ab> .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.3088&mlon=-74.517#map=15/40.3088/-74.517> .
+<http://lodlaundromat.org/.well-known/genid/Na1e35f18eada4a67853dcdd44fb0a4ab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51ef882358b84fe490bc39651edcf994> <http://schema.org/latitude> "40.3088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N51ef882358b84fe490bc39651edcf994> .
+<http://lodlaundromat.org/.well-known/genid/Na1e35f18eada4a67853dcdd44fb0a4ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/Na1e35f18eada4a67853dcdd44fb0a4ab> <http://schema.org/value> "148221"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N51ef882358b84fe490bc39651edcf994> <http://schema.org/longitude> "-74.517"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://schema.org/addressLocality> "CRANBURY" .
+<http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/name> "CRANBURY HISTORICAL AND PRESERVATION SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/telephone> "+1 (609) 860-1889" .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc1044602625a4872816a9bd1f2604bf9> <http://schema.org/id> "8403400589" .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://schema.org/streetAddress> "6 S MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N88da51ab131c4366a8b9b93ea78c461b> <http://schema.org/url> <http://www.cranburyhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://schema.org/postalCode> "08512-3112" .
+<http://lodlaundromat.org/.well-known/genid/N46a0dd41618b447c9ec856d2d54acdd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

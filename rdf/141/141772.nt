@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N869f55c35a2d433f9d8d138da03c1438> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4737b44e2fd14319a1794f5c11990094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/name> "LACROSSE MUSEUM AND NATIONAL HALL OF FAME"@en .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://schema.org/streetAddress> "113 WEST UNIVERSITY PARKWAY" .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4737b44e2fd14319a1794f5c11990094> .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://schema.org/addressLocality> "BALTIMORE" .
+<http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N869f55c35a2d433f9d8d138da03c1438> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N869f55c35a2d433f9d8d138da03c1438> <http://schema.org/value> "141772"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N869f55c35a2d433f9d8d138da03c1438> .
+<http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> <http://schema.org/id> "8402400065" .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3342&mlon=-76.6206#map=15/39.3342/-76.6206> .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> .
+<http://lodlaundromat.org/.well-known/genid/Nb659f7283dce4c288fd3d804548d0a7f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3677fcff6fa042c59a0801c9bcc2c2b3> <http://schema.org/postalCode> "21210-3300" .
+<http://lodlaundromat.org/.well-known/genid/N4737b44e2fd14319a1794f5c11990094> <http://schema.org/latitude> "39.3342"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4737b44e2fd14319a1794f5c11990094> <http://schema.org/longitude> "-76.6206"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48c8a38aec51493dbd247a16db49ed82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

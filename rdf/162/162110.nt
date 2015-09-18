@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6a7a7c870f5b4176a7c9cebfefb2283b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> .
+<http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6a7a7c870f5b4176a7c9cebfefb2283b> <http://schema.org/longitude> "-122.895"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a7a7c870f5b4176a7c9cebfefb2283b> <http://schema.org/latitude> "47.0087"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.0087&mlon=-122.895#map=15/47.0087/-122.895> .
+<http://lodlaundromat.org/.well-known/genid/N7f50f466c68949aea70cbe745f8656c4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://schema.org/streetAddress> "4312 CLEVELAND AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> <http://schema.org/id> "8405300559" .
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N7f50f466c68949aea70cbe745f8656c4> <http://schema.org/value> "162110"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N977c8b487a6c4b3081309c038b8ee1a4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f50f466c68949aea70cbe745f8656c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/name> "THESAND MAN FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://schema.org/postalCode> "98501-4028" .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7f50f466c68949aea70cbe745f8656c4> .
+<http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> <http://schema.org/addressLocality> "TUMWATER" .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N92a6e571973e41b7b01d9f15b90f71e1> .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6a7a7c870f5b4176a7c9cebfefb2283b> .
+<http://lodlaundromat.org/.well-known/genid/N5c0251ab5f934d53b593d0243269f949> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

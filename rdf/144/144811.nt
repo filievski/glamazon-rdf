@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.2429&mlon=-93.2771#map=15/46.2429/-93.2771> .
+<http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7b3bdd44c1c443728a17e82ae225d094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b3bdd44c1c443728a17e82ae225d094> <http://schema.org/latitude> "46.2429"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41748df4fe0445d08f027865cdbf79df> <http://schema.org/value> "144811"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://schema.org/streetAddress> "PO BOX 216" .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7b3bdd44c1c443728a17e82ae225d094> .
+<http://lodlaundromat.org/.well-known/genid/N41748df4fe0445d08f027865cdbf79df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41748df4fe0445d08f027865cdbf79df> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/telephone> "+1 (800) 592-4353" .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> .
+<http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> <http://schema.org/id> "8402700251" .
+<http://lodlaundromat.org/.well-known/genid/Na8f3c3a6406e4220b3704181f70457ac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://schema.org/addressLocality> "MCGRATH" .
+<http://lodlaundromat.org/.well-known/genid/N6b1ef669d5a3415bb319718c8536dcdb> <http://schema.org/postalCode> "56350" .
+<http://lodlaundromat.org/.well-known/genid/N7b3bdd44c1c443728a17e82ae225d094> <http://schema.org/longitude> "-93.2771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N41748df4fe0445d08f027865cdbf79df> .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://schema.org/name> "MCGRATH HISTORICAL COMMITTEE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne5394d5f68a341d5a05b6afb69bd7523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> .
+<http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> <http://schema.org/id> "8404600147" .
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://schema.org/postalCode> "57442-1103" .
+<http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbe237146e76d4a56a3bf5189fc84c03b> .
+<http://lodlaundromat.org/.well-known/genid/Nbe237146e76d4a56a3bf5189fc84c03b> <http://schema.org/longitude> "-99.9573"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb60b3ec2504b48e6bd55b26c69251a71> <http://schema.org/value> "157262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe237146e76d4a56a3bf5189fc84c03b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0114&mlon=-99.9573#map=15/45.0114/-99.9573> .
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://schema.org/streetAddress> "205 W COMMERCIAL AVE STE 104" .
+<http://lodlaundromat.org/.well-known/genid/Nbe237146e76d4a56a3bf5189fc84c03b> <http://schema.org/latitude> "45.0114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb60b3ec2504b48e6bd55b26c69251a71> .
+<http://lodlaundromat.org/.well-known/genid/Nb60b3ec2504b48e6bd55b26c69251a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2343ad1b859e46a9b207e9dd744676a0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://schema.org/name> "DAKOTA SUNSET MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb60b3ec2504b48e6bd55b26c69251a71> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://schema.org/addressRegion> "SD" .
+<http://lodlaundromat.org/.well-known/genid/N11f6f431608f40b7b57ce42040f536d2> <http://schema.org/addressLocality> "GETTYSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N00ecf330a8234dda816cf8697e37877e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

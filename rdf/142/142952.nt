@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ba1bf85230040019dd54f15d6f1fa3d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://schema.org/addressLocality> "AMHERST" .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nabf77c4578dd4bf68cdbc7378eeacb9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://schema.org/postalCode> "01002-3357" .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://schema.org/streetAddress> "125 W BAY RD" .
+<http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2ba1bf85230040019dd54f15d6f1fa3d> .
+<http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2ba1bf85230040019dd54f15d6f1fa3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/url> <http://www.carlemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nabf77c4578dd4bf68cdbc7378eeacb9d> <http://schema.org/latitude> "42.32"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nabf77c4578dd4bf68cdbc7378eeacb9d> <http://schema.org/longitude> "-72.5298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N68809d5b64d74da18bdb6725b247be59> .
+<http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.32&mlon=-72.5298#map=15/42.32/-72.5298> .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/name> "ERIC CARLE MUSEUM OF PICTURE BOOK ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2837b851cf2a41bfa16a3cc690fc2bf0> <http://schema.org/id> "8402500582" .
+<http://lodlaundromat.org/.well-known/genid/N2ba1bf85230040019dd54f15d6f1fa3d> <http://schema.org/value> "142952"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd9b86936d2bb450a9a1c7ccd76a1b85f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nabf77c4578dd4bf68cdbc7378eeacb9d> .
+

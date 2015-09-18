@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://schema.org/addressLocality> "CRYSTAL BEACH" .
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> .
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://schema.org/streetAddress> "PO BOX 281" .
+<http://lodlaundromat.org/.well-known/genid/N49935745452d499bac53d5dd92ef847e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4e0106c0350844518cf375c5bef72a36> <http://schema.org/longitude> "-82.7777"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4e0106c0350844518cf375c5bef72a36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> <http://schema.org/id> "8401200437" .
+<http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://schema.org/postalCode> "34681-0281" .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4e0106c0350844518cf375c5bef72a36> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N49935745452d499bac53d5dd92ef847e> .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.0912&mlon=-82.7777#map=15/28.0912/-82.7777> .
+<http://lodlaundromat.org/.well-known/genid/N4e0106c0350844518cf375c5bef72a36> <http://schema.org/latitude> "28.0912"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> .
+<http://lodlaundromat.org/.well-known/genid/N49935745452d499bac53d5dd92ef847e> <http://schema.org/value> "134883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N49935745452d499bac53d5dd92ef847e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5b6a3bde048e439fb7e2fdcffd61898a> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Ndb7590efb9f447238d52d3b4636ca7bf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N01b1032cceb947689d0de3c2a2e0075f> <http://schema.org/name> "CRYSTAL BEACH COMMUNITY ENRICHMENT INC"@en .
+

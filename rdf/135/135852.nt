@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nc56bc9408904481ea4f33c089106c8f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://schema.org/addressLocality> "CARTERSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/name> "BOOTH WESTERN ART MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc02b7e58a18d4a5e9bbd49cf9659e498> .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> <http://schema.org/id> "8401300123" .
+<http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc02b7e58a18d4a5e9bbd49cf9659e498> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc56bc9408904481ea4f33c089106c8f3> <http://schema.org/latitude> "34.1681"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc02b7e58a18d4a5e9bbd49cf9659e498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/url> <http://www.boothmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1681&mlon=-84.7966#map=15/34.1681/-84.7966> .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/telephone> "+1 (770) 387-1300" .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nca77b221be1542f7aa078e22edfb7bc2> .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc56bc9408904481ea4f33c089106c8f3> .
+<http://lodlaundromat.org/.well-known/genid/Nc56bc9408904481ea4f33c089106c8f3> <http://schema.org/longitude> "-84.7966"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc02b7e58a18d4a5e9bbd49cf9659e498> <http://schema.org/value> "135852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://schema.org/streetAddress> "501 N MUSEUM DR" .
+<http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> <http://schema.org/postalCode> "30120" .
+<http://lodlaundromat.org/.well-known/genid/N2d0ffafb45f24378aa6ed6977f3be90e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b2263126d5d4d9aa2ee37b1958ab4b7> .
+

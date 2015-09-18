@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N09caa19408f54e78af836fe8f28d9336> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N09caa19408f54e78af836fe8f28d9336> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/telephone> "09431/7555-360" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/name> "Heimat- und Industriemuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.301&mlon=12.174#map=15/49.301/12.174> .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N06ec8830b05842ce82e85e5184ae477f> <http://schema.org/latitude> "49.301"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06ec8830b05842ce82e85e5184ae477f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09caa19408f54e78af836fe8f28d9336> .
+<http://lodlaundromat.org/.well-known/genid/N06ec8830b05842ce82e85e5184ae477f> <http://schema.org/longitude> "12.174"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://schema.org/addressLocality> "Wackersdorf" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/url> <http://www.vg-wackersdorf.de/> .
+<http://lodlaundromat.org/.well-known/genid/N8268462774144060b2297fab3bd7297d> <http://schema.org/url> <http://www.museums.io/en/museums/183810> .
+<http://lodlaundromat.org/.well-known/genid/N8268462774144060b2297fab3bd7297d> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N06ec8830b05842ce82e85e5184ae477f> .
+<http://lodlaundromat.org/.well-known/genid/N8268462774144060b2297fab3bd7297d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8268462774144060b2297fab3bd7297d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://schema.org/streetAddress> "Werk 27" .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> .
+<http://lodlaundromat.org/.well-known/genid/N09caa19408f54e78af836fe8f28d9336> <http://schema.org/value> "183810"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N980b9eb14fe14b209cc1ac2bf5be8f16> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8268462774144060b2297fab3bd7297d> .
+<http://lodlaundromat.org/.well-known/genid/N09fdd2a287f1492a91c5a591a1c6104f> <http://schema.org/postalCode> "92442" .
+

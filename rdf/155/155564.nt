@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4fc94053f2914579befc1a068a598212> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> .
+<http://lodlaundromat.org/.well-known/genid/N1efbfb69b6494b4ab64dfa57c7aca61b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> <http://schema.org/id> "8404200758" .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1efbfb69b6494b4ab64dfa57c7aca61b> <http://schema.org/value> "155564"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4fc94053f2914579befc1a068a598212> .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1efbfb69b6494b4ab64dfa57c7aca61b> .
+<http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4fc94053f2914579befc1a068a598212> <http://schema.org/latitude> "40.0507"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0507&mlon=-75.6462#map=15/40.0507/-75.6462> .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://schema.org/streetAddress> "124 LAKEVIEW DR" .
+<http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7783948c51234cb8a52ced2ecca17567> <http://schema.org/name> "CHILDRENS CURIOSITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N4fc94053f2914579befc1a068a598212> <http://schema.org/longitude> "-75.6462"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0915364739ce480297fc852de59740ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1efbfb69b6494b4ab64dfa57c7aca61b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://schema.org/postalCode> "19341-1523" .
+<http://lodlaundromat.org/.well-known/genid/Nfe2d8ead40744daea4cb599d15e3a919> <http://schema.org/addressLocality> "EXTON" .
+

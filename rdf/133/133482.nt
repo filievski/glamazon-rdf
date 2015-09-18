@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne42affb623ca4621bf80b15113cd5570> <http://schema.org/value> "133482"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne42affb623ca4621bf80b15113cd5570> .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> .
+<http://lodlaundromat.org/.well-known/genid/Nc066ec35853d48388758057d551f07ac> <http://schema.org/longitude> "-105.253"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://schema.org/streetAddress> "3100 MARINE STREET - ROOM 479" .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc066ec35853d48388758057d551f07ac> .
+<http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0136&mlon=-105.253#map=15/40.0136/-105.253> .
+<http://lodlaundromat.org/.well-known/genid/Nc066ec35853d48388758057d551f07ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne42affb623ca4621bf80b15113cd5570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc066ec35853d48388758057d551f07ac> <http://schema.org/latitude> "40.0136"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N680f10111f1b4c319bc0f714bf977bb1> <http://schema.org/id> "8400800658" .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/url> <http://www.colorado.edu/ocg/> .
+<http://lodlaundromat.org/.well-known/genid/Ne42affb623ca4621bf80b15113cd5570> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N833ba0fb23504a758c46d8f569c1efff> <http://schema.org/name> "REGENTS OF THE UNIVERSITY OF COLORADO"@en .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://schema.org/postalCode> "80303-1058" .
+<http://lodlaundromat.org/.well-known/genid/Na44de0028ef64e35b85e78b00fec753e> <http://schema.org/addressLocality> "BOULDER" .
+

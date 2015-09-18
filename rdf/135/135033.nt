@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne98f567ffa794934878e6d7c6ce685e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> .
+<http://lodlaundromat.org/.well-known/genid/Necd9f8dd081647fbbd2faf22c9a3489b> <http://schema.org/longitude> "-81.6684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> <http://schema.org/id> "8401200587" .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/name> "13-JAX INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne98f567ffa794934878e6d7c6ce685e5> <http://schema.org/value> "135033"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Necd9f8dd081647fbbd2faf22c9a3489b> .
+<http://lodlaundromat.org/.well-known/genid/Ne98f567ffa794934878e6d7c6ce685e5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Necd9f8dd081647fbbd2faf22c9a3489b> <http://schema.org/latitude> "30.3247"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://schema.org/postalCode> "32205-8210" .
+<http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://schema.org/streetAddress> "1 RIVERSIDE AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N69a016fd241a4cd5883a27bfcd73676b> .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne98f567ffa794934878e6d7c6ce685e5> .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://schema.org/addressLocality> "JACKSONVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Necd9f8dd081647fbbd2faf22c9a3489b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6cb520401bc64e44b293ec8334f44f81> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc0fd112310714126ad22d6d7b3d60688> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.3247&mlon=-81.6684#map=15/30.3247/-81.6684> .
+

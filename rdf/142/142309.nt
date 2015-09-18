@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N59b2c15b383d4be9bb38f0f2de30ce03> <http://schema.org/latitude> "39.4152"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N59b2c15b383d4be9bb38f0f2de30ce03> .
+<http://lodlaundromat.org/.well-known/genid/N59b2c15b383d4be9bb38f0f2de30ce03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.4152&mlon=-77.4091#map=15/39.4152/-77.4091> .
+<http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/url> <http://www.hsfcinfo.org/> .
+<http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> <http://schema.org/id> "8402400602" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://schema.org/addressLocality> "FREDERICK" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://schema.org/streetAddress> "24 E CHURCH ST" .
+<http://lodlaundromat.org/.well-known/genid/N097c7b7a2799400ea3f39e8add322124> <http://schema.org/value> "142309"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N097c7b7a2799400ea3f39e8add322124> .
+<http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/name> "HISTORICAL SOCIETY OF FREDERICK COUNTY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://schema.org/postalCode> "21701-5433" .
+<http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> .
+<http://lodlaundromat.org/.well-known/genid/N097c7b7a2799400ea3f39e8add322124> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N59b2c15b383d4be9bb38f0f2de30ce03> <http://schema.org/longitude> "-77.4091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncecd5dc82314425a94be2f128ab6bc9e> <http://schema.org/telephone> "+1 (301) 663-1188" .
+<http://lodlaundromat.org/.well-known/genid/N007530305b0b48d8b70a4be00a51a477> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3202de1a27454ebbb066cbc532b129> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N097c7b7a2799400ea3f39e8add322124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

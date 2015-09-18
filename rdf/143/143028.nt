@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3302&mlon=-71.0908#map=15/42.3302/-71.0908> .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/name> "ROXBURY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8ddd4b50290e46a7952c20b1fcb17d81> <http://schema.org/latitude> "42.3302"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://schema.org/addressLocality> "ROXBURY" .
+<http://lodlaundromat.org/.well-known/genid/N1124c2e627ed40ed912166b8c1ac6757> <http://schema.org/value> "143028"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1124c2e627ed40ed912166b8c1ac6757> .
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> .
+<http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8ddd4b50290e46a7952c20b1fcb17d81> .
+<http://lodlaundromat.org/.well-known/genid/N8ddd4b50290e46a7952c20b1fcb17d81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> .
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://schema.org/streetAddress> "183 ROXBURY STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> <http://schema.org/id> "8402500658" .
+<http://lodlaundromat.org/.well-known/genid/N1124c2e627ed40ed912166b8c1ac6757> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb7781757234b491aa5d96eff5bdfb3ff> <http://schema.org/postalCode> "02119" .
+<http://lodlaundromat.org/.well-known/genid/N8ddd4b50290e46a7952c20b1fcb17d81> <http://schema.org/longitude> "-71.0908"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f698862966a42e2a7fc9b7c3bdf8529> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1124c2e627ed40ed912166b8c1ac6757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne507366c005b46f4b655474ee67c498b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

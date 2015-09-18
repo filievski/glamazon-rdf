@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N32aab4d2a3a240c7b0d1fc993aca2187> <http://schema.org/value> "189955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N32aab4d2a3a240c7b0d1fc993aca2187> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> .
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://schema.org/addressLocality> "FARMINGTON HILLS" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> .
+<http://lodlaundromat.org/.well-known/genid/N32aab4d2a3a240c7b0d1fc993aca2187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N919513e9c05747c886efc12cd174ec51> <http://schema.org/latitude> "41.214"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32aab4d2a3a240c7b0d1fc993aca2187> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N919513e9c05747c886efc12cd174ec51> .
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://schema.org/postalCode> "48336" .
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N919513e9c05747c886efc12cd174ec51> <http://schema.org/longitude> "-73.8175"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://schema.org/streetAddress> "28600 WEST ELEVEN MILE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/telephone> "+1 (248) 417-3256" .
+<http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/name> "FARMINGTON HILLS NATURE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/url> <http://www.fhgov.com/> .
+<http://lodlaundromat.org/.well-known/genid/N9be7e554860947ac9000d3044b7e3856> <http://schema.org/id> "8402601109" .
+<http://lodlaundromat.org/.well-known/genid/N40701e1c13fb46c4a196f11a10c258da> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N919513e9c05747c886efc12cd174ec51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2b85432184413aa8c4beeeadc9c18a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.214&mlon=-73.8175#map=15/41.214/-73.8175> .
+

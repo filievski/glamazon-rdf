@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf4599808fffa42f4b2b69455eec4d8f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://schema.org/streetAddress> "PO BOX 9524" .
+<http://lodlaundromat.org/.well-known/genid/N8e60249eb55245c682fe57480ce918bc> <http://schema.org/value> "161381"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf4599808fffa42f4b2b69455eec4d8f7> <http://schema.org/longitude> "-76.4038"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://schema.org/postalCode> "23670-0524" .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> .
+<http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> <http://schema.org/id> "8405100887" .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf4599808fffa42f4b2b69455eec4d8f7> .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> .
+<http://lodlaundromat.org/.well-known/genid/N10188e3dec3d45729c65f6e758c30bde> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.018&mlon=-76.4038#map=15/37.018/-76.4038> .
+<http://lodlaundromat.org/.well-known/genid/N8e60249eb55245c682fe57480ce918bc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/name> "HISTORICAL FOUNDATION OF ABERDEEN GARDENS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf4599808fffa42f4b2b69455eec4d8f7> <http://schema.org/latitude> "37.018"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39328cdb243744d5823e1175f8b9391a> <http://schema.org/addressLocality> "HAMPTON" .
+<http://lodlaundromat.org/.well-known/genid/N8e60249eb55245c682fe57480ce918bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N58b02e7ec2ef490486e963d86a1ec570> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8e60249eb55245c682fe57480ce918bc> .
+

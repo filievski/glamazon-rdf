@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N608ce13be1c84a93b62bc52e5bed4650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6a0ce22c927c4696b0edc2dabb7321c4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://schema.org/streetAddress> "Marktplatz 25" .
+<http://lodlaundromat.org/.well-known/genid/N608ce13be1c84a93b62bc52e5bed4650> <http://schema.org/latitude> "49.6446"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N608ce13be1c84a93b62bc52e5bed4650> .
+<http://lodlaundromat.org/.well-known/genid/Ndaf042019e6d436380fced52bce2802c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndaf042019e6d436380fced52bce2802c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6a0ce22c927c4696b0edc2dabb7321c4> <http://schema.org/url> <http://www.museums.io/en/museums/183509> .
+<http://lodlaundromat.org/.well-known/genid/N6a0ce22c927c4696b0edc2dabb7321c4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6a0ce22c927c4696b0edc2dabb7321c4> .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/url> <http://www.stadtmuseum-pleystein.de/> .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> .
+<http://lodlaundromat.org/.well-known/genid/N6a0ce22c927c4696b0edc2dabb7321c4> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://schema.org/addressLocality> "Pleystein" .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6446&mlon=12.408#map=15/49.6446/12.408> .
+<http://lodlaundromat.org/.well-known/genid/N608ce13be1c84a93b62bc52e5bed4650> <http://schema.org/longitude> "12.408"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndaf042019e6d436380fced52bce2802c> .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/telephone> "09654/9222-33" .
+<http://lodlaundromat.org/.well-known/genid/N344aab9203b0435bbbb77b243a98f5a4> <http://schema.org/name> "Stadtmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndaf042019e6d436380fced52bce2802c> <http://schema.org/value> "183509"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N116a7c000bdd44618d67be24eaf05bae> <http://schema.org/postalCode> "92714" .
+

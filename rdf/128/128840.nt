@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd349669e4a804391990afac7d0da1544> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4173fe09799c40d7a785583a480e14e7> <http://schema.org/value> "128840"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4173fe09799c40d7a785583a480e14e7> .
+<http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> .
+<http://lodlaundromat.org/.well-known/genid/N4173fe09799c40d7a785583a480e14e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd349669e4a804391990afac7d0da1544> .
+<http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4173fe09799c40d7a785583a480e14e7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd349669e4a804391990afac7d0da1544> <http://schema.org/latitude> "30.4081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd349669e4a804391990afac7d0da1544> <http://schema.org/longitude> "-87.6852"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.4081&mlon=-87.6852#map=15/30.4081/-87.6852> .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/name> "SOUTH BALDWIN MUSEUM FOUNDATON INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na4a7c72238fb4f6ebf36a5207c9262ef> <http://schema.org/id> "8400100370" .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://schema.org/addressLocality> "FOLEY" .
+<http://lodlaundromat.org/.well-known/genid/N988f0fabe915484386b75e301199eccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://schema.org/streetAddress> "PO BOX 546" .
+<http://lodlaundromat.org/.well-known/genid/Nc3afefb508c4474488476850a3c8901e> <http://schema.org/postalCode> "36536-0546" .
+

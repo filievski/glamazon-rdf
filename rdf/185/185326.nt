@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N65cacff96b1e43f3ab9683ff96358e9c> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N072fc2c6771746f896e7b103564c2cea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N65cacff96b1e43f3ab9683ff96358e9c> .
+<http://lodlaundromat.org/.well-known/genid/N88c1990578594b7ea20f2d6e45677f73> <http://schema.org/url> <http://www.museums.io/en/museums/185326> .
+<http://lodlaundromat.org/.well-known/genid/Nbad129d19cf34641973501b86f7fc3fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbad129d19cf34641973501b86f7fc3fe> <http://schema.org/value> "185326"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N072fc2c6771746f896e7b103564c2cea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N88c1990578594b7ea20f2d6e45677f73> .
+<http://lodlaundromat.org/.well-known/genid/Nbad129d19cf34641973501b86f7fc3fe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N65cacff96b1e43f3ab9683ff96358e9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N88c1990578594b7ea20f2d6e45677f73> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N072fc2c6771746f896e7b103564c2cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N072fc2c6771746f896e7b103564c2cea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbad129d19cf34641973501b86f7fc3fe> .
+<http://lodlaundromat.org/.well-known/genid/N88c1990578594b7ea20f2d6e45677f73> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N88c1990578594b7ea20f2d6e45677f73> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N072fc2c6771746f896e7b103564c2cea> <http://schema.org/name> "Forestry Museum of Lapland"@en .
+

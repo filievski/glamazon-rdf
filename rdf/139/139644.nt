@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9414ef053b854178a376434286ecd982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9414ef053b854178a376434286ecd982> <http://schema.org/latitude> "42.663"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8529214c2cce4d2fa8b77f41ed1ef6a9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> <http://schema.org/id> "8401900681" .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://schema.org/postalCode> "50533" .
+<http://lodlaundromat.org/.well-known/genid/N8529214c2cce4d2fa8b77f41ed1ef6a9> <http://schema.org/value> "139644"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://schema.org/streetAddress> "1310 SW FIRST STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8529214c2cce4d2fa8b77f41ed1ef6a9> .
+<http://lodlaundromat.org/.well-known/genid/N8529214c2cce4d2fa8b77f41ed1ef6a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.663&mlon=-93.9185#map=15/42.663/-93.9185> .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://schema.org/addressLocality> "EAGLE GROVE" .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N9414ef053b854178a376434286ecd982> <http://schema.org/longitude> "-93.9185"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9414ef053b854178a376434286ecd982> .
+<http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd281c896cfa64150bb6c8551e6468043> <http://schema.org/name> "WRIGHT COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0aa09751a22d42bfaa492ef319053da9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfc3c68e7ff5b41f9aec305f0c84af665> <http://schema.org/name> "us" .
+

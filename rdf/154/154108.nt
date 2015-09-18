@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.6583&mlon=-97.1947#map=15/35.6583/-97.1947> .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf536cb595c6d4889b187223f2fb07421> .
+<http://lodlaundromat.org/.well-known/genid/Nf536cb595c6d4889b187223f2fb07421> <http://schema.org/latitude> "35.6583"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf536cb595c6d4889b187223f2fb07421> <http://schema.org/longitude> "-97.1947"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> .
+<http://lodlaundromat.org/.well-known/genid/N387b36ff78444bcfa12d428f239a0724> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N387b36ff78444bcfa12d428f239a0724> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N387b36ff78444bcfa12d428f239a0724> <http://schema.org/value> "154108"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://schema.org/addressLocality> "LUTHER" .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://schema.org/streetAddress> "PO BOX 601" .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/name> "LUTHER HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://schema.org/postalCode> "73054-0601" .
+<http://lodlaundromat.org/.well-known/genid/N6ef64926264449538682a2151f5312cc> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/Na28c6bce69b44ed88b991cb56cc1b24e> <http://schema.org/id> "8404000462" .
+<http://lodlaundromat.org/.well-known/genid/Nbabc9e209ef040808a4cd6a5bb7cc1ee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N387b36ff78444bcfa12d428f239a0724> .
+<http://lodlaundromat.org/.well-known/genid/Nf536cb595c6d4889b187223f2fb07421> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

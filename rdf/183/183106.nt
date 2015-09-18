@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N01d93764f8e942c0b7b04476ed551dcd> <http://schema.org/url> <http://www.museums.io/en/museums/183106> .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://schema.org/addressLocality> "Mainburg" .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/url> <http://www.heimatmuseum-mainburg.de/> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb725db39facc48099e4bbc5c970e2b76> .
+<http://lodlaundromat.org/.well-known/genid/Nb725db39facc48099e4bbc5c970e2b76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.6429&mlon=11.7866#map=15/48.6429/11.7866> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N75688da0e81b444090bd8ff5cb2d224a> .
+<http://lodlaundromat.org/.well-known/genid/N75688da0e81b444090bd8ff5cb2d224a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N75688da0e81b444090bd8ff5cb2d224a> <http://schema.org/latitude> "48.6429"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/name> "Hallertauer Heimat- und Hopfenmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/telephone> "08751/4027" .
+<http://lodlaundromat.org/.well-known/genid/Nb725db39facc48099e4bbc5c970e2b76> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://schema.org/streetAddress> "Abensberger Stra\u00DFe 15" .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N01d93764f8e942c0b7b04476ed551dcd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4edecbc2d5b643b181b9161a2d767cee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N01d93764f8e942c0b7b04476ed551dcd> .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://schema.org/postalCode> "84048" .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N01d93764f8e942c0b7b04476ed551dcd> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nb725db39facc48099e4bbc5c970e2b76> <http://schema.org/value> "183106"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N01d93764f8e942c0b7b04476ed551dcd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N75688da0e81b444090bd8ff5cb2d224a> <http://schema.org/longitude> "11.7866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a70aa4e97064359b652852b4835bf4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

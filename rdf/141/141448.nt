@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> <http://schema.org/addressLocality> "STONINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> <http://schema.org/id> "8402300297" .
+<http://lodlaundromat.org/.well-known/genid/N0140eca5b4b64a60bf0454e49b4fe0f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> .
+<http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/name> "OPERA HOUSE ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N665ea5486547468d88db521eb3881ae1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N665ea5486547468d88db521eb3881ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0140eca5b4b64a60bf0454e49b4fe0f1> <http://schema.org/longitude> "-68.6703"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> <http://schema.org/postalCode> "04681-0056" .
+<http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0140eca5b4b64a60bf0454e49b4fe0f1> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1623&mlon=-68.6703#map=15/44.1623/-68.6703> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N665ea5486547468d88db521eb3881ae1> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/url> <http://www.operahousearts.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf82c6b4cccbf49e0a6e9a0e4c8de1945> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N665ea5486547468d88db521eb3881ae1> <http://schema.org/value> "141448"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0140eca5b4b64a60bf0454e49b4fe0f1> <http://schema.org/latitude> "44.1623"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N573f2227f8624e3797e8d8dc01eece1a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4c4f249fb6484435a9c5f1383ffb6ee0> .
+

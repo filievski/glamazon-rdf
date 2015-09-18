@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> .
+<http://lodlaundromat.org/.well-known/genid/N594b8c1d976149aea090a94aa7ed35b9> <http://schema.org/value> "189777"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2ed45408804b48a19ff0188c44a5f57e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N594b8c1d976149aea090a94aa7ed35b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N594b8c1d976149aea090a94aa7ed35b9> .
+<http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://schema.org/addressRegion> "HI" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ed45408804b48a19ff0188c44a5f57e> <http://schema.org/latitude> "20.8474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=20.8474&mlon=-156.325#map=15/20.8474/-156.325> .
+<http://lodlaundromat.org/.well-known/genid/N2ed45408804b48a19ff0188c44a5f57e> <http://schema.org/longitude> "-156.325"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> <http://schema.org/id> "8401500195" .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/name> "HALEAKALA NATIONAL PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://schema.org/postalCode> "96768" .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ed45408804b48a19ff0188c44a5f57e> .
+<http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://schema.org/streetAddress> "P.O. BOX 369" .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> .
+<http://lodlaundromat.org/.well-known/genid/N594b8c1d976149aea090a94aa7ed35b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e7e797373a4c8899cbdd02f2a400b6> <http://schema.org/addressLocality> "MAKAWAO" .
+<http://lodlaundromat.org/.well-known/genid/N7a8bcb9b1c1c49e6bb3a1d97cd28a899> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6faa8b4e77474d2e921f9dc83e947255> <http://schema.org/telephone> "+1 (808) 572-4400" .
+

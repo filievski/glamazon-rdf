@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nae46b5dd8e724ae0aec38a1ff290d342> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N52660bacd1b5425ba8e9a683cc1be6f5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://schema.org/addressLocality> "FLAT ROCK" .
+<http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/name> "CARL SANDBURG HOME NATIONAL HISTORIC SITE"@en .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://schema.org/postalCode> "28731" .
+<http://lodlaundromat.org/.well-known/genid/Nae46b5dd8e724ae0aec38a1ff290d342> <http://schema.org/latitude> "35.273"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52660bacd1b5425ba8e9a683cc1be6f5> .
+<http://lodlaundromat.org/.well-known/genid/N52660bacd1b5425ba8e9a683cc1be6f5> <http://schema.org/value> "190121"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7024846db6e349d5a70f37e8a1647c74> <http://schema.org/streetAddress> "81 CARL SANDBURG LANE" .
+<http://lodlaundromat.org/.well-known/genid/Nae46b5dd8e724ae0aec38a1ff290d342> <http://schema.org/longitude> "-82.453"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nae46b5dd8e724ae0aec38a1ff290d342> .
+<http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> <http://schema.org/id> "8403700926" .
+<http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.273&mlon=-82.453#map=15/35.273/-82.453> .
+<http://lodlaundromat.org/.well-known/genid/N52660bacd1b5425ba8e9a683cc1be6f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N735cebb3d92041fa9910264ce052e912> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na6d8093bbe2649b5a51579436a23267d> <http://schema.org/telephone> "+1 (828) 693-4178" .
+

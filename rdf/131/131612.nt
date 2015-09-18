@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N32e4d5de7bbd43d494875db8e0f75a55> <http://schema.org/value> "131612"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab5efede2eb3452582d42211be5f2233> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://schema.org/streetAddress> "PO BOX 6" .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nab5efede2eb3452582d42211be5f2233> .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32e4d5de7bbd43d494875db8e0f75a55> .
+<http://lodlaundromat.org/.well-known/genid/N32e4d5de7bbd43d494875db8e0f75a55> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N32e4d5de7bbd43d494875db8e0f75a55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://schema.org/postalCode> "95978-0006" .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.902&mlon=-121.529#map=15/39.902/-121.529> .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndcaf69704d63459b9a5e8d144457adeb> <http://schema.org/name> "STIRLING CITY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N24470f4eefed40d996d374aee7c7910e> <http://schema.org/addressLocality> "STIRLING CITY" .
+<http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> <http://schema.org/id> "8400601738" .
+<http://lodlaundromat.org/.well-known/genid/Nab5efede2eb3452582d42211be5f2233> <http://schema.org/latitude> "39.902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab5efede2eb3452582d42211be5f2233> <http://schema.org/longitude> "-121.529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ab36e00bb974ab8bce679ec4975dc77> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

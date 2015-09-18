@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://schema.org/addressLocality> "WASHINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/name> "SOUTHERN COURIER ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N659562da1c3e46bc94d89b4b545d64cd> <http://schema.org/latitude> "38.882"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> .
+<http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> <http://schema.org/id> "8401100102" .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N97683a18f20f455985680f26a4011459> .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N659562da1c3e46bc94d89b4b545d64cd> .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.882&mlon=-76.9815#map=15/38.882/-76.9815> .
+<http://lodlaundromat.org/.well-known/genid/N97683a18f20f455985680f26a4011459> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://schema.org/streetAddress> "1627 POTOMAC AVENUE SE" .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://schema.org/postalCode> "20003-3134" .
+<http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N659562da1c3e46bc94d89b4b545d64cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> <http://schema.org/addressRegion> "DC" .
+<http://lodlaundromat.org/.well-known/genid/N659562da1c3e46bc94d89b4b545d64cd> <http://schema.org/longitude> "-76.9815"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N27b06c79a33a4fb4911e6dd2a0c0c594> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N322721ab144149cea69b39b37f8c1cb5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N00fff89b2c3a4870a6b1eab615839145> .
+<http://lodlaundromat.org/.well-known/genid/N97683a18f20f455985680f26a4011459> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N97683a18f20f455985680f26a4011459> <http://schema.org/value> "134321"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

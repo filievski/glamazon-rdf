@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N9fab13134cc94e0f94f9236306e4a82e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbba7cefe3f164e3b899314f512993ca2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fab13134cc94e0f94f9236306e4a82e> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N50ccbaa9666d4b97b46e1993e30dffeb> <http://schema.org/longitude> "8.62378"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbba7cefe3f164e3b899314f512993ca2> <http://schema.org/url> <http://www.museums.io/en/museums/184090> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N44724d2cbd85438bb033837acb978ad5> .
+<http://lodlaundromat.org/.well-known/genid/N9fab13134cc94e0f94f9236306e4a82e> <http://schema.org/email> "mailto:info@overbeck-museum.de" .
+<http://lodlaundromat.org/.well-known/genid/N50ccbaa9666d4b97b46e1993e30dffeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/telephone> "+49 (0) 421 663665" .
+<http://lodlaundromat.org/.well-known/genid/N44724d2cbd85438bb033837acb978ad5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9fab13134cc94e0f94f9236306e4a82e> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N50ccbaa9666d4b97b46e1993e30dffeb> .
+<http://lodlaundromat.org/.well-known/genid/N44724d2cbd85438bb033837acb978ad5> <http://schema.org/value> "184090"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/name> "Overbeck Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbba7cefe3f164e3b899314f512993ca2> .
+<http://lodlaundromat.org/.well-known/genid/Nbba7cefe3f164e3b899314f512993ca2> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/Nbba7cefe3f164e3b899314f512993ca2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N50ccbaa9666d4b97b46e1993e30dffeb> <http://schema.org/latitude> "53.1689"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b846cabd93d47e7a468f8eb78c5b52b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.1689&mlon=8.62378#map=15/53.1689/8.62378> .
+<http://lodlaundromat.org/.well-known/genid/N44724d2cbd85438bb033837acb978ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

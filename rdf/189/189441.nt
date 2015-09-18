@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/name> "Museo civico di Montagnana"@it .
+<http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> <http://schema.org/id> "100909" .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> .
+<http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N08d06ca639ab4edf9895a8fbaddcb703> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.2311&mlon=11.4684#map=15/45.2311/11.4684> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N67008a0bf20341c1bd92343f6cd383fa> .
+<http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> <http://schema.org/streetAddress> "Piazza Trieste, 15" .
+<http://lodlaundromat.org/.well-known/genid/N136b51c36dfc428ca422827c08fe8fee> <http://schema.org/value> "189441"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N08d06ca639ab4edf9895a8fbaddcb703> <http://schema.org/longitude> "11.4684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/telephone> "+39 0429804128" .
+<http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67008a0bf20341c1bd92343f6cd383fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N136b51c36dfc428ca422827c08fe8fee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67008a0bf20341c1bd92343f6cd383fa> <http://schema.org/contentUrl> <http://images.museums.io/L7b0WdVsmgJyRN0bZ3XV3wq1Ds0=/1000x1000/museums/logos/000/189/441/original/232d30d424ba7fdebce5afebb19931bdfd51312e.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N136b51c36dfc428ca422827c08fe8fee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N08d06ca639ab4edf9895a8fbaddcb703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/url> <http://www.comune.montagnana.pd.it/> .
+<http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> <http://schema.org/addressLocality> "Montagnana" .
+<http://lodlaundromat.org/.well-known/genid/N375f8b532507419bac971d6dcd4e14be> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N08d06ca639ab4edf9895a8fbaddcb703> <http://schema.org/latitude> "45.2311"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na26826c38eb74ee6af3604835a01f84d> .
+<http://lodlaundromat.org/.well-known/genid/N1a44f76afd4b4af387414bf92edcba2f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N136b51c36dfc428ca422827c08fe8fee> .
+

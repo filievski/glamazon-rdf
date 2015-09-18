@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7f1f906b63ef4a66add23ed52c3f473e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> <http://schema.org/id> "8401300731" .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> .
+<http://lodlaundromat.org/.well-known/genid/N7f1f906b63ef4a66add23ed52c3f473e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.2488&mlon=-84.3061#map=15/32.2488/-84.3061> .
+<http://lodlaundromat.org/.well-known/genid/N34d134dd22294dce9a3eb35a4ead634e> <http://schema.org/longitude> "-84.3061"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N34d134dd22294dce9a3eb35a4ead634e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/name> "ELLAVILLE SCHLEY COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> .
+<http://lodlaundromat.org/.well-known/genid/N7f1f906b63ef4a66add23ed52c3f473e> <http://schema.org/value> "136460"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N34d134dd22294dce9a3eb35a4ead634e> <http://schema.org/latitude> "32.2488"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7f1f906b63ef4a66add23ed52c3f473e> .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://schema.org/addressLocality> "ELLAVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://schema.org/postalCode> "31806-0175" .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://schema.org/streetAddress> "PO BOX 175" .
+<http://lodlaundromat.org/.well-known/genid/Naa713517d2a649e0b4944537c2c4c23b> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N22bb042a155949568eec2625b08bccca> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64c5e36362f148b793adbdb733ebf4a6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N34d134dd22294dce9a3eb35a4ead634e> .
+

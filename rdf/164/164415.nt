@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N7c699b6945d5437a996b8b72a9f376c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N36c27b000d184dccbf76fa6885c8fc73> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> <http://schema.org/id> "university-of-melbourne-godfrey-howitt-entomology-collection" .
+<http://lodlaundromat.org/.well-known/genid/N7c699b6945d5437a996b8b72a9f376c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> .
+<http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N36c27b000d184dccbf76fa6885c8fc73> <http://schema.org/value> "164415"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c699b6945d5437a996b8b72a9f376c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N36c27b000d184dccbf76fa6885c8fc73> .
+<http://lodlaundromat.org/.well-known/genid/N36c27b000d184dccbf76fa6885c8fc73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> <http://schema.org/url> <http://victoriancollections.net.au/organisations/university-of-melbourne-godfrey-howitt-entomology-collection> .
+<http://lodlaundromat.org/.well-known/genid/Ne58aec37b78c4ce398ed52f68c5af886> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7c699b6945d5437a996b8b72a9f376c0> <http://schema.org/name> "University of Melbourne, Godfrey Howitt Entomology Collection"@en .
+<http://lodlaundromat.org/.well-known/genid/N7c699b6945d5437a996b8b72a9f376c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne58aec37b78c4ce398ed52f68c5af886> .
+<http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Ne58aec37b78c4ce398ed52f68c5af886> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N413630c1d7864e23bae5658d83e5de21> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+

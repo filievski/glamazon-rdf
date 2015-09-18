@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/name> "Minimobil Modellmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncb17ceee74e34a3a9e578e6d4eb3df5e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5096&mlon=10.2771#map=15/47.5096/10.2771> .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N80168f6765cf4f1e9fb1ba7d8a62a07e> .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/url> <http://www.minimobil-museum.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N80168f6765cf4f1e9fb1ba7d8a62a07e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncb17ceee74e34a3a9e578e6d4eb3df5e> <http://schema.org/url> <http://www.museums.io/en/museums/183940> .
+<http://lodlaundromat.org/.well-known/genid/Ncb17ceee74e34a3a9e578e6d4eb3df5e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N50cf476946df43be9273640b74f2083c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50cf476946df43be9273640b74f2083c> <http://schema.org/value> "183940"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N80168f6765cf4f1e9fb1ba7d8a62a07e> <http://schema.org/longitude> "10.2771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://schema.org/addressLocality> "Sonthofen" .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncb17ceee74e34a3a9e578e6d4eb3df5e> .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> .
+<http://lodlaundromat.org/.well-known/genid/N50cf476946df43be9273640b74f2083c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://schema.org/streetAddress> "Oberstdorfer Str. 10" .
+<http://lodlaundromat.org/.well-known/genid/Ncb17ceee74e34a3a9e578e6d4eb3df5e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://schema.org/postalCode> "87527" .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N50cf476946df43be9273640b74f2083c> .
+<http://lodlaundromat.org/.well-known/genid/Nd0759ab934b94516a810e3b1c2c09f16> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Nbb494819e6f547c9b09888938cbe3858> <http://schema.org/telephone> "08321/87717" .
+<http://lodlaundromat.org/.well-known/genid/N80168f6765cf4f1e9fb1ba7d8a62a07e> <http://schema.org/latitude> "47.5096"^^<http://www.w3.org/2001/XMLSchema#double> .
+

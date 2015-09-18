@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://schema.org/addressLocality> "MILFORD" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/name> "SONS OF THE UNION VETERANS OF THE CIVIL WAR CHARITABLE FOUND"@en .
+<http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N869ca55a887d470889d1066d658f1224> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N869ca55a887d470889d1066d658f1224> .
+<http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> <http://schema.org/id> "8403900878" .
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N869ca55a887d470889d1066d658f1224> <http://schema.org/value> "153100"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N106f397c3eca4a2a9f8f7cb7e1daa542> <http://schema.org/latitude> "39.1789"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N106f397c3eca4a2a9f8f7cb7e1daa542> <http://schema.org/longitude> "-84.2472"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N106f397c3eca4a2a9f8f7cb7e1daa542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://schema.org/streetAddress> "PO BOX 386" .
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N47002ce681f94fa2bb44477ec914d0d1> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1789&mlon=-84.2472#map=15/39.1789/-84.2472> .
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://schema.org/postalCode> "45150-0386" .
+<http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf3e7fdebc84b4d54ad34ab0612772372> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88c81009454024a19e43307d778980> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N106f397c3eca4a2a9f8f7cb7e1daa542> .
+<http://lodlaundromat.org/.well-known/genid/N869ca55a887d470889d1066d658f1224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

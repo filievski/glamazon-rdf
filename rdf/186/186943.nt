@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N64a1b0b321e84a9a964975a5adea6010> .
+<http://lodlaundromat.org/.well-known/genid/N64a1b0b321e84a9a964975a5adea6010> <http://schema.org/contentUrl> <http://images.museums.io/KmY1e3wQqCbHz7LS2vq3ln0dIkw=/1000x1000/museums/logos/000/186/943/original/8ffac354b3e3b4193c794d246f66a8c7d72e.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndac65ff2c81742a2b733953204efe765> .
+<http://lodlaundromat.org/.well-known/genid/Ndac65ff2c81742a2b733953204efe765> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> <http://schema.org/addressLocality> "Como" .
+<http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> <http://schema.org/id> "103609" .
+<http://lodlaundromat.org/.well-known/genid/N64a1b0b321e84a9a964975a5adea6010> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.8032&mlon=9.09435#map=15/45.8032/9.09435> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/telephone> "+39 031303180" .
+<http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndac65ff2c81742a2b733953204efe765> <http://schema.org/value> "186943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne3fe6f0a1dc94eb2a3e909810554d601> <http://schema.org/latitude> "45.8032"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndac65ff2c81742a2b733953204efe765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne3fe6f0a1dc94eb2a3e909810554d601> <http://schema.org/longitude> "9.09435"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> <http://schema.org/streetAddress> "Via Castelnuovo, 9" .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/name> "Silk Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N73eddba294eb483ab69c1b7bb99900c6> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/name> "Museo didattico della Seta"@it .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne3fe6f0a1dc94eb2a3e909810554d601> .
+<http://lodlaundromat.org/.well-known/genid/Ne3fe6f0a1dc94eb2a3e909810554d601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N193dd056f7d742128933e4769881c170> <http://schema.org/url> <http://www.museosetacomo.com/> .
+<http://lodlaundromat.org/.well-known/genid/N51812b0db9e2441e80bacad800941b01> <http://schema.org/name> "itapi" .
+

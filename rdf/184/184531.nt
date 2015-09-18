@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nbe43134fbd0647acb49cba2a468964c2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/name> "Cape Town Heritage Trust"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbe43134fbd0647acb49cba2a468964c2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N050b29ca4d5b4aa59d55346630a533c5> <http://schema.org/value> "184531"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne778098018ca4da8b480727f7e8aaa10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c069863f5940e2a7465010ec14d35b> <http://schema.org/longitude> "18.5556"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne778098018ca4da8b480727f7e8aaa10> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c069863f5940e2a7465010ec14d35b> <http://schema.org/latitude> "-33.9063"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbe43134fbd0647acb49cba2a468964c2> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.9063&mlon=18.5556#map=15/-33.9063/18.5556> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf5c069863f5940e2a7465010ec14d35b> .
+<http://lodlaundromat.org/.well-known/genid/N050b29ca4d5b4aa59d55346630a533c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N050b29ca4d5b4aa59d55346630a533c5> .
+<http://lodlaundromat.org/.well-known/genid/N050b29ca4d5b4aa59d55346630a533c5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbe43134fbd0647acb49cba2a468964c2> <http://schema.org/url> <http://www.museums.io/en/museums/184531> .
+<http://lodlaundromat.org/.well-known/genid/Ne778098018ca4da8b480727f7e8aaa10> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N4a0ac55bc8bb43448323daf418cd58d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c069863f5940e2a7465010ec14d35b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbe43134fbd0647acb49cba2a468964c2> <http://schema.org/name> "sa" .
+

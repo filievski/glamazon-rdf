@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N1fe9967d889245818d85d2463cc99c67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1fe9967d889245818d85d2463cc99c67> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N38ac81d457ad4cf68c281a180025dce5> .
+<http://lodlaundromat.org/.well-known/genid/N1fe9967d889245818d85d2463cc99c67> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne0d5d3aaa56042c28d8fd4e13a3217da> .
+<http://lodlaundromat.org/.well-known/genid/N38ac81d457ad4cf68c281a180025dce5> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N12f9b19af1ff403bbd884446268680be> <http://schema.org/value> "185419"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N12f9b19af1ff403bbd884446268680be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N38ac81d457ad4cf68c281a180025dce5> <http://schema.org/url> <http://www.museums.io/en/museums/185419> .
+<http://lodlaundromat.org/.well-known/genid/N1fe9967d889245818d85d2463cc99c67> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N12f9b19af1ff403bbd884446268680be> .
+<http://lodlaundromat.org/.well-known/genid/N12f9b19af1ff403bbd884446268680be> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N38ac81d457ad4cf68c281a180025dce5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1fe9967d889245818d85d2463cc99c67> <http://schema.org/name> "Merchant\u00B4s House Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N38ac81d457ad4cf68c281a180025dce5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne0d5d3aaa56042c28d8fd4e13a3217da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne0d5d3aaa56042c28d8fd4e13a3217da> <http://schema.org/addressCountry> "Finland" .
+

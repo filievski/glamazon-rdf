@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://schema.org/addressLocality> "BIG SANDY" .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/name> "BIG SANDY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N590b8c87e28a435d8a1fec8603641454> <http://schema.org/longitude> "-95.1207"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://schema.org/streetAddress> "PO BOX 220" .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://schema.org/postalCode> "75755-0220" .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.6386&mlon=-95.1207#map=15/32.6386/-95.1207> .
+<http://lodlaundromat.org/.well-known/genid/N590b8c87e28a435d8a1fec8603641454> <http://schema.org/latitude> "32.6386"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2f5f7647cf7a4012b350bcecfdb361c8> .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> <http://schema.org/id> "8404801814" .
+<http://lodlaundromat.org/.well-known/genid/N2f5f7647cf7a4012b350bcecfdb361c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9612abdeb3564d4cb6f2c14384758c8f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N590b8c87e28a435d8a1fec8603641454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2f5f7647cf7a4012b350bcecfdb361c8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N13d8b92768dc49199230ef09ae51d405> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N2f5f7647cf7a4012b350bcecfdb361c8> <http://schema.org/value> "159714"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48aa51771c2f4051a36ba69cd6537ad5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N590b8c87e28a435d8a1fec8603641454> .
+

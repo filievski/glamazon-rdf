@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://schema.org/streetAddress> "301 N WASHINGTON ST" .
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2b475c181314021b54d4cd6afc98c4b> <http://schema.org/longitude> "-88.0146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na2b475c181314021b54d4cd6afc98c4b> <http://schema.org/latitude> "44.5164"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> .
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na2b475c181314021b54d4cd6afc98c4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N436f0b4d6c0f43219d9643338b8e2fa0> <http://schema.org/value> "163092"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N436f0b4d6c0f43219d9643338b8e2fa0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/name> "CHILDRENS MUSEUM OF GREEN BAY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N436f0b4d6c0f43219d9643338b8e2fa0> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.5164&mlon=-88.0146#map=15/44.5164/-88.0146> .
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://schema.org/postalCode> "54301-5129" .
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4ba496cda8fb4b1bba916263f26b9a55> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na2b475c181314021b54d4cd6afc98c4b> .
+<http://lodlaundromat.org/.well-known/genid/N58539861e6e64448944a8db44800e5cc> <http://schema.org/id> "8405500541" .
+<http://lodlaundromat.org/.well-known/genid/N0ed38ca39ba14ca19e5a6a1e2346ca04> <http://schema.org/addressLocality> "GREEN BAY" .
+<http://lodlaundromat.org/.well-known/genid/N436f0b4d6c0f43219d9643338b8e2fa0> <http://schema.org/name> "id" .
+

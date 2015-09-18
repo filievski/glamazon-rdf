@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> <http://schema.org/id> "8400900383" .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N75808c463df6455eb68f16bad64e4839> <http://schema.org/latitude> "41.4726"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://schema.org/addressLocality> "UNCASVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4726&mlon=-72.0964#map=15/41.4726/-72.0964> .
+<http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87aa7de0ecc6427b82d5c153ec898990> .
+<http://lodlaundromat.org/.well-known/genid/N87aa7de0ecc6427b82d5c153ec898990> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N87aa7de0ecc6427b82d5c153ec898990> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N87aa7de0ecc6427b82d5c153ec898990> <http://schema.org/value> "133908"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://schema.org/streetAddress> "61 TEECOMWAS DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/name> "TANTAQUIDGEON MEMORIAL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> .
+<http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://schema.org/postalCode> "06382-1834" .
+<http://lodlaundromat.org/.well-known/genid/Nfe21a6f61c5d4304970ae10eaee73fe9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N75808c463df6455eb68f16bad64e4839> .
+<http://lodlaundromat.org/.well-known/genid/N75808c463df6455eb68f16bad64e4839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6fe971a5e4be46c9a192a2d732990cba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N75808c463df6455eb68f16bad64e4839> <http://schema.org/longitude> "-72.0964"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43cd4516794d4215919dd24a86983d69> <http://schema.org/name> "us" .
+

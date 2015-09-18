@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd0236b1347314d6eab838c57e78ae2d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> <http://schema.org/id> "8402700108" .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2b2093b04a5545edb588344308283525> .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://schema.org/streetAddress> "3537 ZENITH AVENUE SOUTH" .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> .
+<http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/telephone> "+1 (612) 927-6508" .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2b2093b04a5545edb588344308283525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd0236b1347314d6eab838c57e78ae2d1> <http://schema.org/value> "144668"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9382&mlon=-93.3218#map=15/44.9382/-93.3218> .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/name> "BAKKEN LIBRARY AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> .
+<http://lodlaundromat.org/.well-known/genid/N2b2093b04a5545edb588344308283525> <http://schema.org/latitude> "44.9382"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://schema.org/postalCode> "55416-4623" .
+<http://lodlaundromat.org/.well-known/genid/N7741863bcff14a1fb6031db618f1e690> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2b2093b04a5545edb588344308283525> <http://schema.org/longitude> "-93.3218"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0236b1347314d6eab838c57e78ae2d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7cd71ba3b4e84834a78a1ec767bfdf95> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0236b1347314d6eab838c57e78ae2d1> .
+<http://lodlaundromat.org/.well-known/genid/Na2d0c78b972d43d0abf5274132ed8e22> <http://schema.org/addressLocality> "MINNEAPOLIS" .
+

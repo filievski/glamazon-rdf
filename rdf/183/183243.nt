@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Ne72c3709bd9c422da28234a7cf20faf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N665afe1452a54960a0bf0a7e3fc0f46d> <http://schema.org/latitude> "48.1821"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N665afe1452a54960a0bf0a7e3fc0f46d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na516ddf67ad5437e886b521f901f46c8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N665afe1452a54960a0bf0a7e3fc0f46d> <http://schema.org/longitude> "11.5672"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N665afe1452a54960a0bf0a7e3fc0f46d> .
+<http://lodlaundromat.org/.well-known/genid/Na516ddf67ad5437e886b521f901f46c8> <http://schema.org/url> <http://www.museums.io/en/museums/183243> .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne72c3709bd9c422da28234a7cf20faf0> .
+<http://lodlaundromat.org/.well-known/genid/Ne72c3709bd9c422da28234a7cf20faf0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne72c3709bd9c422da28234a7cf20faf0> <http://schema.org/value> "183243"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/name> "Kulturhaus Milbertshofen"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/Na516ddf67ad5437e886b521f901f46c8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://schema.org/streetAddress> "Curt-Mezger-Platz 1" .
+<http://lodlaundromat.org/.well-known/genid/Na516ddf67ad5437e886b521f901f46c8> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1821&mlon=11.5672#map=15/48.1821/11.5672> .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na516ddf67ad5437e886b521f901f46c8> .
+<http://lodlaundromat.org/.well-known/genid/Ne59740b40aa341daaeeb361e83197665> <http://schema.org/postalCode> "80809" .
+<http://lodlaundromat.org/.well-known/genid/Nc677e77a41214f84ac341aa785f66456> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

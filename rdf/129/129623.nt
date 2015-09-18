@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd6fad4d6a93043a9beb24c8241f473d6> <http://schema.org/value> "129623"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd6fad4d6a93043a9beb24c8241f473d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd6fad4d6a93043a9beb24c8241f473d6> .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N296d5e44cde6468b924b70b3928ab0bd> .
+<http://lodlaundromat.org/.well-known/genid/N296d5e44cde6468b924b70b3928ab0bd> <http://schema.org/longitude> "-94.2025"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N296d5e44cde6468b924b70b3928ab0bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.3819&mlon=-94.2025#map=15/36.3819/-94.2025> .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://schema.org/streetAddress> "600 MUSEUM WAY" .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://schema.org/addressLocality> "BENTONVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://schema.org/postalCode> "72712-4947" .
+<http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6fad4d6a93043a9beb24c8241f473d6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N76e05b6b5b01460e95ed020a69046936> <http://schema.org/name> "CRYSTAL BRIDGES MUSEUM OF AMERICAN ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e1faf6687d54dc2a7b68e0c58a58a74> <http://schema.org/id> "8400500059" .
+<http://lodlaundromat.org/.well-known/genid/N296d5e44cde6468b924b70b3928ab0bd> <http://schema.org/latitude> "36.3819"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd917ac36e2744292b94ec6531284b892> <http://schema.org/addressCountry> "United States" .
+

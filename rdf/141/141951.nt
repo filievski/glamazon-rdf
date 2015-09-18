@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N915d818c32b84e3fa5714790858d4a60> .
+<http://lodlaundromat.org/.well-known/genid/N915d818c32b84e3fa5714790858d4a60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> .
+<http://lodlaundromat.org/.well-known/genid/N330fe1e3bc4c48dc96fed8e8344606c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N330fe1e3bc4c48dc96fed8e8344606c1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N915d818c32b84e3fa5714790858d4a60> <http://schema.org/latitude> "39.3017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N330fe1e3bc4c48dc96fed8e8344606c1> .
+<http://lodlaundromat.org/.well-known/genid/N330fe1e3bc4c48dc96fed8e8344606c1> <http://schema.org/value> "141951"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/name> "AFRICAN-AMERICAN SCHOOLHOUSE MUSEUM & HERITAGE COUNCIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://schema.org/streetAddress> "23620 NEWTON RD" .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3017&mlon=-76.1487#map=15/39.3017/-76.1487> .
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://schema.org/addressLocality> "WORTON" .
+<http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> <http://schema.org/id> "8402400244" .
+<http://lodlaundromat.org/.well-known/genid/N5582870c1281468790ea14453d7c7611> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://schema.org/postalCode> "21678-1206" .
+<http://lodlaundromat.org/.well-known/genid/N4b37bb6d7e054a08996046bec084f7ad> <http://schema.org/url> <http://www.africanamericanheritagecouncil.s/> .
+<http://lodlaundromat.org/.well-known/genid/N915d818c32b84e3fa5714790858d4a60> <http://schema.org/longitude> "-76.1487"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb292f974801446c09dfd82b22d304a20> <http://schema.org/addressRegion> "MD" .
+

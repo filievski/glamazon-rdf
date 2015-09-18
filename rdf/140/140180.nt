@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6d295c02c0764114921b6f87e029e4d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d295c02c0764114921b6f87e029e4d0> <http://schema.org/latitude> "38.4525"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d295c02c0764114921b6f87e029e4d0> .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://schema.org/addressLocality> "NESS CITY" .
+<http://lodlaundromat.org/.well-known/genid/N4d18f88a79ec4645ba4f8a5a9b481140> <http://schema.org/value> "140180"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6d295c02c0764114921b6f87e029e4d0> <http://schema.org/longitude> "-99.905"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> .
+<http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> <http://schema.org/id> "8402000506" .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/telephone> "+1 (785) 798-3298" .
+<http://lodlaundromat.org/.well-known/genid/N4d18f88a79ec4645ba4f8a5a9b481140> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4d18f88a79ec4645ba4f8a5a9b481140> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/name> "NESS COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://schema.org/postalCode> "67560-0393" .
+<http://lodlaundromat.org/.well-known/genid/N4d18f88a79ec4645ba4f8a5a9b481140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.4525&mlon=-99.905#map=15/38.4525/-99.905> .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/url> <http://getruralkansas.org/ness-city/199explore/1167.shtml> .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> <http://schema.org/streetAddress> "PO BOX 393 505A S PENN AVE" .
+<http://lodlaundromat.org/.well-known/genid/N35cd407e512949998fabd8f28cc4f73c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6ea31f6510ff40fe9296d1d84ed9e8c5> .
+<http://lodlaundromat.org/.well-known/genid/N1e4025d1ae624056b9fb28f866bf4cbc> <http://schema.org/name> "us" .
+

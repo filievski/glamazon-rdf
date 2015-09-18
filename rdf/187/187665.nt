@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nbc0adc41da0945feb8685eb704c663b5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne331fa884bd543ea8b023f52249ea730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nbc0adc41da0945feb8685eb704c663b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> <http://schema.org/streetAddress> "Via Cappuccini, 29, " .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> .
+<http://lodlaundromat.org/.well-known/genid/Ne331fa884bd543ea8b023f52249ea730> <http://schema.org/latitude> "44.417"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> <http://schema.org/addressLocality> "Caraglio" .
+<http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.417&mlon=7.43136#map=15/44.417/7.43136> .
+<http://lodlaundromat.org/.well-known/genid/Nbc0adc41da0945feb8685eb704c663b5> <http://schema.org/value> "187665"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/name> "Convento dei Cappuccini"@it .
+<http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/telephone> "+39 0171618260" .
+<http://lodlaundromat.org/.well-known/genid/Nedde328ea33648e88864cdd02eaee5fc> <http://schema.org/contentUrl> <http://images.museums.io/FN0c6QMMFMIgHRqdblqZyyT3aso=/1000x1000/museums/logos/000/187/665/original/1341c6b31d932816378e82f0ac60de98251be0e4.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc0adc41da0945feb8685eb704c663b5> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/url> <http://www.marcovaldo.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nedde328ea33648e88864cdd02eaee5fc> .
+<http://lodlaundromat.org/.well-known/genid/N8a8d1115655c40768678f43fbb6a0c2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nedde328ea33648e88864cdd02eaee5fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N23dc6d3aae534ef2b86cb586114bf582> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne331fa884bd543ea8b023f52249ea730> .
+<http://lodlaundromat.org/.well-known/genid/Ne331fa884bd543ea8b023f52249ea730> <http://schema.org/longitude> "7.43136"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nac8f58999e8541d583071c9512990367> <http://schema.org/id> "102556" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N7ab88318d920479899388f0679117780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.7718&mlon=-104.561#map=15/48.7718/-104.561> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> .
+<http://lodlaundromat.org/.well-known/genid/N7ab88318d920479899388f0679117780> <http://schema.org/latitude> "48.7718"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> <http://schema.org/id> "8403000094" .
+<http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/name> "SHERIDAN COUNTY HISTORICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc5d6614eb44c433c87564565576681e8> <http://schema.org/value> "146451"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://schema.org/postalCode> "59254" .
+<http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://schema.org/addressLocality> "PLENTYWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://schema.org/streetAddress> "PO BOX 191" .
+<http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7ab88318d920479899388f0679117780> <http://schema.org/longitude> "-104.561"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7ab88318d920479899388f0679117780> .
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6b0d19ba3e1c497f9c08674aabeca572> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc5d6614eb44c433c87564565576681e8> .
+<http://lodlaundromat.org/.well-known/genid/N875a6b4c9d7b40cd8a45da687beee91a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc5d6614eb44c433c87564565576681e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7407e572d4664094b577cb6e6f781145> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc5d6614eb44c433c87564565576681e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

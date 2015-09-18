@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://schema.org/streetAddress> "1215 GUM TREE LANE" .
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> .
+<http://lodlaundromat.org/.well-known/genid/N1971496cde6d4e3e88cc6de0c187fa76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N960a1f0746a14e7d970b971a7a89554c> <http://schema.org/value> "151470"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N960a1f0746a14e7d970b971a7a89554c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1971496cde6d4e3e88cc6de0c187fa76> <http://schema.org/latitude> "35.3008"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> .
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://schema.org/postalCode> "28214" .
+<http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> <http://schema.org/id> "8403700341" .
+<http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9a39df0a3d64296b177409f2403cc8a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N960a1f0746a14e7d970b971a7a89554c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1971496cde6d4e3e88cc6de0c187fa76> .
+<http://lodlaundromat.org/.well-known/genid/N1d0e4681c369440ab2ac48b5b544225c> <http://schema.org/addressLocality> "CHARLOTTE" .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N960a1f0746a14e7d970b971a7a89554c> .
+<http://lodlaundromat.org/.well-known/genid/N1971496cde6d4e3e88cc6de0c187fa76> <http://schema.org/longitude> "-80.9584"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/name> "SMITH CEMETERY HISTORIC PRESERVATION ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N590d0eac5f0148b999e08e79b58e31bb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.3008&mlon=-80.9584#map=15/35.3008/-80.9584> .
+

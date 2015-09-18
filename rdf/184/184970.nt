@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> <http://schema.org/streetAddress> "Cnr Hill & Steyn Street, Kroonstad" .
+<http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> <http://schema.org/addressRegion> "Free State" .
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> .
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N368d4d7d34694a9fa928ef5f5eefdbe8> .
+<http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://schema.org/name> "Sarel Cilliers Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf38a6226c5154680b09cf9271d8297af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf38a6226c5154680b09cf9271d8297af> .
+<http://lodlaundromat.org/.well-known/genid/N368d4d7d34694a9fa928ef5f5eefdbe8> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N368d4d7d34694a9fa928ef5f5eefdbe8> <http://schema.org/url> <http://www.museums.io/en/museums/184970> .
+<http://lodlaundromat.org/.well-known/genid/N368d4d7d34694a9fa928ef5f5eefdbe8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf38a6226c5154680b09cf9271d8297af> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4c1e433d88d64b6aac2313159648bf2f> <http://schema.org/telephone> "056 216 9911" .
+<http://lodlaundromat.org/.well-known/genid/Nf38a6226c5154680b09cf9271d8297af> <http://schema.org/value> "184970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ad80352819d4ce580dc361876db50b9> <http://schema.org/addressLocality> "Kroonstad" .
+<http://lodlaundromat.org/.well-known/genid/N368d4d7d34694a9fa928ef5f5eefdbe8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

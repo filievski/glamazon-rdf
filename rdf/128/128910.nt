@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07aa41913fc04caf9eb7bf577678ae5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> .
+<http://lodlaundromat.org/.well-known/genid/N07aa41913fc04caf9eb7bf577678ae5b> <http://schema.org/value> "128910"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd699d1c340124a46b852c06de7994a28> .
+<http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> <http://schema.org/id> "8400100440" .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://schema.org/addressLocality> "DADEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N07aa41913fc04caf9eb7bf577678ae5b> .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.8168&mlon=-85.7386#map=15/32.8168/-85.7386> .
+<http://lodlaundromat.org/.well-known/genid/Nd699d1c340124a46b852c06de7994a28> <http://schema.org/longitude> "-85.7386"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://schema.org/postalCode> "36853-6240" .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://schema.org/streetAddress> "151 PEARSON CIR" .
+<http://lodlaundromat.org/.well-known/genid/N2fbc61b44dc84de1b5c122ffb38c0a85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7689ba0d50f445199792a2ba0e335a2e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9ea883ef6fd747a0ac3b27a5a5ab968d> <http://schema.org/name> "TALLAPOOSSEE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N07aa41913fc04caf9eb7bf577678ae5b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd699d1c340124a46b852c06de7994a28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd699d1c340124a46b852c06de7994a28> <http://schema.org/latitude> "32.8168"^^<http://www.w3.org/2001/XMLSchema#double> .
+

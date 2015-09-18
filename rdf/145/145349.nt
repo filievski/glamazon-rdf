@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5b43e74434ca45fdbe21dc4871557adb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2b18f2562c944c428c6e67a8e534b745> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://schema.org/postalCode> "39095-0638" .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.1002&mlon=-90.0627#map=15/33.1002/-90.0627> .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/telephone> "+1 (662) 834-3372" .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5b43e74434ca45fdbe21dc4871557adb> .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/name> "HOLMES COUNTY ARTS COUNSIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2b18f2562c944c428c6e67a8e534b745> .
+<http://lodlaundromat.org/.well-known/genid/Ndde2f232fc344756ba1c872ff87d33e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5b43e74434ca45fdbe21dc4871557adb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2b18f2562c944c428c6e67a8e534b745> <http://schema.org/longitude> "-90.0627"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b18f2562c944c428c6e67a8e534b745> <http://schema.org/latitude> "33.1002"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://schema.org/addressLocality> "LEXINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> <http://schema.org/id> "8402800056" .
+<http://lodlaundromat.org/.well-known/genid/N9e4be40ae5534493bca52091db8013a9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5b43e74434ca45fdbe21dc4871557adb> <http://schema.org/value> "145349"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na879a0ad643c4119826cb73ebef54d8a> <http://schema.org/streetAddress> "PO BOX 638" .
+

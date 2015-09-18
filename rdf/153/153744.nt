@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N72f8147fa0024f73b71d38b5625c75b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naa5a6bc89fa14ca08319748f7e7eca18> .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/name> "EDMOND HISTORICAL SOCIETY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Naa5a6bc89fa14ca08319748f7e7eca18> <http://schema.org/value> "153744"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naa5a6bc89fa14ca08319748f7e7eca18> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N72f8147fa0024f73b71d38b5625c75b8> .
+<http://lodlaundromat.org/.well-known/genid/N72f8147fa0024f73b71d38b5625c75b8> <http://schema.org/longitude> "-97.4808"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> .
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://schema.org/streetAddress> "431 S. BOULEVARD" .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.652&mlon=-97.4808#map=15/35.652/-97.4808> .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://schema.org/postalCode> "73034-3873" .
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N622ce1eab60d4f6589ab2d97e056ad33> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> .
+<http://lodlaundromat.org/.well-known/genid/N72f8147fa0024f73b71d38b5625c75b8> <http://schema.org/latitude> "35.652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf596f88a3e6f4ec6a3db8abcf07addc5> <http://schema.org/addressLocality> "EDMOND" .
+<http://lodlaundromat.org/.well-known/genid/Naa5a6bc89fa14ca08319748f7e7eca18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N455b3b8f90fb4413ad7af8393c5c7137> <http://schema.org/id> "8404000098" .
+

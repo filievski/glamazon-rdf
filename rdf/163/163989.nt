@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Na18a62db1d20459e92ba8a99a4da2ac3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf0704c943a2543af9bfd9677242b1bd4> .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/name> "Koo Wee Rup Swamp Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na18a62db1d20459e92ba8a99a4da2ac3> .
+<http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> <http://schema.org/id> "koo-wee-rup-swamp-historical-society" .
+<http://lodlaundromat.org/.well-known/genid/N31d234b9a6fb47ec9ab4adb5adc5c2c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf0704c943a2543af9bfd9677242b1bd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na18a62db1d20459e92ba8a99a4da2ac3> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na18a62db1d20459e92ba8a99a4da2ac3> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> <http://schema.org/url> <http://victoriancollections.net.au/organisations/koo-wee-rup-swamp-historical-society> .
+<http://lodlaundromat.org/.well-known/genid/N31d234b9a6fb47ec9ab4adb5adc5c2c3> <http://schema.org/value> "163989"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N31d234b9a6fb47ec9ab4adb5adc5c2c3> .
+<http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncfff8c708b494160891282f3377d07ac> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N31d234b9a6fb47ec9ab4adb5adc5c2c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N750b600522da491780fc53666bec794f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/Nf0704c943a2543af9bfd9677242b1bd4> <http://schema.org/addressCountry> "Australia" .
+

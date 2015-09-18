@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N322f1d989639476a9197bb4cf49d48f5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N322f1d989639476a9197bb4cf49d48f5> .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/name> "Museum der bayerischen K\u00F6nige"@en .
+<http://lodlaundromat.org/.well-known/genid/N322f1d989639476a9197bb4cf49d48f5> <http://schema.org/url> <http://www.museums.io/en/museums/182916> .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N17c08ab851a542fea9be7745b0763fca> .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://schema.org/streetAddress> "Alpseestra\u00DFe 27" .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N6eee3268a16446729c1895fbed57a88f> <http://schema.org/longitude> "10.7363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5538&mlon=10.7363#map=15/47.5538/10.7363> .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/url> <http://www.museum-hohenschwangau.de/> .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://schema.org/postalCode> "87645" .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> .
+<http://lodlaundromat.org/.well-known/genid/N9f5d7b05637945c49df1d4681dfa93e1> <http://schema.org/addressLocality> "Schwangau" .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6eee3268a16446729c1895fbed57a88f> .
+<http://lodlaundromat.org/.well-known/genid/N17c08ab851a542fea9be7745b0763fca> <http://schema.org/value> "182916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6eee3268a16446729c1895fbed57a88f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N322f1d989639476a9197bb4cf49d48f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ce55bb0080f419b80999291d64b2208> <http://schema.org/telephone> "08362/887441" .
+<http://lodlaundromat.org/.well-known/genid/N17c08ab851a542fea9be7745b0763fca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N322f1d989639476a9197bb4cf49d48f5> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N6eee3268a16446729c1895fbed57a88f> <http://schema.org/latitude> "47.5538"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17c08ab851a542fea9be7745b0763fca> <http://schema.org/name> "id" .
+

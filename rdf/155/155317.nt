@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> <http://schema.org/id> "8404200511" .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N131c3a47293844f48046e7da1aeb4fbc> <http://schema.org/latitude> "40.2212"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://schema.org/streetAddress> "PO BOX 732" .
+<http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N131c3a47293844f48046e7da1aeb4fbc> <http://schema.org/longitude> "-75.0046"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N131c3a47293844f48046e7da1aeb4fbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2212&mlon=-75.0046#map=15/40.2212/-75.0046> .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://schema.org/addressLocality> "RICHBORO" .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> .
+<http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/name> "NORTHAMPTON TOWNSHIP HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N435f6da5f25f43cbb15208beffd15d65> <http://schema.org/value> "155317"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N435f6da5f25f43cbb15208beffd15d65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e89d92d81aa4cf1914c9408252a3376> <http://schema.org/postalCode> "18954" .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N435f6da5f25f43cbb15208beffd15d65> .
+<http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7cafc32cd0f646e88d043548db66ac7b> .
+<http://lodlaundromat.org/.well-known/genid/N435f6da5f25f43cbb15208beffd15d65> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N78a8535016f74160b79035eea79da9a2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N131c3a47293844f48046e7da1aeb4fbc> .
+

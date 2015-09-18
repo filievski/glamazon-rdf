@@ -1,0 +1,33 @@
+<http://lodlaundromat.org/.well-known/genid/N32a534ce49294d13b049a0f6bbc682be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/url> <http://www.centerforsacramentohistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32a534ce49294d13b049a0f6bbc682be> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Sacramento_History_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd70e96f00491462fb9739b4d859c553d> <http://schema.org/license> <https://creativecommons.org/licenses/by-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://schema.org/postalCode> "95811-0229" .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://schema.org/addressLocality> "SACRAMENTO" .
+<http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> <http://schema.org/id> "8400601139" .
+<http://lodlaundromat.org/.well-known/genid/Nd70e96f00491462fb9739b4d859c553d> <http://schema.org/contentUrl> <http://images.museums.io/aF_cJbmsXM_jp3tsDFwrP4ec2To=/1000x1000/museums/logos/000/131/013/original/SacramentoHistoryMuseum.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nd70e96f00491462fb9739b4d859c553d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> .
+<http://lodlaundromat.org/.well-known/genid/N204a4cf4960549b38d9e71b86e90fc3d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/name> "SACRAMENTO HISTORY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfc124c3c88224112b4cc02186586ae9a> .
+<http://lodlaundromat.org/.well-known/genid/N32a534ce49294d13b049a0f6bbc682be> <http://schema.org/value> "131013"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfc124c3c88224112b4cc02186586ae9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nd70e96f00491462fb9739b4d859c553d> .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://schema.org/streetAddress> "551 SEQUOIA PACIFIC BLVD" .
+<http://lodlaundromat.org/.well-known/genid/Nfc124c3c88224112b4cc02186586ae9a> <http://schema.org/longitude> "-121.497"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5992&mlon=-121.497#map=15/38.5992/-121.497> .
+<http://lodlaundromat.org/.well-known/genid/Nfc124c3c88224112b4cc02186586ae9a> <http://schema.org/latitude> "38.5992"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N333672ab8ba942ac9823b5fbd9fad232> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd70e96f00491462fb9739b4d859c553d> <http://schema.org/creator> "<a href=\"//commons.wikimedia.org/w/index.php?title=User:Janannwa&amp;action=edit&amp;redlink=1\" class=\"new\" title=\"User:Janannwa (page does not exist)\">Janannwa</a>" .
+<http://lodlaundromat.org/.well-known/genid/N0ca3f7074524437e802b864ba86e0ce3> <http://schema.org/telephone> "+1 (916) 808-7072" .
+<http://lodlaundromat.org/.well-known/genid/N32a534ce49294d13b049a0f6bbc682be> <http://schema.org/name> "id" .
+

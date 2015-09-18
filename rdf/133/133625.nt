@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09b6dd8cae6649cda4f99baea831e981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N09b6dd8cae6649cda4f99baea831e981> <http://schema.org/value> "133625"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9f000d72df054cfcbe778d666c24ac1d> .
+<http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2031&mlon=-73.2935#map=15/41.2031/-73.2935> .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://schema.org/addressLocality> "FAIRFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N09b6dd8cae6649cda4f99baea831e981> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> .
+<http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/name> "BIRDCRAFT MUSEUM AT FAIRFIELD"@en .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://schema.org/postalCode> "06824" .
+<http://lodlaundromat.org/.well-known/genid/N6079524a4e4a4549b55dd655f34f0987> <http://schema.org/id> "8400900100" .
+<http://lodlaundromat.org/.well-known/genid/N9f000d72df054cfcbe778d666c24ac1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9f000d72df054cfcbe778d666c24ac1d> <http://schema.org/longitude> "-73.2935"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09b6dd8cae6649cda4f99baea831e981> .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/url> <http://www.ctaudubon.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7fb88a84452741a1b51cb5f59781043b> <http://schema.org/telephone> "97822109045" .
+<http://lodlaundromat.org/.well-known/genid/N6d67dc291b3f42bea3d8e41c6eb1e9ff> <http://schema.org/streetAddress> "2325 BURR STREET" .
+<http://lodlaundromat.org/.well-known/genid/N9f000d72df054cfcbe778d666c24ac1d> <http://schema.org/latitude> "41.2031"^^<http://www.w3.org/2001/XMLSchema#double> .
+

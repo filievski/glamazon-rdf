@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf1fd8cad5b8d438dbf0ce115c9ba3a5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf1fd8cad5b8d438dbf0ce115c9ba3a5c> <http://schema.org/longitude> "-117.651"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N42ce2035cdaa4fcaabf402abaa11ecd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N42ce2035cdaa4fcaabf402abaa11ecd3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf1fd8cad5b8d438dbf0ce115c9ba3a5c> .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/telephone> "+1 (909) 395-2523" .
+<http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> <http://schema.org/id> "8400600265" .
+<http://lodlaundromat.org/.well-known/genid/Nf1fd8cad5b8d438dbf0ce115c9ba3a5c> <http://schema.org/latitude> "34.0622"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0622&mlon=-117.651#map=15/34.0622/-117.651> .
+<http://lodlaundromat.org/.well-known/genid/N42ce2035cdaa4fcaabf402abaa11ecd3> <http://schema.org/value> "130139"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://schema.org/postalCode> "91761" .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/name> "MUSEUM OF HISTORY & ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://schema.org/addressLocality> "ONTARIO" .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> .
+<http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N5e7c791adeea409d9bc4c06978c02c30> <http://schema.org/streetAddress> "225 SOUTH EUCLID AVE." .
+<http://lodlaundromat.org/.well-known/genid/N5b357a3e54d742e59dc69d00bd438647> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N865c913637b345e7b7bdca56b399f55e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N42ce2035cdaa4fcaabf402abaa11ecd3> .
+

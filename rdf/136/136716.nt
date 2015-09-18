@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://schema.org/streetAddress> "PO BOX 250" .
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://schema.org/postalCode> "83422-0250" .
+<http://lodlaundromat.org/.well-known/genid/N4ea53dc18df8437da16e132b90242fe4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> .
+<http://lodlaundromat.org/.well-known/genid/Nd56e172c98514c08ae391109b5454eb4> <http://schema.org/longitude> "-111.107"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd56e172c98514c08ae391109b5454eb4> <http://schema.org/latitude> "43.7263"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4ea53dc18df8437da16e132b90242fe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.7263&mlon=-111.107#map=15/43.7263/-111.107> .
+<http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://schema.org/addressLocality> "DRIGGS" .
+<http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> <http://schema.org/id> "8401600066" .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> .
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://schema.org/addressRegion> "ID" .
+<http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4ea53dc18df8437da16e132b90242fe4> <http://schema.org/value> "136716"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf1731bfdb5814636a27ce70b19b837bc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4ea53dc18df8437da16e132b90242fe4> .
+<http://lodlaundromat.org/.well-known/genid/Ne4118f3ab5924684a2679c35bfb9a996> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/name> "GREATER YELLOWSTONE REGION GEOTOURISM CTR INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd56e172c98514c08ae391109b5454eb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b7d81582b3545ab9a1e72c6544add8e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd56e172c98514c08ae391109b5454eb4> .
+

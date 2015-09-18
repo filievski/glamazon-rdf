@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N72641190b72947c0894d48a65eb5a26f> .
+<http://lodlaundromat.org/.well-known/genid/N889bb527fd674c1da29eedc7eb54cb2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N889bb527fd674c1da29eedc7eb54cb2e> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> <http://schema.org/addressLocality> "Napoli" .
+<http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N72641190b72947c0894d48a65eb5a26f> <http://schema.org/value> "186014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N72641190b72947c0894d48a65eb5a26f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N889bb527fd674c1da29eedc7eb54cb2e> <http://schema.org/latitude> "40.846"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/name> "Museo dell'opera di Santa Chiara"@it .
+<http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> <http://schema.org/streetAddress> "Via S. Chiara, 49/C" .
+<http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> .
+<http://lodlaundromat.org/.well-known/genid/N72641190b72947c0894d48a65eb5a26f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> <http://schema.org/id> "101854" .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/url> <http://www.santachiara.info/> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/telephone> "+39 08119575915" .
+<http://lodlaundromat.org/.well-known/genid/N06d3c5b26c7a4aca998eaa654e9bfb15> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N889bb527fd674c1da29eedc7eb54cb2e> <http://schema.org/longitude> "14.2541"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nea4140074a0045e58810234937912006> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.846&mlon=14.2541#map=15/40.846/14.2541> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca6db0d74346638f7557f2d2cf85b4> <http://schema.org/addressRegion> "Campania" .
+

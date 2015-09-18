@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://schema.org/streetAddress> "1211 MONTANA AVE" .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> .
+<http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2be9bda4f2ff4bcca829f2c21b59e810> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2be9bda4f2ff4bcca829f2c21b59e810> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N503b6cd6c4e4423c8af436e39accb6a6> .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N503b6cd6c4e4423c8af436e39accb6a6> <http://schema.org/latitude> "31.7703"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/name> "INTERNATIONAL ASSOCIATION FOR THE VISUAL ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N503b6cd6c4e4423c8af436e39accb6a6> <http://schema.org/longitude> "-106.482"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.7703&mlon=-106.482#map=15/31.7703/-106.482> .
+<http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2be9bda4f2ff4bcca829f2c21b59e810> <http://schema.org/value> "159289"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N59cd358280d34bbabd40837cdba348da> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2be9bda4f2ff4bcca829f2c21b59e810> .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://schema.org/postalCode> "79902-5511" .
+<http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4bab133c67a1441b94d7cf519157f3bb> <http://schema.org/addressLocality> "EL PASO" .
+<http://lodlaundromat.org/.well-known/genid/N888f4cfdfe874c6cb9c585648dfdea98> <http://schema.org/id> "8404801389" .
+<http://lodlaundromat.org/.well-known/genid/N503b6cd6c4e4423c8af436e39accb6a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

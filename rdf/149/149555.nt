@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne2f78fce0e604cc089f68f6f4d243760> .
+<http://lodlaundromat.org/.well-known/genid/Ne2f78fce0e604cc089f68f6f4d243760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N139fa998c5394abcaeba7dafe9f871b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://schema.org/postalCode> "10520-0631" .
+<http://lodlaundromat.org/.well-known/genid/N139fa998c5394abcaeba7dafe9f871b1> <http://schema.org/latitude> "41.2125"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N139fa998c5394abcaeba7dafe9f871b1> <http://schema.org/longitude> "-73.8898"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2f78fce0e604cc089f68f6f4d243760> <http://schema.org/value> "149555"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N139fa998c5394abcaeba7dafe9f871b1> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://schema.org/streetAddress> "PO BOX 631" .
+<http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> <http://schema.org/id> "8403600849" .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://schema.org/addressLocality> "CROTON HDSN" .
+<http://lodlaundromat.org/.well-known/genid/Ne2f78fce0e604cc089f68f6f4d243760> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2125&mlon=-73.8898#map=15/41.2125/-73.8898> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a57b3ed1514598a6111045e4770a23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N59b5bd477e0b44788085de18cc9a999d> <http://schema.org/name> "THE CROTON ARBORETUM & SANCTUARY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf1d2fe42fb754a4c9a7f3ec3e0cfb55c> <http://schema.org/@Type> "Dataset" .
+

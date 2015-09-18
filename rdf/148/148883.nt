@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://schema.org/addressLocality> "MONROE" .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3df0566824de4c0d9ca4a3eb7fd76a52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N891455e006bd434fa2d80d428170e963> <http://schema.org/latitude> "41.3439"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> .
+<http://lodlaundromat.org/.well-known/genid/N3df0566824de4c0d9ca4a3eb7fd76a52> <http://schema.org/value> "148883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N891455e006bd434fa2d80d428170e963> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://schema.org/streetAddress> "MUSEUM VILLAGE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3df0566824de4c0d9ca4a3eb7fd76a52> .
+<http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb946d156151b4651ad7a4c36d42bb8a6> <http://schema.org/id> "8403600177" .
+<http://lodlaundromat.org/.well-known/genid/N891455e006bd434fa2d80d428170e963> <http://schema.org/longitude> "-74.2052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N891455e006bd434fa2d80d428170e963> .
+<http://lodlaundromat.org/.well-known/genid/N3df0566824de4c0d9ca4a3eb7fd76a52> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3439&mlon=-74.2052#map=15/41.3439/-74.2052> .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://schema.org/postalCode> "10950" .
+<http://lodlaundromat.org/.well-known/genid/N83a16a72bc6044088e54e2b9e52a8d3b> <http://schema.org/name> "MUSEUM VILLAGE IN ORANGE COUNTY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2333256ae7804cf38c2325de050524c3> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1abb93e35d9d47c7863c1be733284213> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N04dd18a20b06463eade83b6d61871ae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N04dd18a20b06463eade83b6d61871ae5> .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N1abb93e35d9d47c7863c1be733284213> <http://schema.org/value> "132539"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/name> "SANTA PAULA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1abb93e35d9d47c7863c1be733284213> .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://schema.org/streetAddress> "PO BOX 842" .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/url> <http://santapaulahistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> <http://schema.org/id> "8400602665" .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://schema.org/postalCode> "93060" .
+<http://lodlaundromat.org/.well-known/genid/N04dd18a20b06463eade83b6d61871ae5> <http://schema.org/longitude> "-119.077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.3505&mlon=-119.077#map=15/34.3505/-119.077> .
+<http://lodlaundromat.org/.well-known/genid/N1abb93e35d9d47c7863c1be733284213> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b87741323344f56966eb52328e07eeb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> <http://schema.org/addressLocality> "SANTA PAULA" .
+<http://lodlaundromat.org/.well-known/genid/N2a655452e0cf450aa0538889822b6db7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N852497b0f3634deab3090ec966960160> .
+<http://lodlaundromat.org/.well-known/genid/N04dd18a20b06463eade83b6d61871ae5> <http://schema.org/latitude> "34.3505"^^<http://www.w3.org/2001/XMLSchema#double> .
+

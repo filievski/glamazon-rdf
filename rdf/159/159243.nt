@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/name> "WORLD WAR 2 MEMORIAL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na7eb9f95f9834f8da921fc9034dbb7c8> <http://schema.org/value> "159243"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://schema.org/postalCode> "78230-2710" .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7eb9f95f9834f8da921fc9034dbb7c8> .
+<http://lodlaundromat.org/.well-known/genid/Na7eb9f95f9834f8da921fc9034dbb7c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc56ab99226604b34a606d503ff5876c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> <http://schema.org/id> "8404801343" .
+<http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.5507&mlon=-98.542#map=15/29.5507/-98.542> .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> .
+<http://lodlaundromat.org/.well-known/genid/Na7eb9f95f9834f8da921fc9034dbb7c8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc56ab99226604b34a606d503ff5876c7> <http://schema.org/longitude> "-98.542"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N567a40fcc8ec4084b78d424cfd657040> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://schema.org/streetAddress> "11840 WURZBACH RD" .
+<http://lodlaundromat.org/.well-known/genid/Nea50547afbe348a4a8b9f60798967ea6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc56ab99226604b34a606d503ff5876c7> .
+<http://lodlaundromat.org/.well-known/genid/Nc56ab99226604b34a606d503ff5876c7> <http://schema.org/latitude> "29.5507"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfb0663ad53314ed583f8497ea79ad974> <http://schema.org/addressLocality> "SAN ANTONIO" .
+

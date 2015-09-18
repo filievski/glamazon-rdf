@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N17b3266fcba745829d85ed912b57d2a4> <http://schema.org/value> "135745"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N17b3266fcba745829d85ed912b57d2a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N17b3266fcba745829d85ed912b57d2a4> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> .
+<http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> <http://schema.org/id> "8401300016" .
+<http://lodlaundromat.org/.well-known/genid/N2b9ee21af6b64805b8a5d5e9c8784c1b> <http://schema.org/longitude> "-81.0989"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.0762&mlon=-81.0989#map=15/32.0762/-81.0989> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://schema.org/streetAddress> "303 MARTIN LUTHER KING JR. BOULEVARD" .
+<http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2b9ee21af6b64805b8a5d5e9c8784c1b> .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://schema.org/addressLocality> "SAVANNAH" .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/name> "SAVANNAH HISTORY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2b9ee21af6b64805b8a5d5e9c8784c1b> <http://schema.org/latitude> "32.0762"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4186be35a33d419f8dfbdb82b26591c1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9e4efc491654ab2b9ac397e69678945> <http://schema.org/postalCode> "31401" .
+<http://lodlaundromat.org/.well-known/genid/N17b3266fcba745829d85ed912b57d2a4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4caa92b35d5c45cc9637e7ba8cd8f9f1> <http://schema.org/telephone> "+1 (912) 651-6833" .
+<http://lodlaundromat.org/.well-known/genid/N2b9ee21af6b64805b8a5d5e9c8784c1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

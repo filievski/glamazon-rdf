@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N545259df873b42e099ba59a857b62254> .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8884&mlon=-118.387#map=15/33.8884/-118.387> .
+<http://lodlaundromat.org/.well-known/genid/N545259df873b42e099ba59a857b62254> <http://schema.org/latitude> "33.8884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/url> <http://www.manhattanbeachbotanicalgarden.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://schema.org/streetAddress> "PO BOX 1156" .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/telephone> "+1 (310) 546-1354" .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N589c942aeeff4a6e85b571787703f54f> .
+<http://lodlaundromat.org/.well-known/genid/N589c942aeeff4a6e85b571787703f54f> <http://schema.org/value> "132720"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://schema.org/postalCode> "90267-1156" .
+<http://lodlaundromat.org/.well-known/genid/N545259df873b42e099ba59a857b62254> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N589c942aeeff4a6e85b571787703f54f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N218dea2322ca40828095cb73c54f1ddb> <http://schema.org/addressLocality> "MANHATTAN BEACH" .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/name> "MANHATTAN BEACH BOTANICAL GARDEN"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd200716762494947bac759c9ad7b1b98> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> .
+<http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N545259df873b42e099ba59a857b62254> <http://schema.org/longitude> "-118.387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> <http://schema.org/id> "8400602846" .
+<http://lodlaundromat.org/.well-known/genid/N589c942aeeff4a6e85b571787703f54f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N912db467404e4ec08e68711b9016829c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

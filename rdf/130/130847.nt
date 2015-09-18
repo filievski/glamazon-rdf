@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nebfe2280856e471a8f6f7b80b4a16d88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd61110258a1645799b08cae1f4946861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd61110258a1645799b08cae1f4946861> <http://schema.org/longitude> "-118.021"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://schema.org/streetAddress> "13611 MILTON AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nebfe2280856e471a8f6f7b80b4a16d88> <http://schema.org/value> "130847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> .
+<http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> <http://schema.org/id> "8400600973" .
+<http://lodlaundromat.org/.well-known/genid/Nd61110258a1645799b08cae1f4946861> <http://schema.org/latitude> "33.7645"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://schema.org/addressLocality> "WESTMINSTER" .
+<http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/name> "STUBER EARLY AMERICAN MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd61110258a1645799b08cae1f4946861> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7645&mlon=-118.021#map=15/33.7645/-118.021> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nebfe2280856e471a8f6f7b80b4a16d88> .
+<http://lodlaundromat.org/.well-known/genid/Ned74d62415604aeb8b2ac5707fa62501> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10754bca2af9463d9f3e66dd4907f9db> .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nebfe2280856e471a8f6f7b80b4a16d88> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nda0f834dc0304f1eaf862f63def9713f> <http://schema.org/postalCode> "92683-2977" .
+

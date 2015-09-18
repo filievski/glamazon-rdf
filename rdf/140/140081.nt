@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N130773057af84a63a4a333f76e9463c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3785&mlon=-100.195#map=15/37.3785/-100.195> .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://schema.org/addressLocality> "FOWLER" .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/name> "FOWLER ARTS COUNCIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://schema.org/postalCode> "67844-0437" .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://schema.org/streetAddress> "206 MAIN STREET PO BOX 437" .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N130773057af84a63a4a333f76e9463c0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> .
+<http://lodlaundromat.org/.well-known/genid/N518908b9baf040639e6adee0e1b8fbd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfe71da87c73f4fb7a1ab13f13e963725> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N518908b9baf040639e6adee0e1b8fbd5> <http://schema.org/latitude> "37.3785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N518908b9baf040639e6adee0e1b8fbd5> <http://schema.org/longitude> "-100.195"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> <http://schema.org/id> "8402000407" .
+<http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N130773057af84a63a4a333f76e9463c0> <http://schema.org/value> "140081"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b30314d8dd547b18f18ed44b19d6aac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N130773057af84a63a4a333f76e9463c0> .
+<http://lodlaundromat.org/.well-known/genid/N480e2acd7dff4d228f2ccabe777a6747> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N518908b9baf040639e6adee0e1b8fbd5> .
+

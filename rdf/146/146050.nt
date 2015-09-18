@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/telephone> "+1 (417) 862-9910" .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/name> "DISCOVERY CENTER OF SPRINGFIELD INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/url> <http://www.discoverycenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://schema.org/postalCode> "65806-2312" .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.2089&mlon=-93.2885#map=15/37.2089/-93.2885> .
+<http://lodlaundromat.org/.well-known/genid/N481c5b0e87d5439387af3d60a25841a9> <http://schema.org/latitude> "37.2089"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> .
+<http://lodlaundromat.org/.well-known/genid/N97603398e31f45f1bc82cd394fc60b64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N481c5b0e87d5439387af3d60a25841a9> .
+<http://lodlaundromat.org/.well-known/genid/N7c53cedb49e64e0385d5f4adba7f48d5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N97603398e31f45f1bc82cd394fc60b64> .
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> <http://schema.org/id> "8402900479" .
+<http://lodlaundromat.org/.well-known/genid/N481c5b0e87d5439387af3d60a25841a9> <http://schema.org/longitude> "-93.2885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c44e90f5ffa40f290a259d9e8686b5d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://schema.org/addressLocality> "SPRINGFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N481c5b0e87d5439387af3d60a25841a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N97603398e31f45f1bc82cd394fc60b64> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N129f2e39899348d8aa9b6614b4e4c1cc> <http://schema.org/streetAddress> "438 E ST LOUIS STREET" .
+<http://lodlaundromat.org/.well-known/genid/N97603398e31f45f1bc82cd394fc60b64> <http://schema.org/value> "146050"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nddf8980fdce54847a2f578ab96968d82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na4da801b41184ab79559a4b3cda17e7c> .
+<http://lodlaundromat.org/.well-known/genid/Na4da801b41184ab79559a4b3cda17e7c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nddf8980fdce54847a2f578ab96968d82> .
+<http://lodlaundromat.org/.well-known/genid/Na4da801b41184ab79559a4b3cda17e7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na4da801b41184ab79559a4b3cda17e7c> <http://schema.org/value> "150241"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/name> "HISTORIC HORNELL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://schema.org/streetAddress> "PO BOX 188" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://schema.org/postalCode> "14843" .
+<http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncd1c23dfd4eb4a69a99a407e1665d163> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3269&mlon=-77.6597#map=15/42.3269/-77.6597> .
+<http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> <http://schema.org/id> "8403601535" .
+<http://lodlaundromat.org/.well-known/genid/Ne32f03d700a34bdda1ffe9499e5d65c0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nddf8980fdce54847a2f578ab96968d82> <http://schema.org/latitude> "42.3269"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7d30da71bc4066bbe72ae0309d9b9a> <http://schema.org/addressLocality> "HORNELL" .
+<http://lodlaundromat.org/.well-known/genid/Nddf8980fdce54847a2f578ab96968d82> <http://schema.org/longitude> "-77.6597"^^<http://www.w3.org/2001/XMLSchema#double> .
+

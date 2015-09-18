@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://schema.org/streetAddress> "116 N. WILLIAM STREET" .
+<http://lodlaundromat.org/.well-known/genid/N5d4657bf00784c62b3e04cc7f8cf9f1e> <http://schema.org/longitude> "-77.9931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5d4657bf00784c62b3e04cc7f8cf9f1e> .
+<http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nca309f4bae4b40ab997987eba7d6a504> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> <http://schema.org/id> "8403700005" .
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nca309f4bae4b40ab997987eba7d6a504> .
+<http://lodlaundromat.org/.well-known/genid/Nca309f4bae4b40ab997987eba7d6a504> <http://schema.org/value> "151134"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.3833&mlon=-77.9931#map=15/35.3833/-77.9931> .
+<http://lodlaundromat.org/.well-known/genid/N5d4657bf00784c62b3e04cc7f8cf9f1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> .
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://schema.org/addressLocality> "GOLDSBORO" .
+<http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nca309f4bae4b40ab997987eba7d6a504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://schema.org/postalCode> "27530" .
+<http://lodlaundromat.org/.well-known/genid/Ndebbbb6fb3dc4e0f9b5c8720b6b7b045> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d4657bf00784c62b3e04cc7f8cf9f1e> <http://schema.org/latitude> "35.3833"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/telephone> "+1 (919) 734-5023" .
+<http://lodlaundromat.org/.well-known/genid/N69c6cde7d12345a799faffc4b2029eaa> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N47e25652768c4a31906dfcbfc7376999> <http://schema.org/name> "WAYNE COUNTY MUSEUM"@en .
+

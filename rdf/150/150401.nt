@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1df213a8ac5b44dba3887376e01c3969> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/name> "NATIONAL PARKS OF NEW YORK HARBOR CONSERVANCY"@en .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd8317a1ac99e484296b75cc3b5959dd6> .
+<http://lodlaundromat.org/.well-known/genid/Nd8317a1ac99e484296b75cc3b5959dd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> .
+<http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> <http://schema.org/postalCode> "10005-1996" .
+<http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1df213a8ac5b44dba3887376e01c3969> .
+<http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd8317a1ac99e484296b75cc3b5959dd6> <http://schema.org/longitude> "-74.0104"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1df213a8ac5b44dba3887376e01c3969> <http://schema.org/value> "150401"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1df213a8ac5b44dba3887376e01c3969> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7069&mlon=-74.0104#map=15/40.7069/-74.0104> .
+<http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> <http://schema.org/id> "8403601695" .
+<http://lodlaundromat.org/.well-known/genid/Nd8317a1ac99e484296b75cc3b5959dd6> <http://schema.org/latitude> "40.7069"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/url> <http://www.nyharborparks.org/> .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0ac2124055a441829a4362b9f07560d9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N64b799f7695845bfaf443a5b433bb974> .
+<http://lodlaundromat.org/.well-known/genid/Ne525f2c4e9964c04bd8d1e250f9a13ac> <http://schema.org/addressRegion> "NY" .
+

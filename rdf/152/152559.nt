@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5de21c7d80564e018fbb6ede6aa173ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://schema.org/streetAddress> "PO BOX 243" .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.181&mlon=-80.7652#map=15/41.181/-80.7652> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/name> "FRIENDS OF THE MCKINLEY MEMORIAL LIBRARY AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5de21c7d80564e018fbb6ede6aa173ca> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N289ac5145dc743ee881ca21619295d46> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://schema.org/postalCode> "44446-0243" .
+<http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> <http://schema.org/id> "8403900336" .
+<http://lodlaundromat.org/.well-known/genid/N5de21c7d80564e018fbb6ede6aa173ca> <http://schema.org/latitude> "41.181"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/url> <http://www.mckinley.lib.oh.us/> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> .
+<http://lodlaundromat.org/.well-known/genid/N289ac5145dc743ee881ca21619295d46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N289ac5145dc743ee881ca21619295d46> .
+<http://lodlaundromat.org/.well-known/genid/N5de21c7d80564e018fbb6ede6aa173ca> <http://schema.org/longitude> "-80.7652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N72e91d4afd0545ea9f392658fe2eeee1> <http://schema.org/addressLocality> "NILES" .
+<http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb4c55c36152b4fd9b3d15b927db65065> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N735dd86f1d41448f92d04f6d3420c2de> <http://schema.org/telephone> "+1 (330) 652-4273" .
+<http://lodlaundromat.org/.well-known/genid/N289ac5145dc743ee881ca21619295d46> <http://schema.org/value> "152559"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

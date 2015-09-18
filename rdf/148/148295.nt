@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://schema.org/addressLocality> "SOMERSET" .
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://schema.org/streetAddress> "281 ABBEY DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> <http://schema.org/id> "8403400663" .
+<http://lodlaundromat.org/.well-known/genid/N937f3d2efba54c6bbb614efc89ef94ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> .
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2134676433474ef197ffab9102ea8d24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> .
+<http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5203&mlon=-74.5174#map=15/40.5203/-74.5174> .
+<http://lodlaundromat.org/.well-known/genid/N937f3d2efba54c6bbb614efc89ef94ed> <http://schema.org/longitude> "-74.5174"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N937f3d2efba54c6bbb614efc89ef94ed> .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2134676433474ef197ffab9102ea8d24> .
+<http://lodlaundromat.org/.well-known/genid/N0274ec2b12c8465eb42c031e62859db0> <http://schema.org/postalCode> "08873-6403" .
+<http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2134676433474ef197ffab9102ea8d24> <http://schema.org/value> "148295"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N937f3d2efba54c6bbb614efc89ef94ed> <http://schema.org/latitude> "40.5203"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2134676433474ef197ffab9102ea8d24> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N530f72c010b7457390d492ba267cabac> <http://schema.org/name> "FRANKLIN INN-VAN LIEW HOMESTEAD ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na3f2df1dc3eb40bb822d5322959e6154> <http://schema.org/url> <http://www.imls.gov/> .
+

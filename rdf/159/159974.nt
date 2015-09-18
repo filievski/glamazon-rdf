@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N8998e701dad545c29a29ea4005490d63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://schema.org/streetAddress> "645 E 1430 N" .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> .
+<http://lodlaundromat.org/.well-known/genid/N01b25337c4a249e0a2733a8c75e313fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01b25337c4a249e0a2733a8c75e313fa> <http://schema.org/longitude> "-111.648"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01b25337c4a249e0a2733a8c75e313fa> <http://schema.org/latitude> "40.253"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8998e701dad545c29a29ea4005490d63> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8998e701dad545c29a29ea4005490d63> .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/name> "MONTE L BEAN SCIENCE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.253&mlon=-111.648#map=15/40.253/-111.648> .
+<http://lodlaundromat.org/.well-known/genid/N8998e701dad545c29a29ea4005490d63> <http://schema.org/value> "159974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://schema.org/postalCode> "84602" .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N01b25337c4a249e0a2733a8c75e313fa> .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://schema.org/addressLocality> "PROVO" .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/url> <http://mlbean.byu.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> <http://schema.org/id> "8404900040" .
+<http://lodlaundromat.org/.well-known/genid/N9fd15d5c299048adba1e91c984905139> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8f9ce18b53dd414aaadd7b874944a23a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://schema.org/telephone> "+1 (801) 422-5050" .
+<http://lodlaundromat.org/.well-known/genid/N74c70bfc65614bd98e29a4753fe1c29b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

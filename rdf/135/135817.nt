@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://schema.org/postalCode> "30307" .
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2efdd07bc4294ed386e5640862e43fdd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/name> "FERNBANK MUSEUM-NATURAL HSTRY"@en .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> .
+<http://lodlaundromat.org/.well-known/genid/N2efdd07bc4294ed386e5640862e43fdd> <http://schema.org/value> "135817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/telephone> "+1 (404) 378-7009" .
+<http://lodlaundromat.org/.well-known/genid/N91209528c45d4f47983a9d1ec2dc0117> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> .
+<http://lodlaundromat.org/.well-known/genid/N91209528c45d4f47983a9d1ec2dc0117> <http://schema.org/latitude> "33.7727"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2efdd07bc4294ed386e5640862e43fdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://schema.org/streetAddress> "1820 PONCE DE LEON AVE NE" .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7727&mlon=-84.3284#map=15/33.7727/-84.3284> .
+<http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://schema.org/addressLocality> "ATLANTA" .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2efdd07bc4294ed386e5640862e43fdd> .
+<http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> <http://schema.org/id> "8401300088" .
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nad77c0aa726548ee9ea7729bb94656f9> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N38de7de74e0e46f6aac582c43af7c74b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N91209528c45d4f47983a9d1ec2dc0117> .
+<http://lodlaundromat.org/.well-known/genid/N91209528c45d4f47983a9d1ec2dc0117> <http://schema.org/longitude> "-84.3284"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N92de3918859e4bb799f4803fd231f07b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

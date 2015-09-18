@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N22dbeab7dc1c4af68283e3686cd96a6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7c322a89064ffe958f7a83f66e2d36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.0886&mlon=-84.6613#map=15/32.0886/-84.6613> .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndc7c322a89064ffe958f7a83f66e2d36> .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://schema.org/postalCode> "31825-0396" .
+<http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/name> "RICHLAND BETTER HOMETOWN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N22dbeab7dc1c4af68283e3686cd96a6f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7c322a89064ffe958f7a83f66e2d36> <http://schema.org/latitude> "32.0886"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://schema.org/streetAddress> "PO BOX 396" .
+<http://lodlaundromat.org/.well-known/genid/Ndc7c322a89064ffe958f7a83f66e2d36> <http://schema.org/longitude> "-84.6613"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> <http://schema.org/id> "8401300287" .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N22dbeab7dc1c4af68283e3686cd96a6f> .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://schema.org/addressLocality> "RICHLAND" .
+<http://lodlaundromat.org/.well-known/genid/N22dbeab7dc1c4af68283e3686cd96a6f> <http://schema.org/value> "136016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> .
+<http://lodlaundromat.org/.well-known/genid/N7582cf9052a54c9bbaccd57d0c2919ea> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N78aa08c4c51f4536968a1624bcafc3a6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb704a791aa2440a2b1dda0081cb19fc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

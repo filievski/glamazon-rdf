@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> .
+<http://lodlaundromat.org/.well-known/genid/N78e65cf882734848a70322d885bfb59c> <http://schema.org/longitude> "11.0842"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/name> "Museum Tucherschloss und Hirsvogelsaal"@en .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78e65cf882734848a70322d885bfb59c> .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5957faf0f86446d4b21fb208a7322f91> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5957faf0f86446d4b21fb208a7322f91> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N558e8dc4b7634b36bcf13a4b6207261b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N78e65cf882734848a70322d885bfb59c> <http://schema.org/latitude> "49.4576"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78e65cf882734848a70322d885bfb59c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5957faf0f86446d4b21fb208a7322f91> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/url> <http://www.museen.nuernberg.de/tucherschloss/index.html> .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://schema.org/addressLocality> "N\u00FCrnberg" .
+<http://lodlaundromat.org/.well-known/genid/N5957faf0f86446d4b21fb208a7322f91> <http://schema.org/url> <http://www.museums.io/en/museums/183388> .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/telephone> "0911/231-8355" .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.4576&mlon=11.0842#map=15/49.4576/11.0842> .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N558e8dc4b7634b36bcf13a4b6207261b> .
+<http://lodlaundromat.org/.well-known/genid/N558e8dc4b7634b36bcf13a4b6207261b> <http://schema.org/value> "183388"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N558e8dc4b7634b36bcf13a4b6207261b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://schema.org/postalCode> "90403" .
+<http://lodlaundromat.org/.well-known/genid/N6ca72747ed8242abaff0a9ce33af80d7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5957faf0f86446d4b21fb208a7322f91> .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://schema.org/streetAddress> "Hirschelgasse 11" .
+<http://lodlaundromat.org/.well-known/genid/Nd891306915f24c248068dd342fa3cb09> <http://schema.org/addressRegion> "Mittelfranken" .
+

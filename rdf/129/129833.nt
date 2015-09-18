@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/name> "FORT SMITH AIR MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/url> <http://fortsmithairmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://schema.org/postalCode> "72901" .
+<http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> <http://schema.org/id> "8400500269" .
+<http://lodlaundromat.org/.well-known/genid/Nc6d7086442124392bfbbdd235f4b07ee> <http://schema.org/latitude> "35.3427"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc6d7086442124392bfbbdd235f4b07ee> <http://schema.org/longitude> "-94.3559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> .
+<http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N40e4a79c15ac42abb3d529b15dc6783b> .
+<http://lodlaundromat.org/.well-known/genid/Nc6d7086442124392bfbbdd235f4b07ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N40e4a79c15ac42abb3d529b15dc6783b> <http://schema.org/value> "129833"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc6d7086442124392bfbbdd235f4b07ee> .
+<http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/telephone> "+1 (479) 785-1839" .
+<http://lodlaundromat.org/.well-known/genid/Nc77fb0816e7e49e996f775beae6fac42> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://schema.org/streetAddress> "3 GLEN HAVEN DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N40e4a79c15ac42abb3d529b15dc6783b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb211f1f17c62464fad76ce9efa45a538> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.3427&mlon=-94.3559#map=15/35.3427/-94.3559> .
+<http://lodlaundromat.org/.well-known/genid/N40e4a79c15ac42abb3d529b15dc6783b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6de9c8ea9bf44ddb962df27a8545041f> <http://schema.org/addressLocality> "FORT SMITH" .
+

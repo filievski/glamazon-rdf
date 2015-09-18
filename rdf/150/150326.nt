@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1017&mlon=-75.9066#map=15/42.1017/-75.9066> .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> .
+<http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nccd954ddcca143b399b38507e020e662> <http://schema.org/longitude> "-75.9066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7fccc02da6274396ae7553cc0fe21c16> <http://schema.org/value> "150326"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> <http://schema.org/id> "8403601620" .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/name> "BINGHAMTON UNIVERSITY, UNIVERSITY ART GALLERY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7fccc02da6274396ae7553cc0fe21c16> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7fccc02da6274396ae7553cc0fe21c16> .
+<http://lodlaundromat.org/.well-known/genid/Nccd954ddcca143b399b38507e020e662> <http://schema.org/latitude> "42.1017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nccd954ddcca143b399b38507e020e662> .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://schema.org/postalCode> "13902-6000" .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://schema.org/streetAddress> "PO BOX 6000" .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://schema.org/addressLocality> "BINGHAMTON" .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Na82d89bf4a5743dd8473f0e47b36d594> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7fccc02da6274396ae7553cc0fe21c16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9b8f942184124e52af8bd950bf6da195> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> .
+<http://lodlaundromat.org/.well-known/genid/Nccd954ddcca143b399b38507e020e662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc8fbc992325c46e493374b82dfb9a7d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

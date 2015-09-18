@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1a167523e9a64c65a9ca5e829133aa66> <http://schema.org/latitude> "39.3397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N31b311fe6bf74e1295d1a22359b421dd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a167523e9a64c65a9ca5e829133aa66> .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3397&mlon=-82.9918#map=15/39.3397/-82.9918> .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://schema.org/postalCode> "45601-5790" .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://schema.org/addressLocality> "CHILLICOTHE" .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N31b311fe6bf74e1295d1a22359b421dd> <http://schema.org/value> "152938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/telephone> "+1 (740) 775-1780" .
+<http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> <http://schema.org/id> "8403900715" .
+<http://lodlaundromat.org/.well-known/genid/N31b311fe6bf74e1295d1a22359b421dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/name> "FRIENDS OF THE LUCY HAYES HERITAGE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N31b311fe6bf74e1295d1a22359b421dd> .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://schema.org/streetAddress> "PO 1798" .
+<http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1a167523e9a64c65a9ca5e829133aa66> <http://schema.org/longitude> "-82.9918"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf51c52479f9843c1bea55143903c17ae> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> .
+<http://lodlaundromat.org/.well-known/genid/N1a167523e9a64c65a9ca5e829133aa66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N879be5c2c75744ffbcf6bc33178f983b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na4b5baab3df147aba2571cfe32cee50d> <http://schema.org/addressCountry> "United States" .
+

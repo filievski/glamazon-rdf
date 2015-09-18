@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd2311aeb830c4649bcddf93370c1f241> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N128386c1145348038a561c2dcc583e93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd2311aeb830c4649bcddf93370c1f241> <http://schema.org/value> "135160"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://schema.org/addressLocality> "MIAMI" .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N128386c1145348038a561c2dcc583e93> <http://schema.org/latitude> "25.7545"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd2311aeb830c4649bcddf93370c1f241> .
+<http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd2311aeb830c4649bcddf93370c1f241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> <http://schema.org/id> "8401200715" .
+<http://lodlaundromat.org/.well-known/genid/N128386c1145348038a561c2dcc583e93> <http://schema.org/longitude> "-80.4012"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://schema.org/streetAddress> "1445 SW 127TH CT" .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N128386c1145348038a561c2dcc583e93> .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.7545&mlon=-80.4012#map=15/25.7545/-80.4012> .
+<http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/name> "INTERNATIONAL MOBILE MUSEUMS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8d54de52123d476aa4fa84c13a2e6b1f> <http://schema.org/postalCode> "33403" .
+<http://lodlaundromat.org/.well-known/genid/N720b70e6de834c1c82f295446ecfca5c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1dbfe8cd181a48fdaff71c11a10edda8> .
+

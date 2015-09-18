@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N58cd9ae09aef471a9ea7bb31b10cef24> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/telephone> "+39 0184291000" .
+<http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> <http://schema.org/addressLocality> "Vallecrosia" .
+<http://lodlaundromat.org/.well-known/genid/Nb07c023b373c468d80e0407559399704> <http://schema.org/latitude> "43.7893"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N58cd9ae09aef471a9ea7bb31b10cef24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/url> <http://www.museodellacanzone.com/> .
+<http://lodlaundromat.org/.well-known/genid/N58cd9ae09aef471a9ea7bb31b10cef24> <http://schema.org/value> "186765"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> <http://schema.org/id> "105443" .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> .
+<http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> <http://schema.org/streetAddress> "Via Roma, 108bis" .
+<http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N30691e376286405f9350bb5d74a07bff> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.7893&mlon=7.6467#map=15/43.7893/7.6467> .
+<http://lodlaundromat.org/.well-known/genid/Nb07c023b373c468d80e0407559399704> <http://schema.org/longitude> "7.6467"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N58cd9ae09aef471a9ea7bb31b10cef24> .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb07c023b373c468d80e0407559399704> .
+<http://lodlaundromat.org/.well-known/genid/Nb07c023b373c468d80e0407559399704> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N721f2ee6780c4966bf6357774e3f609b> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/N89315a3cee0f40489fd0dfa34e0d0b43> <http://schema.org/name> "Fondazione Erio Tripodi - Museo della canzone"@it .
+

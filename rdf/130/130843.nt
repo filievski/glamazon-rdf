@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc71e57f4bbf343fa9d1af34fdfdbcd35> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc71e57f4bbf343fa9d1af34fdfdbcd35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://schema.org/streetAddress> "251 HIGH STREET STE B" .
+<http://lodlaundromat.org/.well-known/genid/N65e45263650445189ad5a3a6261e42fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N65e45263650445189ad5a3a6261e42fc> .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.4436&mlon=-122.154#map=15/37.4436/-122.154> .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/name> "GLOBAL MINDSHIFT FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> .
+<http://lodlaundromat.org/.well-known/genid/N65e45263650445189ad5a3a6261e42fc> <http://schema.org/latitude> "37.4436"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N65e45263650445189ad5a3a6261e42fc> <http://schema.org/longitude> "-122.154"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Ne8285ad50484415f93c5ea188778974b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc71e57f4bbf343fa9d1af34fdfdbcd35> .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://schema.org/addressLocality> "PALO ALTO" .
+<http://lodlaundromat.org/.well-known/genid/Nb269bd7eb15f444a8310c4d0906e4862> <http://schema.org/postalCode> "94301" .
+<http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> <http://schema.org/id> "8400600969" .
+<http://lodlaundromat.org/.well-known/genid/N2acf914945064b9898d339e0c1646a93> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc71e57f4bbf343fa9d1af34fdfdbcd35> <http://schema.org/value> "130843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

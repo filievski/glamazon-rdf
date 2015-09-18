@@ -1,0 +1,32 @@
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndc33668b4ab740eb994519c54fd311a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/url> <http://www.paleycenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf667ad044eab47b5bb41af193236a5e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Paley_Center_for_Media> .
+<http://lodlaundromat.org/.well-known/genid/Nf667ad044eab47b5bb41af193236a5e4> <http://schema.org/latitude> "40.7602"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb744cfe433034cb0829d5c2318a24f1a> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7602&mlon=-73.9771#map=15/40.7602/-73.9771> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> .
+<http://lodlaundromat.org/.well-known/genid/Ndc33668b4ab740eb994519c54fd311a3> <http://schema.org/contentUrl> <http://images.museums.io/LaCFw7oGVJ33GjgjSK8kETbHNG0=/1000x1000/museums/logos/000/148/852/original/MuseumTvRadio03.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nb744cfe433034cb0829d5c2318a24f1a> <http://schema.org/value> "148852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://schema.org/streetAddress> "25 W 52ND ST" .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/telephone> "+1 (212) 621-6600" .
+<http://lodlaundromat.org/.well-known/genid/Ndc33668b4ab740eb994519c54fd311a3> <http://schema.org/license> <https://en.wikipedia.org/wiki/Public_domain> .
+<http://lodlaundromat.org/.well-known/genid/Nf667ad044eab47b5bb41af193236a5e4> <http://schema.org/longitude> "-73.9771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Ndc33668b4ab740eb994519c54fd311a3> .
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://schema.org/postalCode> "10019" .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf667ad044eab47b5bb41af193236a5e4> .
+<http://lodlaundromat.org/.well-known/genid/Nb744cfe433034cb0829d5c2318a24f1a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N58e584129a4a47dca371000437646075> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N9b917813786346b984f813c20aac8867> <http://schema.org/id> "8403600146" .
+<http://lodlaundromat.org/.well-known/genid/N67666c1ca7bb4ddcadbc89a3da9885c7> <http://schema.org/name> "PALEY CENTER FOR MEDIA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb744cfe433034cb0829d5c2318a24f1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

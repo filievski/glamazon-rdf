@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf5e7cf61aa0a431eb1cdb8489c1d24f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/name> "THE GALLUP HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb451a002e0144719af88906100b66bc2> .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.5259&mlon=-108.673#map=15/35.5259/-108.673> .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf5e7cf61aa0a431eb1cdb8489c1d24f7> .
+<http://lodlaundromat.org/.well-known/genid/Nb451a002e0144719af88906100b66bc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e7cf61aa0a431eb1cdb8489c1d24f7> <http://schema.org/latitude> "35.5259"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://schema.org/streetAddress> "3724 CINIZA DR" .
+<http://lodlaundromat.org/.well-known/genid/Nf5e7cf61aa0a431eb1cdb8489c1d24f7> <http://schema.org/longitude> "-108.673"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/Nb451a002e0144719af88906100b66bc2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> <http://schema.org/id> "8403500195" .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> .
+<http://lodlaundromat.org/.well-known/genid/Nb451a002e0144719af88906100b66bc2> <http://schema.org/value> "148605"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://schema.org/postalCode> "87301" .
+<http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://schema.org/addressLocality> "GALLUP" .
+<http://lodlaundromat.org/.well-known/genid/Na70b88083957426ba1525cffac00a708> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> .
+<http://lodlaundromat.org/.well-known/genid/N79c0a348da8e4f89bc708b61ffa0e4c0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1f2df6d7776545f881a47d2fa01dbc97> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N115557258d62469bb9f61909749bcf50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> .
+<http://lodlaundromat.org/.well-known/genid/N35295a9f9dbc418aaaa241fb52d19be3> <http://schema.org/latitude> "42.3571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://schema.org/postalCode> "02458" .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> .
+<http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://schema.org/addressLocality> "NEWTON" .
+<http://lodlaundromat.org/.well-known/genid/N115557258d62469bb9f61909749bcf50> <http://schema.org/value> "142914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N35295a9f9dbc418aaaa241fb52d19be3> .
+<http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> <http://schema.org/id> "8402500544" .
+<http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N115557258d62469bb9f61909749bcf50> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3c6ccc7600af4353b9544200d3995c1e> <http://schema.org/streetAddress> "255 WASHINGTON ST" .
+<http://lodlaundromat.org/.well-known/genid/N2cd737070a684358bbb52399fd0c6a41> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N115557258d62469bb9f61909749bcf50> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/name> "MUSEUM OF NATURAL MEDICINE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N35295a9f9dbc418aaaa241fb52d19be3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neba17d06382846efa707b3b525597956> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3571&mlon=-71.1858#map=15/42.3571/-71.1858> .
+<http://lodlaundromat.org/.well-known/genid/N35295a9f9dbc418aaaa241fb52d19be3> <http://schema.org/longitude> "-71.1858"^^<http://www.w3.org/2001/XMLSchema#double> .
+

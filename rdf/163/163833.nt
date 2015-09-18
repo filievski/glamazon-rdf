@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nbe3499ed418942abb119b5a7cb0d8889> <http://schema.org/value> "163833"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N24ff779354c1406282a8404176004c39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3499ed418942abb119b5a7cb0d8889> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N24ff779354c1406282a8404176004c39> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d5d390732b74ec4ba806a1871d0ead6> .
+<http://lodlaundromat.org/.well-known/genid/N24ff779354c1406282a8404176004c39> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N6d5d390732b74ec4ba806a1871d0ead6> <http://schema.org/latitude> "-36.4552"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.4552&mlon=142.027#map=15/-36.4552/142.027> .
+<http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N6d5d390732b74ec4ba806a1871d0ead6> <http://schema.org/longitude> "142.027"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> <http://schema.org/url> <http://victoriancollections.net.au/organisations/dimboola-district-historical-society-inc> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/name> "Dimboola & District Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/url> <http://www.dimboolahistory.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3499ed418942abb119b5a7cb0d8889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d5d390732b74ec4ba806a1871d0ead6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf613abbf5a284490af229f3c4f8e5ece> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbe3499ed418942abb119b5a7cb0d8889> .
+<http://lodlaundromat.org/.well-known/genid/N376e7f428acc45d584174d39abfa4ec9> <http://schema.org/id> "dimboola-district-historical-society-inc" .
+

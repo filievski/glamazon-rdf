@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N751250e8b145430887ed85d1093aa715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N751250e8b145430887ed85d1093aa715> .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://schema.org/streetAddress> "2300 BENTON CENTER RD." .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://schema.org/addressLocality> "BENTON HARBOR" .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://schema.org/postalCode> "49022" .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7915&mlon=-89.363#map=15/40.7915/-89.363> .
+<http://lodlaundromat.org/.well-known/genid/N751250e8b145430887ed85d1093aa715> <http://schema.org/longitude> "-89.363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne38531d8dc9a499fb5637d248bbfbb29> <http://schema.org/value> "189973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne38531d8dc9a499fb5637d248bbfbb29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> <http://schema.org/id> "8402601128" .
+<http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/telephone> "+1 (269) 927-4832" .
+<http://lodlaundromat.org/.well-known/genid/N751250e8b145430887ed85d1093aa715> <http://schema.org/latitude> "40.7915"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7363e3aa74ae451f8fe2165d5726e81b> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/name> "SARETT NATURE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/url> <http://www.sarett.com/> .
+<http://lodlaundromat.org/.well-known/genid/Ne38531d8dc9a499fb5637d248bbfbb29> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nee48e5ef26c74ea39bd2dbc602bbad58> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne38531d8dc9a499fb5637d248bbfbb29> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9d374511b84bf7a3200dbe200b3020> <http://schema.org/url> <http://www.imls.gov/> .
+

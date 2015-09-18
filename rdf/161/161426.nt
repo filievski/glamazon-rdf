@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.5425&mlon=-77.4435#map=15/37.5425/-77.4435> .
+<http://lodlaundromat.org/.well-known/genid/N526549d18fb04629ad6e9aa7d9c022f7> <http://schema.org/latitude> "37.5425"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/name> "FOUNDATION OF THE FLORA OF VIRGINIA PROJECT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://schema.org/postalCode> "23218-0512" .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N526549d18fb04629ad6e9aa7d9c022f7> .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N2f8259f138be40e5b6ef2cd6c82fcbfa> <http://schema.org/value> "161426"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N526549d18fb04629ad6e9aa7d9c022f7> <http://schema.org/longitude> "-77.4435"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N526549d18fb04629ad6e9aa7d9c022f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> <http://schema.org/id> "8405100932" .
+<http://lodlaundromat.org/.well-known/genid/N2f8259f138be40e5b6ef2cd6c82fcbfa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8071ea2d99b446a0b9b4c9b9685a0b65> .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://schema.org/addressLocality> "RICHMOND" .
+<http://lodlaundromat.org/.well-known/genid/N7728a6f9c93b45ba9c59e23ec72098f7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2f8259f138be40e5b6ef2cd6c82fcbfa> .
+<http://lodlaundromat.org/.well-known/genid/N8b395dc333ac4f1bb99d3ef8aa8c7de4> <http://schema.org/streetAddress> "PO BOX 512" .
+<http://lodlaundromat.org/.well-known/genid/N2f8259f138be40e5b6ef2cd6c82fcbfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://schema.org/streetAddress> "234 N 3RD ST FL 3" .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/name> "PENNSYLVANIA FEDERATION OF MUSEUMS AND HISTORICAL ORGANIZATI"@en .
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://schema.org/postalCode> "17101-1516" .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd043507dc2e14adfb6327c1ad0fbbb0a> .
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> <http://schema.org/id> "8404200414" .
+<http://lodlaundromat.org/.well-known/genid/N5fbf6861ca9e46f4be805dc6d3fb42f5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2626&mlon=-76.8836#map=15/40.2626/-76.8836> .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/url> <http://www.pamuseums.org/> .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5fbf6861ca9e46f4be805dc6d3fb42f5> .
+<http://lodlaundromat.org/.well-known/genid/N5fbf6861ca9e46f4be805dc6d3fb42f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd043507dc2e14adfb6327c1ad0fbbb0a> <http://schema.org/longitude> "-76.8836"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd043507dc2e14adfb6327c1ad0fbbb0a> <http://schema.org/latitude> "40.2626"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Naf45dc3711ec43ba989a8ecab3caadaa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8d291e47224e4a26bc02bf9c6d4d7629> .
+<http://lodlaundromat.org/.well-known/genid/N019a119cb50341d2932718023b3a2e62> <http://schema.org/addressLocality> "HARRISBURG" .
+<http://lodlaundromat.org/.well-known/genid/N5fbf6861ca9e46f4be805dc6d3fb42f5> <http://schema.org/value> "155220"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd043507dc2e14adfb6327c1ad0fbbb0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

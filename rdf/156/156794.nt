@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3c859f5ccbcb47109516c7c65265e781> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3c859f5ccbcb47109516c7c65265e781> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/name> "DR CHARLES E MURRAY HISTORICAL FOUNDATION OF GREELEYVILLE"@en .
+<http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6c22b5776ccf44bbadf46eb431e0ab55> <http://schema.org/latitude> "33.5865"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3c859f5ccbcb47109516c7c65265e781> <http://schema.org/value> "156794"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6c22b5776ccf44bbadf46eb431e0ab55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N6c22b5776ccf44bbadf46eb431e0ab55> <http://schema.org/longitude> "-79.9832"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c22b5776ccf44bbadf46eb431e0ab55> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://schema.org/streetAddress> "PO BOX 317" .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.5865&mlon=-79.9832#map=15/33.5865/-79.9832> .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N016083525e6c4f7c9b7d0d090b214e6a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3c859f5ccbcb47109516c7c65265e781> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://schema.org/postalCode> "29056-0317" .
+<http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> <http://schema.org/id> "8404500089" .
+<http://lodlaundromat.org/.well-known/genid/N2092aea3da0a4c579d7fb4c4b5d920ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7ac53e43b6649058a6eced96c207051> <http://schema.org/addressLocality> "GREELEYVILLE" .
+

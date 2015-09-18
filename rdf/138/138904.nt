@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne701e2d987ff4caaaa3cefabd21f3be2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne701e2d987ff4caaaa3cefabd21f3be2> .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://schema.org/streetAddress> "PO BOX 473" .
+<http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://schema.org/postalCode> "47446-0473" .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/name> "LAWRENCE COUNTY SPACE BOARD INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne701e2d987ff4caaaa3cefabd21f3be2> <http://schema.org/value> "138904"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N32cf4bcbde524d34bd514674a876aed0> .
+<http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N32cf4bcbde524d34bd514674a876aed0> <http://schema.org/longitude> "-86.4848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32cf4bcbde524d34bd514674a876aed0> <http://schema.org/latitude> "38.7317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.7317&mlon=-86.4848#map=15/38.7317/-86.4848> .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://schema.org/addressLocality> "MITCHELL" .
+<http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> <http://schema.org/id> "8401800690" .
+<http://lodlaundromat.org/.well-known/genid/N10883b7ee89747058ef72c6c456f5948> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> .
+<http://lodlaundromat.org/.well-known/genid/N32cf4bcbde524d34bd514674a876aed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne701e2d987ff4caaaa3cefabd21f3be2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb393f50ecceb42808cc8c819e91b8f21> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Nf92b30677918495e803ea124c3fbbe40> <http://schema.org/addressCountry> "United States" .
+

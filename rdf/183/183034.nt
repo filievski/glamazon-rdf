@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/name> "Mittelschw\u00E4bisches Heimatmuseum Krumbach"@en .
+<http://lodlaundromat.org/.well-known/genid/N4a7389c2f8b54f9f86cefc88f42e0bf0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://schema.org/streetAddress> "Heinrich-Sinz-Stra\u00DFe 5" .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6fff2bc098cb4945b0c39420041dcc2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6fff2bc098cb4945b0c39420041dcc2b> .
+<http://lodlaundromat.org/.well-known/genid/N6fff2bc098cb4945b0c39420041dcc2b> <http://schema.org/latitude> "48.2451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a7389c2f8b54f9f86cefc88f42e0bf0> .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2451&mlon=10.3692#map=15/48.2451/10.3692> .
+<http://lodlaundromat.org/.well-known/genid/N6fff2bc098cb4945b0c39420041dcc2b> <http://schema.org/longitude> "10.3692"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N37e775b2ee394217b79ae0f18a80cd26> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://schema.org/postalCode> "86381" .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N37e775b2ee394217b79ae0f18a80cd26> .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/telephone> "08282/3740" .
+<http://lodlaundromat.org/.well-known/genid/N02eeccf1e8184b5baaf64b608cb2172f> <http://schema.org/url> <http://www.museum.krumbach.de/> .
+<http://lodlaundromat.org/.well-known/genid/Na8697b32856042cca623c614f20e1c78> <http://schema.org/addressLocality> "Krumbach" .
+<http://lodlaundromat.org/.well-known/genid/N4a7389c2f8b54f9f86cefc88f42e0bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N37e775b2ee394217b79ae0f18a80cd26> <http://schema.org/url> <http://www.museums.io/en/museums/183034> .
+<http://lodlaundromat.org/.well-known/genid/N4a7389c2f8b54f9f86cefc88f42e0bf0> <http://schema.org/value> "183034"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N37e775b2ee394217b79ae0f18a80cd26> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N37e775b2ee394217b79ae0f18a80cd26> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

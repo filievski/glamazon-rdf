@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.0359&mlon=-111.388#map=15/33.0359/-111.388> .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na3fb6073f63641e5be90bc8ba686184f> .
+<http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> <http://schema.org/id> "8400400045" .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N506dc300e3e6481fa11fffc9b6c355ec> <http://schema.org/value> "129143"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na3fb6073f63641e5be90bc8ba686184f> <http://schema.org/latitude> "33.0359"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N506dc300e3e6481fa11fffc9b6c355ec> .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> .
+<http://lodlaundromat.org/.well-known/genid/N506dc300e3e6481fa11fffc9b6c355ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://schema.org/postalCode> "85232-0109" .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://schema.org/addressLocality> "FLORENCE" .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://schema.org/streetAddress> "24 WEST RUGGLES" .
+<http://lodlaundromat.org/.well-known/genid/Ne12dbff398ea413886b0e8eac09a3b6d> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/Na3fb6073f63641e5be90bc8ba686184f> <http://schema.org/longitude> "-111.388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3fb6073f63641e5be90bc8ba686184f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c6cfc1612834c53a17d91f56af0392c> <http://schema.org/name> "MCFARLAND HISTORICAL STATE PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/N506dc300e3e6481fa11fffc9b6c355ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N438710d157e341ee8a648bbbd3421645> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

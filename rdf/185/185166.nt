@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N522c43a28ffd45f8a3c01f22590d7a41> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N48a117fa7d694ba9aa9a3df4c1afdd71> <http://schema.org/name> "Kainuu Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N48a117fa7d694ba9aa9a3df4c1afdd71> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40d73d20a0c04716ad414bcdf40f8a43> .
+<http://lodlaundromat.org/.well-known/genid/N9817ed080a1c41a19a7783af98e7fba5> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N522c43a28ffd45f8a3c01f22590d7a41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9817ed080a1c41a19a7783af98e7fba5> <http://schema.org/url> <http://www.museums.io/en/museums/185166> .
+<http://lodlaundromat.org/.well-known/genid/N40d73d20a0c04716ad414bcdf40f8a43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N522c43a28ffd45f8a3c01f22590d7a41> <http://schema.org/value> "185166"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48a117fa7d694ba9aa9a3df4c1afdd71> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N522c43a28ffd45f8a3c01f22590d7a41> .
+<http://lodlaundromat.org/.well-known/genid/N9817ed080a1c41a19a7783af98e7fba5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9817ed080a1c41a19a7783af98e7fba5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48a117fa7d694ba9aa9a3df4c1afdd71> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9817ed080a1c41a19a7783af98e7fba5> .
+<http://lodlaundromat.org/.well-known/genid/N48a117fa7d694ba9aa9a3df4c1afdd71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N40d73d20a0c04716ad414bcdf40f8a43> <http://schema.org/addressCountry> "Finland" .
+

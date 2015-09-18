@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N937ccc6dfa024626bf153a47e548cfe6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://schema.org/url> <http://www.kokemaki.fi/palvelut/vapaa-aika/kulttuuri/museot/> .
+<http://lodlaundromat.org/.well-known/genid/N9062c7291b8a437982d6f9ad5fa2a5f3> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N1a9af235cd33497abf9a3b9f330ee3f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1a9af235cd33497abf9a3b9f330ee3f5> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a9af235cd33497abf9a3b9f330ee3f5> .
+<http://lodlaundromat.org/.well-known/genid/N9062c7291b8a437982d6f9ad5fa2a5f3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9062c7291b8a437982d6f9ad5fa2a5f3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N937ccc6dfa024626bf153a47e548cfe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N937ccc6dfa024626bf153a47e548cfe6> <http://schema.org/value> "185325"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N937ccc6dfa024626bf153a47e548cfe6> .
+<http://lodlaundromat.org/.well-known/genid/N9062c7291b8a437982d6f9ad5fa2a5f3> <http://schema.org/url> <http://www.museums.io/en/museums/185325> .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://schema.org/name> "Kokem\u00E4ki Agricultural Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N061856c78645449fb71cb02f4929b746> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9062c7291b8a437982d6f9ad5fa2a5f3> .
+

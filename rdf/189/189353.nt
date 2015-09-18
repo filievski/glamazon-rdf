@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N832ce82884074d46bc42828d88829b00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N832ce82884074d46bc42828d88829b00> <http://schema.org/latitude> "42.7168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51b63c52a3584d10826e09bec64e0db3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7168&mlon=12.1128#map=15/42.7168/12.1128> .
+<http://lodlaundromat.org/.well-known/genid/N51b63c52a3584d10826e09bec64e0db3> <http://schema.org/value> "189353"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> <http://schema.org/streetAddress> "Piazza Duomo, " .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/name> "Museo Emilio Greco"@it .
+<http://lodlaundromat.org/.well-known/genid/Na3c3d6c3497b4ae7afdeabd1d09139f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> <http://schema.org/id> "100785" .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N51b63c52a3584d10826e09bec64e0db3> .
+<http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> <http://schema.org/addressLocality> "Orvieto" .
+<http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na3c3d6c3497b4ae7afdeabd1d09139f8> .
+<http://lodlaundromat.org/.well-known/genid/Na3c3d6c3497b4ae7afdeabd1d09139f8> <http://schema.org/contentUrl> <http://images.museums.io/IMqwtT5gi3NfKU0Vad3hDvS4fLs=/1000x1000/museums/logos/000/189/353/original/3448b72560d6e0a2b257a1999b4774e6432b365.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> .
+<http://lodlaundromat.org/.well-known/genid/N670b25306861426b8d4e42300a2f9cef> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/telephone> "+39 0763344605" .
+<http://lodlaundromat.org/.well-known/genid/Na63f9748666c48be93c8f381151c6839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N832ce82884074d46bc42828d88829b00> <http://schema.org/longitude> "12.1128"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51b63c52a3584d10826e09bec64e0db3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7d0201d2578a4c85b507c1c876ebfe11> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N832ce82884074d46bc42828d88829b00> .
+

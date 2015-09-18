@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/name> "COURTHOUSE SQUARE FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://schema.org/streetAddress> "209 E HIGH ST" .
+<http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> <http://schema.org/id> "8402100443" .
+<http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> .
+<http://lodlaundromat.org/.well-known/genid/N9383ade1ddd948b2997ff2881ca03878> <http://schema.org/value> "140686"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9383ade1ddd948b2997ff2881ca03878> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N62a7b131ab8e4dcfb66a6546ae41b8cc> .
+<http://lodlaundromat.org/.well-known/genid/N62a7b131ab8e4dcfb66a6546ae41b8cc> <http://schema.org/latitude> "38.043"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.043&mlon=-84.4964#map=15/38.043/-84.4964> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9383ade1ddd948b2997ff2881ca03878> .
+<http://lodlaundromat.org/.well-known/genid/N9383ade1ddd948b2997ff2881ca03878> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://schema.org/addressLocality> "LEXINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://schema.org/postalCode> "40507-1401" .
+<http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8c73f04b692d4fd38f8d421623265e9b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd2a3d9c01690439ea64d227afbd76f17> .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N41d5a108278f49a4aca1e7e557d4ee86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62a7b131ab8e4dcfb66a6546ae41b8cc> <http://schema.org/longitude> "-84.4964"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62a7b131ab8e4dcfb66a6546ae41b8cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

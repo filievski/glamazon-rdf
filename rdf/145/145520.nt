@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4abe33701a4e44bfa003d8a05d916294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://schema.org/streetAddress> "1 MUSEUM BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N26d08efb09b54e97bb03353a495bb2b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4abe33701a4e44bfa003d8a05d916294> <http://schema.org/latitude> "34.7017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4abe33701a4e44bfa003d8a05d916294> <http://schema.org/longitude> "-90.3658"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4abe33701a4e44bfa003d8a05d916294> .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/name> "TUNICA COUNTY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7017&mlon=-90.3658#map=15/34.7017/-90.3658> .
+<http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N01c9099713464f5789dc331f2e2fc814> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N26d08efb09b54e97bb03353a495bb2b1> .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://schema.org/postalCode> "38676-1914" .
+<http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> <http://schema.org/id> "8402800227" .
+<http://lodlaundromat.org/.well-known/genid/Nf877d56d0dbf4a20a1f6b75846bd5c3f> <http://schema.org/addressLocality> "TUNICA" .
+<http://lodlaundromat.org/.well-known/genid/N26d08efb09b54e97bb03353a495bb2b1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26d08efb09b54e97bb03353a495bb2b1> <http://schema.org/value> "145520"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N344a609a70124817a4fc5afcc4372a75> <http://schema.org/url> <http://www.imls.gov/> .
+

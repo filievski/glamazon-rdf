@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2f59cf7763734ba78143575bf6779e15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2f59cf7763734ba78143575bf6779e15> <http://schema.org/latitude> "30.411"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/name> "CIVIL WAR SOLDIERS MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2f59cf7763734ba78143575bf6779e15> <http://schema.org/longitude> "-87.215"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/telephone> "+1 (850) 469-1900" .
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> .
+<http://lodlaundromat.org/.well-known/genid/Na1fd262ef5c446ec9f175c4a96d76d39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://schema.org/addressLocality> "PENSACOLA" .
+<http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> <http://schema.org/id> "8401200196" .
+<http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na1fd262ef5c446ec9f175c4a96d76d39> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.411&mlon=-87.215#map=15/30.411/-87.215> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> .
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://schema.org/postalCode> "32502" .
+<http://lodlaundromat.org/.well-known/genid/Na1fd262ef5c446ec9f175c4a96d76d39> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na1fd262ef5c446ec9f175c4a96d76d39> <http://schema.org/value> "134642"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2f59cf7763734ba78143575bf6779e15> .
+<http://lodlaundromat.org/.well-known/genid/N3daf445334974fb68e8279bedbc18300> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9caf2b3a377e4257aaa0206cec4619f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3269940b7bf244fcb0a6a13068260126> <http://schema.org/streetAddress> "108 PALAFOX PL" .
+

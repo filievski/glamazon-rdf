@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne153cb1fac3049b5bd24082f68f4310b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne153cb1fac3049b5bd24082f68f4310b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne153cb1fac3049b5bd24082f68f4310b> .
+<http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/name> "B C S PROJECT"@en .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/Naeafba8084004e9e909db562628413d9> <http://schema.org/latitude> "40.7552"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://schema.org/postalCode> "84102-3426" .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://schema.org/streetAddress> "832 SEGO AVE" .
+<http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> <http://schema.org/id> "8404900194" .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naeafba8084004e9e909db562628413d9> .
+<http://lodlaundromat.org/.well-known/genid/Naeafba8084004e9e909db562628413d9> <http://schema.org/longitude> "-111.867"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bfe287e9d2b4faeab390f98dbc7422f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/telephone> "+1 (801) 359-6904" .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7552&mlon=-111.867#map=15/40.7552/-111.867> .
+<http://lodlaundromat.org/.well-known/genid/N5a0d764ea1644d40b8cce19df95ee052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8b28578b346c45538eb326983af9c888> <http://schema.org/addressLocality> "SALT LAKE CIT" .
+<http://lodlaundromat.org/.well-known/genid/Ne153cb1fac3049b5bd24082f68f4310b> <http://schema.org/value> "160128"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naeafba8084004e9e909db562628413d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

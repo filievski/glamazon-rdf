@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N48b94e9dbd3941cf82631e59907baa5e> <http://schema.org/latitude> "-36.123"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N113e050d034840df81f269a7ed06eaad> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nfb4556c6397349029bfe08b10855533b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48b94e9dbd3941cf82631e59907baa5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/name> "Rural City of Wodonga"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N48b94e9dbd3941cf82631e59907baa5e> .
+<http://lodlaundromat.org/.well-known/genid/N48b94e9dbd3941cf82631e59907baa5e> <http://schema.org/longitude> "146.89"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfb4556c6397349029bfe08b10855533b> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.123&mlon=146.89#map=15/-36.123/146.89> .
+<http://lodlaundromat.org/.well-known/genid/Nfb4556c6397349029bfe08b10855533b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfb4556c6397349029bfe08b10855533b> <http://schema.org/value> "164268"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/url> <http://www.wodonga.vic.gov.au/> .
+<http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> <http://schema.org/url> <http://victoriancollections.net.au/organisations/rural-city-wodonga> .
+<http://lodlaundromat.org/.well-known/genid/N04f3881633a14135ab2f3d2670d71013> <http://schema.org/id> "rural-city-wodonga" .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N113e050d034840df81f269a7ed06eaad> .
+<http://lodlaundromat.org/.well-known/genid/N0f929bb28bea4592b0e9e7351fe18122> <http://schema.org/telephone> "(02) 6022 9300" .
+<http://lodlaundromat.org/.well-known/genid/N113e050d034840df81f269a7ed06eaad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

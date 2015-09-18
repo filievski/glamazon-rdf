@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://schema.org/streetAddress> "2710 TUEBINGEN PKWY" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3116&mlon=-83.7163#map=15/42.3116/-83.7163> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60e0d2f6390e4a0e8772c6750df20ffd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/name> "FAMILY UNITED ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://schema.org/addressLocality> "ANN ARBOR" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60e0d2f6390e4a0e8772c6750df20ffd> .
+<http://lodlaundromat.org/.well-known/genid/N60e0d2f6390e4a0e8772c6750df20ffd> <http://schema.org/value> "144496"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> .
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://schema.org/postalCode> "48105-1202" .
+<http://lodlaundromat.org/.well-known/genid/N60e0d2f6390e4a0e8772c6750df20ffd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N69f65bb136374aeebcf0067eed37f74c> <http://schema.org/longitude> "-83.7163"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N69f65bb136374aeebcf0067eed37f74c> <http://schema.org/latitude> "42.3116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N69f65bb136374aeebcf0067eed37f74c> .
+<http://lodlaundromat.org/.well-known/genid/Nbb5a29a1b30e437380a046f76166e3c2> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e671815a3a410c9bc913a7a00e814e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N69f65bb136374aeebcf0067eed37f74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bd6cdacdc44d9786bd78a9f5dfe412> <http://schema.org/id> "8402601033" .
+

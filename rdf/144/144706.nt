@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3159c13a309f450b81e459625ee05e51> .
+<http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://schema.org/postalCode> "56062-0155" .
+<http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> <http://schema.org/id> "8402700146" .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/name> "MADELIA VETERANS COMMITTEE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc86079195cb243d096d6ab8b7ab4217a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> .
+<http://lodlaundromat.org/.well-known/genid/Nc86079195cb243d096d6ab8b7ab4217a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://schema.org/addressLocality> "MADELIA" .
+<http://lodlaundromat.org/.well-known/genid/Nc86079195cb243d096d6ab8b7ab4217a> <http://schema.org/value> "144706"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc86079195cb243d096d6ab8b7ab4217a> .
+<http://lodlaundromat.org/.well-known/genid/N3159c13a309f450b81e459625ee05e51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3159c13a309f450b81e459625ee05e51> <http://schema.org/latitude> "44.0528"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3159c13a309f450b81e459625ee05e51> <http://schema.org/longitude> "-94.4118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://schema.org/streetAddress> "PO BOX 155" .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nec1d09ccdac646d9a798639304d36e86> .
+<http://lodlaundromat.org/.well-known/genid/N7f77c0858b2e48f5a5408a3386b20f8e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N425021e8d4e24829ae40bc4dd541d9cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0528&mlon=-94.4118#map=15/44.0528/-94.4118> .
+

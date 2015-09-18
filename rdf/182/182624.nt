@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe4e085e72142ecb29c28ae8a8b1cdb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2599&mlon=11.4351#map=15/48.2599/11.4351> .
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/name> "Gem\u00E4ldegalerie Dachau"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf1ff35932587472ebccb99126ddcf7d2> .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf1ff35932587472ebccb99126ddcf7d2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf1ff35932587472ebccb99126ddcf7d2> <http://schema.org/value> "182624"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe4e085e72142ecb29c28ae8a8b1cdb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe4e085e72142ecb29c28ae8a8b1cdb> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://schema.org/addressLocality> "Dachau" .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndbe4e085e72142ecb29c28ae8a8b1cdb> .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/url> <http://www.dachauer-galerien-museen.de/> .
+<http://lodlaundromat.org/.well-known/genid/Ndbe4e085e72142ecb29c28ae8a8b1cdb> <http://schema.org/url> <http://www.museums.io/en/museums/182624> .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na77c0289eefa4814850f57d76b853d88> .
+<http://lodlaundromat.org/.well-known/genid/Na77c0289eefa4814850f57d76b853d88> <http://schema.org/longitude> "11.4351"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://schema.org/postalCode> "85221" .
+<http://lodlaundromat.org/.well-known/genid/Na77c0289eefa4814850f57d76b853d88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf1ff35932587472ebccb99126ddcf7d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na77c0289eefa4814850f57d76b853d88> <http://schema.org/latitude> "48.2599"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbf7e08ee617439eb74b07c3b8af211d> <http://schema.org/streetAddress> "Konrad-Adenauer-Stra\u00DFe 3" .
+<http://lodlaundromat.org/.well-known/genid/N877d7b59358242819726ffc21ae0fff0> <http://schema.org/telephone> "08131/5675-0" .
+

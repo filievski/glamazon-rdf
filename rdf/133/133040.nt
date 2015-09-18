@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2000b878232e48a2ade1b59bb4509deb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2000b878232e48a2ade1b59bb4509deb> <http://schema.org/longitude> "-105.078"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/name> "ARVADA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2000b878232e48a2ade1b59bb4509deb> .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://schema.org/streetAddress> "7307 GRANDVIEW AVE" .
+<http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> <http://schema.org/id> "8400800216" .
+<http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbf159d67c09b4563839046830d1536c3> .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> .
+<http://lodlaundromat.org/.well-known/genid/Nbf159d67c09b4563839046830d1536c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbf159d67c09b4563839046830d1536c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2000b878232e48a2ade1b59bb4509deb> <http://schema.org/latitude> "39.7996"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbf159d67c09b4563839046830d1536c3> <http://schema.org/value> "133040"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5dc0e659452a4c2fbf2bdfcf627c6a4e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://schema.org/postalCode> "80002-2507" .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N765d3bc8ef1149f5afc8c777320261dd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7996&mlon=-105.078#map=15/39.7996/-105.078> .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N80ae51875eec4c018e3d58d6ed49dbd6> <http://schema.org/addressLocality> "ARVADA" .
+

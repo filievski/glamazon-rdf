@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N37c4c10c21784ec2966e8eab2323e559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://schema.org/addressLocality> "CUBA" .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://schema.org/postalCode> "14727" .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/name> "CUBA CHEESE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0c9d0376bc754a24a14d7d4d8712d345> .
+<http://lodlaundromat.org/.well-known/genid/N0c9d0376bc754a24a14d7d4d8712d345> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2141&mlon=-78.2839#map=15/42.2141/-78.2839> .
+<http://lodlaundromat.org/.well-known/genid/N37c4c10c21784ec2966e8eab2323e559> <http://schema.org/longitude> "-78.2839"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N37c4c10c21784ec2966e8eab2323e559> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://schema.org/streetAddress> "PO BOX 34" .
+<http://lodlaundromat.org/.well-known/genid/N0c9d0376bc754a24a14d7d4d8712d345> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N37c4c10c21784ec2966e8eab2323e559> <http://schema.org/latitude> "42.2141"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e5e5bc3b4642578b136a8744acc8c7> <http://schema.org/id> "8403601648" .
+<http://lodlaundromat.org/.well-known/genid/N0c9d0376bc754a24a14d7d4d8712d345> <http://schema.org/value> "150354"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2016f1e965394960838071f8b623afe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53abb023632d4c7495373e6ae0022ecd> <http://schema.org/addressRegion> "NY" .
+

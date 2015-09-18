@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://schema.org/streetAddress> "BOYD ST" .
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> .
+<http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://schema.org/addressLocality> "FORT HUACHUCA" .
+<http://lodlaundromat.org/.well-known/genid/N240e51f731a04eeea1188b223a808de4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> <http://schema.org/id> "8400400055" .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/name> "FORT HUACHUCA MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.5509&mlon=-110.365#map=15/31.5509/-110.365> .
+<http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N240e51f731a04eeea1188b223a808de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2fd963b7ccef481fa63b3240e094b6bc> <http://schema.org/postalCode> "85613" .
+<http://lodlaundromat.org/.well-known/genid/Nc1c4212677414c1e9f77d28e2c7b9306> <http://schema.org/longitude> "-110.365"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc1c4212677414c1e9f77d28e2c7b9306> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/url> <http://huachuca-www.army.mil/> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/telephone> "+1 (520) 533-5736" .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N240e51f731a04eeea1188b223a808de4> .
+<http://lodlaundromat.org/.well-known/genid/Nc1c4212677414c1e9f77d28e2c7b9306> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N240e51f731a04eeea1188b223a808de4> <http://schema.org/value> "129153"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc1c4212677414c1e9f77d28e2c7b9306> <http://schema.org/latitude> "31.5509"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5879598a3db6406688b6ecd536beeb31> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na4a2013f976749bfb5f62c568ba0aae6> .
+

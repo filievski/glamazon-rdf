@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6996cf306e2f4078b7dbe39cb8523096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3527&mlon=-71.4023#map=15/42.3527/-71.4023> .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/name> "GOODENOW FAMILY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6996cf306e2f4078b7dbe39cb8523096> .
+<http://lodlaundromat.org/.well-known/genid/N6996cf306e2f4078b7dbe39cb8523096> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N42834473b326432eb3217c89308d1e07> <http://schema.org/latitude> "42.3527"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N42834473b326432eb3217c89308d1e07> .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N42834473b326432eb3217c89308d1e07> <http://schema.org/longitude> "-71.4023"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://schema.org/streetAddress> "163 LANDHAM RD" .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> .
+<http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://schema.org/addressLocality> "SUDBURY" .
+<http://lodlaundromat.org/.well-known/genid/N42834473b326432eb3217c89308d1e07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N6996cf306e2f4078b7dbe39cb8523096> <http://schema.org/value> "143394"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> <http://schema.org/id> "8402501024" .
+<http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://schema.org/postalCode> "01776-3156" .
+<http://lodlaundromat.org/.well-known/genid/Nd022988c48bf46609bb7acbaa29c11c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne48e4603a0b942878369b7c2cc3d9db5> .
+<http://lodlaundromat.org/.well-known/genid/N6774714fc11041f8b2bf91cb03094a1f> <http://schema.org/addressCountry> "United States" .
+

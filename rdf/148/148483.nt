@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N32a87679622b457ab056a5ab3cfdf23f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N32a87679622b457ab056a5ab3cfdf23f> <http://schema.org/value> "148483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9ecffaf17a634530ac86f071550b6307> .
+<http://lodlaundromat.org/.well-known/genid/N9ecffaf17a634530ac86f071550b6307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> .
+<http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/telephone> "+1 (575) 623-5600" .
+<http://lodlaundromat.org/.well-known/genid/N9ecffaf17a634530ac86f071550b6307> <http://schema.org/latitude> "33.4087"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> <http://schema.org/id> "8403500073" .
+<http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://schema.org/postalCode> "88201" .
+<http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32a87679622b457ab056a5ab3cfdf23f> .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/url> <http://www.roswellamoca.org/> .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://schema.org/addressLocality> "ROSWELL" .
+<http://lodlaundromat.org/.well-known/genid/N32a87679622b457ab056a5ab3cfdf23f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/name> "ANDERSON OIL CO."@en .
+<http://lodlaundromat.org/.well-known/genid/N9ecffaf17a634530ac86f071550b6307> <http://schema.org/longitude> "-104.517"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N50c4a11fc54f4bb4857a3e67b89555b6> <http://schema.org/streetAddress> "409 E COLLEGE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4087&mlon=-104.517#map=15/33.4087/-104.517> .
+<http://lodlaundromat.org/.well-known/genid/N1852d814069642699226064ce680da7c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> .
+<http://lodlaundromat.org/.well-known/genid/N1af21dfa97544f0692951accb5ce9b25> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

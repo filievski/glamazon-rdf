@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7da11764fec4f308ab0fd841e7831ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c237be6006a4ed0903afe1b8c54d2b8> .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb7da11764fec4f308ab0fd841e7831ca> .
+<http://lodlaundromat.org/.well-known/genid/N0c237be6006a4ed0903afe1b8c54d2b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb7da11764fec4f308ab0fd841e7831ca> <http://schema.org/value> "139886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0c237be6006a4ed0903afe1b8c54d2b8> <http://schema.org/longitude> "-95.2359"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> <http://schema.org/id> "8402000212" .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/name> "COL JOHN W RIPLEY MEMORIAL FOUNDATION TR DTD 01292010"@en .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://schema.org/addressLocality> "LAWRENCE" .
+<http://lodlaundromat.org/.well-known/genid/N0c237be6006a4ed0903afe1b8c54d2b8> <http://schema.org/latitude> "38.9711"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://schema.org/postalCode> "66044-2321" .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9711&mlon=-95.2359#map=15/38.9711/-95.2359> .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://schema.org/streetAddress> "700 MASSACHUSETTES SUITE 203" .
+<http://lodlaundromat.org/.well-known/genid/N1d757512fcc24a988503e47242953d4c> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/Nde5cd70a0e4a4a06919ae4038c65e6b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb7da11764fec4f308ab0fd841e7831ca> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nff1652aaf13a48cb931b8dde0f4b3c9f> <http://schema.org/name> "us" .
+

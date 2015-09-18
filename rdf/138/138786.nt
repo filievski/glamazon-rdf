@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8d9ed13c8fbe431c971da3aa820bbc6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/name> "NORTHEAST INDIANA BASEBALL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N93b70a1a94384fa687d2ff7f37c2099d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93b70a1a94384fa687d2ff7f37c2099d> <http://schema.org/latitude> "41.0719"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8d9ed13c8fbe431c971da3aa820bbc6e> .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://schema.org/addressLocality> "FORT WAYNE" .
+<http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> <http://schema.org/id> "8401800572" .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0719&mlon=-85.1367#map=15/41.0719/-85.1367> .
+<http://lodlaundromat.org/.well-known/genid/N93b70a1a94384fa687d2ff7f37c2099d> <http://schema.org/longitude> "-85.1367"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> .
+<http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8d9ed13c8fbe431c971da3aa820bbc6e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://schema.org/streetAddress> "PO BOX 12733" .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/url> <http://www.neibaseball.org/blog/> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N800347c7f7724394a998f0d9739c4df2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N93b70a1a94384fa687d2ff7f37c2099d> .
+<http://lodlaundromat.org/.well-known/genid/N61dd5986e58b497ab57365e65077748c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8d9ed13c8fbe431c971da3aa820bbc6e> <http://schema.org/value> "138786"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://schema.org/postalCode> "46864-2733" .
+<http://lodlaundromat.org/.well-known/genid/Nc8d80708097e43cebbac918c9984d0ee> <http://schema.org/addressRegion> "IN" .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0610530fc7ef4da38b0c9d82ca61461a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0610530fc7ef4da38b0c9d82ca61461a> .
+<http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> <http://schema.org/addressLocality> "Lucca" .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7012b041ca15460d8a8632f41b268497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7012b041ca15460d8a8632f41b268497> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> .
+<http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7012b041ca15460d8a8632f41b268497> <http://schema.org/value> "188826"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N082d94e556584838984fd392a13abefe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/url> <http://www.comune.lucca.it/flex/cm/pages/ServeBLOB.php/L/IT/IDPagina/5787> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N082d94e556584838984fd392a13abefe> .
+<http://lodlaundromat.org/.well-known/genid/N0610530fc7ef4da38b0c9d82ca61461a> <http://schema.org/latitude> "44.0403"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7012b041ca15460d8a8632f41b268497> .
+<http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> <http://schema.org/id> "103096" .
+<http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/telephone> "+39 058356326" .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/name> "Museo italiano del fumetto e dell'immagine di Lucca"@it .
+<http://lodlaundromat.org/.well-known/genid/N0610530fc7ef4da38b0c9d82ca61461a> <http://schema.org/longitude> "10.4693"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N2d7aef6fdabe4c528637c0f3883e0227> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0403&mlon=10.4693#map=15/44.0403/10.4693> .
+<http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N082d94e556584838984fd392a13abefe> <http://schema.org/contentUrl> <http://images.museums.io/U6gpRlX8g4olJY8Ebbo7fcYgfHY=/1000x1000/museums/logos/000/188/826/original/1495afdb4c49e5cefb7870e1b06daa727c38.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N36bf861630dc49739525d0e5b2d1da62> <http://schema.org/streetAddress> "San Romano, 4" .
+<http://lodlaundromat.org/.well-known/genid/Na75d8d37ee0843e1a31b010986d4ddc3> <http://schema.org/@Type> "Dataset" .
+

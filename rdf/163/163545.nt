@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> <http://schema.org/id> "8405600125" .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/name> "CHUGWATER HISTORICAL UNITY GROUP"@en .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://schema.org/postalCode> "82210" .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7592&mlon=-104.821#map=15/41.7592/-104.821> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d17ba2a52441ccbc7763fbc924ea9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d17ba2a52441ccbc7763fbc924ea9c> <http://schema.org/latitude> "41.7592"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5af260ec508941ad9d7d40b41855695c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5af260ec508941ad9d7d40b41855695c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5af260ec508941ad9d7d40b41855695c> <http://schema.org/value> "163545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://schema.org/streetAddress> "PO BOX 33" .
+<http://lodlaundromat.org/.well-known/genid/N5c988a4fa8204877b42dfd1c6e9a798f> <http://schema.org/addressLocality> "CHUGWATER" .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf2d17ba2a52441ccbc7763fbc924ea9c> .
+<http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9dba2b36841f400d918b63d83d8a2d25> .
+<http://lodlaundromat.org/.well-known/genid/Nef77893f3b5e4122a208901354c04334> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5af260ec508941ad9d7d40b41855695c> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d17ba2a52441ccbc7763fbc924ea9c> <http://schema.org/longitude> "-104.821"^^<http://www.w3.org/2001/XMLSchema#double> .
+

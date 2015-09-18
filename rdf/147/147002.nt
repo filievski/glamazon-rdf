@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N24648593ab2643dd90adf267df92e4b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf62db1ce39740c6bb8af95a364d1234> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0101&mlon=-97.0538#map=15/42.0101/-97.0538> .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N24648593ab2643dd90adf267df92e4b4> .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> .
+<http://lodlaundromat.org/.well-known/genid/N24648593ab2643dd90adf267df92e4b4> <http://schema.org/latitude> "42.0101"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/name> "HISTORICAL SOCIETY OF STANTON COUNTY NEBRASKA"@en .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://schema.org/addressLocality> "STANTON" .
+<http://lodlaundromat.org/.well-known/genid/Ndf62db1ce39740c6bb8af95a364d1234> <http://schema.org/value> "147002"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> <http://schema.org/id> "8403100341" .
+<http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://schema.org/postalCode> "68779-0044" .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndf62db1ce39740c6bb8af95a364d1234> .
+<http://lodlaundromat.org/.well-known/genid/N24648593ab2643dd90adf267df92e4b4> <http://schema.org/longitude> "-97.0538"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://schema.org/streetAddress> "PO BOX 44" .
+<http://lodlaundromat.org/.well-known/genid/Ndf62db1ce39740c6bb8af95a364d1234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://schema.org/telephone> "+1 (402) 439-2541" .
+<http://lodlaundromat.org/.well-known/genid/N7e07a7daf944457a848e45546a2f707f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27be71f20b654535b85e27da93538dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N131cec4dd6684184965736d4f839b30d> <http://schema.org/name> "us" .
+

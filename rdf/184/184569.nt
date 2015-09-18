@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N79fdc385fb8045b69f227602301807bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N00b57b2cc3a84f04a97bfa9b1d670c1b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9c0e5e0348c24c62a1c15b719e027ab0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N00b57b2cc3a84f04a97bfa9b1d670c1b> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/name> "Parliment South Africa"@en .
+<http://lodlaundromat.org/.well-known/genid/N9c0e5e0348c24c62a1c15b719e027ab0> <http://schema.org/longitude> "18.4193"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb349874d1b864c3b916e4c885b5f490b> <http://schema.org/url> <http://www.museums.io/en/museums/184569> .
+<http://lodlaundromat.org/.well-known/genid/N00b57b2cc3a84f04a97bfa9b1d670c1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N00b57b2cc3a84f04a97bfa9b1d670c1b> <http://schema.org/value> "184569"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb349874d1b864c3b916e4c885b5f490b> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.9262&mlon=18.4193#map=15/-33.9262/18.4193> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9c0e5e0348c24c62a1c15b719e027ab0> <http://schema.org/latitude> "-33.9262"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9c0e5e0348c24c62a1c15b719e027ab0> .
+<http://lodlaundromat.org/.well-known/genid/N79fdc385fb8045b69f227602301807bb> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N79fdc385fb8045b69f227602301807bb> .
+<http://lodlaundromat.org/.well-known/genid/Nb349874d1b864c3b916e4c885b5f490b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aa22b0e53544ddaa557ca5f31e2715> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb349874d1b864c3b916e4c885b5f490b> .
+<http://lodlaundromat.org/.well-known/genid/Nb349874d1b864c3b916e4c885b5f490b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

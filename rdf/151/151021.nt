@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncea0b8fa0c1d4e488378233a06eca444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://schema.org/streetAddress> "PO BOX 209" .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncea0b8fa0c1d4e488378233a06eca444> .
+<http://lodlaundromat.org/.well-known/genid/Ncea0b8fa0c1d4e488378233a06eca444> <http://schema.org/value> "151021"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3395344cc6ea4ca7828b7644651df2e5> <http://schema.org/latitude> "40.9931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncea0b8fa0c1d4e488378233a06eca444> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://schema.org/postalCode> "11963-0209" .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> .
+<http://lodlaundromat.org/.well-known/genid/N3395344cc6ea4ca7828b7644651df2e5> <http://schema.org/longitude> "-72.321"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> <http://schema.org/id> "8403602315" .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://schema.org/addressLocality> "SAG HARBOR" .
+<http://lodlaundromat.org/.well-known/genid/N3395344cc6ea4ca7828b7644651df2e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3395344cc6ea4ca7828b7644651df2e5> .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/name> "SAG HARBOR ANTIQUE FIRE TRUCKS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> .
+<http://lodlaundromat.org/.well-known/genid/N2e2f4098c7a145c5a7e7b1ef4aa3438c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9931&mlon=-72.321#map=15/40.9931/-72.321> .
+<http://lodlaundromat.org/.well-known/genid/Nc69563b74ca24e9b9064dc9bf217e060> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N76a258150bf24e8a8c9f1a6308d4e9f6> <http://schema.org/addressRegion> "NY" .
+

@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/name> "Rippon Lea House and Gardens, National Trust of Australia (Victoria)"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/url> <http://www.ripponleaestate.com.au/> .
+<http://lodlaundromat.org/.well-known/genid/N44e6788d199a44e4a71c6cbdc9a41f81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd43477917b4a426cbe7e9ad2116360e8> .
+<http://lodlaundromat.org/.well-known/genid/N82a372e960e24917afd79d35e1f0e599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N82a372e960e24917afd79d35e1f0e599> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N82a372e960e24917afd79d35e1f0e599> .
+<http://lodlaundromat.org/.well-known/genid/Nd43477917b4a426cbe7e9ad2116360e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> <http://schema.org/id> "rippon-lea-estate" .
+<http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N82a372e960e24917afd79d35e1f0e599> <http://schema.org/value> "164239"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.879&mlon=144.998#map=15/-37.879/144.998> .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> .
+<http://lodlaundromat.org/.well-known/genid/N2544ff285b07410fa3090474e1d9218c> <http://schema.org/url> <http://victoriancollections.net.au/organisations/rippon-lea-estate> .
+<http://lodlaundromat.org/.well-known/genid/Ne9c008bc2242471da1aac568c4ba313b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N44e6788d199a44e4a71c6cbdc9a41f81> .
+<http://lodlaundromat.org/.well-known/genid/Nd43477917b4a426cbe7e9ad2116360e8> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N44e6788d199a44e4a71c6cbdc9a41f81> <http://schema.org/latitude> "-37.879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44e6788d199a44e4a71c6cbdc9a41f81> <http://schema.org/longitude> "144.998"^^<http://www.w3.org/2001/XMLSchema#double> .
+

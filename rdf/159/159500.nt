@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9ee0aa6435c044c89800f82491e7435d> <http://schema.org/latitude> "30.6605"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://schema.org/streetAddress> "PO BOX 512" .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1eb4439033ca404295de8e8e36c82cb8> .
+<http://lodlaundromat.org/.well-known/genid/N1eb4439033ca404295de8e8e36c82cb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1eb4439033ca404295de8e8e36c82cb8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/name> "THE KIRBYVILLE AREA HERITAGE SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9ee0aa6435c044c89800f82491e7435d> <http://schema.org/longitude> "-93.9103"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> <http://schema.org/id> "8404801600" .
+<http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1eb4439033ca404295de8e8e36c82cb8> <http://schema.org/value> "159500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ee0aa6435c044c89800f82491e7435d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6605&mlon=-93.9103#map=15/30.6605/-93.9103> .
+<http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9ee0aa6435c044c89800f82491e7435d> .
+<http://lodlaundromat.org/.well-known/genid/N01864adc5bb14419aa32c14d0d867b66> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> .
+<http://lodlaundromat.org/.well-known/genid/N2ce029f868914d8e929722c4ed95a9cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://schema.org/addressLocality> "KIRBYVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N594f74859ef34cf8bb1e6862af703312> <http://schema.org/postalCode> "75956-0512" .
+

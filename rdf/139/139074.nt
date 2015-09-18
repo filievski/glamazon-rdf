@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N4524f49ef723425982522576530b0e70> <http://schema.org/value> "139074"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://schema.org/postalCode> "52554" .
+<http://lodlaundromat.org/.well-known/genid/Nd74fc12008bc4104bea0b088c17b97c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd74fc12008bc4104bea0b088c17b97c7> .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> <http://schema.org/id> "8401900111" .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://schema.org/addressLocality> "ELDON" .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd74fc12008bc4104bea0b088c17b97c7> <http://schema.org/latitude> "40.9213"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd74fc12008bc4104bea0b088c17b97c7> <http://schema.org/longitude> "-92.2128"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9213&mlon=-92.2128#map=15/40.9213/-92.2128> .
+<http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> .
+<http://lodlaundromat.org/.well-known/genid/N8a55b9eb25424d3d8f8b5c8e00f59b6b> <http://schema.org/streetAddress> "300 AMERICAN GOTHIC ST" .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/url> <http://www.wapellocounty.org/americangothic> .
+<http://lodlaundromat.org/.well-known/genid/N4524f49ef723425982522576530b0e70> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4524f49ef723425982522576530b0e70> .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/name> "AMERICAN GOTHIC HOUSE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N4524f49ef723425982522576530b0e70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N14fb55c8537842b5921ceaa9e360dddb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N506f47bcac8d40ac8a33f7569e98f20a> <http://schema.org/telephone> "+1 (641) 652-3352" .
+

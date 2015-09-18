@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> <http://schema.org/id> "8402900644" .
+<http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc6e995bc92654f588fc7d0d26548a30a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc6e995bc92654f588fc7d0d26548a30a> .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://schema.org/addressLocality> "HOLCOMB" .
+<http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://schema.org/postalCode> "63852" .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2c4d630b22ed47cab0dd29addce7603e> .
+<http://lodlaundromat.org/.well-known/genid/N7ec216dc96c8464db4a31b810173f5ae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/name> "HOLCOMB HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2c4d630b22ed47cab0dd29addce7603e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2c4d630b22ed47cab0dd29addce7603e> <http://schema.org/value> "146215"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> <http://schema.org/streetAddress> "PO BOX 454" .
+<http://lodlaundromat.org/.well-known/genid/N2c4d630b22ed47cab0dd29addce7603e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.3794&mlon=-90.0254#map=15/36.3794/-90.0254> .
+<http://lodlaundromat.org/.well-known/genid/Nc6e995bc92654f588fc7d0d26548a30a> <http://schema.org/longitude> "-90.0254"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc6e995bc92654f588fc7d0d26548a30a> <http://schema.org/latitude> "36.3794"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncf7810f1605748e990e5cdbf036b8164> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N012654f9187344d498559e2eb899c83e> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3cc4e8bc44e7400d87a1e5c36ad148de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/name> "FOREST FIRE LOOKOUT ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3cc4e8bc44e7400d87a1e5c36ad148de> .
+<http://lodlaundromat.org/.well-known/genid/N3cc4e8bc44e7400d87a1e5c36ad148de> <http://schema.org/latitude> "38.9065"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e171c92d84b61a94a864abce5d7e8> <http://schema.org/value> "160923"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncc0e171c92d84b61a94a864abce5d7e8> .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://schema.org/addressLocality> "VIENNA" .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9065&mlon=-77.2591#map=15/38.9065/-77.2591> .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://schema.org/postalCode> "22180-4718" .
+<http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://schema.org/streetAddress> "374 MAPLE AVE E STE 310" .
+<http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e171c92d84b61a94a864abce5d7e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7f3bc1d45d7e4ea09c1b408b30c7369b> <http://schema.org/id> "8405100429" .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e171c92d84b61a94a864abce5d7e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3cc4e8bc44e7400d87a1e5c36ad148de> <http://schema.org/longitude> "-77.2591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N64662360ad4b4fc2a80228a134284e5b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N594b4cfe10934885b7cec9669abd7fa9> .
+

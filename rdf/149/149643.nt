@@ -1,0 +1,35 @@
+<http://lodlaundromat.org/.well-known/genid/N94c51526c4024a3ebd6b49fcd57287f1> <http://schema.org/longitude> "-73.9932"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb025d8b1a5934f48a52e00cdeba970a8> <http://schema.org/value> "149643"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94c51526c4024a3ebd6b49fcd57287f1> .
+<http://lodlaundromat.org/.well-known/genid/N94c51526c4024a3ebd6b49fcd57287f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/telephone> "+1 (212) 294-8330" .
+<http://lodlaundromat.org/.well-known/genid/N31870decdb7d413db8018e23faee6471> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> <http://schema.org/id> "8403600937" .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/N71bb4ad2e1cd4699b47646eaf707b8c6> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/N31870decdb7d413db8018e23faee6471> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/name> "YESHIVA UNIVERSITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> .
+<http://lodlaundromat.org/.well-known/genid/N31870decdb7d413db8018e23faee6471> <http://schema.org/url> <https://twitter.com/YUMuseum> .
+<http://lodlaundromat.org/.well-known/genid/N31870decdb7d413db8018e23faee6471> <http://schema.org/contactType> "Twitter" .
+<http://lodlaundromat.org/.well-known/genid/N71bb4ad2e1cd4699b47646eaf707b8c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7376&mlon=-73.9932#map=15/40.7376/-73.9932> .
+<http://lodlaundromat.org/.well-known/genid/N94c51526c4024a3ebd6b49fcd57287f1> <http://schema.org/latitude> "40.7376"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/url> <http://www.yumuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2834672754b444adbeec27e3b9d886b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb025d8b1a5934f48a52e00cdeba970a8> .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://schema.org/postalCode> "10033-3201" .
+<http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/N71bb4ad2e1cd4699b47646eaf707b8c6> <http://schema.org/contactType> "Facebook" .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://schema.org/streetAddress> "500 WEST 185TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N71bb4ad2e1cd4699b47646eaf707b8c6> <http://schema.org/url> <https://www.facebook.com/YeshivaUniversityMuseum> .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4700c5e59af5405cb5990dab228dd06d> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nb025d8b1a5934f48a52e00cdeba970a8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb025d8b1a5934f48a52e00cdeba970a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6480c34593424c2c98a393272168c355> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

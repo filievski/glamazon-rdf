@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9917a36dc7d64d7d81fbac4fe7976887> <http://schema.org/latitude> "29.2146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9917a36dc7d64d7d81fbac4fe7976887> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N70c0cc1e075c442d9b2e35d55d773c5f> <http://schema.org/value> "134797"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9917a36dc7d64d7d81fbac4fe7976887> .
+<http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9917a36dc7d64d7d81fbac4fe7976887> <http://schema.org/longitude> "-81.0206"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://schema.org/streetAddress> "PO BOX 1845" .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.2146&mlon=-81.0206#map=15/29.2146/-81.0206> .
+<http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> <http://schema.org/id> "8401200351" .
+<http://lodlaundromat.org/.well-known/genid/N70c0cc1e075c442d9b2e35d55d773c5f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N70c0cc1e075c442d9b2e35d55d773c5f> .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://schema.org/postalCode> "32115-1845" .
+<http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/name> "HERITAGE PRESERVATION TRUST"@en .
+<http://lodlaundromat.org/.well-known/genid/Nee6af03316944f28a55bcdcc7f593b9c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf8130511ab17460e985261d9e12724ef> .
+<http://lodlaundromat.org/.well-known/genid/Nab8c424032f245fc86909ed438b44a93> <http://schema.org/addressLocality> "DAYTONA BEACH" .
+<http://lodlaundromat.org/.well-known/genid/N70c0cc1e075c442d9b2e35d55d773c5f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

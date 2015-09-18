@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N7641845d52284ff2abbe9f2bfe246d7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7641845d52284ff2abbe9f2bfe246d7a> <http://schema.org/longitude> "-83.3014"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> .
+<http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> <http://schema.org/id> "8403700474" .
+<http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7641845d52284ff2abbe9f2bfe246d7a> .
+<http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4957&mlon=-83.3014#map=15/35.4957/-83.3014> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/telephone> "+1 (828) 497-3481" .
+<http://lodlaundromat.org/.well-known/genid/Nc8b1a6d7320a49f08477b652faa426f1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://schema.org/streetAddress> "PO BOX 1599" .
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://schema.org/addressLocality> "CHEROKEE" .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/url> <http://www.cherokeemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc8b1a6d7320a49f08477b652faa426f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7641845d52284ff2abbe9f2bfe246d7a> <http://schema.org/latitude> "35.4957"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc8b1a6d7320a49f08477b652faa426f1> .
+<http://lodlaundromat.org/.well-known/genid/Nc8b1a6d7320a49f08477b652faa426f1> <http://schema.org/value> "151603"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://schema.org/postalCode> "28719-1599" .
+<http://lodlaundromat.org/.well-known/genid/N1dfea901d5934bbb8cbaff857e525db8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/name> "MUSEUM OF THE CHEROKEE INDIAN"@en .
+<http://lodlaundromat.org/.well-known/genid/N64b7aad152184feca42dc11494d97c44> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N00f7c7c254f84b67a59dfe7b69958d31> .
+

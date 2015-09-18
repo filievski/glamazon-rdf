@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0ada6fb404b444128b796a5754201b88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://schema.org/streetAddress> "98 HIGH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N0ada6fb404b444128b796a5754201b88> <http://schema.org/longitude> "-70.8705"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nee663a011478426486c38d031bf4ed9b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/name> "HISTORICAL SOCIETY OF OLD NEWBURYPORT"@en .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8065&mlon=-70.8705#map=15/42.8065/-70.8705> .
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://schema.org/addressLocality> "NEWBURYPORT" .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee663a011478426486c38d031bf4ed9b> .
+<http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nee663a011478426486c38d031bf4ed9b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/telephone> "+1 (508) 462-2681" .
+<http://lodlaundromat.org/.well-known/genid/N831a77fd0322443dabe3f73f922d91b6> <http://schema.org/postalCode> "01950" .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0ada6fb404b444128b796a5754201b88> .
+<http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> .
+<http://lodlaundromat.org/.well-known/genid/N0ada6fb404b444128b796a5754201b88> <http://schema.org/latitude> "42.8065"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nee663a011478426486c38d031bf4ed9b> <http://schema.org/value> "142483"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35e593103c364791a19d19348fa4b326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1e1a76ad77d4422f9c7d3d74c6064b5f> <http://schema.org/id> "8402500113" .
+

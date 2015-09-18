@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N46ce4d368b5f4988b0f023ad577462f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N46ce4d368b5f4988b0f023ad577462f2> .
+<http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.7071&mlon=-97.4687#map=15/27.7071/-97.4687> .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://schema.org/addressLocality> "CORPUS CHRISTI" .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N4f63bd6c724e4484b1ef300ed99b694f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N46ce4d368b5f4988b0f023ad577462f2> <http://schema.org/longitude> "-97.4687"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f63bd6c724e4484b1ef300ed99b694f> <http://schema.org/value> "158383"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://schema.org/streetAddress> "2695 COUNTY ROAD 33" .
+<http://lodlaundromat.org/.well-known/genid/N4f63bd6c724e4484b1ef300ed99b694f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/name> "COASTAL BEND ZOOLOGICAL GARDENS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4f63bd6c724e4484b1ef300ed99b694f> .
+<http://lodlaundromat.org/.well-known/genid/N46ce4d368b5f4988b0f023ad577462f2> <http://schema.org/latitude> "27.7071"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> <http://schema.org/id> "8404800483" .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://schema.org/postalCode> "78415" .
+<http://lodlaundromat.org/.well-known/genid/Nad448015d9734b76b7f76649428a72bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> .
+<http://lodlaundromat.org/.well-known/genid/N90663bb4cbde4af183062348cac092ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N87a11c40e5a24dcb8448c5d85139168e> <http://schema.org/@Type> "Dataset" .
+

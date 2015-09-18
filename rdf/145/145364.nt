@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N111bd3a611cb4c32b4cc726fe126a133> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N93da254d35bb4e36ad81c34c59624a65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93da254d35bb4e36ad81c34c59624a65> <http://schema.org/longitude> "-90.3129"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N111bd3a611cb4c32b4cc726fe126a133> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://schema.org/addressLocality> "FLORA" .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://schema.org/streetAddress> "397 FIRST STREET" .
+<http://lodlaundromat.org/.well-known/genid/N111bd3a611cb4c32b4cc726fe126a133> <http://schema.org/value> "145364"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N111bd3a611cb4c32b4cc726fe126a133> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N93da254d35bb4e36ad81c34c59624a65> .
+<http://lodlaundromat.org/.well-known/genid/N93da254d35bb4e36ad81c34c59624a65> <http://schema.org/latitude> "32.5469"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> <http://schema.org/id> "8402800071" .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.5469&mlon=-90.3129#map=15/32.5469/-90.3129> .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://schema.org/postalCode> "39071-9344" .
+<http://lodlaundromat.org/.well-known/genid/N727612f9220f4350a5d4cd672b5c639b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N09a2bc8e363e47b9b0a151aa5464097a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://schema.org/name> "FLORA AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd7d84dc391714a109d7094ac2fa4496e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

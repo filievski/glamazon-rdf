@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N328136dcdf604d4e83de73b915cee8a1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N903c60d5c0274d8380e80f0911f11256> <http://schema.org/latitude> "42.4274"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N903c60d5c0274d8380e80f0911f11256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4274&mlon=9.42871#map=15/42.4274/9.42871> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> .
+<http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> .
+<http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndc7661288b1f4452a6f04fccd3830653> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/telephone> "+39 0763 361010" .
+<http://lodlaundromat.org/.well-known/genid/N328136dcdf604d4e83de73b915cee8a1> <http://schema.org/value> "189336"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> <http://schema.org/id> "108064" .
+<http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7661288b1f4452a6f04fccd3830653> <http://schema.org/contentUrl> <http://images.museums.io/xiQ_aSc8_nT_vC6A1d6ftNqzp88=/1000x1000/museums/logos/000/189/336/original/b641b57f54b681b10362b4423fbd85a275349d3.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N903c60d5c0274d8380e80f0911f11256> <http://schema.org/longitude> "9.42871"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N328136dcdf604d4e83de73b915cee8a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N903c60d5c0274d8380e80f0911f11256> .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Ndc7661288b1f4452a6f04fccd3830653> .
+<http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> <http://schema.org/streetAddress> "Localit\u00E0 Caldane, " .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N328136dcdf604d4e83de73b915cee8a1> .
+<http://lodlaundromat.org/.well-known/genid/Nfa01e1a514de4c14ba0fbb2bea2dcfa1> <http://schema.org/addressLocality> "Castel Viscardo" .
+<http://lodlaundromat.org/.well-known/genid/N9f4f0debacbb403887b4b2f5fba8ab6b> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N9b8ce694ca514d9e9cfc27a599a64de2> <http://schema.org/name> "Necropoli di Caldane"@it .
+

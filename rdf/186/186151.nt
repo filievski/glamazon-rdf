@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> <http://schema.org/addressRegion> "Emilia-Romagna" .
+<http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/telephone> "+39 3391935943" .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0dda1d55bcf94e0683913d506514d7de> .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/name> "Museo del bosco e del cervo della Mesola"@it .
+<http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> <http://schema.org/addressLocality> "Mesola" .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndb5966bc1d7647e2a29bea7f9155b748> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> <http://schema.org/streetAddress> "Piazza Umberto I, " .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndb5966bc1d7647e2a29bea7f9155b748> .
+<http://lodlaundromat.org/.well-known/genid/N0dda1d55bcf94e0683913d506514d7de> <http://schema.org/latitude> "44.9231"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> .
+<http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndb5966bc1d7647e2a29bea7f9155b748> <http://schema.org/value> "186151"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N652f99dd99f24d5fb9e63c3c13a98f97> .
+<http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N0dda1d55bcf94e0683913d506514d7de> <http://schema.org/longitude> "12.2305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0dda1d55bcf94e0683913d506514d7de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> <http://schema.org/id> "102087" .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na413c2f0506f47eb914d5727a8b43f51> .
+<http://lodlaundromat.org/.well-known/genid/Neeadd3ccf75b400ead031768a17d50f4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9231&mlon=12.2305#map=15/44.9231/12.2305> .
+<http://lodlaundromat.org/.well-known/genid/Nff27c9163eb445ccbda314c037bde5d7> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Na413c2f0506f47eb914d5727a8b43f51> <http://schema.org/contentUrl> <http://images.museums.io/X50y1QhUfBzPW1hsARAy8MSEHgE=/1000x1000/museums/logos/000/186/151/original/82fcb3d9379c75a21bb6e9854c0553f46d14ac8.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ndb5966bc1d7647e2a29bea7f9155b748> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na413c2f0506f47eb914d5727a8b43f51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://schema.org/addressLocality> "HEALDTON" .
+<http://lodlaundromat.org/.well-known/genid/N0894faaa979a4181b3ef4475b8abcb32> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0894faaa979a4181b3ef4475b8abcb32> .
+<http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc64ee937693042409d8bc752ed724779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc64ee937693042409d8bc752ed724779> <http://schema.org/latitude> "34.2329"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc64ee937693042409d8bc752ed724779> .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> .
+<http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://schema.org/streetAddress> "433 W MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/name> "HEALDTON OIL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://schema.org/postalCode> "73438" .
+<http://lodlaundromat.org/.well-known/genid/N2a6bc8c57cf04e8fb98a79f74106109c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0c75715b488f41518fc9c0b281a99101> <http://schema.org/id> "8404000155" .
+<http://lodlaundromat.org/.well-known/genid/N0894faaa979a4181b3ef4475b8abcb32> <http://schema.org/value> "153801"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc64ee937693042409d8bc752ed724779> <http://schema.org/longitude> "-97.4883"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0894faaa979a4181b3ef4475b8abcb32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6de10e065ceb41f99034542c4a10cb2b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.2329&mlon=-97.4883#map=15/34.2329/-97.4883> .
+

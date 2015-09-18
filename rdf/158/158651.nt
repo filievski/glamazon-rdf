@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.8474&mlon=-100.223#map=15/34.8474/-100.223> .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://schema.org/addressLocality> "WELLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://schema.org/streetAddress> "1600 HASKELL" .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1340aa98bee440cf9077a3608b996ed4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4daf577ce251454fa9b5c02bdb81a427> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> <http://schema.org/id> "8404800751" .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://schema.org/postalCode> "79095" .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1340aa98bee440cf9077a3608b996ed4> .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> .
+<http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1340aa98bee440cf9077a3608b996ed4> <http://schema.org/longitude> "-100.223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4daf577ce251454fa9b5c02bdb81a427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4daf577ce251454fa9b5c02bdb81a427> .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b9ab25922bf47e699588680a17ff3c9> .
+<http://lodlaundromat.org/.well-known/genid/N4daf577ce251454fa9b5c02bdb81a427> <http://schema.org/value> "158651"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1340aa98bee440cf9077a3608b996ed4> <http://schema.org/latitude> "34.8474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f801f8c11794af78df817b2f056279d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1eb6efb5de264adab6580f4864687379> <http://schema.org/name> "HISTORIC WELLINGTON INC"@en .
+

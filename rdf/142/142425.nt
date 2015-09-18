@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3e696b3428eb464aa6635a089fa21355> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb6cf16633a9e4d2a821eebb2f602dcda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb6cf16633a9e4d2a821eebb2f602dcda> <http://schema.org/latitude> "41.9539"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb6cf16633a9e4d2a821eebb2f602dcda> <http://schema.org/longitude> "-70.6589"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9539&mlon=-70.6589#map=15/41.9539/-70.6589> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/telephone> "+1 (508) 830-4075" .
+<http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> <http://schema.org/id> "8402500055" .
+<http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e696b3428eb464aa6635a089fa21355> <http://schema.org/value> "142425"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5b0f62229cf448899a4809c478c9a1dc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://schema.org/addressLocality> "PLYMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/name> "PLYMOUTH 1749 COURT HSE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3e696b3428eb464aa6635a089fa21355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3e696b3428eb464aa6635a089fa21355> .
+<http://lodlaundromat.org/.well-known/genid/N303f8fe4319f472496ca490ef3d59a74> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb6cf16633a9e4d2a821eebb2f602dcda> .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://schema.org/postalCode> "02360" .
+<http://lodlaundromat.org/.well-known/genid/N9d070e4d22aa4d6da8ac60b1628be936> <http://schema.org/streetAddress> "11 LINCOLN ST" .
+

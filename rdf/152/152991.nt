@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0c0b5efd53c64610b565c65f3d95e8f8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0c0b5efd53c64610b565c65f3d95e8f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c55c7cf112948db961b5c0f757dad2e> <http://schema.org/latitude> "39.9608"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0c0b5efd53c64610b565c65f3d95e8f8> .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> .
+<http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0c0b5efd53c64610b565c65f3d95e8f8> <http://schema.org/value> "152991"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://schema.org/postalCode> "45383-0395" .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> .
+<http://lodlaundromat.org/.well-known/genid/N0c55c7cf112948db961b5c0f757dad2e> <http://schema.org/longitude> "-84.3363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://schema.org/streetAddress> "PO BOX395" .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://schema.org/addressLocality> "WEST MILTON" .
+<http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N11a35e12bd25418fb6c26957a10bf04b> <http://schema.org/id> "8403900768" .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9608&mlon=-84.3363#map=15/39.9608/-84.3363> .
+<http://lodlaundromat.org/.well-known/genid/N0c55c7cf112948db961b5c0f757dad2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/name> "MILTON-UNION VETERANS MEMORIAL ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c75220387d64f74abfbdcdb4e7b35ce> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf0433fb075274376bd4b5975adba56b1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c55c7cf112948db961b5c0f757dad2e> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Na9a626d05a1f473ebf2b03501bb020ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0dc36a1d2f944997bf4404cef85380a0> <http://schema.org/latitude> "45.4117"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0dc36a1d2f944997bf4404cef85380a0> <http://schema.org/longitude> "11.8791"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/url> <http://www.cappelladegliscrovegni.it/> .
+<http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93bf213159bb424687d92689f9dbdce4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N0dc36a1d2f944997bf4404cef85380a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93bf213159bb424687d92689f9dbdce4> <http://schema.org/value> "189443"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N93bf213159bb424687d92689f9dbdce4> .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/telephone> "+39 0498204551" .
+<http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> <http://schema.org/addressLocality> "Padova" .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> .
+<http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0dc36a1d2f944997bf4404cef85380a0> .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/name> "Cappella degli Scrovegni"@it .
+<http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> <http://schema.org/id> "100940" .
+<http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N0484113991ce4f5a98e72d2d20da39e5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> <http://schema.org/streetAddress> "Piazza Eremitani, 8" .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Na9a626d05a1f473ebf2b03501bb020ae> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f9bc19b7244b94a7675b767fdd1e8d> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1539c129c0e34fa5bf108113038ad46b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4117&mlon=11.8791#map=15/45.4117/11.8791> .
+<http://lodlaundromat.org/.well-known/genid/Na9a626d05a1f473ebf2b03501bb020ae> <http://schema.org/contentUrl> <http://images.museums.io/Rad7sYzh_ZzPTcj02TmAKJDe2ks=/1000x1000/museums/logos/000/189/443/original/40df6e66f727e576791840f479314b8ceabfb626.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N93bf213159bb424687d92689f9dbdce4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

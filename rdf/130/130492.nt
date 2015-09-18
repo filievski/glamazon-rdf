@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N8b99f175ec1640309e8fcba89872c573> <http://schema.org/value> "130492"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8b99f175ec1640309e8fcba89872c573> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8b99f175ec1640309e8fcba89872c573> .
+<http://lodlaundromat.org/.well-known/genid/N04fcafdeb33849538a7e33a9b6ad9ab3> <http://schema.org/longitude> "-121.504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04fcafdeb33849538a7e33a9b6ad9ab3> <http://schema.org/latitude> "38.5846"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N04fcafdeb33849538a7e33a9b6ad9ab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> <http://schema.org/id> "8400600618" .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5846&mlon=-121.504#map=15/38.5846/-121.504> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/telephone> "+1 (916) 445-6645" .
+<http://lodlaundromat.org/.well-known/genid/N8b99f175ec1640309e8fcba89872c573> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://schema.org/addressLocality> "SACRAMENTO" .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://schema.org/streetAddress> "125 I ST" .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N04fcafdeb33849538a7e33a9b6ad9ab3> .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://schema.org/postalCode> "95814" .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8a3535c4589f480a9505a4ab0a72e2e0> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/California_State_Railroad_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/name> "CALIFORNIA STATE RAILROAD MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/url> <http://www.csrmf.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7bfe1a5c7f3d454aa743d721272e9ed7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> .
+<http://lodlaundromat.org/.well-known/genid/N1752f2aab205481ebb9115404096884d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

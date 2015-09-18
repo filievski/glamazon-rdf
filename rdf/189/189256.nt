@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> <http://schema.org/streetAddress> "Via della Pitalessa, " .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> .
+<http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5c89bd222a440c92f192fba093f859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncf5c89bd222a440c92f192fba093f859> .
+<http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> <http://schema.org/addressLocality> "Paciano" .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/telephone> "+39 075830120" .
+<http://lodlaundromat.org/.well-known/genid/N2bd6635bed2b47678c2dc003dc6fd3c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> .
+<http://lodlaundromat.org/.well-known/genid/N928d57a6870848ac9121cb0415bf0c00> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2bd6635bed2b47678c2dc003dc6fd3c3> .
+<http://lodlaundromat.org/.well-known/genid/N22b79c3f78e847638d5f184d59d2c645> <http://schema.org/contentUrl> <http://images.museums.io/nGQ4U8rNpMiTZssu2H9VzfSzdXU=/1000x1000/museums/logos/000/189/256/original/19f64d5bc5e34224688e4a9d236572288e51b2bc.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> <http://schema.org/id> "103873" .
+<http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2bd6635bed2b47678c2dc003dc6fd3c3> <http://schema.org/value> "189256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc66c7e127f124fd5b45d9c1236bf7a43> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/name> "Museo di San Giuseppe di Paciano"@it .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.022&mlon=12.0709#map=15/43.022/12.0709> .
+<http://lodlaundromat.org/.well-known/genid/N2bd6635bed2b47678c2dc003dc6fd3c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncf5c89bd222a440c92f192fba093f859> <http://schema.org/latitude> "43.022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N22b79c3f78e847638d5f184d59d2c645> .
+<http://lodlaundromat.org/.well-known/genid/N73af07e902d5404aa7c4e8aa727fcbc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22b79c3f78e847638d5f184d59d2c645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5c89bd222a440c92f192fba093f859> <http://schema.org/longitude> "12.0709"^^<http://www.w3.org/2001/XMLSchema#double> .
+

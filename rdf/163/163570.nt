@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8432&mlon=-106.276#map=15/42.8432/-106.276> .
+<http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://schema.org/postalCode> "82609" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> .
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/N1cf19ba4af6e47a289d35995ae9c4fe4> <http://schema.org/value> "163570"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8472f2560aa344b5843a9c9740e55297> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8472f2560aa344b5843a9c9740e55297> .
+<http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://schema.org/addressLocality> "CASPER" .
+<http://lodlaundromat.org/.well-known/genid/N1cf19ba4af6e47a289d35995ae9c4fe4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/name> "HISTORIC TRAILS RESOURCE CONSERVATION & DEVELOPMENT AREA"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1cf19ba4af6e47a289d35995ae9c4fe4> .
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://schema.org/streetAddress> "5880 ENTERPRISE STE 100" .
+<http://lodlaundromat.org/.well-known/genid/Ncf3fd60d37e14683a53f844abf7fc76d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> .
+<http://lodlaundromat.org/.well-known/genid/N5be33c0629f3497796aee34a1584a245> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> <http://schema.org/id> "8405600150" .
+<http://lodlaundromat.org/.well-known/genid/N8472f2560aa344b5843a9c9740e55297> <http://schema.org/latitude> "42.8432"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8472f2560aa344b5843a9c9740e55297> <http://schema.org/longitude> "-106.276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c54982ff7ec45ffa344702a84484fb9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1cf19ba4af6e47a289d35995ae9c4fe4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

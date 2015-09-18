@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://schema.org/streetAddress> "PO BOX 2074" .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://schema.org/addressLocality> "CLARKSBURG" .
+<http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nabfb69427cc8415888a9d9373d9b93dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://schema.org/postalCode> "26302-2074" .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nabfb69427cc8415888a9d9373d9b93dc> .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/name> "STEALY GOFF VANCE HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9a88602910554856a05b42123d81ff1d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2785&mlon=-80.3354#map=15/39.2785/-80.3354> .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9a88602910554856a05b42123d81ff1d> .
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://schema.org/addressRegion> "WV" .
+<http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> <http://schema.org/id> "8405400256" .
+<http://lodlaundromat.org/.well-known/genid/N9a88602910554856a05b42123d81ff1d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7391073e9d0447698994bb1e3c26b8d7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na9f6944dc3d6476d87383c5493ab8b8f> .
+<http://lodlaundromat.org/.well-known/genid/Nabfb69427cc8415888a9d9373d9b93dc> <http://schema.org/latitude> "39.2785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09b0f484f8e94bf8a719431e2af4016e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nabfb69427cc8415888a9d9373d9b93dc> <http://schema.org/longitude> "-80.3354"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9a88602910554856a05b42123d81ff1d> <http://schema.org/value> "162543"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9affaf92f5a4cdbbae05c20b7969a21> <http://schema.org/value> "163943"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N380d1b85ad7c41a0a665910be50fc009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb9affaf92f5a4cdbbae05c20b7969a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/name> "Heidelberg Repatriation Hospital"@en .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N04541a2b64e7408890b62a6c02cdf153> .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7566&mlon=145.049#map=15/-37.7566/145.049> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N380d1b85ad7c41a0a665910be50fc009> .
+<http://lodlaundromat.org/.well-known/genid/N380d1b85ad7c41a0a665910be50fc009> <http://schema.org/latitude> "-37.7566"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04541a2b64e7408890b62a6c02cdf153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N04541a2b64e7408890b62a6c02cdf153> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nb9affaf92f5a4cdbbae05c20b7969a21> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N380d1b85ad7c41a0a665910be50fc009> <http://schema.org/longitude> "145.049"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> <http://schema.org/url> <http://victoriancollections.net.au/organisations/heidelberg-repatriation-hospital> .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/telephone> "03 9496 5000" .
+<http://lodlaundromat.org/.well-known/genid/N5ec3e3f7cc29416f9a34bab2a8a36d15> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb9affaf92f5a4cdbbae05c20b7969a21> .
+<http://lodlaundromat.org/.well-known/genid/Ncd8964c2110140d88fa6fe017d058092> <http://schema.org/id> "heidelberg-repatriation-hospital" .
+

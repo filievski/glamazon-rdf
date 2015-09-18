@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd03f36330de44fcd88db525e4d34f3f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N13adf55efda4466e9ba7c01536cada22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.1952&mlon=-77.9831#map=15/40.1952/-77.9831> .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd03f36330de44fcd88db525e4d34f3f1> .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/name> "THREE SPRINGS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> <http://schema.org/id> "8404201521" .
+<http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N13adf55efda4466e9ba7c01536cada22> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://schema.org/streetAddress> "3468 HUDSON STREEET" .
+<http://lodlaundromat.org/.well-known/genid/N13adf55efda4466e9ba7c01536cada22> <http://schema.org/value> "156327"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://schema.org/addressLocality> "THREE SPRINGS" .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://schema.org/postalCode> "17264" .
+<http://lodlaundromat.org/.well-known/genid/Nd03f36330de44fcd88db525e4d34f3f1> <http://schema.org/longitude> "-77.9831"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N13adf55efda4466e9ba7c01536cada22> .
+<http://lodlaundromat.org/.well-known/genid/Na65be47bfc5a48c8a1f0722bd4fb7b25> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7836612845b94e56bae314161d80f956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbbdb31ddc1174c90b275e4d79e338f33> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd03f36330de44fcd88db525e4d34f3f1> <http://schema.org/latitude> "40.1952"^^<http://www.w3.org/2001/XMLSchema#double> .
+

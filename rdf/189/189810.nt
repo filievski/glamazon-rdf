@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9a69f66393864c6b99834292e946e7cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> <http://schema.org/id> "8401701378" .
+<http://lodlaundromat.org/.well-known/genid/N180a4b9119fd4b7fb627ea1e96054409> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9a69f66393864c6b99834292e946e7cd> .
+<http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N180a4b9119fd4b7fb627ea1e96054409> .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/telephone> "+1 (217) 785-7960" .
+<http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://schema.org/streetAddress> "6TH & ADAMS ST" .
+<http://lodlaundromat.org/.well-known/genid/N611b0f3ac92a45b3a5e67fd6d21aca4e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/url> <http://www.illinois.gov/ihpa/experience/sites/central/pages/old-capitol.aspx> .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://schema.org/addressLocality> "SPRINGFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/name> "OLD STATE CAPITOL STATE HISTORIC SITE"@en .
+<http://lodlaundromat.org/.well-known/genid/N51ade8cf7d7041739ee0c94e39a4124d> <http://schema.org/postalCode> "62701" .
+<http://lodlaundromat.org/.well-known/genid/N9a69f66393864c6b99834292e946e7cd> <http://schema.org/latitude> "42.0781"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N180a4b9119fd4b7fb627ea1e96054409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N180a4b9119fd4b7fb627ea1e96054409> <http://schema.org/value> "189810"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9a69f66393864c6b99834292e946e7cd> <http://schema.org/longitude> "-77.077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N788259aa83354183b3b099e4e9e7e235> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0781&mlon=-77.077#map=15/42.0781/-77.077> .
+

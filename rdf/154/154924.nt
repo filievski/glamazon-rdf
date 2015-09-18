@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5fa04d575cfd4d21aed87ce38cfb00ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5fa04d575cfd4d21aed87ce38cfb00ee> .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://schema.org/addressLocality> "KINGSTON" .
+<http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.299&mlon=-75.8628#map=15/41.299/-75.8628> .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://schema.org/postalCode> "18704" .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> <http://schema.org/id> "8404200118" .
+<http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://schema.org/streetAddress> "35 DENNISON ST" .
+<http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc77e829d7f9f45dfa796d754bdb0c0c8> .
+<http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1023d71fd62f4522bbc271f6e84799c4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5fa04d575cfd4d21aed87ce38cfb00ee> <http://schema.org/longitude> "-75.8628"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5fa04d575cfd4d21aed87ce38cfb00ee> <http://schema.org/latitude> "41.299"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1023d71fd62f4522bbc271f6e84799c4> .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/name> "NATHAN DENISON HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/telephone> "+1 (570) 288-5531" .
+<http://lodlaundromat.org/.well-known/genid/N1023d71fd62f4522bbc271f6e84799c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N53c80f71b8c746379354a1277defdee4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> .
+<http://lodlaundromat.org/.well-known/genid/N3d0cc8119d124013a49b5df39084be1b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1023d71fd62f4522bbc271f6e84799c4> <http://schema.org/value> "154924"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://schema.org/streetAddress> "PO BOX 54" .
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://schema.org/addressLocality> "KENSINGTON" .
+<http://lodlaundromat.org/.well-known/genid/Nb4b323d8648e41e184417b8023def160> <http://schema.org/longitude> "-95.6372"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb4b323d8648e41e184417b8023def160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> .
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://schema.org/postalCode> "56343-0054" .
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N73130af0a251422fb0ea561dc4e5aa07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N73130af0a251422fb0ea561dc4e5aa07> .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> .
+<http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N73130af0a251422fb0ea561dc4e5aa07> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4b323d8648e41e184417b8023def160> .
+<http://lodlaundromat.org/.well-known/genid/N2e5f7f437ad84194b52d3277f2939e5d> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> <http://schema.org/id> "8402700692" .
+<http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nba62888637f7420ea5e2b7ec6782e11b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4b323d8648e41e184417b8023def160> <http://schema.org/latitude> "45.7931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/name> "KENSINGTON AREA HERITAGE SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N450eee3dd8f14e5f8ec0b8794106e739> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7931&mlon=-95.6372#map=15/45.7931/-95.6372> .
+<http://lodlaundromat.org/.well-known/genid/N73130af0a251422fb0ea561dc4e5aa07> <http://schema.org/value> "145252"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5b68d2bace2a449fb7814dfb1f1cbf66> .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://schema.org/streetAddress> "7 TATER ST" .
+<http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.927&mlon=-71.6713#map=15/42.927/-71.6713> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/url> <http://www.nhlpm.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/telephone> "+1 (603) 673-7467" .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> .
+<http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N67f8f9ac8f6b4765aa6ae358d97481d8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N67f8f9ac8f6b4765aa6ae358d97481d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N67f8f9ac8f6b4765aa6ae358d97481d8> .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N5b68d2bace2a449fb7814dfb1f1cbf66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8957c409673e4d5aa0ec721b011c773f> <http://schema.org/id> "8403300027" .
+<http://lodlaundromat.org/.well-known/genid/N5b68d2bace2a449fb7814dfb1f1cbf66> <http://schema.org/latitude> "42.927"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/name> "NEW HAMPSHIRE LICENSE PLATE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://schema.org/postalCode> "03057" .
+<http://lodlaundromat.org/.well-known/genid/N5b68d2bace2a449fb7814dfb1f1cbf66> <http://schema.org/longitude> "-71.6713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67f8f9ac8f6b4765aa6ae358d97481d8> <http://schema.org/value> "147252"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf9cbc93523e547f4af5de89b09c952c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb084ac04502645d99e49fa0d18a8cace> <http://schema.org/addressLocality> "MONT VERNON" .
+

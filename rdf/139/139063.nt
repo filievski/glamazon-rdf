@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne43c0f60684c4215b63d59357e4867da> .
+<http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/telephone> "+1 (515) 557-6109" .
+<http://lodlaundromat.org/.well-known/genid/Ne43c0f60684c4215b63d59357e4867da> <http://schema.org/value> "139063"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> <http://schema.org/id> "8401900100" .
+<http://lodlaundromat.org/.well-known/genid/N80981c25477d4f2993b2b61fcad03962> <http://schema.org/longitude> "-93.6278"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://schema.org/postalCode> "50309" .
+<http://lodlaundromat.org/.well-known/genid/N80981c25477d4f2993b2b61fcad03962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80981c25477d4f2993b2b61fcad03962> <http://schema.org/latitude> "41.5852"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne43c0f60684c4215b63d59357e4867da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N80981c25477d4f2993b2b61fcad03962> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/name> "DES MOINES ART CENTER DOWNTOWN"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5852&mlon=-93.6278#map=15/41.5852/-93.6278> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://schema.org/addressLocality> "DES MOINES" .
+<http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://schema.org/streetAddress> "800 WALNUT ST" .
+<http://lodlaundromat.org/.well-known/genid/Ne43c0f60684c4215b63d59357e4867da> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndca4aeb6d1d4409883b1021b636b44d7> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://schema.org/url> <http://www.desmoinesartcenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe3e9f8a7bd44593a67e9c8d47e6a2a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N41781d2ad580477c9f0f474dc13f145f> <http://schema.org/@Type> "Dataset" .
+

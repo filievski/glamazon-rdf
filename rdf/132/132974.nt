@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8424&mlon=-104.822#map=15/38.8424/-104.822> .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N40a020be1d6745a48f43b7890c288ae6> <http://schema.org/value> "132974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N59b1096a1c784044bc8130f19a5c3b31> <http://schema.org/longitude> "-104.822"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59b1096a1c784044bc8130f19a5c3b31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N59b1096a1c784044bc8130f19a5c3b31> .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://schema.org/postalCode> "80903-1112" .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> .
+<http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> <http://schema.org/id> "8400800150" .
+<http://lodlaundromat.org/.well-known/genid/N40a020be1d6745a48f43b7890c288ae6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://schema.org/addressLocality> "COLORADO SPRINGS" .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N40a020be1d6745a48f43b7890c288ae6> .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://schema.org/streetAddress> "128 E WILLAMETTE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/name> "FROM MISTS OF TIME"@en .
+<http://lodlaundromat.org/.well-known/genid/N13a0bf80644e42c5ac2fc37e9933b770> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> .
+<http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na78ec7af04904addba74c0c97387fcf1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N59b1096a1c784044bc8130f19a5c3b31> <http://schema.org/latitude> "38.8424"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N40a020be1d6745a48f43b7890c288ae6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4774c40aed1648c6ab29c7dc71246242> <http://schema.org/url> <http://www.imls.gov/> .
+

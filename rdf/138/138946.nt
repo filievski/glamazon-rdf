@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4c7b4bea0c304f46a517b04942d866d4> .
+<http://lodlaundromat.org/.well-known/genid/N4c7b4bea0c304f46a517b04942d866d4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> <http://schema.org/id> "8401800732" .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N63e488db51fa4894bc73c55dfea43a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4c7b4bea0c304f46a517b04942d866d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N63e488db51fa4894bc73c55dfea43a05> .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4611&mlon=-85.5876#map=15/41.4611/-85.5876> .
+<http://lodlaundromat.org/.well-known/genid/N63e488db51fa4894bc73c55dfea43a05> <http://schema.org/longitude> "-85.5876"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://schema.org/addressLocality> "LIGONIER" .
+<http://lodlaundromat.org/.well-known/genid/N63e488db51fa4894bc73c55dfea43a05> <http://schema.org/latitude> "41.4611"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://schema.org/postalCode> "46767" .
+<http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://schema.org/streetAddress> "600 SOUTH CAVIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c2130770de74620a160e5292db5285b> <http://schema.org/name> "DISCOVERY EXPRESS HISTORY & SCIENCE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfa4ac1ad7d2945dcad480c152b128391> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Ne96e37deb8da45fe9ff69c8d5cdd140d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4c7b4bea0c304f46a517b04942d866d4> <http://schema.org/value> "138946"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

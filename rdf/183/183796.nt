@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N92cf79c5839f444eaceff826713c7c42> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nbab07b7e75e24990a162fd1f9d0b5a2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/name> "Schloss und Hofgarten Veitsh\u00F6chheim"@en .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbab07b7e75e24990a162fd1f9d0b5a2c> <http://schema.org/value> "183796"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6c90171143534565a791c5cb6e12281f> <http://schema.org/latitude> "49.8317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c90171143534565a791c5cb6e12281f> .
+<http://lodlaundromat.org/.well-known/genid/Nbab07b7e75e24990a162fd1f9d0b5a2c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6c90171143534565a791c5cb6e12281f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c90171143534565a791c5cb6e12281f> <http://schema.org/longitude> "9.87465"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/telephone> "0931/91582" .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N92cf79c5839f444eaceff826713c7c42> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.8317&mlon=9.87465#map=15/49.8317/9.87465> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://schema.org/postalCode> "97209" .
+<http://lodlaundromat.org/.well-known/genid/N92cf79c5839f444eaceff826713c7c42> <http://schema.org/url> <http://www.museums.io/en/museums/183796> .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/url> <http://www.schloesser.bayern.de/deutsch/schloss/objekte/veitsho.htm> .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://schema.org/addressLocality> "Veitsh\u00F6chheim" .
+<http://lodlaundromat.org/.well-known/genid/N92cf79c5839f444eaceff826713c7c42> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N3b61cfed7fee4a29847ca58ebe592f61> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbab07b7e75e24990a162fd1f9d0b5a2c> .
+<http://lodlaundromat.org/.well-known/genid/N92cf79c5839f444eaceff826713c7c42> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N645059abf1454662afabea5889b6b2e0> <http://schema.org/streetAddress> "Echterstra\u00DFe 10" .
+

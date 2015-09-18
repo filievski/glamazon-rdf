@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N05f4bddf3b8c44a0a3a1fd486f7d87cb> .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na8e0846fc6274ded9594d49eed0dd8d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N564fdc9c86554dedb4d71274e00c0246> <http://schema.org/contentUrl> <http://images.museums.io/h8gWeVc2dKJ2AKz2QrHGh6khIRc=/1000x1000/museums/logos/000/189/487/original/6b5e84b6ebda521a974d83a3469bbeb7d14094.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> <http://schema.org/streetAddress> "Via Seminario, 26" .
+<http://lodlaundromat.org/.well-known/genid/Na8e0846fc6274ded9594d49eed0dd8d1> <http://schema.org/value> "189487"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N05f4bddf3b8c44a0a3a1fd486f7d87cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N05f4bddf3b8c44a0a3a1fd486f7d87cb> <http://schema.org/latitude> "45.7764"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> <http://schema.org/id> "20258" .
+<http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N05f4bddf3b8c44a0a3a1fd486f7d87cb> <http://schema.org/longitude> "12.8361"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na8e0846fc6274ded9594d49eed0dd8d1> .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> .
+<http://lodlaundromat.org/.well-known/genid/N564fdc9c86554dedb4d71274e00c0246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> <http://schema.org/addressLocality> "Portogruaro" .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/name> "Museo archeologico nazionale Concordiese"@it .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7764&mlon=12.8361#map=15/45.7764/12.8361> .
+<http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nbc61a8da8001475fb46c375df754c8b3> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/Na8e0846fc6274ded9594d49eed0dd8d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N3b8a25bc5a4f423592c6073fb1fb8fd5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/telephone> "+39 042172674" .
+<http://lodlaundromat.org/.well-known/genid/N7891d245cfc74aeaa38442d5df157e66> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N564fdc9c86554dedb4d71274e00c0246> .
+

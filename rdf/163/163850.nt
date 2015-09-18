@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Neb63cd83f6a746559081f16767d9e2e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> <http://schema.org/url> <http://victoriancollections.net.au/organisations/east-gippsland-art-gallery> .
+<http://lodlaundromat.org/.well-known/genid/N2d996992520348a6b92335a13c2a7848> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb63cd83f6a746559081f16767d9e2e5> .
+<http://lodlaundromat.org/.well-known/genid/Ndcc4b81fc46845b2943601fa967a115d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/telephone> "(03) 5153 1988 " .
+<http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> <http://schema.org/id> "east-gippsland-art-gallery" .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8242&mlon=147.633#map=15/-37.8242/147.633> .
+<http://lodlaundromat.org/.well-known/genid/Neb63cd83f6a746559081f16767d9e2e5> <http://schema.org/latitude> "-37.8242"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/url> <http://www.eastgippslandartgallery.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/Neb63cd83f6a746559081f16767d9e2e5> <http://schema.org/longitude> "147.633"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndcc4b81fc46845b2943601fa967a115d> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2d996992520348a6b92335a13c2a7848> .
+<http://lodlaundromat.org/.well-known/genid/Nb76c7577d2a345dca5cc62d128c364bf> <http://schema.org/name> "East Gippsland Art Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb88be09044d94a9bb8d85dd7040b1680> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2d996992520348a6b92335a13c2a7848> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Ndcc4b81fc46845b2943601fa967a115d> <http://schema.org/value> "163850"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndcc4b81fc46845b2943601fa967a115d> <http://schema.org/name> "id" .
+

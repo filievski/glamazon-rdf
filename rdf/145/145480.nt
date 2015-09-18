@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> <http://schema.org/id> "8402800187" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://schema.org/addressLocality> "MACON" .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.103&mlon=-88.5429#map=15/33.103/-88.5429> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://schema.org/postalCode> "39341-3934" .
+<http://lodlaundromat.org/.well-known/genid/N0a2571b7876e499285fae7f5ce1b1ecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na368e60b6c574140a2ab544b86f67440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na368e60b6c574140a2ab544b86f67440> <http://schema.org/latitude> "33.103"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a2571b7876e499285fae7f5ce1b1ecb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0a2571b7876e499285fae7f5ce1b1ecb> <http://schema.org/value> "145480"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> .
+<http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na368e60b6c574140a2ab544b86f67440> .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0a2571b7876e499285fae7f5ce1b1ecb> .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> .
+<http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7144260b8f424efe8e766566933d497b> <http://schema.org/name> "NOXUBEE COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na368e60b6c574140a2ab544b86f67440> <http://schema.org/longitude> "-88.5429"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f79fbd61284dc6a71c1b92e0bc1daf> <http://schema.org/streetAddress> "PO BOX 892" .
+<http://lodlaundromat.org/.well-known/genid/N57ec04329423439c9f83a62077a12361> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

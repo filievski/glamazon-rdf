@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0309c6d5fe58436da2cf16942102296e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N810986bb97e8471982f169dd43ca8c30> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> .
+<http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> <http://schema.org/id> "8404000525" .
+<http://lodlaundromat.org/.well-known/genid/N810986bb97e8471982f169dd43ca8c30> <http://schema.org/value> "154171"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0309c6d5fe58436da2cf16942102296e> <http://schema.org/longitude> "-97.4635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N810986bb97e8471982f169dd43ca8c30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/name> "OKLAHOMA STATE FIREMENS MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://schema.org/postalCode> "73111-7202" .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://schema.org/streetAddress> "2716 NE 50TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0309c6d5fe58436da2cf16942102296e> .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.5222&mlon=-97.4635#map=15/35.5222/-97.4635> .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://schema.org/addressLocality> "OKLAHOMA CITY" .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N32b43bdf9f0a46afaa1ef3187fa8ff19> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ce7b27f91bf4a21876641e73f85c1bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N810986bb97e8471982f169dd43ca8c30> .
+<http://lodlaundromat.org/.well-known/genid/N0309c6d5fe58436da2cf16942102296e> <http://schema.org/latitude> "35.5222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a5503a874db4fca819cbd3ab186cfb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

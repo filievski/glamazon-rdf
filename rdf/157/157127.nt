@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nceef3d746e1740aba443ca8933ca0474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nce7302d48dba47ccb679a549a3b4653f> <http://schema.org/longitude> "-97.1097"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nce7302d48dba47ccb679a549a3b4653f> <http://schema.org/latitude> "44.0133"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nceef3d746e1740aba443ca8933ca0474> <http://schema.org/value> "157127"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nce7302d48dba47ccb679a549a3b4653f> .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nceef3d746e1740aba443ca8933ca0474> .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://schema.org/addressRegion> "SD" .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/name> "SMITH-ZIMMERMANN STATE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0133&mlon=-97.1097#map=15/44.0133/-97.1097> .
+<http://lodlaundromat.org/.well-known/genid/Nceef3d746e1740aba443ca8933ca0474> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://schema.org/streetAddress> "221 NE 8TH ST., DSU" .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> .
+<http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> <http://schema.org/id> "8404600012" .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://schema.org/postalCode> "57042-1799" .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://schema.org/addressLocality> "MADISON" .
+<http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nce7302d48dba47ccb679a549a3b4653f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N41427d31675c4b2588195627c73ec0a0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N05683cec349d4a0d8e2b702b4adcea52> <http://schema.org/telephone> "+1 (605) 773-3458" .
+<http://lodlaundromat.org/.well-known/genid/Nceb0e5840b42415c9759a665081d2a22> <http://schema.org/addressCountry> "United States" .
+

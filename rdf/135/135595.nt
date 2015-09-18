@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/name> "ASOCIACION HISTORICA CUBANA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N63585243ebfc453382b7e7b3df88dd01> .
+<http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N63585243ebfc453382b7e7b3df88dd01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> .
+<http://lodlaundromat.org/.well-known/genid/N63585243ebfc453382b7e7b3df88dd01> <http://schema.org/longitude> "-80.2047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://schema.org/postalCode> "33245" .
+<http://lodlaundromat.org/.well-known/genid/N63585243ebfc453382b7e7b3df88dd01> <http://schema.org/latitude> "25.7607"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc81df95deed94b25a225aeb0b0eabda0> .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Nc81df95deed94b25a225aeb0b0eabda0> <http://schema.org/value> "135595"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/telephone> "+1 (305) 854-1938" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3cf83ec9734c44f7add41676e04459ee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.7607&mlon=-80.2047#map=15/25.7607/-80.2047> .
+<http://lodlaundromat.org/.well-known/genid/Nc81df95deed94b25a225aeb0b0eabda0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://schema.org/streetAddress> "PO BOX 451134" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5a9486550385469c9ea725f015e0c061> <http://schema.org/addressLocality> "MIAMI" .
+<http://lodlaundromat.org/.well-known/genid/Nd14bcc84458942aca8ddc4f5cb9dbf17> <http://schema.org/id> "8401201150" .
+<http://lodlaundromat.org/.well-known/genid/Nc81df95deed94b25a225aeb0b0eabda0> <http://schema.org/name> "id" .
+

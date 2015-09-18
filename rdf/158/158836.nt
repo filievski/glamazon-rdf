@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4bf9e34e9dfa42c788c8768036e860c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4bf9e34e9dfa42c788c8768036e860c9> .
+<http://lodlaundromat.org/.well-known/genid/Nff77be9dc4944b72be4078a0f3540548> <http://schema.org/value> "158836"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.0114&mlon=-97.1579#map=15/30.0114/-97.1579> .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://schema.org/streetAddress> "602 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> .
+<http://lodlaundromat.org/.well-known/genid/Nff77be9dc4944b72be4078a0f3540548> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26c7ca26562e4c93aa4fa293ef7d9621> <http://schema.org/id> "8404800936" .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/name> "SMITHVILLE HERITAGE SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nff77be9dc4944b72be4078a0f3540548> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nff77be9dc4944b72be4078a0f3540548> .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://schema.org/postalCode> "78957-1433" .
+<http://lodlaundromat.org/.well-known/genid/N4bf9e34e9dfa42c788c8768036e860c9> <http://schema.org/longitude> "-97.1579"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5a82bb1adfaa4f669d412190ab70e1d6> <http://schema.org/addressLocality> "SMITHVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N4bf9e34e9dfa42c788c8768036e860c9> <http://schema.org/latitude> "30.0114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N866cc0fabed942eb8f044f00cd80bb6b> <http://schema.org/telephone> "+1 (512) 237-4545" .
+

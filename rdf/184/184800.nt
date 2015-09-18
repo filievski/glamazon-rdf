@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N3a4dd1bd3cdb4f6d9aab4635ac6e8e92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a4dd1bd3cdb4f6d9aab4635ac6e8e92> .
+<http://lodlaundromat.org/.well-known/genid/Nce4ee4f4d71c491ca6340e676654f956> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3a4dd1bd3cdb4f6d9aab4635ac6e8e92> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nce4ee4f4d71c491ca6340e676654f956> <http://schema.org/url> <http://www.museums.io/en/museums/184800> .
+<http://lodlaundromat.org/.well-known/genid/N3a4dd1bd3cdb4f6d9aab4635ac6e8e92> <http://schema.org/value> "184800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> <http://schema.org/addressRegion> "Western Cape" .
+<http://lodlaundromat.org/.well-known/genid/Nce4ee4f4d71c491ca6340e676654f956> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nce4ee4f4d71c491ca6340e676654f956> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://schema.org/name> "Genadendal Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://schema.org/telephone> "028 251 8582" .
+<http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> <http://schema.org/streetAddress> "Church Square, Genadendal" .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nce4ee4f4d71c491ca6340e676654f956> .
+<http://lodlaundromat.org/.well-known/genid/N5885e282c9964d278249502967f64d4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> <http://schema.org/addressLocality> "Genadendal" .
+<http://lodlaundromat.org/.well-known/genid/Ncd339e81841a405db793b1a3aadc328c> <http://schema.org/addressCountry> "South Africa" .
+

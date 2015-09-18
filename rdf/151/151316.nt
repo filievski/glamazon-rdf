@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3c74ab08167341a085ffc48dffde38f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.7151&mlon=-81.4214#map=15/35.7151/-81.4214> .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3c74ab08167341a085ffc48dffde38f2> <http://schema.org/value> "151316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N14e90aace9df4dbe9aa61aac94db899d> .
+<http://lodlaundromat.org/.well-known/genid/N14e90aace9df4dbe9aa61aac94db899d> <http://schema.org/longitude> "-81.4214"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/name> "HILDEBRAN HERITAGE & DEVELOPMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> .
+<http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> <http://schema.org/id> "8403700187" .
+<http://lodlaundromat.org/.well-known/genid/N3c74ab08167341a085ffc48dffde38f2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://schema.org/streetAddress> "PO BOX 1547" .
+<http://lodlaundromat.org/.well-known/genid/N14e90aace9df4dbe9aa61aac94db899d> <http://schema.org/latitude> "35.7151"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N50f98196e4304fc8b68611f910182d5b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3c74ab08167341a085ffc48dffde38f2> .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://schema.org/addressLocality> "HILDEBRAN" .
+<http://lodlaundromat.org/.well-known/genid/N812ea00792194729894bb774691eed9a> <http://schema.org/postalCode> "28637-1547" .
+<http://lodlaundromat.org/.well-known/genid/N14e90aace9df4dbe9aa61aac94db899d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb642368dcb9449e4900c34df8f84f685> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

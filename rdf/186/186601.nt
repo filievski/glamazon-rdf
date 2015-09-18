@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N8ed4cb43bf3147a6a72f93fbf0371eb0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> <http://schema.org/addressLocality> "Roma" .
+<http://lodlaundromat.org/.well-known/genid/Nf5ab784d54d047f6bd97680c988d7aeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2eafe590c712496082858d09c80280b9> .
+<http://lodlaundromat.org/.well-known/genid/N8ed4cb43bf3147a6a72f93fbf0371eb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> <http://schema.org/streetAddress> "Via Tor De' Conti, 31/A" .
+<http://lodlaundromat.org/.well-known/genid/N2eafe590c712496082858d09c80280b9> <http://schema.org/latitude> "41.8937"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2eafe590c712496082858d09c80280b9> <http://schema.org/longitude> "12.4879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8ed4cb43bf3147a6a72f93fbf0371eb0> .
+<http://lodlaundromat.org/.well-known/genid/Nf5ab784d54d047f6bd97680c988d7aeb> <http://schema.org/contentUrl> <http://images.museums.io/FSzGC0I3Llz9mLgtQgp2bk_LT2A=/1000x1000/museums/logos/000/186/601/original/2cffb531aa93764eaf49c8133f6c1e4b9f854fbc.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/telephone> "+39 06 6796146" .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> .
+<http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf5ab784d54d047f6bd97680c988d7aeb> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8937&mlon=12.4879#map=15/41.8937/12.4879> .
+<http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nfdc30b3d13f24ef3bdcf737851e450b7> <http://schema.org/addressRegion> "Lazio" .
+<http://lodlaundromat.org/.well-known/genid/N8ed4cb43bf3147a6a72f93fbf0371eb0> <http://schema.org/value> "186601"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/url> <http://www.presepio.it/> .
+<http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> <http://schema.org/id> "101580" .
+<http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/name> "Museo tipologico internazionale del presepio \"Angelo Stefanucci\""@it .
+<http://lodlaundromat.org/.well-known/genid/N2eafe590c712496082858d09c80280b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N157cb3bd93ed4e758c5a9d5c8c3ffb0e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4e6fe1102f96422094fa2448ca3a5be3> .
+

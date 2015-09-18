@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/telephone> "+1 (402) 727-0615" .
+<http://lodlaundromat.org/.well-known/genid/Nc874ad3fe77f4a71849a0ad53e7e077c> <http://schema.org/longitude> "-96.5077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc874ad3fe77f4a71849a0ad53e7e077c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc874ad3fe77f4a71849a0ad53e7e077c> .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://schema.org/streetAddress> "1835 N SOMERS AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nc874ad3fe77f4a71849a0ad53e7e077c> <http://schema.org/latitude> "41.4467"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ccf3ab73825445c95726f974c99d81a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ccf3ab73825445c95726f974c99d81a> <http://schema.org/value> "146898"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0ccf3ab73825445c95726f974c99d81a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/name> "NEBRASKA RAILROAD MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4467&mlon=-96.5077#map=15/41.4467/-96.5077> .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://schema.org/addressLocality> "FREMONT" .
+<http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> <http://schema.org/id> "8403100237" .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/url> <http://www.fremontrailroad.com/> .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N20c7894ef8064ac9a164c8549be5ed4f> <http://schema.org/postalCode> "68025-2958" .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0ccf3ab73825445c95726f974c99d81a> .
+<http://lodlaundromat.org/.well-known/genid/N2cbfccec51f04cfe868162f73c075ef8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> .
+<http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6e497e3d8fa545dda3d9a9a407665b31> <http://schema.org/@Type> "Dataset" .
+

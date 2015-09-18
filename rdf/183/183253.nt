@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/name> "MaximiliansForum"@en .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nae328cd91fc742e9a59452663d24e74f> .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N51548d2571064737b5fb4c3513dda086> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nae328cd91fc742e9a59452663d24e74f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nae328cd91fc742e9a59452663d24e74f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N51548d2571064737b5fb4c3513dda086> .
+<http://lodlaundromat.org/.well-known/genid/N51548d2571064737b5fb4c3513dda086> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://schema.org/postalCode> "80539" .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://schema.org/streetAddress> "Maximilianstr. / Ecke Altstadtring (Unterf\u00FChrung)" .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N64be7f28c0994fb99b3e4fc3f4b07e78> .
+<http://lodlaundromat.org/.well-known/genid/N64be7f28c0994fb99b3e4fc3f4b07e78> <http://schema.org/latitude> "48.1382"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> .
+<http://lodlaundromat.org/.well-known/genid/N51548d2571064737b5fb4c3513dda086> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51548d2571064737b5fb4c3513dda086> <http://schema.org/url> <http://www.museums.io/en/museums/183253> .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1382&mlon=11.584#map=15/48.1382/11.584> .
+<http://lodlaundromat.org/.well-known/genid/N64be7f28c0994fb99b3e4fc3f4b07e78> <http://schema.org/longitude> "11.584"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53721415a310418383f66693cb31994e> <http://schema.org/url> <http://www.maximiliansforum.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nae328cd91fc742e9a59452663d24e74f> <http://schema.org/value> "183253"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64be7f28c0994fb99b3e4fc3f4b07e78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7486b774d4df44e4ad0ba40c664f4b17> <http://schema.org/addressRegion> "Oberbayern" .
+

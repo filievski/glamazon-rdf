@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndb70123cced340f2b3d0538726a6e655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4779&mlon=-79.3322#map=15/42.4779/-79.3322> .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://schema.org/addressLocality> "DUNKIRK" .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://schema.org/postalCode> "14048-0069" .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://schema.org/streetAddress> "PO BOX 69" .
+<http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9d2189111c0b41a184f73aea4f06c688> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> <http://schema.org/id> "8403601405" .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9d2189111c0b41a184f73aea4f06c688> .
+<http://lodlaundromat.org/.well-known/genid/Ndb70123cced340f2b3d0538726a6e655> <http://schema.org/latitude> "42.4779"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndb70123cced340f2b3d0538726a6e655> .
+<http://lodlaundromat.org/.well-known/genid/Ndb70123cced340f2b3d0538726a6e655> <http://schema.org/longitude> "-79.3322"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/name> "DUNKIRK HISTORICAL LIGHTHOUSE AND VETERANS PARK MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> .
+<http://lodlaundromat.org/.well-known/genid/Nbd6482dac4a7451c8c969ed218ae1bcf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> .
+<http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9d2189111c0b41a184f73aea4f06c688> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9ced801df4df45c08f850f00cf251bdf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf85735427b9b4906a1baf04ebbb6fc7f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9d2189111c0b41a184f73aea4f06c688> <http://schema.org/value> "150111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

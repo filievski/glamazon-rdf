@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b58fdefd4934f3a8ad8f376758ede90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc256cdd47afb4d6fb6bf9491ed9cec84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b58fdefd4934f3a8ad8f376758ede90> <http://schema.org/addressLocality> "Neoneli" .
+<http://lodlaundromat.org/.well-known/genid/N7b58fdefd4934f3a8ad8f376758ede90> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Ne86f67fdc638413db20eb3c8db43a81e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0613&mlon=8.94412#map=15/40.0613/8.94412> .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne86f67fdc638413db20eb3c8db43a81e> .
+<http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> <http://schema.org/id> "111710" .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> .
+<http://lodlaundromat.org/.well-known/genid/N7b58fdefd4934f3a8ad8f376758ede90> <http://schema.org/addressRegion> "Sardegna" .
+<http://lodlaundromat.org/.well-known/genid/Nc256cdd47afb4d6fb6bf9491ed9cec84> <http://schema.org/longitude> "8.94412"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/url> <http://www.sardegnacultura.it/> .
+<http://lodlaundromat.org/.well-known/genid/Ne86f67fdc638413db20eb3c8db43a81e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne86f67fdc638413db20eb3c8db43a81e> <http://schema.org/value> "188341"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b58fdefd4934f3a8ad8f376758ede90> .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/telephone> "+39 0783 34341" .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc256cdd47afb4d6fb6bf9491ed9cec84> .
+<http://lodlaundromat.org/.well-known/genid/Nc256cdd47afb4d6fb6bf9491ed9cec84> <http://schema.org/latitude> "40.0613"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N257d177f50a84cfcb42986636ea6d458> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N3ecd86abba094870a25c9739ebd8e973> <http://schema.org/name> "Museo faunistico dell\u2019oasi di Assai"@it .
+

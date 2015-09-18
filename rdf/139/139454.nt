@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4331e974c2ea4dc796ff322ae9dc4039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4331e974c2ea4dc796ff322ae9dc4039> .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> <http://schema.org/id> "8401900491" .
+<http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://schema.org/postalCode> "51573" .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> .
+<http://lodlaundromat.org/.well-known/genid/N9877cea74cc940a598cb8b3d173a60b5> <http://schema.org/longitude> "-95.1022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://schema.org/streetAddress> "410 HILLTOP AVE" .
+<http://lodlaundromat.org/.well-known/genid/N4331e974c2ea4dc796ff322ae9dc4039> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9877cea74cc940a598cb8b3d173a60b5> .
+<http://lodlaundromat.org/.well-known/genid/N9877cea74cc940a598cb8b3d173a60b5> <http://schema.org/latitude> "40.9818"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4331e974c2ea4dc796ff322ae9dc4039> <http://schema.org/value> "139454"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41510a6329b94214b8a044d4cd1bc22b> <http://schema.org/addressLocality> "STANTON" .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9818&mlon=-95.1022#map=15/40.9818/-95.1022> .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/telephone> "+1 (712) 829-2840" .
+<http://lodlaundromat.org/.well-known/genid/N9877cea74cc940a598cb8b3d173a60b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc64e676fa29e4e5ca85e29015145653b> .
+<http://lodlaundromat.org/.well-known/genid/N198808c446674b8fb98cd3457e1ca5b8> <http://schema.org/name> "STANTON HISTORICAL SOCIETY"@en .
+

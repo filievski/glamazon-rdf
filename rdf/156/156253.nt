@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5fb246d97365492f8bd3bf13f424b822> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5fb246d97365492f8bd3bf13f424b822> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> <http://schema.org/id> "8404201447" .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://schema.org/addressLocality> "ERIE" .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1066&mlon=-80.0699#map=15/42.1066/-80.0699> .
+<http://lodlaundromat.org/.well-known/genid/N41b81d32365d46f490ead63dbf6e4337> <http://schema.org/latitude> "42.1066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41b81d32365d46f490ead63dbf6e4337> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/name> "JEFFERSON EDUCATIONAL SOCIETY OF ERIE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://schema.org/streetAddress> "3207 STATE ST" .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5fb246d97365492f8bd3bf13f424b822> .
+<http://lodlaundromat.org/.well-known/genid/N41b81d32365d46f490ead63dbf6e4337> <http://schema.org/longitude> "-80.0699"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N41b81d32365d46f490ead63dbf6e4337> .
+<http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne1090d47dd5c4967b3c3b1697074b41f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfb7030815e8e4c47b966b09f4e8ac784> .
+<http://lodlaundromat.org/.well-known/genid/N7db5bfa8e90b4008b3bd57d11aa44b01> <http://schema.org/postalCode> "16508-2821" .
+<http://lodlaundromat.org/.well-known/genid/N5fb246d97365492f8bd3bf13f424b822> <http://schema.org/value> "156253"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

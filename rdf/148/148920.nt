@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/url> <https://www.gcv.org/the-gallery> .
+<http://lodlaundromat.org/.well-known/genid/N065155b0570e4ecf832f37701e5bdeb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> <http://schema.org/addressLocality> "ROCHESTER" .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd83333a6f0f44fac90697dba2e76e64e> .
+<http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> .
+<http://lodlaundromat.org/.well-known/genid/Nd83333a6f0f44fac90697dba2e76e64e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd83333a6f0f44fac90697dba2e76e64e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/telephone> "+1 (585) 538-6822" .
+<http://lodlaundromat.org/.well-known/genid/N065155b0570e4ecf832f37701e5bdeb1> <http://schema.org/longitude> "-77.8621"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/name> "JOHN L. WEHLE GALLERY OF SPORTING ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> <http://schema.org/postalCode> "14511" .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> .
+<http://lodlaundromat.org/.well-known/genid/N0c206d57e4e04daeb66d9d565ec77f9c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N065155b0570e4ecf832f37701e5bdeb1> .
+<http://lodlaundromat.org/.well-known/genid/Nd83333a6f0f44fac90697dba2e76e64e> <http://schema.org/value> "148920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> <http://schema.org/id> "8403600214" .
+<http://lodlaundromat.org/.well-known/genid/N9e68c505f85d4bdda9fedafcf35181c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9941&mlon=-77.8621#map=15/42.9941/-77.8621> .
+<http://lodlaundromat.org/.well-known/genid/N065155b0570e4ecf832f37701e5bdeb1> <http://schema.org/latitude> "42.9941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54bf18e0fad7478b8a75cf13091f2386> <http://schema.org/@Type> "Dataset" .
+

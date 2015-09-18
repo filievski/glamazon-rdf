@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> <http://schema.org/id> "8402700530" .
+<http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://schema.org/postalCode> "56081-1728" .
+<http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7cca883795de4169b0e47d6971eab476> .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4464049147414353b80edc55e4483b18> .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.9816&mlon=-94.6294#map=15/43.9816/-94.6294> .
+<http://lodlaundromat.org/.well-known/genid/N7cca883795de4169b0e47d6971eab476> <http://schema.org/value> "145090"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N701df9315d814a9c93fd818417699664> <http://schema.org/latitude> "43.9816"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/name> "ST JAMES OPERA HOUSE RESTORATION PROJECT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://schema.org/streetAddress> "502 1ST AVE S" .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://schema.org/addressLocality> "SAINT JAMES" .
+<http://lodlaundromat.org/.well-known/genid/N701df9315d814a9c93fd818417699664> <http://schema.org/longitude> "-94.6294"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcc8d44cffda403094277fde9f10168a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7cca883795de4169b0e47d6971eab476> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd8acd81c9b054bb9beb3e63186159592> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N701df9315d814a9c93fd818417699664> .
+<http://lodlaundromat.org/.well-known/genid/N701df9315d814a9c93fd818417699664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7cca883795de4169b0e47d6971eab476> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

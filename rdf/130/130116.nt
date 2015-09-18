@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N83190e56c410401596005e306ace1416> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://schema.org/streetAddress> "1209 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9823e5c6318e43c596ea2b22f9865b2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N83190e56c410401596005e306ace1416> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9823e5c6318e43c596ea2b22f9865b2b> <http://schema.org/longitude> "-121.023"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://schema.org/postalCode> "95360" .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/telephone> "+1 (209) 862-0239" .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9823e5c6318e43c596ea2b22f9865b2b> .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/name> "NEWMAN CITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.317&mlon=-121.023#map=15/37.317/-121.023> .
+<http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd19a995d11034b2181455c296a5652fb> <http://schema.org/id> "8400600242" .
+<http://lodlaundromat.org/.well-known/genid/N83190e56c410401596005e306ace1416> <http://schema.org/value> "130116"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9823e5c6318e43c596ea2b22f9865b2b> <http://schema.org/latitude> "37.317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf595b335603e46ba9341c9d3f30fb432> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N83190e56c410401596005e306ace1416> .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N3ab52cb85ff443ad8bfbb1ab481dfa2c> <http://schema.org/addressLocality> "NEWMAN" .
+

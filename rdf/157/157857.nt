@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N140efd9038eb4a62b87a145ba4b966fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7c2c4e753c124191a33415c3e2d96a66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> .
+<http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> <http://schema.org/id> "8404700528" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7c2c4e753c124191a33415c3e2d96a66> .
+<http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.0882&mlon=-85.0645#map=15/35.0882/-85.0645> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://schema.org/addressLocality> "COLLEGEDALE" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/name> "VETERANS MEMORIAL PARK OF COLLEGEDALE"@en .
+<http://lodlaundromat.org/.well-known/genid/N7c2c4e753c124191a33415c3e2d96a66> <http://schema.org/latitude> "35.0882"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/url> <http://www.vmpofcollegedale.org/> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://schema.org/streetAddress> "PO BOX 2211" .
+<http://lodlaundromat.org/.well-known/genid/N140efd9038eb4a62b87a145ba4b966fe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N140efd9038eb4a62b87a145ba4b966fe> .
+<http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> <http://schema.org/postalCode> "37315-2211" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N371ba85e045c4ed29bf526b62852022a> .
+<http://lodlaundromat.org/.well-known/genid/N0e97cc91c58e4aaeaff6b04511fe7ecd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne9d4b5931a6147e4aad6bf9801808c33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N140efd9038eb4a62b87a145ba4b966fe> <http://schema.org/value> "157857"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c2c4e753c124191a33415c3e2d96a66> <http://schema.org/longitude> "-85.0645"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.081&mlon=-76.7014#map=15/39.081/-76.7014> .
+<http://lodlaundromat.org/.well-known/genid/N5d2fe23b6a99414780909b09bc589561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d2fe23b6a99414780909b09bc589561> .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://schema.org/postalCode> "21113-1541" .
+<http://lodlaundromat.org/.well-known/genid/N0cdecc413b894feab2e52a6ecc4d2dd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0cdecc413b894feab2e52a6ecc4d2dd3> .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/name> "HISTORIC SAVAGE MILL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5d2fe23b6a99414780909b09bc589561> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://schema.org/addressLocality> "ODENTON" .
+<http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> <http://schema.org/id> "8402400407" .
+<http://lodlaundromat.org/.well-known/genid/N0cdecc413b894feab2e52a6ecc4d2dd3> <http://schema.org/latitude> "39.081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf0993931808b434fbf10d3e18a976437> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> .
+<http://lodlaundromat.org/.well-known/genid/N29ed89ff9d6045189dd02e8c9917723a> <http://schema.org/streetAddress> "8373 PINEY ORCHARD PARKWAY" .
+<http://lodlaundromat.org/.well-known/genid/N5d2fe23b6a99414780909b09bc589561> <http://schema.org/value> "142114"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0cdecc413b894feab2e52a6ecc4d2dd3> <http://schema.org/longitude> "-76.7014"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4827722442de44688d2ea000e45816ac> <http://schema.org/@Type> "Dataset" .
+

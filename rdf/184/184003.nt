@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N16b6cbe1959a4250a7df3da4fa0c5bc4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N16b6cbe1959a4250a7df3da4fa0c5bc4> <http://schema.org/url> <http://www.museums.io/en/museums/184003> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/url> <http://www.urwelt-Museum.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N16b6cbe1959a4250a7df3da4fa0c5bc4> .
+<http://lodlaundromat.org/.well-known/genid/N16b6cbe1959a4250a7df3da4fa0c5bc4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7f0ff71aeab84f33abacf2ee383c338f> .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://schema.org/streetAddress> "Kanzleistra\u00DFe 1" .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://schema.org/postalCode> "95444" .
+<http://lodlaundromat.org/.well-known/genid/N7f0ff71aeab84f33abacf2ee383c338f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne8e0cf45869c4c23b43cc542f8907ffa> <http://schema.org/longitude> "11.5766"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> .
+<http://lodlaundromat.org/.well-known/genid/Ne8e0cf45869c4c23b43cc542f8907ffa> <http://schema.org/latitude> "49.9436"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16b6cbe1959a4250a7df3da4fa0c5bc4> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N7f0ff71aeab84f33abacf2ee383c338f> <http://schema.org/value> "184003"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/name> "Urwelt-Museum Oberfranken"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne8e0cf45869c4c23b43cc542f8907ffa> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/telephone> "0921/5112-11" .
+<http://lodlaundromat.org/.well-known/genid/Ne8e0cf45869c4c23b43cc542f8907ffa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc69063f17f7b42fb9fb7195cd7b1c7f9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.9436&mlon=11.5766#map=15/49.9436/11.5766> .
+<http://lodlaundromat.org/.well-known/genid/N7f0ff71aeab84f33abacf2ee383c338f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N45fc18b4fb3b47fd963001b0c282421b> <http://schema.org/addressLocality> "Bayreuth" .
+

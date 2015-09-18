@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf1793ce50da447fc8598807d25e97200> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N475a223b4a664d61aa667c230ff0035e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://schema.org/addressLocality> "CROTON HDSN" .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N475a223b4a664d61aa667c230ff0035e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/name> "CROTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf1793ce50da447fc8598807d25e97200> .
+<http://lodlaundromat.org/.well-known/genid/Nf1793ce50da447fc8598807d25e97200> <http://schema.org/latitude> "41.2081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N475a223b4a664d61aa667c230ff0035e> <http://schema.org/value> "149547"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2081&mlon=-73.8875#map=15/41.2081/-73.8875> .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N475a223b4a664d61aa667c230ff0035e> .
+<http://lodlaundromat.org/.well-known/genid/N9e20d1e5e623452299ca89d34f0b9245> <http://schema.org/id> "8403600841" .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://schema.org/streetAddress> "1 VAN WYCK ST" .
+<http://lodlaundromat.org/.well-known/genid/N6ce401cbe84d4fc7b93657d1e7eee2cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf1793ce50da447fc8598807d25e97200> <http://schema.org/longitude> "-73.8875"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51688acd12f44a03b52bb03192adae34> <http://schema.org/postalCode> "10520-2525" .
+

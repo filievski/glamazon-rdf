@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2a0767de7063434db67f8de0407ed666> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd67693790918438a8290bad67d0e2ce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://schema.org/postalCode> "61418-9502" .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd67693790918438a8290bad67d0e2ce9> .
+<http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> <http://schema.org/id> "8401700342" .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://schema.org/addressLocality> "BIGGSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://schema.org/streetAddress> "RR 1 BOX 310" .
+<http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> .
+<http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/name> "HORSE & BUGGY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a0767de7063434db67f8de0407ed666> <http://schema.org/value> "137197"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.853&mlon=-90.8643#map=15/40.853/-90.8643> .
+<http://lodlaundromat.org/.well-known/genid/N4d38a7f927c84218aab06d5a6d0beb16> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N611b824f00844bdfa87eb2a5701f1dfa> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nd67693790918438a8290bad67d0e2ce9> <http://schema.org/latitude> "40.853"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd67693790918438a8290bad67d0e2ce9> <http://schema.org/longitude> "-90.8643"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1d755bc74ca144dc88e60ba9ff77b518> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2a0767de7063434db67f8de0407ed666> .
+<http://lodlaundromat.org/.well-known/genid/N2a0767de7063434db67f8de0407ed666> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

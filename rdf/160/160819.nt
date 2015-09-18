@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc7529b7aebfa4a6a8daf55c0e4e18854> <http://schema.org/latitude> "38.3751"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> <http://schema.org/id> "8405100325" .
+<http://lodlaundromat.org/.well-known/genid/N5307c775072e415f88b9d8ec7a9e44da> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://schema.org/streetAddress> "700 S MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://schema.org/postalCode> "22727" .
+<http://lodlaundromat.org/.well-known/genid/Nc7529b7aebfa4a6a8daf55c0e4e18854> <http://schema.org/longitude> "-78.2624"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> .
+<http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc7529b7aebfa4a6a8daf55c0e4e18854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7529b7aebfa4a6a8daf55c0e4e18854> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/name> "MADISON COUNTY AFRICAN AMERICAN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5307c775072e415f88b9d8ec7a9e44da> <http://schema.org/value> "160819"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.3751&mlon=-78.2624#map=15/38.3751/-78.2624> .
+<http://lodlaundromat.org/.well-known/genid/N5307c775072e415f88b9d8ec7a9e44da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0e8ed2193de149788937b4b35c6c99d4> .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9da71cc03e8f47b081fa2edcbda34c0b> <http://schema.org/addressLocality> "MADISON" .
+<http://lodlaundromat.org/.well-known/genid/Na7c96cdbf3ed4a969d8d18d2bf7e992f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5307c775072e415f88b9d8ec7a9e44da> .
+

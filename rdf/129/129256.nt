@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.474&mlon=-112.075#map=15/33.474/-112.075> .
+<http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://schema.org/streetAddress> "17 W VERNON AVE UNIT 306" .
+<http://lodlaundromat.org/.well-known/genid/Nd5c53b93eda94f889a2e66826b224f39> <http://schema.org/latitude> "33.474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://schema.org/addressLocality> "PHOENIX" .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd5c53b93eda94f889a2e66826b224f39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd5c53b93eda94f889a2e66826b224f39> <http://schema.org/longitude> "-112.075"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> <http://schema.org/id> "8400400158" .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd5c53b93eda94f889a2e66826b224f39> .
+<http://lodlaundromat.org/.well-known/genid/N36bd01789f4c43a689efcff03dc46410> <http://schema.org/value> "129256"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3199fcb29aa14cc3b18b269efb0b8783> <http://schema.org/postalCode> "85003" .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/name> "MIDTOWN MUSEUM DISTRICT NEIGHBORHOOD ASSN"@en .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> .
+<http://lodlaundromat.org/.well-known/genid/N87f19b43df3844ac9737642a510689b3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N990a1fe3356f45bea9751e152e977cb4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N36bd01789f4c43a689efcff03dc46410> .
+<http://lodlaundromat.org/.well-known/genid/N36bd01789f4c43a689efcff03dc46410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N36bd01789f4c43a689efcff03dc46410> <http://schema.org/name> "id" .
+

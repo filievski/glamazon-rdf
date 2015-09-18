@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8d76ac08b3874dd88323cc1db1408b26> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> <http://schema.org/id> "8404000281" .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N42a6fbaa919f424681c8e409a2378da4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://schema.org/streetAddress> "603 W JACKSON" .
+<http://lodlaundromat.org/.well-known/genid/N8d76ac08b3874dd88323cc1db1408b26> <http://schema.org/value> "153927"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N42a6fbaa919f424681c8e409a2378da4> <http://schema.org/latitude> "30.8464"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.8464&mlon=-93.2862#map=15/30.8464/-93.2862> .
+<http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://schema.org/addressLocality> "HUGO" .
+<http://lodlaundromat.org/.well-known/genid/N42a6fbaa919f424681c8e409a2378da4> <http://schema.org/longitude> "-93.2862"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8d76ac08b3874dd88323cc1db1408b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8d76ac08b3874dd88323cc1db1408b26> .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5cf6485d7d764857b27c59e16a1e05d7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N42a6fbaa919f424681c8e409a2378da4> .
+<http://lodlaundromat.org/.well-known/genid/Nf9832fcb17ed4f3a827801797cd8c5ba> <http://schema.org/postalCode> "74743-3041" .
+<http://lodlaundromat.org/.well-known/genid/N4a6752483c884cd68b954f4f573cad43> <http://schema.org/name> "SOUTH BEAUREGARD MUSEUM INC"@en .
+

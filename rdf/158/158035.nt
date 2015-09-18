@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://schema.org/streetAddress> "502 N LIBERTY ST" .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd4940a31906e4f019a4408b5b12d44ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=28.8025&mlon=-97.0036#map=15/28.8025/-97.0036> .
+<http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd4940a31906e4f019a4408b5b12d44ac> <http://schema.org/value> "158035"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> .
+<http://lodlaundromat.org/.well-known/genid/N29d2522bd9d641a7bda1d37ff6dc3cbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd4940a31906e4f019a4408b5b12d44ac> .
+<http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://schema.org/postalCode> "77901" .
+<http://lodlaundromat.org/.well-known/genid/Nd4940a31906e4f019a4408b5b12d44ac> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N29d2522bd9d641a7bda1d37ff6dc3cbd> <http://schema.org/latitude> "28.8025"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/name> "MCNAMARA HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf1ec3a9972264c82b13fdff4400f0bab> <http://schema.org/addressLocality> "VICTORIA" .
+<http://lodlaundromat.org/.well-known/genid/N6aac74ce38c6484dad2bfad75fe23871> <http://schema.org/id> "8404800135" .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/url> <http://www.victoriaregionalmuseum.com/contact%252information.htm> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29d2522bd9d641a7bda1d37ff6dc3cbd> .
+<http://lodlaundromat.org/.well-known/genid/N29d2522bd9d641a7bda1d37ff6dc3cbd> <http://schema.org/longitude> "-97.0036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N929cb41e401349ec9d6b08b6bd8d1ba4> <http://schema.org/telephone> "+1 (361) 575-8227" .
+

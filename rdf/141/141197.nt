@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4213512ebcee4260a32f6a2e36e2a98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://schema.org/streetAddress> "58 FORE ST" .
+<http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/name> "MAINE NARROW GAUGE RAILROAD"@en .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> .
+<http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> <http://schema.org/id> "8402300046" .
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N247618d159904562abca8ba287648822> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4213512ebcee4260a32f6a2e36e2a98f> .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/telephone> "+1 (207) 828-0814" .
+<http://lodlaundromat.org/.well-known/genid/N4213512ebcee4260a32f6a2e36e2a98f> <http://schema.org/latitude> "43.6636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93e304f96d914897a18ec9d9174a185d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N93e304f96d914897a18ec9d9174a185d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> .
+<http://lodlaundromat.org/.well-known/genid/N93e304f96d914897a18ec9d9174a185d> <http://schema.org/value> "141197"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://schema.org/addressLocality> "PORTLAND" .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6636&mlon=-70.2438#map=15/43.6636/-70.2438> .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/url> <http://www.mainenarrowgauge.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf12eeaeaeed743438d2537b31fe85727> <http://schema.org/postalCode> "04101" .
+<http://lodlaundromat.org/.well-known/genid/N798858ab81dc49d2a0eefe505b9212db> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N93e304f96d914897a18ec9d9174a185d> .
+<http://lodlaundromat.org/.well-known/genid/N4213512ebcee4260a32f6a2e36e2a98f> <http://schema.org/longitude> "-70.2438"^^<http://www.w3.org/2001/XMLSchema#double> .
+

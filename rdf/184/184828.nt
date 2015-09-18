@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> <http://schema.org/streetAddress> "Castle of Good Hope, Darling Street, Cape Town" .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://schema.org/name> "Iziko at Castle of Good Hope"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd697ca8b6b5743d6bd84c420ce016a3e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd697ca8b6b5743d6bd84c420ce016a3e> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> <http://schema.org/addressLocality> "Cape Town" .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncd34521effad4501a8a9be256a38dc3e> .
+<http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> <http://schema.org/addressRegion> "Western Cape" .
+<http://lodlaundromat.org/.well-known/genid/Ncd34521effad4501a8a9be256a38dc3e> <http://schema.org/value> "184828"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncd34521effad4501a8a9be256a38dc3e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd697ca8b6b5743d6bd84c420ce016a3e> .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> .
+<http://lodlaundromat.org/.well-known/genid/N4c3b7def651b44e9bb8e0b2450bbf9df> <http://schema.org/telephone> "021 464 1272" .
+<http://lodlaundromat.org/.well-known/genid/Nd697ca8b6b5743d6bd84c420ce016a3e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3c457d27c1f940479a1831b282ce1e7d> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Nd697ca8b6b5743d6bd84c420ce016a3e> <http://schema.org/url> <http://www.museums.io/en/museums/184828> .
+<http://lodlaundromat.org/.well-known/genid/Ncd34521effad4501a8a9be256a38dc3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

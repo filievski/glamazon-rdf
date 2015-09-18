@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> <http://schema.org/id> "8400500252" .
+<http://lodlaundromat.org/.well-known/genid/Nb17aaacf1b5044479c57014ddc6dba9f> <http://schema.org/latitude> "33.134"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbe84eaf3b003461e9a488ce2383d7427> <http://schema.org/value> "129816"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb17aaacf1b5044479c57014ddc6dba9f> .
+<http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> .
+<http://lodlaundromat.org/.well-known/genid/Nb17aaacf1b5044479c57014ddc6dba9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.134&mlon=-91.948#map=15/33.134/-91.948> .
+<http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb17aaacf1b5044479c57014ddc6dba9f> <http://schema.org/longitude> "-91.948"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://schema.org/postalCode> "71635" .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbe84eaf3b003461e9a488ce2383d7427> .
+<http://lodlaundromat.org/.well-known/genid/Nbe84eaf3b003461e9a488ce2383d7427> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://schema.org/addressLocality> "CROSSETT" .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb13bc049e7724f5c80083d4556878e34> .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N671bacdbe64946a0a5ee02ea5d9f936d> <http://schema.org/name> "CROSSETT CULTURAL AND HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbe84eaf3b003461e9a488ce2383d7427> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N749c09ab8a5549bdb09a32ac4295750f> <http://schema.org/streetAddress> "601 EAST THIRD AVENUE" .
+

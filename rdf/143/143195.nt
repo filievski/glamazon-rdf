@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://schema.org/streetAddress> "BOX 211" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/url> <http://boltonhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/Na93eb7f917764a7eb378463db20ce33e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> .
+<http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.432&mlon=-71.6023#map=15/42.432/-71.6023> .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na93eb7f917764a7eb378463db20ce33e> .
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/telephone> "+1 (508) 779-6495" .
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://schema.org/addressLocality> "BOLTON" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/name> "BOLTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na93eb7f917764a7eb378463db20ce33e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8f716310d61542729190e77f6578e7af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na93eb7f917764a7eb378463db20ce33e> <http://schema.org/value> "143195"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na3fa0580c0004e4e98add323996eb70d> <http://schema.org/postalCode> "01740" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> .
+<http://lodlaundromat.org/.well-known/genid/N8f716310d61542729190e77f6578e7af> <http://schema.org/longitude> "-71.6023"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> <http://schema.org/id> "8402500825" .
+<http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8f716310d61542729190e77f6578e7af> <http://schema.org/latitude> "42.432"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98ea656961e5496da0468c1554595027> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89f84f1227984ef0b3cc9de77f790fbb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8f716310d61542729190e77f6578e7af> .
+

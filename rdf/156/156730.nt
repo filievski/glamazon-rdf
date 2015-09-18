@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> .
+<http://lodlaundromat.org/.well-known/genid/N33be73bb32f24abd863f4abe14f2053b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://schema.org/addressLocality> "COLUMBIA" .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.01&mlon=-81.0298#map=15/34.01/-81.0298> .
+<http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> <http://schema.org/id> "8404500025" .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N65a99cd74e46403585712f69e9003832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://schema.org/streetAddress> "1616 BLANDING STREET" .
+<http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33be73bb32f24abd863f4abe14f2053b> <http://schema.org/longitude> "-81.0298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N33be73bb32f24abd863f4abe14f2053b> .
+<http://lodlaundromat.org/.well-known/genid/N3f78637a78cb4ad5904c91a6a85e0079> <http://schema.org/postalCode> "29201-3440" .
+<http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N33be73bb32f24abd863f4abe14f2053b> <http://schema.org/latitude> "34.01"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N65a99cd74e46403585712f69e9003832> .
+<http://lodlaundromat.org/.well-known/genid/Ndf6a3b80c96848118d3c8c9824c496f3> <http://schema.org/name> "RICHLAND COUNTY HISTORIC PRESERVATION COMMISSION"@en .
+<http://lodlaundromat.org/.well-known/genid/N790ca5896a33425f88a340c685ff12de> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N65a99cd74e46403585712f69e9003832> <http://schema.org/value> "156730"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N65a99cd74e46403585712f69e9003832> <http://schema.org/name> "id" .
+

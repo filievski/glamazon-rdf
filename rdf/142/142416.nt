@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N23ad05a4a9a240ada41388fe8805f154> <http://schema.org/latitude> "42.0562"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88e368f7365742f2b9b53e905c36bd48> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N88e368f7365742f2b9b53e905c36bd48> <http://schema.org/value> "142416"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/url> <https://www.paam.org/> .
+<http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23ad05a4a9a240ada41388fe8805f154> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N23ad05a4a9a240ada41388fe8805f154> <http://schema.org/longitude> "-70.1792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/name> "PROVINCETOWN MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> <http://schema.org/addressLocality> "PROVINCETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/telephone> "+1 (508) 487-1750" .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23ad05a4a9a240ada41388fe8805f154> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> <http://schema.org/id> "8402500046" .
+<http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N88e368f7365742f2b9b53e905c36bd48> .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0562&mlon=-70.1792#map=15/42.0562/-70.1792> .
+<http://lodlaundromat.org/.well-known/genid/N88e368f7365742f2b9b53e905c36bd48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N74fdea0e905b4d0caa684b5dd412d06a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N79404f589604445f903d28324b8309ad> .
+<http://lodlaundromat.org/.well-known/genid/N23ba9160c09c4c84ad5e8395a47d276e> <http://schema.org/postalCode> "02657" .
+

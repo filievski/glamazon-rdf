@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3757d00e842e42caacb8e0e803c40216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3757d00e842e42caacb8e0e803c40216> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> .
+<http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N47482a2ba0a743c4be7cbe1cfa99a99b> .
+<http://lodlaundromat.org/.well-known/genid/N3757d00e842e42caacb8e0e803c40216> <http://schema.org/value> "152508"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47482a2ba0a743c4be7cbe1cfa99a99b> <http://schema.org/latitude> "41.3957"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> <http://schema.org/id> "8403900285" .
+<http://lodlaundromat.org/.well-known/genid/N47482a2ba0a743c4be7cbe1cfa99a99b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/name> "BALKAN HERITAGE PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N47482a2ba0a743c4be7cbe1cfa99a99b> <http://schema.org/longitude> "-81.6559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://schema.org/streetAddress> "2 SUMMIT PARK DRIVE SUITE 150" .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3757d00e842e42caacb8e0e803c40216> .
+<http://lodlaundromat.org/.well-known/genid/N137e11c324bd43c69d671e505a4f8146> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://schema.org/addressLocality> "CLEVELAND" .
+<http://lodlaundromat.org/.well-known/genid/N9bdee7e81f564e4d85fbb51bb9eb4923> <http://schema.org/postalCode> "44131-2573" .
+<http://lodlaundromat.org/.well-known/genid/Nf6957f7a9cc846b18c7c64c30f8a5649> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3957&mlon=-81.6559#map=15/41.3957/-81.6559> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> <http://schema.org/id> "8405500404" .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0503365d8c8344b1ad416174b988b565> .
+<http://lodlaundromat.org/.well-known/genid/Ncbb17bfd22784d5db240f8dc15202d1e> <http://schema.org/longitude> "-88.9779"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0503365d8c8344b1ad416174b988b565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1902&mlon=-88.9779#map=15/43.1902/-88.9779> .
+<http://lodlaundromat.org/.well-known/genid/Ncbb17bfd22784d5db240f8dc15202d1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://schema.org/streetAddress> "PO BOX 52" .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/name> "WATERLOO AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0503365d8c8344b1ad416174b988b565> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> .
+<http://lodlaundromat.org/.well-known/genid/N56563c3475ec46ac9d3de20553e55d2c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://schema.org/addressLocality> "WATERLOO" .
+<http://lodlaundromat.org/.well-known/genid/Ncbb17bfd22784d5db240f8dc15202d1e> <http://schema.org/latitude> "43.1902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0503365d8c8344b1ad416174b988b565> <http://schema.org/value> "162955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N38080d2602f94957bb30b5c7a1e7a27f> <http://schema.org/postalCode> "53594" .
+<http://lodlaundromat.org/.well-known/genid/N7a954334470a45b194c26d0fb71d6d39> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncbb17bfd22784d5db240f8dc15202d1e> .
+

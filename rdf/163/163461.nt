@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N86ec36c4428841a5b71f682030ad93d5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> .
+<http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> <http://schema.org/id> "8405600041" .
+<http://lodlaundromat.org/.well-known/genid/N20e8b41dc0e5431d8b8309a4277a1dde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N20e8b41dc0e5431d8b8309a4277a1dde> <http://schema.org/latitude> "44.4889"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/N20e8b41dc0e5431d8b8309a4277a1dde> <http://schema.org/longitude> "-108.051"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N20e8b41dc0e5431d8b8309a4277a1dde> .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/name> "GREYBULL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://schema.org/streetAddress> "325 GREYBULL AVE" .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://schema.org/postalCode> "82426" .
+<http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.4889&mlon=-108.051#map=15/44.4889/-108.051> .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N86ec36c4428841a5b71f682030ad93d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/telephone> "+1 (307) 765-2444" .
+<http://lodlaundromat.org/.well-known/genid/N613c7b55dae348358d14b71d21d11cbe> <http://schema.org/addressLocality> "GREYBULL" .
+<http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N86ec36c4428841a5b71f682030ad93d5> <http://schema.org/value> "163461"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47fa4a1f90a242ef841865b2cc2674ce> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N86ec36c4428841a5b71f682030ad93d5> .
+<http://lodlaundromat.org/.well-known/genid/N3af80ed2d0734799b1a9566d4de4cf1e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

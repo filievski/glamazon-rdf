@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N83681f2b4ef345c1822f4550f36d8a8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> <http://schema.org/id> "8403300113" .
+<http://lodlaundromat.org/.well-known/genid/Naa359d217c3f4210af8a0f6a2b258a79> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N83681f2b4ef345c1822f4550f36d8a8d> .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/name> "CHESTER HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N83681f2b4ef345c1822f4550f36d8a8d> <http://schema.org/longitude> "-71.2571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://schema.org/postalCode> "03036" .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9575&mlon=-71.2571#map=15/42.9575/-71.2571> .
+<http://lodlaundromat.org/.well-known/genid/Naa359d217c3f4210af8a0f6a2b258a79> <http://schema.org/value> "147338"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> .
+<http://lodlaundromat.org/.well-known/genid/Naa359d217c3f4210af8a0f6a2b258a79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://schema.org/addressLocality> "CHESTER" .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/Nc2e2e713c96e484e94d3762a49491c97> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf57ca8ac0f514e188107a0147ea17f90> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naa359d217c3f4210af8a0f6a2b258a79> .
+<http://lodlaundromat.org/.well-known/genid/N83681f2b4ef345c1822f4550f36d8a8d> <http://schema.org/latitude> "42.9575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N072a76d2171947f0822d491649a8a5ad> <http://schema.org/streetAddress> "PO BOX 34" .
+

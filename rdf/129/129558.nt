@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb88fffad6a19487199cf43a9b25c809b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6008eab6aba946ac91af193680bf241b> .
+<http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> .
+<http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> .
+<http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> <http://schema.org/id> "8400400460" .
+<http://lodlaundromat.org/.well-known/genid/Nb88fffad6a19487199cf43a9b25c809b> <http://schema.org/latitude> "33.5822"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.5822&mlon=-112.238#map=15/33.5822/-112.238> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb88fffad6a19487199cf43a9b25c809b> .
+<http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb88fffad6a19487199cf43a9b25c809b> <http://schema.org/longitude> "-112.238"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a6f43ece32a4dc09d73a86dca149ad7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0e71e55c42834d9481a564f923049331> <http://schema.org/name> "WEST VALLEY ART MUSEUM-SUN CITIES MUSEUM OF ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6008eab6aba946ac91af193680bf241b> <http://schema.org/value> "129558"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6008eab6aba946ac91af193680bf241b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://schema.org/addressLocality> "PEORIA" .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://schema.org/streetAddress> "PO BOX 6377" .
+<http://lodlaundromat.org/.well-known/genid/N6008eab6aba946ac91af193680bf241b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://schema.org/postalCode> "85385-6377" .
+<http://lodlaundromat.org/.well-known/genid/Nbebf4099bd934f3fa771c14d3f99bb79> <http://schema.org/addressCountry> "United States" .
+

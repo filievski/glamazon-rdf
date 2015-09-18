@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> .
+<http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://schema.org/streetAddress> "PO BOX 123" .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9131&mlon=-74.074#map=15/44.9131/-74.074> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ae3f484da74b3a95c92006f8919a29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N03e653b9c46e4240afe3f8638c32b8fc> <http://schema.org/value> "151057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N03e653b9c46e4240afe3f8638c32b8fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb5ae3f484da74b3a95c92006f8919a29> <http://schema.org/latitude> "44.9131"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/telephone> "+1 (518) 497-6295" .
+<http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> <http://schema.org/id> "8403602351" .
+<http://lodlaundromat.org/.well-known/genid/N03e653b9c46e4240afe3f8638c32b8fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://schema.org/postalCode> "12920-0123" .
+<http://lodlaundromat.org/.well-known/genid/Nb5ae3f484da74b3a95c92006f8919a29> <http://schema.org/longitude> "-74.074"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb5ae3f484da74b3a95c92006f8919a29> .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N03e653b9c46e4240afe3f8638c32b8fc> .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://schema.org/addressLocality> "CHATEAUGAY" .
+<http://lodlaundromat.org/.well-known/genid/N8739da72baa34d06a977d3ddb0953be1> <http://schema.org/name> "CHATEAUGAY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N049d9424f0554a8c8ae414ec1e98a2e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf840bcf5312c44699fb0b42c79604e9f> <http://schema.org/addressRegion> "NY" .
+

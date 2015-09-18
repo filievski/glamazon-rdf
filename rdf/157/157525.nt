@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3444408049154f7c93ffc14fdead9302> <http://schema.org/latitude> "36.4403"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://schema.org/postalCode> "37172-6085" .
+<http://lodlaundromat.org/.well-known/genid/N0aa16c9d99474a068373b1b98205d364> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> .
+<http://lodlaundromat.org/.well-known/genid/N0aa16c9d99474a068373b1b98205d364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3444408049154f7c93ffc14fdead9302> .
+<http://lodlaundromat.org/.well-known/genid/N3444408049154f7c93ffc14fdead9302> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://schema.org/streetAddress> "2525 BURGESS GOWER RD" .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/name> "COOPERTOWN COMMISSION FOR CULTURE HISTORY AND ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N02606ef68e47454b861e634b9c1876fd> <http://schema.org/addressLocality> "SPRINGFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N3444408049154f7c93ffc14fdead9302> <http://schema.org/longitude> "-86.9711"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0aa16c9d99474a068373b1b98205d364> .
+<http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0aa16c9d99474a068373b1b98205d364> <http://schema.org/value> "157525"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb99bf011ae3f4b9eb1e73cdec4c54ced> <http://schema.org/id> "8404700196" .
+<http://lodlaundromat.org/.well-known/genid/N015cfad2e6674fbf8b35ccf426bb8e25> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.4403&mlon=-86.9711#map=15/36.4403/-86.9711> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3918e3b79fbd4d73a3df4d93a71bfdb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3918e3b79fbd4d73a3df4d93a71bfdb4> <http://schema.org/longitude> "-84.8934"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3918e3b79fbd4d73a3df4d93a71bfdb4> .
+<http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4da60403e6b046b88ebbff301c75531b> .
+<http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> <http://schema.org/id> "8401300480" .
+<http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/name> "CHIPLEY HISTORICAL CENTER OF PINE MOUNTAIN"@en .
+<http://lodlaundromat.org/.well-known/genid/N4da60403e6b046b88ebbff301c75531b> <http://schema.org/value> "136209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3918e3b79fbd4d73a3df4d93a71bfdb4> <http://schema.org/latitude> "32.874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/url> <http://chipleyhistoriccenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.874&mlon=-84.8934#map=15/32.874/-84.8934> .
+<http://lodlaundromat.org/.well-known/genid/N4da60403e6b046b88ebbff301c75531b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c1610b2cab1420e99c7f28e2f649930> <http://schema.org/telephone> "+1 (706) 663-4044" .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://schema.org/addressLocality> "PINE MOUNTAIN" .
+<http://lodlaundromat.org/.well-known/genid/N5ce40e53da114c87befd3115bb86f235> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://schema.org/postalCode> "31822" .
+<http://lodlaundromat.org/.well-known/genid/N4da60403e6b046b88ebbff301c75531b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://schema.org/streetAddress> "PO BOX 1055" .
+<http://lodlaundromat.org/.well-known/genid/Nc815ad8eaa814ced8c65d1789f954e1f> <http://schema.org/addressRegion> "GA" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N81db2d24b28c417eb2775dfaaa9acb1f> .
+<http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N81db2d24b28c417eb2775dfaaa9acb1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://schema.org/streetAddress> "120 SOUTH TIFTON AV" .
+<http://lodlaundromat.org/.well-known/genid/N80c88ab0fda14d31899f6513133ba3cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.4435&mlon=-83.4953#map=15/31.4435/-83.4953> .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> .
+<http://lodlaundromat.org/.well-known/genid/N81db2d24b28c417eb2775dfaaa9acb1f> <http://schema.org/longitude> "-83.4953"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://schema.org/addressLocality> "TIFTON" .
+<http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> <http://schema.org/id> "8401300610" .
+<http://lodlaundromat.org/.well-known/genid/N80c88ab0fda14d31899f6513133ba3cf> <http://schema.org/value> "136339"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N80c88ab0fda14d31899f6513133ba3cf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N80c88ab0fda14d31899f6513133ba3cf> .
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/Nbb5189acd4c24d2bbd18cec32949bcea> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndb45c45635bb49a3bde64bc9b7b16ae6> <http://schema.org/name> "TIFTON TERMINAL RAILWAY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb475d66a67134ec490924c00499c2918> <http://schema.org/postalCode> "31794" .
+<http://lodlaundromat.org/.well-known/genid/N81db2d24b28c417eb2775dfaaa9acb1f> <http://schema.org/latitude> "31.4435"^^<http://www.w3.org/2001/XMLSchema#double> .
+

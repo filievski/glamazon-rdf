@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4facd2a63909405d854d5a316de7fba6> <http://schema.org/value> "149713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N896d299e5cdf4d0b99caef5619968fe3> <http://schema.org/latitude> "40.6257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> .
+<http://lodlaundromat.org/.well-known/genid/N896d299e5cdf4d0b99caef5619968fe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4facd2a63909405d854d5a316de7fba6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4facd2a63909405d854d5a316de7fba6> .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/telephone> "+1 (718) 442-3101" .
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://schema.org/postalCode> "10310-2827" .
+<http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N896d299e5cdf4d0b99caef5619968fe3> <http://schema.org/longitude> "-74.1147"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://schema.org/addressLocality> "STATEN ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://schema.org/streetAddress> "614 BROADWAY" .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/name> "STATEN ISLAND ZOOLOGICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7d96fa8cb67141eb8907c87dae9712c5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N896d299e5cdf4d0b99caef5619968fe3> .
+<http://lodlaundromat.org/.well-known/genid/N3bba7f0805084715906e0ca2e509b9c0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6257&mlon=-74.1147#map=15/40.6257/-74.1147> .
+<http://lodlaundromat.org/.well-known/genid/N4facd2a63909405d854d5a316de7fba6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2723c2b4f151459db8d4f78f733d2efb> <http://schema.org/id> "8403601007" .
+

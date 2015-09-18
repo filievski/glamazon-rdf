@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://schema.org/postalCode> "57301" .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb312c43abbf34c02afdd67fcf734fd96> .
+<http://lodlaundromat.org/.well-known/genid/Nb312c43abbf34c02afdd67fcf734fd96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> .
+<http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb312c43abbf34c02afdd67fcf734fd96> <http://schema.org/latitude> "43.6985"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://schema.org/addressRegion> "SD" .
+<http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb312c43abbf34c02afdd67fcf734fd96> <http://schema.org/longitude> "-98.0297"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6985&mlon=-98.0297#map=15/43.6985/-98.0297> .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> .
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://schema.org/streetAddress> "1300 E. UNIVERSITY AVE" .
+<http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N02700e445e2349cf82dc792ed3591414> <http://schema.org/value> "157153"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> <http://schema.org/id> "8404600038" .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/telephone> "+1 (605) 996-2122" .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/name> "DAKOTA DISCOVERY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N02700e445e2349cf82dc792ed3591414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N02700e445e2349cf82dc792ed3591414> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N87faee758be247b3b793971377f5b3d7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9324fd896c4f4a4b8438ae3199f86477> <http://schema.org/addressLocality> "MITCHELL" .
+<http://lodlaundromat.org/.well-known/genid/N626717fa96a545338abbeb3c4d6a3996> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02700e445e2349cf82dc792ed3591414> .
+

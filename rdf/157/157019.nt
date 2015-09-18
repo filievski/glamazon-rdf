@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3dfcae1ab642490c81d5a63a140f8dcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://schema.org/streetAddress> "PO BOX 1424" .
+<http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> <http://schema.org/id> "8404500314" .
+<http://lodlaundromat.org/.well-known/genid/N3dfcae1ab642490c81d5a63a140f8dcd> <http://schema.org/value> "157019"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://schema.org/postalCode> "29202-1424" .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> .
+<http://lodlaundromat.org/.well-known/genid/N3dfcae1ab642490c81d5a63a140f8dcd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/name> "THE SOUTH CAROLINA WILDLIFE LAW ENFORCEMENT OFFICERS ASSOC I"@en .
+<http://lodlaundromat.org/.well-known/genid/N05751531fe524592a596c2fe869ff4c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N05751531fe524592a596c2fe869ff4c7> .
+<http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N05751531fe524592a596c2fe869ff4c7> <http://schema.org/latitude> "34.0063"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0063&mlon=-81.0378#map=15/34.0063/-81.0378> .
+<http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/Nc7a12b36aacc4f88a17a74ae8bf79383> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N05751531fe524592a596c2fe869ff4c7> <http://schema.org/longitude> "-81.0378"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://schema.org/addressLocality> "COLUMBIA" .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N69abbc010df6499ea34c48bfd0fb3d2e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3dfcae1ab642490c81d5a63a140f8dcd> .
+<http://lodlaundromat.org/.well-known/genid/N98056ab4d0804426abf8810b1552017f> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N29fef44ba0c44020acbaf01c5ee8dae5> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e69c0f9a24bde812051739b99bbd0> <http://schema.org/latitude> "43.1597"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29fef44ba0c44020acbaf01c5ee8dae5> <http://schema.org/value> "149135"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://schema.org/streetAddress> "HISTORIC PL" .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1597&mlon=-74.7497#map=15/43.1597/-74.7497> .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncf5e69c0f9a24bde812051739b99bbd0> .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://schema.org/postalCode> "13454" .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e69c0f9a24bde812051739b99bbd0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e69c0f9a24bde812051739b99bbd0> <http://schema.org/longitude> "-74.7497"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://schema.org/addressLocality> "SALISBURY CENTER" .
+<http://lodlaundromat.org/.well-known/genid/N29fef44ba0c44020acbaf01c5ee8dae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/name> "AUGUSTUS FRISBIE HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N29fef44ba0c44020acbaf01c5ee8dae5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> <http://schema.org/id> "8403600429" .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N732676592833496eba2705fc38f3738f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> .
+<http://lodlaundromat.org/.well-known/genid/Ne6cfab6934db4a79a17caefadf2c2679> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N063980cb020640a4959080a8eec6bf59> <http://schema.org/addressRegion> "NY" .
+

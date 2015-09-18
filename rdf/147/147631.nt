@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N7938ac1aed4245729a3cfc562795daf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb407f35e89c54f7aa59d42b8fef70483> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7938ac1aed4245729a3cfc562795daf1> <http://schema.org/longitude> "-72.2635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://schema.org/streetAddress> "PO BOX 216" .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> .
+<http://lodlaundromat.org/.well-known/genid/N7938ac1aed4245729a3cfc562795daf1> <http://schema.org/latitude> "43.0478"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> <http://schema.org/id> "8403300406" .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb407f35e89c54f7aa59d42b8fef70483> <http://schema.org/value> "147631"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/name> "GILSUM HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N80e45d0e961347c7a3f4abd870db6473> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb407f35e89c54f7aa59d42b8fef70483> .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7938ac1aed4245729a3cfc562795daf1> .
+<http://lodlaundromat.org/.well-known/genid/Nb407f35e89c54f7aa59d42b8fef70483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N79d8d9c6314c4c069ec138e86468346b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0478&mlon=-72.2635#map=15/43.0478/-72.2635> .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://schema.org/addressLocality> "GILSUM" .
+<http://lodlaundromat.org/.well-known/genid/Nbdd440d183184955890212888512eabd> <http://schema.org/postalCode> "03448" .
+

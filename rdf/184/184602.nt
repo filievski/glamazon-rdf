@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a5c9b0bff5346da9d4c2a49a75752e0> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6274d38ed57e4caba6e2cf16653a37aa> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/name> "Maritime Centre"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne34792891f3340df914eb0f9e34011c8> <http://schema.org/value> "184602"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a5c9b0bff5346da9d4c2a49a75752e0> <http://schema.org/longitude> "18.4176"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a5c9b0bff5346da9d4c2a49a75752e0> <http://schema.org/latitude> "-33.9059"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.9059&mlon=18.4176#map=15/-33.9059/18.4176> .
+<http://lodlaundromat.org/.well-known/genid/N6274d38ed57e4caba6e2cf16653a37aa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne34792891f3340df914eb0f9e34011c8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne34792891f3340df914eb0f9e34011c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N64cf2a0dc27544adb1104a0c843f434c> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N64cf2a0dc27544adb1104a0c843f434c> .
+<http://lodlaundromat.org/.well-known/genid/N6274d38ed57e4caba6e2cf16653a37aa> <http://schema.org/url> <http://www.museums.io/en/museums/184602> .
+<http://lodlaundromat.org/.well-known/genid/N2a5c9b0bff5346da9d4c2a49a75752e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6274d38ed57e4caba6e2cf16653a37aa> .
+<http://lodlaundromat.org/.well-known/genid/N6274d38ed57e4caba6e2cf16653a37aa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne7f11973b6ba4511b633761a29136d3c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne34792891f3340df914eb0f9e34011c8> .
+<http://lodlaundromat.org/.well-known/genid/N64cf2a0dc27544adb1104a0c843f434c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

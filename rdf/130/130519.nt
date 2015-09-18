@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N33cdcc653e8f4f8f9af4e1c1f8262ff6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N33cdcc653e8f4f8f9af4e1c1f8262ff6> <http://schema.org/latitude> "37.7539"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> .
+<http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> <http://schema.org/id> "8400600645" .
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/name> "SAN FRANCISCO NEIGHBORHOOD THEATER FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N33cdcc653e8f4f8f9af4e1c1f8262ff6> <http://schema.org/longitude> "-122.429"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://schema.org/streetAddress> "62 VICKSBURG ST" .
+<http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7006e474581f4558b4e7067b5d0aaa65> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7006e474581f4558b4e7067b5d0aaa65> <http://schema.org/value> "130519"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2b57b40cf6d64e90a32e781c226a669d> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7006e474581f4558b4e7067b5d0aaa65> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7539&mlon=-122.429#map=15/37.7539/-122.429> .
+<http://lodlaundromat.org/.well-known/genid/N3d4ee0cf1ff54da6b6064bb6fcd7344e> <http://schema.org/postalCode> "94114-3325" .
+<http://lodlaundromat.org/.well-known/genid/N7006e474581f4558b4e7067b5d0aaa65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N33cdcc653e8f4f8f9af4e1c1f8262ff6> .
+<http://lodlaundromat.org/.well-known/genid/N1607ebdf0dd64f88852fcb1270b2d6a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

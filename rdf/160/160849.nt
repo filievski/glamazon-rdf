@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/name> "THE WEST POINT HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Neb7b97df0bc649a1bf48d7f39b687364> .
+<http://lodlaundromat.org/.well-known/genid/N4ba55e65fa154d56b89abb817b958178> <http://schema.org/latitude> "37.591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neb7b97df0bc649a1bf48d7f39b687364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.591&mlon=-76.8592#map=15/37.591/-76.8592> .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Neb7b97df0bc649a1bf48d7f39b687364> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://schema.org/postalCode> "23181-1556" .
+<http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> <http://schema.org/id> "8405100355" .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> .
+<http://lodlaundromat.org/.well-known/genid/Neb7b97df0bc649a1bf48d7f39b687364> <http://schema.org/value> "160849"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2fad1f1eda584f07983d45793bd7ddfb> .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://schema.org/streetAddress> "PO BOX 1556" .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://schema.org/addressLocality> "WEST POINT" .
+<http://lodlaundromat.org/.well-known/genid/N15ea93d319f449fcb02f7ebf85e63ccb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ba55e65fa154d56b89abb817b958178> .
+<http://lodlaundromat.org/.well-known/genid/N4ba55e65fa154d56b89abb817b958178> <http://schema.org/longitude> "-76.8592"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3cd2b07b2bc146a4b08c6867585abd24> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N4ba55e65fa154d56b89abb817b958178> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N68c5be251f3447cf8cf6c50211b479af> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/telephone> "+39 0984994025" .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na47bb3f6115848ac87d0da1d1f4ec56c> .
+<http://lodlaundromat.org/.well-known/genid/Na47bb3f6115848ac87d0da1d1f4ec56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> .
+<http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8ca40816622f48a1ab67506e4db7281f> .
+<http://lodlaundromat.org/.well-known/genid/N8ca40816622f48a1ab67506e4db7281f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N68c5be251f3447cf8cf6c50211b479af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ca40816622f48a1ab67506e4db7281f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndb3dcf7e4a4f424caaffde9ef8cd0b2d> <http://schema.org/id> "111009" .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2684&mlon=16.7654#map=15/39.2684/16.7654> .
+<http://lodlaundromat.org/.well-known/genid/N68c5be251f3447cf8cf6c50211b479af> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N8ca40816622f48a1ab67506e4db7281f> <http://schema.org/value> "185831"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na47bb3f6115848ac87d0da1d1f4ec56c> <http://schema.org/longitude> "16.7654"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N68c5be251f3447cf8cf6c50211b479af> .
+<http://lodlaundromat.org/.well-known/genid/Nf72c0fb79fd34315830f43a8f49dccb0> <http://schema.org/name> "Museo della cultura contadina di Castelsilano"@it .
+<http://lodlaundromat.org/.well-known/genid/N68c5be251f3447cf8cf6c50211b479af> <http://schema.org/addressLocality> "Castelsilano" .
+<http://lodlaundromat.org/.well-known/genid/Na47bb3f6115848ac87d0da1d1f4ec56c> <http://schema.org/latitude> "39.2684"^^<http://www.w3.org/2001/XMLSchema#double> .
+

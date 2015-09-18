@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/name> "ROYAL FLYING CIRCUS"@en .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2d1578177ac940d2bd9a1c7586eaf136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2d1578177ac940d2bd9a1c7586eaf136> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> .
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://schema.org/postalCode> "75773-0065" .
+<http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://schema.org/streetAddress> "PO BOX 65" .
+<http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N327b509cd47c47ab946d50fa9c0abfee> <http://schema.org/longitude> "-95.4963"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d1578177ac940d2bd9a1c7586eaf136> <http://schema.org/value> "159693"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d1578177ac940d2bd9a1c7586eaf136> .
+<http://lodlaundromat.org/.well-known/genid/N327b509cd47c47ab946d50fa9c0abfee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> .
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://schema.org/addressLocality> "MINEOLA" .
+<http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.6653&mlon=-95.4963#map=15/32.6653/-95.4963> .
+<http://lodlaundromat.org/.well-known/genid/N327b509cd47c47ab946d50fa9c0abfee> <http://schema.org/latitude> "32.6653"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned98153b8b6b4949aedd02786fe44f00> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb5936f2bec104f1d94d705c02d6470e4> <http://schema.org/id> "8404801793" .
+<http://lodlaundromat.org/.well-known/genid/N837df1a1d0064fbfac747c2c57fc09bc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N327b509cd47c47ab946d50fa9c0abfee> .
+

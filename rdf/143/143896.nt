@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3d85d30b24874a2dbe82582ba1ca77ab> <http://schema.org/latitude> "42.5814"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05e8830386204afeb9a62af5bed21b76> <http://schema.org/value> "143896"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://schema.org/streetAddress> "PO BOX 44" .
+<http://lodlaundromat.org/.well-known/genid/N3d85d30b24874a2dbe82582ba1ca77ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N05e8830386204afeb9a62af5bed21b76> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d85d30b24874a2dbe82582ba1ca77ab> <http://schema.org/longitude> "-82.5619"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5814&mlon=-82.5619#map=15/42.5814/-82.5619> .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N05e8830386204afeb9a62af5bed21b76> .
+<http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3d85d30b24874a2dbe82582ba1ca77ab> .
+<http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> <http://schema.org/id> "8402600433" .
+<http://lodlaundromat.org/.well-known/genid/N05e8830386204afeb9a62af5bed21b76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/url> <http://www.stewartfarm.org/hiscfhs/> .
+<http://lodlaundromat.org/.well-known/genid/N3d8f6e122c0b41ef93a0b8fe71e7d18b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://schema.org/postalCode> "48028-0044" .
+<http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> <http://schema.org/addressLocality> "HARSENS ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/name> "HARSENS ISLAND-ST CLAIR FLATS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbba79b9e2c24df696ee98db343f86a2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N954a196c3cc94a0e96b1bc93f4886ac1> .
+

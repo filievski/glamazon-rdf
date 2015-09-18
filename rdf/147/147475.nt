@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na1a4c36a1245441fbaaf9e5f240a6393> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9355&mlon=-70.8394#map=15/42.9355/-70.8394> .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://schema.org/streetAddress> "PO BOX 1601" .
+<http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> <http://schema.org/id> "8403300250" .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na1a4c36a1245441fbaaf9e5f240a6393> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://schema.org/addressLocality> "HAMPTON" .
+<http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N02925b4056e54320a4ba29812c59bccc> <http://schema.org/latitude> "42.9355"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/telephone> "+1 (603) 929-0781" .
+<http://lodlaundromat.org/.well-known/genid/Na1a4c36a1245441fbaaf9e5f240a6393> <http://schema.org/value> "147475"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N02925b4056e54320a4ba29812c59bccc> .
+<http://lodlaundromat.org/.well-known/genid/Na1a4c36a1245441fbaaf9e5f240a6393> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56566f9bcb0d4a65be989ca89ea6a824> <http://schema.org/postalCode> "03843-1601" .
+<http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbf9bda25e5c443bb89f2877729de75bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N02925b4056e54320a4ba29812c59bccc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N02925b4056e54320a4ba29812c59bccc> <http://schema.org/longitude> "-70.8394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfab70aae38634d298492e5c38755cba7> <http://schema.org/name> "HAMPTON HISTORICAL SOCIETY"@en .
+

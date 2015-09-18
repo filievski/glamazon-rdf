@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://schema.org/streetAddress> "PO BOX 18111" .
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8d5d708d75514f8dbeff4dd1c9961cd5> <http://schema.org/value> "162429"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nffb954e0cd5149aabdd35946e8076df9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nffb954e0cd5149aabdd35946e8076df9> <http://schema.org/latitude> "39.6277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nffb954e0cd5149aabdd35946e8076df9> <http://schema.org/longitude> "-79.9577"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/name> "AURORA LIGHTS"@en .
+<http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8d5d708d75514f8dbeff4dd1c9961cd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8d5d708d75514f8dbeff4dd1c9961cd5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://schema.org/postalCode> "26507-8111" .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> .
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> <http://schema.org/id> "8405400142" .
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://schema.org/addressLocality> "MORGANTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8d5d708d75514f8dbeff4dd1c9961cd5> .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6277&mlon=-79.9577#map=15/39.6277/-79.9577> .
+<http://lodlaundromat.org/.well-known/genid/N3c1f0965cbd0440290b96f93083bc4a5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nffb954e0cd5149aabdd35946e8076df9> .
+<http://lodlaundromat.org/.well-known/genid/Ned89833be6464b3eb8fb76b516068438> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N40bee89666a74a978b134b9436ea7ece> <http://schema.org/addressRegion> "WV" .
+

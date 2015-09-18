@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N6a49da3908164bcba2bb77f6084f69df> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nb2dbc0b07b8e4c29a2edc30fe4875b61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nb2dbc0b07b8e4c29a2edc30fe4875b61> <http://schema.org/contentUrl> <http://images.museums.io/mruXIQqszwJOoqmcWjxBeMIKyec=/1000x1000/museums/logos/000/187/860/original/c76b11501d4d381d6f29f48292ed9ed0db5d7832.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N6a49da3908164bcba2bb77f6084f69df> <http://schema.org/value> "187860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N553da6618a7f4931a24f53a76e5c0ce6> .
+<http://lodlaundromat.org/.well-known/genid/N553da6618a7f4931a24f53a76e5c0ce6> <http://schema.org/latitude> "45.0955"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nb2dbc0b07b8e4c29a2edc30fe4875b61> .
+<http://lodlaundromat.org/.well-known/genid/N553da6618a7f4931a24f53a76e5c0ce6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0955&mlon=7.54765#map=15/45.0955/7.54765> .
+<http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> <http://schema.org/addressLocality> "Pianezza" .
+<http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/telephone> "+39 0119675157" .
+<http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6a49da3908164bcba2bb77f6084f69df> .
+<http://lodlaundromat.org/.well-known/genid/N6a49da3908164bcba2bb77f6084f69df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> .
+<http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> <http://schema.org/id> "102714" .
+<http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb891e723df8c457eafb318886a6ec7c4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3291f0aadaec44188c8cf8f5d58c0014> <http://schema.org/streetAddress> "Via Maria Bricca, 20" .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/url> <http://www.passamaneriamassia1843.it/> .
+<http://lodlaundromat.org/.well-known/genid/N084c6b6270f5478881f3b5514ab152c7> <http://schema.org/name> "Museo della passamaneria \"Vittorio Massia\""@it .
+<http://lodlaundromat.org/.well-known/genid/N553da6618a7f4931a24f53a76e5c0ce6> <http://schema.org/longitude> "7.54765"^^<http://www.w3.org/2001/XMLSchema#double> .
+

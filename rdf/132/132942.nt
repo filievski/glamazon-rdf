@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfde17bf72c3344edbb17b236d03c6933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne5cab2114b2245aa900e4ccc6874f259> .
+<http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne5cab2114b2245aa900e4ccc6874f259> <http://schema.org/latitude> "39.7433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/telephone> "+1 (303) 893-4100" .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7433&mlon=-104.998#map=15/39.7433/-104.998> .
+<http://lodlaundromat.org/.well-known/genid/Nfde17bf72c3344edbb17b236d03c6933> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfde17bf72c3344edbb17b236d03c6933> <http://schema.org/value> "132942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfde17bf72c3344edbb17b236d03c6933> .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://schema.org/streetAddress> "1245 CHAMPA ST" .
+<http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://schema.org/addressLocality> "DENVER" .
+<http://lodlaundromat.org/.well-known/genid/Ne5cab2114b2245aa900e4ccc6874f259> <http://schema.org/longitude> "-104.998"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> .
+<http://lodlaundromat.org/.well-known/genid/Ne5cab2114b2245aa900e4ccc6874f259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://schema.org/postalCode> "80204" .
+<http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1f0b4eee4074437a95d60968a4b10ecc> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N0b894c289ff946c18c0cdb6bd7f21fa7> <http://schema.org/name> "DENVER CENTER-PERFORMING ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N584ab08a02624ba0b2b12d882f60667d> <http://schema.org/id> "8400800118" .
+

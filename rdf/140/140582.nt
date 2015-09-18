@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na1c23778306046e1b1ebaed1cf913501> <http://schema.org/value> "140582"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> <http://schema.org/id> "8402100339" .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://schema.org/addressLocality> "GEORGETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncfcf8126754a41d088d6d0762d43fc60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncfcf8126754a41d088d6d0762d43fc60> <http://schema.org/longitude> "-84.5571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na1c23778306046e1b1ebaed1cf913501> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na1c23778306046e1b1ebaed1cf913501> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncfcf8126754a41d088d6d0762d43fc60> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/name> "SCOTT COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncfcf8126754a41d088d6d0762d43fc60> <http://schema.org/latitude> "38.2098"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://schema.org/streetAddress> "229 EAST MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/Na1c23778306046e1b1ebaed1cf913501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N7c9ad8756872405e8a5598d64e56b8d0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2098&mlon=-84.5571#map=15/38.2098/-84.5571> .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5bfe570e6b434366a3a50d85aed8fee5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9707096bb0e84ab69a54dfea776af965> <http://schema.org/postalCode> "40324-1759" .
+

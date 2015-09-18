@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne55d2fe23bc84a07b14ad90709ae8c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/telephone> "+1 (845) 294-6606" .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://schema.org/streetAddress> "203 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> .
+<http://lodlaundromat.org/.well-known/genid/N95e5c4dfa75245b29c0d9467fdd80cc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> .
+<http://lodlaundromat.org/.well-known/genid/Ne55d2fe23bc84a07b14ad90709ae8c29> <http://schema.org/latitude> "41.4035"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4035&mlon=-74.3202#map=15/41.4035/-74.3202> .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95e5c4dfa75245b29c0d9467fdd80cc2> .
+<http://lodlaundromat.org/.well-known/genid/Ne55d2fe23bc84a07b14ad90709ae8c29> <http://schema.org/longitude> "-74.3202"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://schema.org/postalCode> "10924" .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N95e5c4dfa75245b29c0d9467fdd80cc2> <http://schema.org/value> "149201"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N95e5c4dfa75245b29c0d9467fdd80cc2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/name> "FRIENDS OF THE GOSHEN PUBLIC LIBRARY AND HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4aab6af72fc94ba9aa1c2c818c7cf0b5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne55d2fe23bc84a07b14ad90709ae8c29> .
+<http://lodlaundromat.org/.well-known/genid/N0c4f06fb51b34e5c8acaa24ce799ad63> <http://schema.org/addressLocality> "GOSHEN" .
+<http://lodlaundromat.org/.well-known/genid/N2d784e2472b145e786cf716a628970d9> <http://schema.org/id> "8403600495" .
+

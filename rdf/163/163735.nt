@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> <http://schema.org/id> "broadmeadows-historical-society-museum-inc" .
+<http://lodlaundromat.org/.well-known/genid/Na7ad585e8e9f4789819ab29ac0d12601> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N36076da93fba430ab1a76d4fa20b4eff> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N36076da93fba430ab1a76d4fa20b4eff> .
+<http://lodlaundromat.org/.well-known/genid/N36076da93fba430ab1a76d4fa20b4eff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.6796&mlon=144.917#map=15/-37.6796/144.917> .
+<http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/url> <http://home.vicnet.net.au/~broadhs/history.htm> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7ad585e8e9f4789819ab29ac0d12601> .
+<http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> <http://schema.org/url> <http://victoriancollections.net.au/organisations/broadmeadows-historical-society-museum-inc> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/name> "Broadmeadows Historical Society & Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4f59a49da9ab4c5c9400fa4d1ffd94f6> .
+<http://lodlaundromat.org/.well-known/genid/Na7ad585e8e9f4789819ab29ac0d12601> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/telephone> "03 9302 1456" .
+<http://lodlaundromat.org/.well-known/genid/N8e222f6733104e5fafcca49e67614c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8e222f6733104e5fafcca49e67614c42> <http://schema.org/latitude> "-37.6796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7ad585e8e9f4789819ab29ac0d12601> <http://schema.org/value> "163735"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8e222f6733104e5fafcca49e67614c42> .
+<http://lodlaundromat.org/.well-known/genid/N667005b5681143d2bc2903b267f2b879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8e222f6733104e5fafcca49e67614c42> <http://schema.org/longitude> "144.917"^^<http://www.w3.org/2001/XMLSchema#double> .
+

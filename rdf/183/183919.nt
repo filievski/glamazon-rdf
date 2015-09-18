@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/telephone> "08223/1833" .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2bba5d6c7cf477c8ef0839bac9a25d1> .
+<http://lodlaundromat.org/.well-known/genid/N2b1e32eb0c9e4b93976eb40bf4971dee> <http://schema.org/latitude> "47.9676"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b1e32eb0c9e4b93976eb40bf4971dee> <http://schema.org/longitude> "10.2118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.9676&mlon=10.2118#map=15/47.9676/10.2118> .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://schema.org/addressLocality> "Benningen" .
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/name> "Benninger Ried Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc2bba5d6c7cf477c8ef0839bac9a25d1> <http://schema.org/url> <http://www.museums.io/en/museums/183919> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bba5d6c7cf477c8ef0839bac9a25d1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc2bba5d6c7cf477c8ef0839bac9a25d1> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://schema.org/streetAddress> "Hauptstr. 18" .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne692ffc685e543878b2de8369ef3ecb6> .
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne692ffc685e543878b2de8369ef3ecb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne692ffc685e543878b2de8369ef3ecb6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2b1e32eb0c9e4b93976eb40bf4971dee> .
+<http://lodlaundromat.org/.well-known/genid/N5cbf3528de0b4c4390b65687eae846da> <http://schema.org/url> <http://www.benninger-ried.de/de/museum/index.php> .
+<http://lodlaundromat.org/.well-known/genid/N2b1e32eb0c9e4b93976eb40bf4971dee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N97f5b2ea6f764bb8a7acb2c471cd942f> <http://schema.org/postalCode> "87734" .
+<http://lodlaundromat.org/.well-known/genid/Ne692ffc685e543878b2de8369ef3ecb6> <http://schema.org/value> "183919"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc2bba5d6c7cf477c8ef0839bac9a25d1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

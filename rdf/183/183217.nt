@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/url> <http://www.botanischestaatssammlung.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://schema.org/streetAddress> "Menzinger Stra\u00DFe 67" .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd85e06cc2a584516b3d8926c73df50a6> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7c7340ddb3040aeb0ff33a308c738b8> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7340ddb3040aeb0ff33a308c738b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1642&mlon=11.5007#map=15/48.1642/11.5007> .
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N5e1e37fe6e3a479e8f86935b69ff1ba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/name> "Botanische Staatssammlung M\u00FCnchen"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd85e06cc2a584516b3d8926c73df50a6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N5e1e37fe6e3a479e8f86935b69ff1ba7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb8fb4548705f4d509071a5f69f8d7f93> <http://schema.org/postalCode> "80638" .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5e1e37fe6e3a479e8f86935b69ff1ba7> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7340ddb3040aeb0ff33a308c738b8> <http://schema.org/longitude> "11.5007"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4b596d7a58af40579b3bdf098cb3a0d9> <http://schema.org/telephone> "089/17861-265" .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7340ddb3040aeb0ff33a308c738b8> <http://schema.org/latitude> "48.1642"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd85e06cc2a584516b3d8926c73df50a6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd85e06cc2a584516b3d8926c73df50a6> <http://schema.org/url> <http://www.museums.io/en/museums/183217> .
+<http://lodlaundromat.org/.well-known/genid/Nd85e06cc2a584516b3d8926c73df50a6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5e1e37fe6e3a479e8f86935b69ff1ba7> <http://schema.org/value> "183217"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

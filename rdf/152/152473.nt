@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6cbce70bef364e3cae15a5f9cac8e884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/name> "CINCINNATI BASEBALL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6cbce70bef364e3cae15a5f9cac8e884> .
+<http://lodlaundromat.org/.well-known/genid/N6cbce70bef364e3cae15a5f9cac8e884> <http://schema.org/longitude> "-84.5083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ba3c3a4c2ab48a38b6138f5dc93484f> .
+<http://lodlaundromat.org/.well-known/genid/N3ba3c3a4c2ab48a38b6138f5dc93484f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://schema.org/postalCode> "45202-4109" .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> .
+<http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> <http://schema.org/id> "8403900250" .
+<http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3ba3c3a4c2ab48a38b6138f5dc93484f> <http://schema.org/value> "152473"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6cbce70bef364e3cae15a5f9cac8e884> <http://schema.org/latitude> "39.096"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ba3c3a4c2ab48a38b6138f5dc93484f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://schema.org/addressLocality> "CINCINNATI" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://schema.org/streetAddress> "100 MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.096&mlon=-84.5083#map=15/39.096/-84.5083> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0860f3170a47358e0a8b8291e4022f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6791caba27b64d469f20718e70319897> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N948979cc8bc446f2930f5eb88a060306> .
+

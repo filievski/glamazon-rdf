@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/url> <http://www.adrcohs.org/> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ned0772d8a8b049bfb5312b4a3e4889ce> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> .
+<http://lodlaundromat.org/.well-known/genid/Nb7d878ae846c4aeaade3a63a96bb862c> <http://schema.org/value> "145916"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.1933&mlon=-92.5843#map=15/40.1933/-92.5843> .
+<http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb7d878ae846c4aeaade3a63a96bb862c> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://schema.org/streetAddress> "211 S ELSON ST" .
+<http://lodlaundromat.org/.well-known/genid/Ned0772d8a8b049bfb5312b4a3e4889ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://schema.org/postalCode> "63501-3466" .
+<http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb7d878ae846c4aeaade3a63a96bb862c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/name> "ADAIR COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N379bfe3718b64194b914b60142ff51c1> <http://schema.org/telephone> "+1 (660) 665-6502" .
+<http://lodlaundromat.org/.well-known/genid/Ned0772d8a8b049bfb5312b4a3e4889ce> <http://schema.org/latitude> "40.1933"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12b899474d2b40569c13459644a9f5bb> <http://schema.org/addressLocality> "KIRKSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> <http://schema.org/id> "8402900345" .
+<http://lodlaundromat.org/.well-known/genid/Nb7d878ae846c4aeaade3a63a96bb862c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ned0772d8a8b049bfb5312b4a3e4889ce> <http://schema.org/longitude> "-92.5843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48331e17cb424a95b3ff1429e035088a> <http://schema.org/name> "us" .
+

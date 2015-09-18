@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0da38947969a4448b9825a50667947e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc1d616d734934c338a31cfa79f9b1e09> .
+<http://lodlaundromat.org/.well-known/genid/Nc1d616d734934c338a31cfa79f9b1e09> <http://schema.org/latitude> "43.0775"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0da38947969a4448b9825a50667947e5> .
+<http://lodlaundromat.org/.well-known/genid/Nc1d616d734934c338a31cfa79f9b1e09> <http://schema.org/longitude> "-70.7559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://schema.org/postalCode> "03802-0728" .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/name> "PORTSMOUTH BLACK HERITAGE TRAIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc1d616d734934c338a31cfa79f9b1e09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://schema.org/streetAddress> "PO BOX 838" .
+<http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> <http://schema.org/id> "8403300196" .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0da38947969a4448b9825a50667947e5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0775&mlon=-70.7559#map=15/43.0775/-70.7559> .
+<http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0da38947969a4448b9825a50667947e5> <http://schema.org/value> "147421"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N76df8582e1f0463b8a79553a8aa48636> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6fff9ef51a2e4c5b8ae1ba56281c0cb7> .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10efbd794a3449b5bae68a677e2ee8fb> <http://schema.org/addressLocality> "PORTSMOUTH" .
+

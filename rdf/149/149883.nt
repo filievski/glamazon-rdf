@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8da4f19a350c4385af6680fdf32c6120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://schema.org/streetAddress> "PO BOX 1036" .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://schema.org/addressLocality> "BROADALBIN" .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://schema.org/postalCode> "12025-1036" .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0764&mlon=-74.1433#map=15/43.0764/-74.1433> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3e7995affba6494988367848758b5fde> <http://schema.org/longitude> "-74.1433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/name> "BROADALBIN KENNYETTO HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> .
+<http://lodlaundromat.org/.well-known/genid/N3e7995affba6494988367848758b5fde> <http://schema.org/latitude> "43.0764"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8da4f19a350c4385af6680fdf32c6120> .
+<http://lodlaundromat.org/.well-known/genid/N8da4f19a350c4385af6680fdf32c6120> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9f23549f5e3b484885f74bc9df057525> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> <http://schema.org/id> "8403601177" .
+<http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3e7995affba6494988367848758b5fde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> .
+<http://lodlaundromat.org/.well-known/genid/N8da4f19a350c4385af6680fdf32c6120> <http://schema.org/value> "149883"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2b98d5155a704b0197cf486e0e410bd4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3e7995affba6494988367848758b5fde> .
+<http://lodlaundromat.org/.well-known/genid/Na99025668c394696a3481a9fe59a8069> <http://schema.org/@Type> "Dataset" .
+

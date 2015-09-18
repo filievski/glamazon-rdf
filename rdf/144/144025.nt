@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N24e67bc08d074ac69bbcc54543ec3c8f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24e67bc08d074ac69bbcc54543ec3c8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nce0800b6c731417c9223ef6f13ac1364> <http://schema.org/latitude> "43.0138"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nce0800b6c731417c9223ef6f13ac1364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nce0800b6c731417c9223ef6f13ac1364> <http://schema.org/longitude> "-83.7116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://schema.org/streetAddress> "1602 UNIVERSITY AVE" .
+<http://lodlaundromat.org/.well-known/genid/N24e67bc08d074ac69bbcc54543ec3c8f> <http://schema.org/value> "144025"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/url> <http://www.flintchildrensmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> <http://schema.org/id> "8402600562" .
+<http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0138&mlon=-83.7116#map=15/43.0138/-83.7116> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/name> "FLINT CHILDRENS MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Na262cfd759da4c20935814e0b1ed15d5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nce0800b6c731417c9223ef6f13ac1364> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N24e67bc08d074ac69bbcc54543ec3c8f> .
+<http://lodlaundromat.org/.well-known/genid/N55dac50424304c699db5c0c2c70dd68c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://schema.org/addressLocality> "FLINT" .
+<http://lodlaundromat.org/.well-known/genid/N3b9d99be0df145b080a62b73e575927f> <http://schema.org/postalCode> "48504-6212" .
+

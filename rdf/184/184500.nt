@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N8b13094d0bd0474f935b3591b4c58956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb51f17e8df9e43d294fedeef088f7774> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-29.6027&mlon=30.3758#map=15/-29.6027/30.3758> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8b13094d0bd0474f935b3591b4c58956> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e1c1458534147bf9bb2643946385d28> .
+<http://lodlaundromat.org/.well-known/genid/Nb51f17e8df9e43d294fedeef088f7774> <http://schema.org/url> <http://www.museums.io/en/museums/184500> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb46ea3c3634149cdb64a888fc82eed54> .
+<http://lodlaundromat.org/.well-known/genid/N5e1c1458534147bf9bb2643946385d28> <http://schema.org/longitude> "30.3758"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb51f17e8df9e43d294fedeef088f7774> .
+<http://lodlaundromat.org/.well-known/genid/Nb46ea3c3634149cdb64a888fc82eed54> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8b13094d0bd0474f935b3591b4c58956> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Nb51f17e8df9e43d294fedeef088f7774> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb46ea3c3634149cdb64a888fc82eed54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5e1c1458534147bf9bb2643946385d28> <http://schema.org/latitude> "-29.6027"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb51f17e8df9e43d294fedeef088f7774> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nb46ea3c3634149cdb64a888fc82eed54> <http://schema.org/value> "184500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfd37408e69ee467b9def1af55ba2eb2a> <http://schema.org/name> "Africa Media Online"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e1c1458534147bf9bb2643946385d28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

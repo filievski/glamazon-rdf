@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.5608&mlon=-123.914#map=15/45.5608/-123.914> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf7dd419e8ab34ee9a0f35ba0010e9d2d> .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd419e8ab34ee9a0f35ba0010e9d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7d724da4bf2e4d67948dc712d116e869> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/name> "GARIBALDI MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7d724da4bf2e4d67948dc712d116e869> <http://schema.org/latitude> "45.5608"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d724da4bf2e4d67948dc712d116e869> <http://schema.org/longitude> "-123.914"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7d724da4bf2e4d67948dc712d116e869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://schema.org/streetAddress> "PO BOX 5" .
+<http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> .
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://schema.org/addressLocality> "GARIBALDI" .
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/telephone> "+1 (503) 322-8411" .
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> <http://schema.org/postalCode> "97118-0005" .
+<http://lodlaundromat.org/.well-known/genid/Nf5c9fc0dd3034b40aba6acbb0a7a8b30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10affd26d6cc4e4391f496a0242e22a8> .
+<http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N98881e0c79b64efc8a40bb5a7e05c916> <http://schema.org/id> "8404100422" .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd419e8ab34ee9a0f35ba0010e9d2d> <http://schema.org/value> "154629"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd419e8ab34ee9a0f35ba0010e9d2d> <http://schema.org/name> "id" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/name> "CHARLESTON MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://schema.org/streetAddress> "360 MEETING ST" .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://schema.org/addressLocality> "CHARLESTON" .
+<http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> <http://schema.org/id> "8404500359" .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://schema.org/postalCode> "29403-6235" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d5dd427a54aa3b98c46cf75a8fefa> <http://schema.org/value> "157064"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/url> <http://www.charlestonmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na463b0c11bda4407969dcad5401bd3fe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> .
+<http://lodlaundromat.org/.well-known/genid/N60c845b20f634de385b37821555583c5> <http://schema.org/latitude> "32.7901"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60c845b20f634de385b37821555583c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N60c845b20f634de385b37821555583c5> .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5f5d5dd427a54aa3b98c46cf75a8fefa> .
+<http://lodlaundromat.org/.well-known/genid/N60c845b20f634de385b37821555583c5> <http://schema.org/longitude> "-79.9365"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5f5d5dd427a54aa3b98c46cf75a8fefa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/telephone> "+1 (843) 722-2996" .
+<http://lodlaundromat.org/.well-known/genid/N7f93f53367f34a2eb0677261402f4502> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7901&mlon=-79.9365#map=15/32.7901/-79.9365> .
+<http://lodlaundromat.org/.well-known/genid/N8c0ec654c13f418bae4931dcad51ebb7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5f5d5dd427a54aa3b98c46cf75a8fefa> <http://schema.org/name> "id" .
+

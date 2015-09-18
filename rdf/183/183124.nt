@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5d9cb6d7a06843369157a26cf1bc238b> .
+<http://lodlaundromat.org/.well-known/genid/N7650cd97e8b7488e9b06dac0c877e3e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7650cd97e8b7488e9b06dac0c877e3e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N21a193ea63344181842d0347f15ff96b> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N21a193ea63344181842d0347f15ff96b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/url> <http://www.hummelmuseum.de/> .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://schema.org/postalCode> "84323" .
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://schema.org/addressLocality> "Massing" .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> .
+<http://lodlaundromat.org/.well-known/genid/N5d9cb6d7a06843369157a26cf1bc238b> <http://schema.org/latitude> "48.3916"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://schema.org/streetAddress> "Berta-Hummel-Stra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/N5d9cb6d7a06843369157a26cf1bc238b> <http://schema.org/longitude> "12.6091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7650cd97e8b7488e9b06dac0c877e3e8> <http://schema.org/value> "183124"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N21a193ea63344181842d0347f15ff96b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.3916&mlon=12.6091#map=15/48.3916/12.6091> .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7650cd97e8b7488e9b06dac0c877e3e8> .
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/name> "Das Berta-Hummel-Museum im Hummelhaus"@en .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/telephone> "08724/9602-50" .
+<http://lodlaundromat.org/.well-known/genid/N1b4943a400954370b7db111a471a36cf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N21a193ea63344181842d0347f15ff96b> .
+<http://lodlaundromat.org/.well-known/genid/N6a9ec51b7deb44b09b9a1656fbe55204> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N21a193ea63344181842d0347f15ff96b> <http://schema.org/url> <http://www.museums.io/en/museums/183124> .
+<http://lodlaundromat.org/.well-known/genid/N5d9cb6d7a06843369157a26cf1bc238b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

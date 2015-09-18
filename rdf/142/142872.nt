@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N51b5d800aa054527a0dc143c3e9f08ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N51b5d800aa054527a0dc143c3e9f08ed> .
+<http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3752&mlon=-71.0335#map=15/42.3752/-71.0335> .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> .
+<http://lodlaundromat.org/.well-known/genid/N51b5d800aa054527a0dc143c3e9f08ed> <http://schema.org/latitude> "42.3752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nab4e6d68c82e49fda84467240cb60dd8> <http://schema.org/value> "142872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nab4e6d68c82e49fda84467240cb60dd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://schema.org/streetAddress> "PO BOX 584" .
+<http://lodlaundromat.org/.well-known/genid/Nab4e6d68c82e49fda84467240cb60dd8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/name> "EAST BOSTON GATEWAY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> .
+<http://lodlaundromat.org/.well-known/genid/N2700a5a856364e1793448864bb65fd89> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nab4e6d68c82e49fda84467240cb60dd8> .
+<http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://schema.org/postalCode> "02128-0006" .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://schema.org/addressLocality> "EAST BOSTON" .
+<http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> <http://schema.org/id> "8402500502" .
+<http://lodlaundromat.org/.well-known/genid/Naf2187eb383a45a382b58a9a3a8dec57> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9ea4135ff8444026948143d2da961924> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N51b5d800aa054527a0dc143c3e9f08ed> <http://schema.org/longitude> "-71.0335"^^<http://www.w3.org/2001/XMLSchema#double> .
+

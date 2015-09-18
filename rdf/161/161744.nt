@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N657c6ff2ae1b4d85b06d26503c16b7d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N657c6ff2ae1b4d85b06d26503c16b7d4> <http://schema.org/longitude> "-120.052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nef7edf054df94250afac6c99d3f9776a> .
+<http://lodlaundromat.org/.well-known/genid/Nef7edf054df94250afac6c99d3f9776a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> .
+<http://lodlaundromat.org/.well-known/genid/Nef7edf054df94250afac6c99d3f9776a> <http://schema.org/value> "161744"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/name> "LAKE CHELAN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N657c6ff2ae1b4d85b06d26503c16b7d4> .
+<http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://schema.org/addressLocality> "CHELAN" .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://schema.org/streetAddress> "PO BOX 1948" .
+<http://lodlaundromat.org/.well-known/genid/N657c6ff2ae1b4d85b06d26503c16b7d4> <http://schema.org/latitude> "47.8582"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://schema.org/postalCode> "98816-1948" .
+<http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> <http://schema.org/id> "8405300193" .
+<http://lodlaundromat.org/.well-known/genid/Nef7edf054df94250afac6c99d3f9776a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfd79050517274fec94f8e4235d512ea6> .
+<http://lodlaundromat.org/.well-known/genid/N96af1160945c4ad58034377a0a53da38> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N43337a021efb48089fcb94169b038671> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.8582&mlon=-120.052#map=15/47.8582/-120.052> .
+

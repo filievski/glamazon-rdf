@@ -1,0 +1,31 @@
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N733b224051ac4cb394160fec8d7a3828> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> .
+<http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://schema.org/addressLocality> "VENTURA" .
+<http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7fb289b601884ad69ef57a197b2f69ab> <http://schema.org/value> "132472"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7fb289b601884ad69ef57a197b2f69ab> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> .
+<http://lodlaundromat.org/.well-known/genid/N7fb289b601884ad69ef57a197b2f69ab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N733b224051ac4cb394160fec8d7a3828> <http://schema.org/longitude> "-119.299"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N733b224051ac4cb394160fec8d7a3828> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nd4bb4b461c324e968df994886ba66c03> .
+<http://lodlaundromat.org/.well-known/genid/Nd4bb4b461c324e968df994886ba66c03> <http://schema.org/url> <https://www.facebook.com/museumofventuracounty> .
+<http://lodlaundromat.org/.well-known/genid/Nd4bb4b461c324e968df994886ba66c03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd4bb4b461c324e968df994886ba66c03> <http://schema.org/contactType> "Facebook" .
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://schema.org/postalCode> "93001-2607" .
+<http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> <http://schema.org/id> "8400602598" .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/telephone> "+1 (805) 653-0323" .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.2809&mlon=-119.299#map=15/34.2809/-119.299> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/url> <http://www.venturamuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3e53a57f731a4060982c9bc761e15d70> <http://schema.org/name> "MUSEUM OF VENTURA COUNTY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7fb289b601884ad69ef57a197b2f69ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb103d29b1c564ad7b97d416c674e6c18> <http://schema.org/streetAddress> "100 E MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N6e19f040c56e4322864a6aa299db87c6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N733b224051ac4cb394160fec8d7a3828> <http://schema.org/latitude> "34.2809"^^<http://www.w3.org/2001/XMLSchema#double> .
+

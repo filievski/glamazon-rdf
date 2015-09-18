@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> <http://schema.org/addressLocality> "Durban" .
+<http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> <http://schema.org/addressRegion> "KwaZulu Natal" .
+<http://lodlaundromat.org/.well-known/genid/N713de586d7e24583b315eac48207aeeb> <http://schema.org/url> <http://www.museums.io/en/museums/184912> .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://schema.org/telephone> "031 311 2261" .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://schema.org/name> "Old House Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N713de586d7e24583b315eac48207aeeb> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N713de586d7e24583b315eac48207aeeb> .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> .
+<http://lodlaundromat.org/.well-known/genid/N713de586d7e24583b315eac48207aeeb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> <http://schema.org/streetAddress> "31 Diakonia / Andrews Street, Durban" .
+<http://lodlaundromat.org/.well-known/genid/N493bb821eeca4df983c2a2c42ccec237> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0448a23c93e140cb9725416cf7156ed7> .
+<http://lodlaundromat.org/.well-known/genid/N0448a23c93e140cb9725416cf7156ed7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0448a23c93e140cb9725416cf7156ed7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N40a0077c4b4a48feaca965c56b7c58ec> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N0448a23c93e140cb9725416cf7156ed7> <http://schema.org/value> "184912"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N713de586d7e24583b315eac48207aeeb> <http://schema.org/@Type> "Dataset" .
+

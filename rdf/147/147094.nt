@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> <http://schema.org/id> "8403200069" .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/name> "COMSTOCK VISIONS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://schema.org/addressRegion> "NV" .
+<http://lodlaundromat.org/.well-known/genid/N5848eadaa283497c961cd424e968e793> <http://schema.org/longitude> "-119.649"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbee4ec010c4a4a1c995ad426cded436e> .
+<http://lodlaundromat.org/.well-known/genid/Nbee4ec010c4a4a1c995ad426cded436e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://schema.org/addressLocality> "VIRGINIA CITY" .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.313&mlon=-119.649#map=15/39.313/-119.649> .
+<http://lodlaundromat.org/.well-known/genid/Nbee4ec010c4a4a1c995ad426cded436e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5848eadaa283497c961cd424e968e793> <http://schema.org/latitude> "39.313"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://schema.org/streetAddress> "PO BOX 99" .
+<http://lodlaundromat.org/.well-known/genid/N1b6ff4a159a44621a25bef4fa466fb4d> <http://schema.org/postalCode> "89440-0099" .
+<http://lodlaundromat.org/.well-known/genid/Nbee4ec010c4a4a1c995ad426cded436e> <http://schema.org/value> "147094"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41d1b9fe287541108312e90bacf6e038> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5848eadaa283497c961cd424e968e793> .
+<http://lodlaundromat.org/.well-known/genid/Nf2a821f5bc6343eca4b061188ebf4d2f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5848eadaa283497c961cd424e968e793> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

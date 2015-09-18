@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://schema.org/streetAddress> "PO BOX 423" .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/telephone> "+1 (301) 739-5727" .
+<http://lodlaundromat.org/.well-known/genid/N645bb4c0978e4429ac6f615f3b924c25> <http://schema.org/longitude> "-77.7314"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N645bb4c0978e4429ac6f615f3b924c25> .
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> .
+<http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> <http://schema.org/id> "8402400317" .
+<http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N645bb4c0978e4429ac6f615f3b924c25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://schema.org/addressLocality> "HAGERSTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0dec83ab2aa84e619cbf4d0a5d60dfc0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0dec83ab2aa84e619cbf4d0a5d60dfc0> .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/name> "WASHINGTON COUNTY MUSEUM OF FINE ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N0dec83ab2aa84e619cbf4d0a5d60dfc0> <http://schema.org/value> "142024"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0dec83ab2aa84e619cbf4d0a5d60dfc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> .
+<http://lodlaundromat.org/.well-known/genid/N01779bd54d3042a9b8fd79978f427670> <http://schema.org/postalCode> "21741-0423" .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/url> <http://www.wcmfa.org/> .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N645bb4c0978e4429ac6f615f3b924c25> <http://schema.org/latitude> "39.6331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b8dd8689d974871864e06bd5eeeb443> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N068ae9cce99e457a98b739a0aed3b6c8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6331&mlon=-77.7314#map=15/39.6331/-77.7314> .
+

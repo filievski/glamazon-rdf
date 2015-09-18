@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> <http://schema.org/addressRegion> "Abruzzo" .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/telephone> "+39 0861789180" .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> .
+<http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> <http://schema.org/streetAddress> "Via Nazionale Adriatica Nord, 1" .
+<http://lodlaundromat.org/.well-known/genid/Nf10d1be6f99144279936e4b614bac11a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nf10d1be6f99144279936e4b614bac11a> <http://schema.org/value> "185659"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> .
+<http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6763c0fbcdc64a089379696cafcd7a9e> <http://schema.org/latitude> "42.8034"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> <http://schema.org/id> "100112" .
+<http://lodlaundromat.org/.well-known/genid/Nf10d1be6f99144279936e4b614bac11a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6763c0fbcdc64a089379696cafcd7a9e> <http://schema.org/longitude> "13.9165"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf10d1be6f99144279936e4b614bac11a> .
+<http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/name> "Museo della cultura marinara"@it .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8034&mlon=13.9165#map=15/42.8034/13.9165> .
+<http://lodlaundromat.org/.well-known/genid/N6763c0fbcdc64a089379696cafcd7a9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd705226843264d2c98e46a7f4c623fff> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nde86c8d9975f429c90ceee43924db1c2> <http://schema.org/addressLocality> "Tortoreto" .
+<http://lodlaundromat.org/.well-known/genid/Nda7647cabfff4cc1bd8ca0b602ee28f0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6763c0fbcdc64a089379696cafcd7a9e> .
+

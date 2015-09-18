@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.5064&mlon=-99.5083#map=15/27.5064/-99.5083> .
+<http://lodlaundromat.org/.well-known/genid/N6b35fa7b898c498897a96a05a53ae0f7> <http://schema.org/value> "158348"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6b35fa7b898c498897a96a05a53ae0f7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> .
+<http://lodlaundromat.org/.well-known/genid/N02d90338c9e7401f8af5298f301efeff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> .
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> <http://schema.org/id> "8404800448" .
+<http://lodlaundromat.org/.well-known/genid/N02d90338c9e7401f8af5298f301efeff> <http://schema.org/latitude> "27.5064"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6b35fa7b898c498897a96a05a53ae0f7> .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N02d90338c9e7401f8af5298f301efeff> .
+<http://lodlaundromat.org/.well-known/genid/N6b35fa7b898c498897a96a05a53ae0f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://schema.org/name> "DOLLY RICHTER WATSON MEMORIAL FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7e4aa8e3424142928a63cf398af0ee02> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://schema.org/postalCode> "78042-1418" .
+<http://lodlaundromat.org/.well-known/genid/N02d90338c9e7401f8af5298f301efeff> <http://schema.org/longitude> "-99.5083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://schema.org/streetAddress> "PO BOX 1418" .
+<http://lodlaundromat.org/.well-known/genid/N7e0646548a6c42e1b1cea6e9990303c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b3e284c2f8246eaa3baff062de10259> <http://schema.org/addressLocality> "LAREDO" .
+

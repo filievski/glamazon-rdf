@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/name> "MANOOGIAN MANSION RESTORATION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> <http://schema.org/id> "8402600800" .
+<http://lodlaundromat.org/.well-known/genid/N6bea8cfe9c2948fe9966ec427053d95e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://schema.org/postalCode> "48214" .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6bea8cfe9c2948fe9966ec427053d95e> .
+<http://lodlaundromat.org/.well-known/genid/N6bea8cfe9c2948fe9966ec427053d95e> <http://schema.org/latitude> "42.3292"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3292&mlon=-83.0448#map=15/42.3292/-83.0448> .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://schema.org/streetAddress> "9240 DWIGHT ST" .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf0fdb0a590d049e6846bb01cf9b6906b> .
+<http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://schema.org/addressLocality> "DETROIT" .
+<http://lodlaundromat.org/.well-known/genid/N5fa1f316a47549b99e6258f1ba90a98c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2bffff3fb29243dcae3551882f36af24> .
+<http://lodlaundromat.org/.well-known/genid/Nf0fdb0a590d049e6846bb01cf9b6906b> <http://schema.org/value> "144263"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6bea8cfe9c2948fe9966ec427053d95e> <http://schema.org/longitude> "-83.0448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf0fdb0a590d049e6846bb01cf9b6906b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N981f1277bb6040268aacd8a413593095> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf0fdb0a590d049e6846bb01cf9b6906b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

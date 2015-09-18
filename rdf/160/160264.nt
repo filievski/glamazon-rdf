@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N13323add6dc44602b1273f8e16c3bffa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.962&mlon=-72.3272#map=15/43.962/-72.3272> .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N13323add6dc44602b1273f8e16c3bffa> .
+<http://lodlaundromat.org/.well-known/genid/N211ae4d73ba24c5492439736e1f5ea56> <http://schema.org/longitude> "-72.3272"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N211ae4d73ba24c5492439736e1f5ea56> .
+<http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> <http://schema.org/id> "8405000070" .
+<http://lodlaundromat.org/.well-known/genid/N13323add6dc44602b1273f8e16c3bffa> <http://schema.org/value> "160264"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N13323add6dc44602b1273f8e16c3bffa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://schema.org/streetAddress> "PO BOX 41" .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N211ae4d73ba24c5492439736e1f5ea56> <http://schema.org/latitude> "43.962"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://schema.org/addressLocality> "VERSHIRE" .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/name> "VERSHIRE HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> .
+<http://lodlaundromat.org/.well-known/genid/N211ae4d73ba24c5492439736e1f5ea56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8ca79d024b5b4e2cb372f86acb0cd317> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> .
+<http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbcd2f8f325164123b321098007d4c109> <http://schema.org/postalCode> "05079" .
+<http://lodlaundromat.org/.well-known/genid/N772a17febbf7457b93eea0db4ce81e8e> <http://schema.org/url> <http://www.imls.gov/> .
+

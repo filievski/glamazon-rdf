@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> <http://schema.org/addressLocality> "Varese" .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/url> <http://www.fondoambiente.it/beni/villa-e-collezione-panza.asp> .
+<http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N93248b6efcfa41b4aefe37407b29e42f> <http://schema.org/latitude> "45.8257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf269f92abec34f678593964c2fe38660> .
+<http://lodlaundromat.org/.well-known/genid/Ncf48d9e05d114d79b7e6aabee32a1380> <http://schema.org/value> "187220"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N93248b6efcfa41b4aefe37407b29e42f> <http://schema.org/longitude> "8.8287"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> .
+<http://lodlaundromat.org/.well-known/genid/Nf269f92abec34f678593964c2fe38660> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nf269f92abec34f678593964c2fe38660> <http://schema.org/contentUrl> <http://images.museums.io/gK8hZAgVXXR2M9vShiY4MI4-XbU=/1000x1000/museums/logos/000/187/220/original/c8bc2da186aea2e952788f102f3a9b22a46968.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.8257&mlon=8.8287#map=15/45.8257/8.8287> .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/telephone> "+39 0332283960" .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N93248b6efcfa41b4aefe37407b29e42f> .
+<http://lodlaundromat.org/.well-known/genid/N93248b6efcfa41b4aefe37407b29e42f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> <http://schema.org/id> "103842" .
+<http://lodlaundromat.org/.well-known/genid/Ncf48d9e05d114d79b7e6aabee32a1380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/name> "Villa e collezione Panza"@it .
+<http://lodlaundromat.org/.well-known/genid/Ncf48d9e05d114d79b7e6aabee32a1380> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc2f87bef03f5476c9b16921633dc2e30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncf48d9e05d114d79b7e6aabee32a1380> .
+<http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> <http://schema.org/streetAddress> "Piazzale Litta, ?" .
+<http://lodlaundromat.org/.well-known/genid/Nbed1fe15ddd74181bfac96e3d8d50dce> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N66e6c4de207f416fa09dc3aa7c68ec79> <http://schema.org/addressCountry> "Italy" .
+

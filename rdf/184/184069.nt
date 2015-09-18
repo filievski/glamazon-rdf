@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N8abe397efa8a4f1ebcc9ca018835c7d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb695914dc6fb4f538a448b2ec04de4d4> <http://schema.org/value> "184069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb695914dc6fb4f538a448b2ec04de4d4> .
+<http://lodlaundromat.org/.well-known/genid/N65e35c91cbc54f77ad95f25a36d01bff> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8abe397efa8a4f1ebcc9ca018835c7d8> <http://schema.org/latitude> "53.0696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb62b998194648fc871a3a2527410cee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/telephone> "+49 (0) 421 408899300" .
+<http://lodlaundromat.org/.well-known/genid/Neb62b998194648fc871a3a2527410cee> <http://schema.org/email> "mailto:mail@planetarium-bremen.de" .
+<http://lodlaundromat.org/.well-known/genid/N65e35c91cbc54f77ad95f25a36d01bff> <http://schema.org/url> <http://www.museums.io/en/museums/184069> .
+<http://lodlaundromat.org/.well-known/genid/N65e35c91cbc54f77ad95f25a36d01bff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb695914dc6fb4f538a448b2ec04de4d4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/name> "Olbers Planetarium"@en .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0696&mlon=8.80689#map=15/53.0696/8.80689> .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8abe397efa8a4f1ebcc9ca018835c7d8> .
+<http://lodlaundromat.org/.well-known/genid/N8abe397efa8a4f1ebcc9ca018835c7d8> <http://schema.org/longitude> "8.80689"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb695914dc6fb4f538a448b2ec04de4d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neb62b998194648fc871a3a2527410cee> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Neb62b998194648fc871a3a2527410cee> .
+<http://lodlaundromat.org/.well-known/genid/N65e35c91cbc54f77ad95f25a36d01bff> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/N0f70bede0e2c4b83b0c14ae26096c469> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N65e35c91cbc54f77ad95f25a36d01bff> .
+

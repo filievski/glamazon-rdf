@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9f2b502ccd83441d8243614b5d0ae265> <http://schema.org/value> "187362"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> <http://schema.org/addressLocality> "Civitanova Marche" .
+<http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.3046&mlon=13.7195#map=15/43.3046/13.7195> .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> .
+<http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9f2b502ccd83441d8243614b5d0ae265> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N4c61581494eb4864bc00b5dcd3bb1cd5> <http://schema.org/latitude> "43.3046"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4c61581494eb4864bc00b5dcd3bb1cd5> <http://schema.org/longitude> "13.7195"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4c61581494eb4864bc00b5dcd3bb1cd5> .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9f2b502ccd83441d8243614b5d0ae265> .
+<http://lodlaundromat.org/.well-known/genid/N9f2b502ccd83441d8243614b5d0ae265> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6371c9b3f16a4342af4ca45c2134a008> <http://schema.org/streetAddress> "Via Cento Fiorini, 25" .
+<http://lodlaundromat.org/.well-known/genid/N4c61581494eb4864bc00b5dcd3bb1cd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N86556da02def4dafbae17127d2b20f75> <http://schema.org/id> "104177" .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/name> "Museo delle arti e tradizioni popolari di Civitanova Marche"@it .
+<http://lodlaundromat.org/.well-known/genid/N7509083f5c354f76b0c5853945c175d7> <http://schema.org/telephone> "+39 0733781316" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9deff8b582d945e384ec7dc61ce763f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/name> "PEARSON AIR MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> <http://schema.org/id> "8405300716" .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://schema.org/postalCode> "98661-3802" .
+<http://lodlaundromat.org/.well-known/genid/N9deff8b582d945e384ec7dc61ce763f9> <http://schema.org/latitude> "45.6245"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9deff8b582d945e384ec7dc61ce763f9> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N289759dd4f564dd588a777d8c156d14a> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> .
+<http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://schema.org/streetAddress> "1115 E 5TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/url> <http://www.pearsonairmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/telephone> "+1 (360) 816-6230" .
+<http://lodlaundromat.org/.well-known/genid/N9deff8b582d945e384ec7dc61ce763f9> <http://schema.org/longitude> "-122.66"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d2ac6c9bcc74d888a51f4b22cef34f8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N289759dd4f564dd588a777d8c156d14a> <http://schema.org/value> "162267"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N289759dd4f564dd588a777d8c156d14a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3027a8876c524944bce003b065b69aea> <http://schema.org/addressLocality> "VANCOUVER" .
+<http://lodlaundromat.org/.well-known/genid/Nc325ec19a3aa479eb7d8a27fa51db736> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.6245&mlon=-122.66#map=15/45.6245/-122.66> .
+<http://lodlaundromat.org/.well-known/genid/N289759dd4f564dd588a777d8c156d14a> <http://schema.org/name> "id" .
+

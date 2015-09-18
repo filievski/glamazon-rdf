@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb3f7df3504bd5ad4b294c9aa91038> <http://schema.org/latitude> "44.7047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb3f7df3504bd5ad4b294c9aa91038> <http://schema.org/longitude> "-122.847"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://schema.org/addressLocality> "SCIO" .
+<http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://schema.org/postalCode> "97374" .
+<http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> .
+<http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> <http://schema.org/id> "8404100020" .
+<http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/telephone> "+1 (503) 394-2199" .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na64dc43c927a4339883b4918fe2894e4> .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7047&mlon=-122.847#map=15/44.7047/-122.847> .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://schema.org/streetAddress> "39004 NE 1ST AVE" .
+<http://lodlaundromat.org/.well-known/genid/N7eee3a18e1bc451c91da6063948785b1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7eee3a18e1bc451c91da6063948785b1> .
+<http://lodlaundromat.org/.well-known/genid/N7eee3a18e1bc451c91da6063948785b1> <http://schema.org/value> "154227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7eee3a18e1bc451c91da6063948785b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/name> "SCIO HISTORICAL DEPOT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N55913e29d3064399a8021b8a81b58977> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb3f7df3504bd5ad4b294c9aa91038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc56f0e31a394f4bb7a68b84b77a1065> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfbdb3f7df3504bd5ad4b294c9aa91038> .
+

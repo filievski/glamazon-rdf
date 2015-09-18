@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N1d95bb85b516420092635ca5d569a276> <http://schema.org/longitude> "-122.451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d95bb85b516420092635ca5d569a276> <http://schema.org/latitude> "37.8008"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://schema.org/postalCode> "94129-0456" .
+<http://lodlaundromat.org/.well-known/genid/N750b9c5dd8dd40e493931d92367f3343> <http://schema.org/value> "132209"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1d95bb85b516420092635ca5d569a276> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N750b9c5dd8dd40e493931d92367f3343> .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1d95bb85b516420092635ca5d569a276> .
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/name> "SAN FRANCISCO FRIENDS OF THE URBAN FOREST"@en .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> <http://schema.org/id> "8400602335" .
+<http://lodlaundromat.org/.well-known/genid/N750b9c5dd8dd40e493931d92367f3343> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N750b9c5dd8dd40e493931d92367f3343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://schema.org/streetAddress> "1007 GENERAL KENNEDY AVE #1" .
+<http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.8008&mlon=-122.451#map=15/37.8008/-122.451> .
+<http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N527b35f4d9c3445ca27a1a9768a2f0b6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N4ad9ea8b8dc94aba9ea58e593b80bfdb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N486eeb5a2f8947a19ba157ea86488867> .
+

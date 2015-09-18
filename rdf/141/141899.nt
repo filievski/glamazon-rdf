@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nfdab5c16fbb84876858b2ffcf4c242fa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfdab5c16fbb84876858b2ffcf4c242fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> <http://schema.org/id> "8402400192" .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22815db8124a45b3ba78a777ee54c77c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/name> "GIBSON ISLAND HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://schema.org/addressLocality> "GIBSON ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://schema.org/streetAddress> "PO BOX 85" .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N22815db8124a45b3ba78a777ee54c77c> <http://schema.org/longitude> "-76.4229"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N22815db8124a45b3ba78a777ee54c77c> .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfdab5c16fbb84876858b2ffcf4c242fa> .
+<http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N22815db8124a45b3ba78a777ee54c77c> <http://schema.org/latitude> "39.0776"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nabb34a2195434432a868d0cbe7324938> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfdab5c16fbb84876858b2ffcf4c242fa> <http://schema.org/value> "141899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd093dbe03d7447f7bfd09fdf88d471fb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0776&mlon=-76.4229#map=15/39.0776/-76.4229> .
+<http://lodlaundromat.org/.well-known/genid/Nd5b46fb81cfd44469ce88c6931a4cc76> <http://schema.org/postalCode> "21056" .
+

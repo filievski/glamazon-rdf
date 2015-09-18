@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N46222e1aa41e4c5b8f00ea8adb56e130> <http://schema.org/value> "186016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/Nefb1f68621e941c6992f52d0f310125f> <http://schema.org/latitude> "40.8674"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N46222e1aa41e4c5b8f00ea8adb56e130> .
+<http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> <http://schema.org/addressLocality> "Napoli" .
+<http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> .
+<http://lodlaundromat.org/.well-known/genid/N46222e1aa41e4c5b8f00ea8adb56e130> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nefb1f68621e941c6992f52d0f310125f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nefb1f68621e941c6992f52d0f310125f> .
+<http://lodlaundromat.org/.well-known/genid/Nefb1f68621e941c6992f52d0f310125f> <http://schema.org/longitude> "14.2492"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> .
+<http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> <http://schema.org/streetAddress> "Via Miano 2" .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/telephone> "+39 0817499111 - 081749915 - 848800288" .
+<http://lodlaundromat.org/.well-known/genid/N9ea82e0bca3d4395b56fc4ced01ececf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N46222e1aa41e4c5b8f00ea8adb56e130> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/name> "Museo di Capodimonte"@it .
+<http://lodlaundromat.org/.well-known/genid/N9ea82e0bca3d4395b56fc4ced01ececf> <http://schema.org/contentUrl> <http://images.museums.io/ZY6n2PVzRXMe-aST1tHUENCoY6c=/1000x1000/museums/logos/000/186/016/original/3a33a227204bfbacf116c3e72ddaa5e1e621e7e5.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> <http://schema.org/id> "20281" .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N9ea82e0bca3d4395b56fc4ced01ececf> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/url> <http://www.polomusealenapoli.beniculturali.it/> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2de50e15db3a4400b836caa7ac2a86d8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8674&mlon=14.2492#map=15/40.8674/14.2492> .
+<http://lodlaundromat.org/.well-known/genid/Nab56fc5519ba40f2ae930e801bf7ee2c> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Na192fb3f25224bff890db5d8fe17e859> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6093c346f3a04c0f8ca8bc8201a62241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://schema.org/streetAddress> "1701 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.9184&mlon=-91.6698#map=15/29.9184/-91.6698> .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6093c346f3a04c0f8ca8bc8201a62241> .
+<http://lodlaundromat.org/.well-known/genid/N513500eea388449f9b1c2208746ca8d4> <http://schema.org/value> "140900"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N513500eea388449f9b1c2208746ca8d4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://schema.org/postalCode> "70544-3401" .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N513500eea388449f9b1c2208746ca8d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N61c052f2887b4b53831baffe0e98837c> <http://schema.org/addressLocality> "JEANERETTE" .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/telephone> "+1 (337) 276-5004" .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/name> "JEANERETTE LANDMARK SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6093c346f3a04c0f8ca8bc8201a62241> <http://schema.org/longitude> "-91.6698"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6093c346f3a04c0f8ca8bc8201a62241> <http://schema.org/latitude> "29.9184"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3601476d5d634b15938caadbe6c5ff79> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N513500eea388449f9b1c2208746ca8d4> .
+<http://lodlaundromat.org/.well-known/genid/Nc26897d5bc134243a23fed2eb52bc7d9> <http://schema.org/id> "8402200182" .
+

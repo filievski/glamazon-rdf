@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N460f2027095b455f97e61beef6d71de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N748c3da6ec1245d5a9cf81fcc5589217> <http://schema.org/latitude> "41.2533"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N748c3da6ec1245d5a9cf81fcc5589217> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://schema.org/streetAddress> "1111 JONES ST" .
+<http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N460f2027095b455f97e61beef6d71de4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://schema.org/addressLocality> "OMAHA" .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> .
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N460f2027095b455f97e61beef6d71de4> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/name> "KANEKO"@en .
+<http://lodlaundromat.org/.well-known/genid/N460f2027095b455f97e61beef6d71de4> <http://schema.org/value> "146827"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N55a46f059cf54e0c832601c4369c0f09> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2533&mlon=-95.9308#map=15/41.2533/-95.9308> .
+<http://lodlaundromat.org/.well-known/genid/N2f9c42cebb1e43d9b99579bbbccf06f9> <http://schema.org/id> "8403100166" .
+<http://lodlaundromat.org/.well-known/genid/N8b8cc1af32ae4491a86bc144a6143ecf> <http://schema.org/postalCode> "68102-3221" .
+<http://lodlaundromat.org/.well-known/genid/N748c3da6ec1245d5a9cf81fcc5589217> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N748c3da6ec1245d5a9cf81fcc5589217> <http://schema.org/longitude> "-95.9308"^^<http://www.w3.org/2001/XMLSchema#double> .
+

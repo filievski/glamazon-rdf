@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nab403f0e03264ce9b0c012d60e4e913f> .
+<http://lodlaundromat.org/.well-known/genid/Nab403f0e03264ce9b0c012d60e4e913f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/name> "PRICE PIONEER MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://schema.org/postalCode> "81226" .
+<http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> <http://schema.org/id> "8400800628" .
+<http://lodlaundromat.org/.well-known/genid/Nbbd39668caa24e4f80e55b54b4ed42e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/Nbbd39668caa24e4f80e55b54b4ed42e6> <http://schema.org/value> "133452"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> .
+<http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/url> <http://www.pricepioneermuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.3805&mlon=-105.118#map=15/38.3805/-105.118> .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://schema.org/streetAddress> "PO BOX 131" .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/telephone> "+1 (719) 784-1904" .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nab403f0e03264ce9b0c012d60e4e913f> <http://schema.org/latitude> "38.3805"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c74c5e8dc504cfc97905a5795a03d2d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbbd39668caa24e4f80e55b54b4ed42e6> .
+<http://lodlaundromat.org/.well-known/genid/Ne577911980c948c78ddd1ded7cdb09bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nab403f0e03264ce9b0c012d60e4e913f> <http://schema.org/longitude> "-105.118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbd39668caa24e4f80e55b54b4ed42e6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9710bc9d11244ff482c4a887b08ada77> <http://schema.org/addressLocality> "FLORENCE" .
+

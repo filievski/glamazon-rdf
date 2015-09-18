@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> <http://schema.org/id> "8401000059" .
+<http://lodlaundromat.org/.well-known/genid/Nb2d1f9b40d794b9abeb4ce471bab7646> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7473&mlon=-75.5505#map=15/39.7473/-75.5505> .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://schema.org/addressRegion> "DE" .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://schema.org/postalCode> "19801-1058" .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> .
+<http://lodlaundromat.org/.well-known/genid/Nb2d1f9b40d794b9abeb4ce471bab7646> <http://schema.org/longitude> "-75.5505"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N83bef354699e4292b84f2b676fa8482d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> .
+<http://lodlaundromat.org/.well-known/genid/N83bef354699e4292b84f2b676fa8482d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb2d1f9b40d794b9abeb4ce471bab7646> <http://schema.org/latitude> "39.7473"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2d1f9b40d794b9abeb4ce471bab7646> .
+<http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N83bef354699e4292b84f2b676fa8482d> <http://schema.org/value> "134127"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://schema.org/streetAddress> "1000 N WEST STREET SUITE 1200" .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N83bef354699e4292b84f2b676fa8482d> .
+<http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N61d8ff01ccb54e2eb324ffce7266d1d2> <http://schema.org/name> "FRIENDS OF THE CERTOSA DI CAPRI INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://schema.org/addressLocality> "WILMINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N2a6f6e68b987404cbe75fef29d0c0c19> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4f208291ba7a4c318513b1285d0d0ddd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

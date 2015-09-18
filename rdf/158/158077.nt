@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N4cffd1c09ad04e72ad246ebcde343cc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N733907fe283d4c1d9819b6445e676dbe> .
+<http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> <http://schema.org/id> "8404800177" .
+<http://lodlaundromat.org/.well-known/genid/N733907fe283d4c1d9819b6445e676dbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N733907fe283d4c1d9819b6445e676dbe> <http://schema.org/longitude> "-95.6471"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4cffd1c09ad04e72ad246ebcde343cc2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N733907fe283d4c1d9819b6445e676dbe> <http://schema.org/latitude> "29.7387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://schema.org/streetAddress> "2370 BARKER OAKS DR" .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4cffd1c09ad04e72ad246ebcde343cc2> .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> .
+<http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.7387&mlon=-95.6471#map=15/29.7387/-95.6471> .
+<http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/url> <http://houstonmasoniclibrary.org/> .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/name> "HOUSTON MASONIC LIBRARY AND MUSEUM FOUNDAT"@en .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/telephone> "+1 (281) 497-6161" .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://schema.org/postalCode> "77077" .
+<http://lodlaundromat.org/.well-known/genid/N4cffd1c09ad04e72ad246ebcde343cc2> <http://schema.org/value> "158077"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N493928f743944b00af001f33f6a017b5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> .
+<http://lodlaundromat.org/.well-known/genid/Nb64e6bbee6e6460583990e23e174c4ba> <http://schema.org/addressLocality> "HOUSTON" .
+<http://lodlaundromat.org/.well-known/genid/N8530f4ee5a5342a1ab3371e77ab65551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

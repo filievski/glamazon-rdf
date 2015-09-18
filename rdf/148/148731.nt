@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N08a9d3de6fca4c2dbc1a945f8f62eff1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Neff6fdc6e3ef484d8a8a483766c3d244> <http://schema.org/latitude> "42.9591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neff6fdc6e3ef484d8a8a483766c3d244> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9591&mlon=-78.7533#map=15/42.9591/-78.7533> .
+<http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Neff6fdc6e3ef484d8a8a483766c3d244> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08a9d3de6fca4c2dbc1a945f8f62eff1> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/telephone> "+1 (716) 633-7002" .
+<http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> <http://schema.org/id> "8403600025" .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/name> "WESTERN NEW YORK RY HISTORICAL SOC"@en .
+<http://lodlaundromat.org/.well-known/genid/N08a9d3de6fca4c2dbc1a945f8f62eff1> <http://schema.org/value> "148731"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://schema.org/postalCode> "14221" .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://schema.org/streetAddress> "86 S LONG ST" .
+<http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3d03d631b9d6446ea85572d10fb0670d> <http://schema.org/addressLocality> "WILLIAMSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4e9c77a0465244bba2f6414903c3b5d1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N316b8f44b5984489bf1da484b92edfea> .
+<http://lodlaundromat.org/.well-known/genid/N08a9d3de6fca4c2dbc1a945f8f62eff1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neff6fdc6e3ef484d8a8a483766c3d244> <http://schema.org/longitude> "-78.7533"^^<http://www.w3.org/2001/XMLSchema#double> .
+

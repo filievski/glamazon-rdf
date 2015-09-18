@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/name> "PETERSBURG MUSEUMS FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> <http://schema.org/id> "8405100364" .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3217bf7ad8c148339e6dc56bede06f94> .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://schema.org/addressLocality> "PETERSBURG" .
+<http://lodlaundromat.org/.well-known/genid/Nd57371a8f37b41d984a993928fcc492c> <http://schema.org/longitude> "-77.4205"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3217bf7ad8c148339e6dc56bede06f94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3217bf7ad8c148339e6dc56bede06f94> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://schema.org/postalCode> "23804" .
+<http://lodlaundromat.org/.well-known/genid/Nd57371a8f37b41d984a993928fcc492c> <http://schema.org/latitude> "37.223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.223&mlon=-77.4205#map=15/37.223/-77.4205> .
+<http://lodlaundromat.org/.well-known/genid/N3217bf7ad8c148339e6dc56bede06f94> <http://schema.org/value> "160858"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd57371a8f37b41d984a993928fcc492c> .
+<http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N12b655cfa5dd41dd8689597fb6bf2702> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1cbd75c884204fa79acfce8fafa4a8e1> <http://schema.org/streetAddress> "PO BOX 544" .
+<http://lodlaundromat.org/.well-known/genid/Nbd7a54990c694f11ba039aee6c0346b0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd57371a8f37b41d984a993928fcc492c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

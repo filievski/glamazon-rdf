@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://schema.org/postalCode> "86633" .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/name> "Schlossmuseum Neuburg \u2013 Abteilung Pfalz-Neuburg"@en .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N371dbd39d96b4c8a917461f8d99f7df8> .
+<http://lodlaundromat.org/.well-known/genid/N371dbd39d96b4c8a917461f8d99f7df8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd8577f727d4cceb132839d8973bebc> <http://schema.org/value> "183325"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N389bec3797644782bd9b4ed72aa8c3fc> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd8577f727d4cceb132839d8973bebc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncfd8577f727d4cceb132839d8973bebc> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/url> <http://www.schloesser.bayern.de/deutsch/schloss/objekte/neuburg.htm> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd8577f727d4cceb132839d8973bebc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N389bec3797644782bd9b4ed72aa8c3fc> <http://schema.org/url> <http://www.museums.io/en/museums/183325> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.7371&mlon=11.1805#map=15/48.7371/11.1805> .
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://schema.org/addressLocality> "Neuburg" .
+<http://lodlaundromat.org/.well-known/genid/N389bec3797644782bd9b4ed72aa8c3fc> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N371dbd39d96b4c8a917461f8d99f7df8> <http://schema.org/longitude> "11.1805"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N70e6b186da9d4782b9c34ac98cb6c6ae> <http://schema.org/streetAddress> "Residenzstra\u00DFe A 2" .
+<http://lodlaundromat.org/.well-known/genid/N389bec3797644782bd9b4ed72aa8c3fc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N93a08da623b649379bf09d7cf4f5d5fb> <http://schema.org/telephone> "08431/6443-0" .
+<http://lodlaundromat.org/.well-known/genid/N389bec3797644782bd9b4ed72aa8c3fc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N371dbd39d96b4c8a917461f8d99f7df8> <http://schema.org/latitude> "48.7371"^^<http://www.w3.org/2001/XMLSchema#double> .
+

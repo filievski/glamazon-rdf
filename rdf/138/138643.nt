@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3817c9ed492842da98e4c19535c10717> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7866&mlon=-85.9714#map=15/39.7866/-85.9714> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3817c9ed492842da98e4c19535c10717> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://schema.org/streetAddress> "PO BOX 29061" .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> .
+<http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> <http://schema.org/id> "8401800429" .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/telephone> "+1 (317) 883-4721" .
+<http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naa9201cea4ed43429a64c6f9feb53b4a> .
+<http://lodlaundromat.org/.well-known/genid/Naa9201cea4ed43429a64c6f9feb53b4a> <http://schema.org/latitude> "39.7866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Naa9201cea4ed43429a64c6f9feb53b4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/name> "AMERICAN MILTARY HERITAGE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N3817c9ed492842da98e4c19535c10717> <http://schema.org/value> "138643"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/url> <http://www.amhf.org/> .
+<http://lodlaundromat.org/.well-known/genid/N0899f5fcabb841b7b78b8e47324b8378> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> .
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://schema.org/postalCode> "46229-0061" .
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3817c9ed492842da98e4c19535c10717> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1b25dbfb16ff4446bc5f7ffccbd15e05> <http://schema.org/addressLocality> "INDIANAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/Nf0a1b26b55354d9592a685490ba92cc5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Naa9201cea4ed43429a64c6f9feb53b4a> <http://schema.org/longitude> "-85.9714"^^<http://www.w3.org/2001/XMLSchema#double> .
+

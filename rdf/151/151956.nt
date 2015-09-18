@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N020c9fca2f1740a0adec10275a2ba26a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N020c9fca2f1740a0adec10275a2ba26a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> .
+<http://lodlaundromat.org/.well-known/genid/N020c9fca2f1740a0adec10275a2ba26a> <http://schema.org/value> "151956"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb7162e907fb04adf8cb20499ce683383> <http://schema.org/longitude> "-82.5604"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N020c9fca2f1740a0adec10275a2ba26a> .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nb7162e907fb04adf8cb20499ce683383> <http://schema.org/latitude> "35.6979"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/telephone> "+1 (828) 250-6482" .
+<http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.6979&mlon=-82.5604#map=15/35.6979/-82.5604> .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://schema.org/postalCode> "28787-0413" .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb7162e907fb04adf8cb20499ce683383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/url> <http://www.ashevilleguidebook.com/wnc/cultural-attractions/dry_ridge_historical_museum.htm> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/name> "THE DRY RIDGE HISTORICAL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> <http://schema.org/id> "8403700827" .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://schema.org/streetAddress> "PO BOX 413" .
+<http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb7162e907fb04adf8cb20499ce683383> .
+<http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N76a3bd4c4af9499aaebff32a3e8608bf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfb02b4c18eb341a8b07ccb344208f34a> .
+<http://lodlaundromat.org/.well-known/genid/N1c5e6aaf8b2b46e28df277777040592a> <http://schema.org/addressLocality> "WEAVERVILLE" .
+

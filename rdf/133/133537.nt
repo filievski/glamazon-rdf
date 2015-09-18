@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/name> "THANKFUL ARNOLD HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> .
+<http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N35549dce91d247658cf9972e8b44f10b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35549dce91d247658cf9972e8b44f10b> .
+<http://lodlaundromat.org/.well-known/genid/N35549dce91d247658cf9972e8b44f10b> <http://schema.org/value> "133537"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://schema.org/streetAddress> "14 HAYDEN HILL RD" .
+<http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/telephone> "+1 (860) 345-2400" .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://schema.org/postalCode> "06438" .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://schema.org/addressLocality> "HADDAM" .
+<http://lodlaundromat.org/.well-known/genid/Nc28fc6bfb0d1418a902e78a67199dbba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N35549dce91d247658cf9972e8b44f10b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc28fc6bfb0d1418a902e78a67199dbba> .
+<http://lodlaundromat.org/.well-known/genid/Nc28fc6bfb0d1418a902e78a67199dbba> <http://schema.org/latitude> "41.4804"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4fbeecb6dc884795bc2cd919fbd3b373> <http://schema.org/id> "8400900012" .
+<http://lodlaundromat.org/.well-known/genid/N19e8a8f42de74a7ab41e3b0e7cbc13bd> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/Nc28fc6bfb0d1418a902e78a67199dbba> <http://schema.org/longitude> "-72.517"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf63794477244f65957cbdf13adb7931> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4804&mlon=-72.517#map=15/41.4804/-72.517> .
+

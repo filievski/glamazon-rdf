@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2233&mlon=-93.2406#map=15/41.2233/-93.2406> .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5f4506505e1c41b0a831e2fe6cb68d76> .
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5f4506505e1c41b0a831e2fe6cb68d76> <http://schema.org/value> "139515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7b6d81a07ba4d5987d971d093c39076> .
+<http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7b6d81a07ba4d5987d971d093c39076> <http://schema.org/latitude> "41.2233"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5f4506505e1c41b0a831e2fe6cb68d76> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/name> "MELCHER-DALLAS COALMINING & HERITAGE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> .
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://schema.org/streetAddress> "PO BOX 412" .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> .
+<http://lodlaundromat.org/.well-known/genid/N2c7d5dec353f4c94ab80393379318147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5df917bae7dc4ee4b56c28f3670ade55> <http://schema.org/id> "8401900552" .
+<http://lodlaundromat.org/.well-known/genid/Nc7b6d81a07ba4d5987d971d093c39076> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5f4506505e1c41b0a831e2fe6cb68d76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://schema.org/postalCode> "50163" .
+<http://lodlaundromat.org/.well-known/genid/N45b7a9bae6794f3aa909f4d7b468c99b> <http://schema.org/addressLocality> "MELCHER" .
+<http://lodlaundromat.org/.well-known/genid/Nc7b6d81a07ba4d5987d971d093c39076> <http://schema.org/longitude> "-93.2406"^^<http://www.w3.org/2001/XMLSchema#double> .
+

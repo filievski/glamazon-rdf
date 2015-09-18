@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://schema.org/addressLocality> "BEREA" .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://schema.org/postalCode> "44017-0124" .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/name> "BEREA LITTLE RED SCHOOL HOUSE FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> .
+<http://lodlaundromat.org/.well-known/genid/Nd488d1a3ab8041f0a736f638b126be27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd488d1a3ab8041f0a736f638b126be27> .
+<http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3724&mlon=-81.8413#map=15/41.3724/-81.8413> .
+<http://lodlaundromat.org/.well-known/genid/Nd488d1a3ab8041f0a736f638b126be27> <http://schema.org/latitude> "41.3724"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd488d1a3ab8041f0a736f638b126be27> <http://schema.org/longitude> "-81.8413"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N83ff6b295e094a2d956659ea0a98ff98> <http://schema.org/value> "153404"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N83ff6b295e094a2d956659ea0a98ff98> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N83ff6b295e094a2d956659ea0a98ff98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N83ff6b295e094a2d956659ea0a98ff98> .
+<http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://schema.org/streetAddress> "PO BOX 124" .
+<http://lodlaundromat.org/.well-known/genid/N1c84d04750444e5784a9352a6216f38f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N68d185df59354c008b57cb4a0ccb6885> <http://schema.org/id> "8403901182" .
+<http://lodlaundromat.org/.well-known/genid/N94e373bfbbd945e282c18037c9e2f8e3> <http://schema.org/telephone> "+1 (440) 234-5777" .
+

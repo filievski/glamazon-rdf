@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> .
+<http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> <http://schema.org/id> "8405500515" .
+<http://lodlaundromat.org/.well-known/genid/N298e911eae084294a49cecbec41d3ca4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N298e911eae084294a49cecbec41d3ca4> <http://schema.org/longitude> "-88.1582"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nce2f150576954aa58be036165111ff01> <http://schema.org/value> "163066"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N298e911eae084294a49cecbec41d3ca4> .
+<http://lodlaundromat.org/.well-known/genid/N298e911eae084294a49cecbec41d3ca4> <http://schema.org/latitude> "42.957"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.957&mlon=-88.1582#map=15/42.957/-88.1582> .
+<http://lodlaundromat.org/.well-known/genid/N60ce2c419e3c492f8b8f048cbe827380> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://schema.org/streetAddress> "19885 RACINE AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nce2f150576954aa58be036165111ff01> .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> .
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://schema.org/postalCode> "53146" .
+<http://lodlaundromat.org/.well-known/genid/Nce2f150576954aa58be036165111ff01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/name> "NEW BERLIN HISTORICAL SOCIETY INC C/O JACKIE HERMANN"@en .
+<http://lodlaundromat.org/.well-known/genid/N34f9aa72effc40adab36f59f83c4ec77> <http://schema.org/addressLocality> "NEW BERLIN" .
+<http://lodlaundromat.org/.well-known/genid/Nf50c28a2cfbe435ab48d33ea657a6c22> <http://schema.org/url> <http://www.newberlinhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nce2f150576954aa58be036165111ff01> <http://schema.org/name> "id" .
+

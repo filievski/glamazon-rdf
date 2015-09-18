@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N0dcb14749f814da98b289642a1e4afba> <http://schema.org/value> "189307"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c8fa0cbf0be43138afb7445bd68d6f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/name> "Campanile di San Fortunato"@it .
+<http://lodlaundromat.org/.well-known/genid/N5c8fa0cbf0be43138afb7445bd68d6f3> <http://schema.org/longitude> "12.4068"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0dcb14749f814da98b289642a1e4afba> .
+<http://lodlaundromat.org/.well-known/genid/N5c8fa0cbf0be43138afb7445bd68d6f3> <http://schema.org/latitude> "42.7802"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5c8fa0cbf0be43138afb7445bd68d6f3> .
+<http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N10a1063213f6476daf9712d2c8021bd6> <http://schema.org/contentUrl> <http://images.museums.io/UcrRhsMDRP5CgV2_WzCq5KRgumY=/1000x1000/museums/logos/000/189/307/original/979870b11e909990cf51b7ae7e75c255ea98e1.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> <http://schema.org/id> "100754" .
+<http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0dcb14749f814da98b289642a1e4afba> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> <http://schema.org/streetAddress> "Via San Fortunato, " .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> .
+<http://lodlaundromat.org/.well-known/genid/N10a1063213f6476daf9712d2c8021bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0dcb14749f814da98b289642a1e4afba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> <http://schema.org/addressLocality> "Todi" .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46b9d2c892bf46c4af69665d993cd61b> .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc9f19dc610bf4997a4cae3a3e29e04f3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/telephone> "+39 0758945311" .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N10a1063213f6476daf9712d2c8021bd6> .
+<http://lodlaundromat.org/.well-known/genid/N7be507c1ff0046fcbf55d2ad11148be0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7802&mlon=12.4068#map=15/42.7802/12.4068> .
+

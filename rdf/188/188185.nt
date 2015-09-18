@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/name> "Natural History Museum of Salento"@en .
+<http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> <http://schema.org/addressRegion> "Puglia" .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> .
+<http://lodlaundromat.org/.well-known/genid/N5d71c384edfb4ed0b469af515a99c53c> <http://schema.org/contentUrl> <http://images.museums.io/-zFCmbyzFSYd5WMHa53mm8SFZAw=/1000x1000/museums/logos/000/188/185/original/6f3c83204c9563bd546c22c39b5e915193f73cc5.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N5d71c384edfb4ed0b469af515a99c53c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N801f94a280224736b3c9f1078cefef6c> .
+<http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> <http://schema.org/id> "102393" .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/name> "Museo di storia naturale del Salento"@it .
+<http://lodlaundromat.org/.well-known/genid/Nda89dc7d12bf41a08d4ecfcafbd6da6e> <http://schema.org/value> "188185"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nda89dc7d12bf41a08d4ecfcafbd6da6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5d71c384edfb4ed0b469af515a99c53c> .
+<http://lodlaundromat.org/.well-known/genid/N801f94a280224736b3c9f1078cefef6c> <http://schema.org/longitude> "18.2837"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> <http://schema.org/addressLocality> "Calimera" .
+<http://lodlaundromat.org/.well-known/genid/N801f94a280224736b3c9f1078cefef6c> <http://schema.org/latitude> "40.247"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/telephone> "+39 0832875301" .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N801f94a280224736b3c9f1078cefef6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> <http://schema.org/streetAddress> "Via Europa 95 , " .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nda89dc7d12bf41a08d4ecfcafbd6da6e> .
+<http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9ddc558b89694449a647e538d6d0a1be> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> .
+<http://lodlaundromat.org/.well-known/genid/Nda89dc7d12bf41a08d4ecfcafbd6da6e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.247&mlon=18.2837#map=15/40.247/18.2837> .
+<http://lodlaundromat.org/.well-known/genid/Ne97b44d903194f4a8a0556725215aa9f> <http://schema.org/url> <http://www.museocalimera.it/> .
+<http://lodlaundromat.org/.well-known/genid/N8dd97509479a410f97b303f183dec784> <http://schema.org/@Type> "Dataset" .
+

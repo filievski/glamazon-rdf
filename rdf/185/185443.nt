@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/name> "Haapaj\u00E4rvi Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b32d5a9c56c420087d7689a71a2a24b> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0297729803554831a547dd565d123af3> .
+<http://lodlaundromat.org/.well-known/genid/N0297729803554831a547dd565d123af3> <http://schema.org/longitude> "25.3305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nabd0d86fead04d60be6a6cb6723e7c1f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b83544c89644dc5aa39014d01aa444a> <http://schema.org/value> "185443"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nabd0d86fead04d60be6a6cb6723e7c1f> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.3305&mlon=25.3305#map=15/25.3305/25.3305> .
+<http://lodlaundromat.org/.well-known/genid/N0297729803554831a547dd565d123af3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nabd0d86fead04d60be6a6cb6723e7c1f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0297729803554831a547dd565d123af3> <http://schema.org/latitude> "25.3305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/url> <http://haapajarviseura.fi/> .
+<http://lodlaundromat.org/.well-known/genid/N0b32d5a9c56c420087d7689a71a2a24b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nabd0d86fead04d60be6a6cb6723e7c1f> <http://schema.org/url> <http://www.museums.io/en/museums/185443> .
+<http://lodlaundromat.org/.well-known/genid/N8b83544c89644dc5aa39014d01aa444a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb9c63207010e439a8644804ca97723af> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8b83544c89644dc5aa39014d01aa444a> .
+<http://lodlaundromat.org/.well-known/genid/N8b83544c89644dc5aa39014d01aa444a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nabd0d86fead04d60be6a6cb6723e7c1f> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N0b32d5a9c56c420087d7689a71a2a24b> <http://schema.org/addressCountry> "Finland" .
+

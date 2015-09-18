@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/name> "FULLER CRAFT MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://schema.org/streetAddress> "CO JONATHAN FAIRBANKS" .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0788&mlon=-71.0396#map=15/42.0788/-71.0396> .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> .
+<http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N03b6524eca8c4537a7b67ddfbe8f27d4> .
+<http://lodlaundromat.org/.well-known/genid/N03b6524eca8c4537a7b67ddfbe8f27d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8fa6214b6e5e46ec8fda58263fda30a6> .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/url> <http://www.fullercraft.org/> .
+<http://lodlaundromat.org/.well-known/genid/N8fa6214b6e5e46ec8fda58263fda30a6> <http://schema.org/value> "143145"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N747af7f24d61481786a1334de85e8d6d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8fa6214b6e5e46ec8fda58263fda30a6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N03b6524eca8c4537a7b67ddfbe8f27d4> <http://schema.org/latitude> "42.0788"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N03b6524eca8c4537a7b67ddfbe8f27d4> <http://schema.org/longitude> "-71.0396"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8fa6214b6e5e46ec8fda58263fda30a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://schema.org/postalCode> "2301" .
+<http://lodlaundromat.org/.well-known/genid/Nc38e55beade847e99cc2df1ceec1acc3> <http://schema.org/id> "8402500775" .
+<http://lodlaundromat.org/.well-known/genid/N84e3d4fbe16d47068adb1c3de940015d> <http://schema.org/addressLocality> "BROCKTON" .
+

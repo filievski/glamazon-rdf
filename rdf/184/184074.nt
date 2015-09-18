@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Ncc9c983ba661421dba3522ca94fce49e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3e0d212530b446a4bddad7b294403fff> <http://schema.org/value> "184074"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.054&mlon=8.9062#map=15/53.054/8.9062> .
+<http://lodlaundromat.org/.well-known/genid/N629da617565b4d8e8a738df63fc94531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N629da617565b4d8e8a738df63fc94531> .
+<http://lodlaundromat.org/.well-known/genid/N3d633284042c4da3a2e2d30afc8fb7fc> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d633284042c4da3a2e2d30afc8fb7fc> .
+<http://lodlaundromat.org/.well-known/genid/N3d633284042c4da3a2e2d30afc8fb7fc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc9c983ba661421dba3522ca94fce49e> <http://schema.org/longitude> "8.9062"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N629da617565b4d8e8a738df63fc94531> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncc9c983ba661421dba3522ca94fce49e> .
+<http://lodlaundromat.org/.well-known/genid/N3e0d212530b446a4bddad7b294403fff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d633284042c4da3a2e2d30afc8fb7fc> <http://schema.org/url> <http://www.museums.io/en/museums/184074> .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/name> "Mercedes-Benz factory tour"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne063405e09574bd09e1c4098b82124f3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3e0d212530b446a4bddad7b294403fff> .
+<http://lodlaundromat.org/.well-known/genid/N3d633284042c4da3a2e2d30afc8fb7fc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3e0d212530b446a4bddad7b294403fff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncc9c983ba661421dba3522ca94fce49e> <http://schema.org/latitude> "53.054"^^<http://www.w3.org/2001/XMLSchema#double> .
+

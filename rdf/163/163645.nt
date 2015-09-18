@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/telephone> "(03) 8825 4600" .
+<http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N63977a4927314534b130ecb5943be0c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c823df1f464daf818b7f5d7d357164> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7c823df1f464daf818b7f5d7d357164> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8455&mlon=145.007#map=15/-37.8455/145.007> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c823df1f464daf818b7f5d7d357164> <http://schema.org/longitude> "145.007"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8eeddb6ab3474ac5b6ef58d3cc981856> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c823df1f464daf818b7f5d7d357164> <http://schema.org/latitude> "-37.8455"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8eeddb6ab3474ac5b6ef58d3cc981856> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> <http://schema.org/id> "australian-dental-association-victorian-branch-archives" .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/name> "Australian Dental Association Victorian Branch Archives"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N63977a4927314534b130ecb5943be0c8> .
+<http://lodlaundromat.org/.well-known/genid/N63977a4927314534b130ecb5943be0c8> <http://schema.org/value> "163645"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8eeddb6ab3474ac5b6ef58d3cc981856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> .
+<http://lodlaundromat.org/.well-known/genid/N7a23b87b610a4b2094a7afcd65cc794b> <http://schema.org/url> <http://victoriancollections.net.au/organisations/australian-dental-association-victorian-branch-archives> .
+<http://lodlaundromat.org/.well-known/genid/N7d43469bade64f68ba24c748535ce1fa> <http://schema.org/url> <http://archive.adavb.org/> .
+<http://lodlaundromat.org/.well-known/genid/N63977a4927314534b130ecb5943be0c8> <http://schema.org/name> "id" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3ec37fa785914c9c86edb5b7efdc0757> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ec37fa785914c9c86edb5b7efdc0757> .
+<http://lodlaundromat.org/.well-known/genid/N3ec37fa785914c9c86edb5b7efdc0757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/url> <http://cheraw.com/> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.6975&mlon=-79.8834#map=15/34.6975/-79.8834> .
+<http://lodlaundromat.org/.well-known/genid/N49950b55249a450d9afd2dca5732fe66> <http://schema.org/longitude> "-79.8834"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> <http://schema.org/id> "8404500073" .
+<http://lodlaundromat.org/.well-known/genid/N3ec37fa785914c9c86edb5b7efdc0757> <http://schema.org/value> "156778"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N49950b55249a450d9afd2dca5732fe66> .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N49950b55249a450d9afd2dca5732fe66> <http://schema.org/latitude> "34.6975"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49950b55249a450d9afd2dca5732fe66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://schema.org/addressLocality> "CHERAW" .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://schema.org/postalCode> "29520" .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4fdfa93cd3a42969d0d376e95c9482a> <http://schema.org/streetAddress> "200 MARKET ST" .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/name> "CHERAW LYCEUM MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e0599f548954a46ada9babfbd7439eb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61f28783a8b1478a83a5e7c25ca2a4bc> <http://schema.org/telephone> "+1 (843) 537-8401" .
+

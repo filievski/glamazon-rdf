@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N249e45c4eb5146e8ab1867f3daf0241f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N249e45c4eb5146e8ab1867f3daf0241f> <http://schema.org/latitude> "37.3682"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://schema.org/streetAddress> "PO BOX 14" .
+<http://lodlaundromat.org/.well-known/genid/N249e45c4eb5146e8ab1867f3daf0241f> <http://schema.org/longitude> "-85.3591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndd406c7e73044e05a6616358fd7cec60> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N249e45c4eb5146e8ab1867f3daf0241f> .
+<http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/name> "TAYLOR COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://schema.org/addressLocality> "CAMPBELLSVLLE" .
+<http://lodlaundromat.org/.well-known/genid/Ndd406c7e73044e05a6616358fd7cec60> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> <http://schema.org/id> "8402100131" .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndd406c7e73044e05a6616358fd7cec60> <http://schema.org/value> "140374"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndd406c7e73044e05a6616358fd7cec60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> .
+<http://lodlaundromat.org/.well-known/genid/N0b139cb82b904ac2b319bdf0f6d57af5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3682&mlon=-85.3591#map=15/37.3682/-85.3591> .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b3ea89305da417eaf642b43ff94e1da> <http://schema.org/postalCode> "42718" .
+<http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N65a15c297fac42f4bed570421a15635c> <http://schema.org/name> "us" .
+

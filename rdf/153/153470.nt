@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N79931862dea740a199c26278f3102be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/name> "CLEVELAND GRAYS"@en .
+<http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d86425168f549fe84d27faa304826ce> <http://schema.org/value> "153470"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d86425168f549fe84d27faa304826ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> <http://schema.org/id> "8403901248" .
+<http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://schema.org/streetAddress> "1234 BOLIVAR RD" .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d86425168f549fe84d27faa304826ce> .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N79931862dea740a199c26278f3102be0> <http://schema.org/longitude> "-81.6821"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://schema.org/postalCode> "44115" .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://schema.org/addressLocality> "CLEVELAND" .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N79931862dea740a199c26278f3102be0> .
+<http://lodlaundromat.org/.well-known/genid/N79931862dea740a199c26278f3102be0> <http://schema.org/latitude> "41.4992"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3c7576b7a2d40f6ba3b382e8b302bc2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4992&mlon=-81.6821#map=15/41.4992/-81.6821> .
+<http://lodlaundromat.org/.well-known/genid/N5d86425168f549fe84d27faa304826ce> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N103ed15721dd458bb82a196dd5ffca3b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N33771dfead154afeb5ec1a345a315c4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

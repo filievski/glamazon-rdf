@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N70b362808e80454a92613a4f547f6539> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67eb7a5d7fab44b6b4e23fda6493a5a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N67eb7a5d7fab44b6b4e23fda6493a5a7> <http://schema.org/longitude> "-95.47"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://schema.org/streetAddress> "501 ZOBEL LANE" .
+<http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://schema.org/addressLocality> "IDA GROVE" .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N70b362808e80454a92613a4f547f6539> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3345&mlon=-95.47#map=15/42.3345/-95.47> .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N67eb7a5d7fab44b6b4e23fda6493a5a7> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/url> <http://iagenweb.org/> .
+<http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> <http://schema.org/id> "8401900199" .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> .
+<http://lodlaundromat.org/.well-known/genid/N67eb7a5d7fab44b6b4e23fda6493a5a7> <http://schema.org/latitude> "42.3345"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N70b362808e80454a92613a4f547f6539> <http://schema.org/value> "139162"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://schema.org/postalCode> "51445" .
+<http://lodlaundromat.org/.well-known/genid/N76ebd90c90194a929f5e8b3b7af333cd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N70b362808e80454a92613a4f547f6539> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N53753415c602425bada91e319a60eed8> <http://schema.org/name> "IDA COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N33b484a5cae74906b842d557229906f9> <http://schema.org/addressRegion> "IA" .
+

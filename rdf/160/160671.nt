@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/name> "ALEXANDRIA BLACK HISTORY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1be2da75a0ff4388b8af40d22278733c> <http://schema.org/longitude> "-77.0478"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://schema.org/postalCode> "22314" .
+<http://lodlaundromat.org/.well-known/genid/N4f0bba3d38b64de9a671d90118090bd5> <http://schema.org/value> "160671"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://schema.org/streetAddress> "902 WYTHE ST" .
+<http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> <http://schema.org/id> "8405100177" .
+<http://lodlaundromat.org/.well-known/genid/N1be2da75a0ff4388b8af40d22278733c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N73a5330d87c948d4a7af414d608f2a5f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4f0bba3d38b64de9a671d90118090bd5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f0bba3d38b64de9a671d90118090bd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1be2da75a0ff4388b8af40d22278733c> <http://schema.org/latitude> "38.8122"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1be2da75a0ff4388b8af40d22278733c> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4f0bba3d38b64de9a671d90118090bd5> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8122&mlon=-77.0478#map=15/38.8122/-77.0478> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/url> <http://www.alexblackhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N595648cff4264c19a709e221b245819c> <http://schema.org/telephone> "+1 (703) 838-4356" .
+<http://lodlaundromat.org/.well-known/genid/Ned559d67279347dc800662a1ceea2f1b> <http://schema.org/addressLocality> "ALEXANDRIA" .
+

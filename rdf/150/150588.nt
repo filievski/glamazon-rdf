@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0efa372e60ca47969392fb315191d553> <http://schema.org/longitude> "-73.4813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://schema.org/postalCode> "12944" .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://schema.org/streetAddress> "1745 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N0efa372e60ca47969392fb315191d553> <http://schema.org/latitude> "44.5054"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6555a73c5a7c4fd5b771bc23d96fa256> <http://schema.org/value> "150588"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> <http://schema.org/id> "8403601882" .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6555a73c5a7c4fd5b771bc23d96fa256> .
+<http://lodlaundromat.org/.well-known/genid/N0efa372e60ca47969392fb315191d553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.5054&mlon=-73.4813#map=15/44.5054/-73.4813> .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6555a73c5a7c4fd5b771bc23d96fa256> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N46c7d494b9084cb59f769060f8b38371> <http://schema.org/addressLocality> "KEESEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/name> "ADIRONDACK ARCHITECTURAL HERITAGE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd9653028fdab46ae887335e65bb1b67d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0efa372e60ca47969392fb315191d553> .
+<http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7698b32c64d64c269483e458d8fbef4b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6555a73c5a7c4fd5b771bc23d96fa256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

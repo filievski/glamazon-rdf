@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9fbc78962bf49a9a32813a925731f4f> <http://schema.org/value> "157450"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N54253da7b1fb487bb2d11d17efa674b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N54253da7b1fb487bb2d11d17efa674b1> .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.3031&mlon=-82.3675#map=15/36.3031/-82.3675> .
+<http://lodlaundromat.org/.well-known/genid/N54253da7b1fb487bb2d11d17efa674b1> <http://schema.org/latitude> "36.3031"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://schema.org/postalCode> "37614-0660" .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb9fbc78962bf49a9a32813a925731f4f> .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://schema.org/addressLocality> "JOHNSON CITY" .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/telephone> "+1 (615) 929-4392" .
+<http://lodlaundromat.org/.well-known/genid/N54253da7b1fb487bb2d11d17efa674b1> <http://schema.org/longitude> "-82.3675"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> <http://schema.org/streetAddress> "EAST TENNESSEE STATE UNIVERSITY" .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/name> "CARROLL REECE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb9fbc78962bf49a9a32813a925731f4f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> <http://schema.org/id> "8404700121" .
+<http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3128366bf7eb4698a9fb51cb8750d480> .
+<http://lodlaundromat.org/.well-known/genid/N43a7ab256ff44590814f0c8c0cb1cd3e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> .
+<http://lodlaundromat.org/.well-known/genid/Ne75227e98b16421dbf3edd25459436a3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9fbc78962bf49a9a32813a925731f4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

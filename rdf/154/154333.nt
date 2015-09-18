@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5ab2df2ddf8a45ff85ee1f08a0218dd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://schema.org/addressLocality> "KLAMATH FALLS" .
+<http://lodlaundromat.org/.well-known/genid/Ne781c88e83274f769a876e15a55e49bd> <http://schema.org/longitude> "-121.791"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/url> <http://www.favellmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5ab2df2ddf8a45ff85ee1f08a0218dd3> .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> .
+<http://lodlaundromat.org/.well-known/genid/N5ab2df2ddf8a45ff85ee1f08a0218dd3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/name> "FAVELL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne781c88e83274f769a876e15a55e49bd> <http://schema.org/latitude> "42.2192"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> .
+<http://lodlaundromat.org/.well-known/genid/Ne781c88e83274f769a876e15a55e49bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://schema.org/streetAddress> "125 W MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne781c88e83274f769a876e15a55e49bd> .
+<http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> <http://schema.org/id> "8404100126" .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://schema.org/postalCode> "97601-4287" .
+<http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2192&mlon=-121.791#map=15/42.2192/-121.791> .
+<http://lodlaundromat.org/.well-known/genid/N5ab2df2ddf8a45ff85ee1f08a0218dd3> <http://schema.org/value> "154333"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2dd5dcb926184919aa0d5afe8473c045> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf7df3a5a78a44f62aaa44f9143147780> <http://schema.org/telephone> "+1 (541) 882-9996" .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/Nf552457c450d45a7a2967afea7164a7e> <http://schema.org/addressCountry> "United States" .
+

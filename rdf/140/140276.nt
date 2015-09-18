@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N99d1882ff9f34a12b519190362595b4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://schema.org/addressLocality> "LOUISVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/telephone> "+1 (502) 254-4303" .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N99d1882ff9f34a12b519190362595b4b> .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N99d1882ff9f34a12b519190362595b4b> <http://schema.org/value> "140276"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://schema.org/streetAddress> "12556 SHELBYVILLE RD" .
+<http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/name> "MIDDLETOWN MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N498ee6658af34ebf800207c79b368927> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N498ee6658af34ebf800207c79b368927> <http://schema.org/latitude> "38.2448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N498ee6658af34ebf800207c79b368927> <http://schema.org/longitude> "-85.5233"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2448&mlon=-85.5233#map=15/38.2448/-85.5233> .
+<http://lodlaundromat.org/.well-known/genid/Ncd2cba7c71d2487d8ee0ceef61920750> <http://schema.org/postalCode> "40243" .
+<http://lodlaundromat.org/.well-known/genid/N99d1882ff9f34a12b519190362595b4b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncb9e59c0ac9d488f93a4d0cf4721e403> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N498ee6658af34ebf800207c79b368927> .
+<http://lodlaundromat.org/.well-known/genid/N89b0f2ddfe4043c88f92f7b223d1a0ae> <http://schema.org/id> "8402100032" .
+

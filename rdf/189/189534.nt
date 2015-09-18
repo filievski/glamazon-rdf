@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N1a07d698654e4081a3c4b9478c99209c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3e919108ca894bfebfe9d9a54cd03f71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/telephone> "+39 0458001903" .
+<http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> <http://schema.org/addressLocality> "Verona" .
+<http://lodlaundromat.org/.well-known/genid/N1a07d698654e4081a3c4b9478c99209c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1a07d698654e4081a3c4b9478c99209c> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> .
+<http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbecccc9ac6c04205bad069ee8e65a196> .
+<http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nc3e56c47c6c14ffc9f69ee2d7ffd954c> <http://schema.org/id> "101143" .
+<http://lodlaundromat.org/.well-known/genid/N3e919108ca894bfebfe9d9a54cd03f71> <http://schema.org/contentUrl> <http://images.museums.io/Pgtw0jUrONJdoNRBNPQGjcjtSCM=/1000x1000/museums/logos/000/189/534/original/645ded433e2d5d17b9531891f5743ddac7805fe.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> <http://schema.org/streetAddress> "Volto due Mori (Corso S. Anastasia), 4" .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> .
+<http://lodlaundromat.org/.well-known/genid/N1a07d698654e4081a3c4b9478c99209c> <http://schema.org/value> "189534"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/url> <http://www.palazzoforti.it/> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3e919108ca894bfebfe9d9a54cd03f71> .
+<http://lodlaundromat.org/.well-known/genid/Nbecccc9ac6c04205bad069ee8e65a196> <http://schema.org/longitude> "10.9963"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/name> "Galleria d'arte moderna Palazzo Forti"@it .
+<http://lodlaundromat.org/.well-known/genid/Nbecccc9ac6c04205bad069ee8e65a196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbecccc9ac6c04205bad069ee8e65a196> <http://schema.org/latitude> "45.441"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.441&mlon=10.9963#map=15/45.441/10.9963> .
+<http://lodlaundromat.org/.well-known/genid/N0094619624b54e7caa04450d1ce46172> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N02f63accb84c42d2822783c66b026140> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

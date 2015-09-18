@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://schema.org/postalCode> "70578" .
+<http://lodlaundromat.org/.well-known/genid/N2aa98aabb76643258ba2112f1733ec1a> <http://schema.org/value> "140820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2aa98aabb76643258ba2112f1733ec1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N209aae91aec04647a68fcdebabaac6aa> <http://schema.org/latitude> "30.2359"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> <http://schema.org/id> "8402200102" .
+<http://lodlaundromat.org/.well-known/genid/N209aae91aec04647a68fcdebabaac6aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2aa98aabb76643258ba2112f1733ec1a> .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N209aae91aec04647a68fcdebabaac6aa> .
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2359&mlon=-92.2668#map=15/30.2359/-92.2668> .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> .
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://schema.org/streetAddress> "305 E LOUISIANA AVE" .
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> <http://schema.org/addressLocality> "RAYNE" .
+<http://lodlaundromat.org/.well-known/genid/N2aa98aabb76643258ba2112f1733ec1a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/name> "RAYNE HISTORICAL DISTRICT ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N765b4afe0f414a05a46253a3ff42ca45> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N53cf2920b9054b929bd83e2b00228e7d> .
+<http://lodlaundromat.org/.well-known/genid/Nd51fbb83c9e84c9ca3aa0dfb86d8efa4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N209aae91aec04647a68fcdebabaac6aa> <http://schema.org/longitude> "-92.2668"^^<http://www.w3.org/2001/XMLSchema#double> .
+

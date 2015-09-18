@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N03ae8ff0b1d54ba3b3b9e27fd510abe6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2fa0922d87fe4f08b856957ec22bde0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2fa0922d87fe4f08b856957ec22bde0f> .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> .
+<http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://schema.org/addressLocality> "MITCHELL" .
+<http://lodlaundromat.org/.well-known/genid/N2fa0922d87fe4f08b856957ec22bde0f> <http://schema.org/longitude> "-86.4848"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://schema.org/postalCode> "47446-0376" .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N03ae8ff0b1d54ba3b3b9e27fd510abe6> .
+<http://lodlaundromat.org/.well-known/genid/N03ae8ff0b1d54ba3b3b9e27fd510abe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> <http://schema.org/id> "8401800567" .
+<http://lodlaundromat.org/.well-known/genid/Nfe55a77aa5474516882088e1a6eee37d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N03ae8ff0b1d54ba3b3b9e27fd510abe6> <http://schema.org/value> "138781"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/name> "SPRING MILL STATE PARK PIONEER VILLAGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> .
+<http://lodlaundromat.org/.well-known/genid/N2fa0922d87fe4f08b856957ec22bde0f> <http://schema.org/latitude> "38.7317"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40d8503577ff4ff28fd36ddd59ab21d3> <http://schema.org/streetAddress> "PO BOX 376" .
+<http://lodlaundromat.org/.well-known/genid/N90ce3d36d8fc4113939ecd276aa3ed08> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.7317&mlon=-86.4848#map=15/38.7317/-86.4848> .
+

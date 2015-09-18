@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd217a22b39a14fb9b8a3dc8ee1a9ff1e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd217a22b39a14fb9b8a3dc8ee1a9ff1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> <http://schema.org/id> "8403400535" .
+<http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://schema.org/streetAddress> "65 CHURCH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8186&mlon=-74.1631#map=15/40.8186/-74.1631> .
+<http://lodlaundromat.org/.well-known/genid/N7da2add10e1c43509bc46e7bb31414b0> <http://schema.org/latitude> "40.8186"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7da2add10e1c43509bc46e7bb31414b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7da2add10e1c43509bc46e7bb31414b0> .
+<http://lodlaundromat.org/.well-known/genid/Nd217a22b39a14fb9b8a3dc8ee1a9ff1e> <http://schema.org/value> "148167"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7da2add10e1c43509bc46e7bb31414b0> <http://schema.org/longitude> "-74.1631"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/url> <http://nutleyhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N23b73661d1824f8aa8b656b57c403e2e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://schema.org/addressLocality> "NUTLEY" .
+<http://lodlaundromat.org/.well-known/genid/N1cdac3e2470148d5bf05116479dc4ecc> <http://schema.org/postalCode> "07110" .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/name> "NUTLEY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N62e68962ef504d10b28ec40078a96591> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd217a22b39a14fb9b8a3dc8ee1a9ff1e> .
+

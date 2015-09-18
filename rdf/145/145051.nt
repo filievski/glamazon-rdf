@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://schema.org/streetAddress> "109 W CIRO ST" .
+<http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> <http://schema.org/id> "8402700491" .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/name> "TRUMAN HISTORICAL ASSOCIATION INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N65b4ca24e0e74633b4b7ff96567c6a1a> <http://schema.org/value> "145051"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N65b4ca24e0e74633b4b7ff96567c6a1a> .
+<http://lodlaundromat.org/.well-known/genid/N65b4ca24e0e74633b4b7ff96567c6a1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbda5e49dad5342748656126d2a69bc8f> .
+<http://lodlaundromat.org/.well-known/genid/N468e5447d012403c9cb3c3fb630bb730> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.8277&mlon=-94.4361#map=15/43.8277/-94.4361> .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://schema.org/addressLocality> "TRUMAN" .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N468e5447d012403c9cb3c3fb630bb730> <http://schema.org/longitude> "-94.4361"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N19e5d0108bd64723bc3b5076c9a792e8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N468e5447d012403c9cb3c3fb630bb730> .
+<http://lodlaundromat.org/.well-known/genid/N0a6502a4aa964e1382b3fc21cd6888a2> <http://schema.org/postalCode> "56088" .
+<http://lodlaundromat.org/.well-known/genid/N468e5447d012403c9cb3c3fb630bb730> <http://schema.org/latitude> "43.8277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N65b4ca24e0e74633b4b7ff96567c6a1a> <http://schema.org/name> "id" .
+

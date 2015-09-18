@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e7b3a5fc54a57b8a00088c6aaa7ad> <http://schema.org/value> "131620"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4378&mlon=-122.38#map=15/41.4378/-122.38> .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://schema.org/streetAddress> "PO BOX 590" .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc2e7b3a5fc54a57b8a00088c6aaa7ad> .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> .
+<http://lodlaundromat.org/.well-known/genid/N967a685c80fb48778457eb02402a2ea5> <http://schema.org/latitude> "41.4378"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N967a685c80fb48778457eb02402a2ea5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N967a685c80fb48778457eb02402a2ea5> <http://schema.org/longitude> "-122.38"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://schema.org/addressLocality> "WEED" .
+<http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> <http://schema.org/id> "8400601746" .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://schema.org/postalCode> "96094-0590" .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/name> "WEED WILDLIFE REFUGE & BOTANICAL GARDENS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> .
+<http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e7b3a5fc54a57b8a00088c6aaa7ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd74d2138b3804ad6b885211c42a3f2d2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N967a685c80fb48778457eb02402a2ea5> .
+<http://lodlaundromat.org/.well-known/genid/Nbc2e7b3a5fc54a57b8a00088c6aaa7ad> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0b1949df9dbb4e6eb14f3d8720f01d5e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc7b3508c320043b190a4be362a5dc99e> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://schema.org/postalCode> "45701-2110" .
+<http://lodlaundromat.org/.well-known/genid/Nc3eae35a948541f497aec528e5645a68> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc3eae35a948541f497aec528e5645a68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc3eae35a948541f497aec528e5645a68> .
+<http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> <http://schema.org/id> "8403900281" .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2a98fb3867e041ccbf538b44b3989281> <http://schema.org/latitude> "39.3372"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a98fb3867e041ccbf538b44b3989281> <http://schema.org/longitude> "-82.0715"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a98fb3867e041ccbf538b44b3989281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/name> "OHIO VALLEY MUSEUM OF DISCOVERY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://schema.org/streetAddress> "743 E STATE ST" .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbb2b9d6f402a4865a77d796e7a20e367> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a98fb3867e041ccbf538b44b3989281> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa231a65584488d8e58775479c33564> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3372&mlon=-82.0715#map=15/39.3372/-82.0715> .
+<http://lodlaundromat.org/.well-known/genid/Nc03556d6fcc047b8b5a6b85c096a5ea8> <http://schema.org/addressLocality> "ATHENS" .
+<http://lodlaundromat.org/.well-known/genid/Nc3eae35a948541f497aec528e5645a68> <http://schema.org/value> "152504"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

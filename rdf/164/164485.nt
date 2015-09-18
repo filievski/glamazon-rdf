@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nd7310581c0de4c02b010c0e5a1df65d4> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> .
+<http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na133d3c595bd4160b83b12ace7c7f2ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/Ncac36735fc6f47bdb75e64095a1e1294> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncac36735fc6f47bdb75e64095a1e1294> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd7310581c0de4c02b010c0e5a1df65d4> .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncac36735fc6f47bdb75e64095a1e1294> .
+<http://lodlaundromat.org/.well-known/genid/Ncac36735fc6f47bdb75e64095a1e1294> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd7310581c0de4c02b010c0e5a1df65d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> <http://schema.org/url> <http://victoriancollections.net.au/organisations/womens-royal-australian-army-corps> .
+<http://lodlaundromat.org/.well-known/genid/Na133d3c595bd4160b83b12ace7c7f2ca> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na133d3c595bd4160b83b12ace7c7f2ca> .
+<http://lodlaundromat.org/.well-known/genid/N8ef40b9663404d5ab98d933d1970b7cf> <http://schema.org/id> "womens-royal-australian-army-corps" .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na133d3c595bd4160b83b12ace7c7f2ca> <http://schema.org/value> "164485"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6b048b31f45e408a85eff95f61fa38ed> <http://schema.org/name> "Womens Royal Australian Army Corps"@en .
+

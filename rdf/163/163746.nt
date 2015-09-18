@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N3bfd343b11b44eb492032099543ac779> <http://schema.org/longitude> "145.099"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> <http://schema.org/id> "bus-coach-society-victoria" .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3bfd343b11b44eb492032099543ac779> .
+<http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> <http://schema.org/url> <http://victoriancollections.net.au/organisations/bus-coach-society-victoria> .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N793e0e8347444215b604619c1214e054> .
+<http://lodlaundromat.org/.well-known/genid/N20f26d3c446240da8be0fde6dcf8af8f> <http://schema.org/value> "163746"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N20f26d3c446240da8be0fde6dcf8af8f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.9193&mlon=145.099#map=15/-37.9193/145.099> .
+<http://lodlaundromat.org/.well-known/genid/N3bfd343b11b44eb492032099543ac779> <http://schema.org/latitude> "-37.9193"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3bfd343b11b44eb492032099543ac779> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N20f26d3c446240da8be0fde6dcf8af8f> .
+<http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N793e0e8347444215b604619c1214e054> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N793e0e8347444215b604619c1214e054> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N20f26d3c446240da8be0fde6dcf8af8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/name> "Bus and Coach Society of Victoria"@en .
+<http://lodlaundromat.org/.well-known/genid/N848d20163e08482682e219196a61d87f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0534e6d4c1b448b4a9ff84602797629c> .
+

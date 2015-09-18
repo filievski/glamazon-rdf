@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://schema.org/addressLocality> "MAGNOLIA" .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a5ab31304f1482f9e25d6e2e702fda0> .
+<http://lodlaundromat.org/.well-known/genid/N4b1bff272dc6452ca75ddee1a7000e90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1a5ab31304f1482f9e25d6e2e702fda0> <http://schema.org/latitude> "39.8555"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a5ab31304f1482f9e25d6e2e702fda0> <http://schema.org/longitude> "-75.0349"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4b1bff272dc6452ca75ddee1a7000e90> .
+<http://lodlaundromat.org/.well-known/genid/N1a5ab31304f1482f9e25d6e2e702fda0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4b1bff272dc6452ca75ddee1a7000e90> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/name> "MAGNOLIA HISTORICAL SOCIETY INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://schema.org/streetAddress> "143 MADISON AVE W" .
+<http://lodlaundromat.org/.well-known/genid/N9fde9cb92b0a4f84aa0070bd9108255a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.8555&mlon=-75.0349#map=15/39.8555/-75.0349> .
+<http://lodlaundromat.org/.well-known/genid/N4b1bff272dc6452ca75ddee1a7000e90> <http://schema.org/value> "147999"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> <http://schema.org/id> "8403400367" .
+<http://lodlaundromat.org/.well-known/genid/Nff98e74089d24662bb34f9fca9affc2a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda09bba058f24240ba7d632445d8d183> <http://schema.org/postalCode> "08049" .
+

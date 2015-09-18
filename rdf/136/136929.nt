@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N860063010fa6432b8dfae9eced26aeed> .
+<http://lodlaundromat.org/.well-known/genid/N860063010fa6432b8dfae9eced26aeed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> .
+<http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7fb511aae7114cfab89dd3c658cc2756> <http://schema.org/value> "136929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7fb511aae7114cfab89dd3c658cc2756> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://schema.org/streetAddress> "3100 CENTRAL RD" .
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://schema.org/postalCode> "60008" .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0667&mlon=-88.0182#map=15/42.0667/-88.0182> .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/name> "ROLLING MEADOWS HISTORICAL MSM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://schema.org/addressLocality> "ROLLING MEADOWS" .
+<http://lodlaundromat.org/.well-known/genid/N176ccf68947e4a2692d6f49c0a258aaf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7fb511aae7114cfab89dd3c658cc2756> .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/telephone> "+1 (847) 577-7086" .
+<http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> <http://schema.org/id> "8401700074" .
+<http://lodlaundromat.org/.well-known/genid/N860063010fa6432b8dfae9eced26aeed> <http://schema.org/longitude> "-88.0182"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naed1a35dd631496fb79640b5b0e6f311> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> .
+<http://lodlaundromat.org/.well-known/genid/N860063010fa6432b8dfae9eced26aeed> <http://schema.org/latitude> "42.0667"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7fb511aae7114cfab89dd3c658cc2756> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nac76dfc0e7e24a91bbf9605d77001edc> <http://schema.org/url> <http://www.imls.gov/> .
+

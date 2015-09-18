@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndba838d28aba4c15a075232d6c474073> .
+<http://lodlaundromat.org/.well-known/genid/Ndba838d28aba4c15a075232d6c474073> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndba838d28aba4c15a075232d6c474073> <http://schema.org/value> "143379"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/telephone> "+1 (617) 350-0358" .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N034be96b0fa740d183fb3fd31af3c52f> .
+<http://lodlaundromat.org/.well-known/genid/N034be96b0fa740d183fb3fd31af3c52f> <http://schema.org/latitude> "42.3492"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N034be96b0fa740d183fb3fd31af3c52f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://schema.org/streetAddress> "650 BEACON ST SUITE 403" .
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://schema.org/postalCode> "02115" .
+<http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> <http://schema.org/id> "8402501009" .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/name> "BOSTON HISTORY COLLABORATIVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N034be96b0fa740d183fb3fd31af3c52f> <http://schema.org/longitude> "-71.0954"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3492&mlon=-71.0954#map=15/42.3492/-71.0954> .
+<http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndba838d28aba4c15a075232d6c474073> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N01c3da310a294364acf35e6439291266> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> .
+<http://lodlaundromat.org/.well-known/genid/Nd076bfbcaa7041278e9c17840925a933> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N786bdcf48800446282f3e9621adddb23> <http://schema.org/addressLocality> "BOSTON" .
+

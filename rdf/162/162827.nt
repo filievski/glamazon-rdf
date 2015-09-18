@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0e880bb7480542c781853aa6f5dca778> <http://schema.org/longitude> "-89.8254"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec4bf32d364791bf3bbeb1bb5e2002> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec4bf32d364791bf3bbeb1bb5e2002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/url> <http://www.bluemoundshistoricalsociety.com/> .
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0e880bb7480542c781853aa6f5dca778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0e880bb7480542c781853aa6f5dca778> .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0154&mlon=-89.8254#map=15/43.0154/-89.8254> .
+<http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> .
+<http://lodlaundromat.org/.well-known/genid/N0e880bb7480542c781853aa6f5dca778> <http://schema.org/latitude> "43.0154"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ec4bf32d364791bf3bbeb1bb5e2002> <http://schema.org/value> "162827"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/name> "BLUE MOUNDS AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> .
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://schema.org/postalCode> "53517" .
+<http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://schema.org/streetAddress> "2915 DOLOMITE SPRINGS CIRCLE" .
+<http://lodlaundromat.org/.well-known/genid/N38de46080e964fec8a147637caf5edb3> <http://schema.org/id> "8405500276" .
+<http://lodlaundromat.org/.well-known/genid/Nc99e27c3fe7241d99401670577d98fd1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne8ec4bf32d364791bf3bbeb1bb5e2002> .
+<http://lodlaundromat.org/.well-known/genid/N0d717d1c0ed14c6e95b84f8196055a50> <http://schema.org/addressLocality> "BLUE MOUNDS" .
+

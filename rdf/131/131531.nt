@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://schema.org/addressLocality> "BLAIRSDEN" .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne342312e33e5483fa0acbd04b3c0675d> <http://schema.org/latitude> "39.7596"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> .
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://schema.org/streetAddress> "322 JOHNSVILLE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N20e1bf40a3074a92b683dc786dad6c6f> <http://schema.org/value> "131531"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne342312e33e5483fa0acbd04b3c0675d> <http://schema.org/longitude> "-120.696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://schema.org/postalCode> "96103" .
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20e1bf40a3074a92b683dc786dad6c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7596&mlon=-120.696#map=15/39.7596/-120.696> .
+<http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> <http://schema.org/id> "8400601657" .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N20e1bf40a3074a92b683dc786dad6c6f> .
+<http://lodlaundromat.org/.well-known/genid/N20e1bf40a3074a92b683dc786dad6c6f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/name> "JOHNSVILLE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne342312e33e5483fa0acbd04b3c0675d> .
+<http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6187c2cfb91348a1b46341aa309437ca> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2b7d5aa1190c44298189400bb755ad72> .
+<http://lodlaundromat.org/.well-known/genid/N925422dbcb76431ab4af59b32846f523> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne342312e33e5483fa0acbd04b3c0675d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

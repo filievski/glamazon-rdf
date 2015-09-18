@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://schema.org/streetAddress> "5728 SESAME DR" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> .
+<http://lodlaundromat.org/.well-known/genid/Nf975651795c84a8c8fc71e767c28cbbb> <http://schema.org/longitude> "-82.12"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf975651795c84a8c8fc71e767c28cbbb> <http://schema.org/latitude> "26.6152"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> .
+<http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> <http://schema.org/id> "8401200116" .
+<http://lodlaundromat.org/.well-known/genid/Nd22704f324a94bbd8da8b43e73e04095> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.6152&mlon=-82.12#map=15/26.6152/-82.12> .
+<http://lodlaundromat.org/.well-known/genid/Nf975651795c84a8c8fc71e767c28cbbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://schema.org/addressLocality> "BOKEELIA" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/name> "MUSEUM OF ISLANDS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd22704f324a94bbd8da8b43e73e04095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd22704f324a94bbd8da8b43e73e04095> <http://schema.org/value> "134562"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd22704f324a94bbd8da8b43e73e04095> .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/url> <http://www.museumoftheislands.com/> .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/telephone> "+1 (239) 283-1525" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf975651795c84a8c8fc71e767c28cbbb> .
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://schema.org/postalCode> "33922" .
+<http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6aa9cf44dd494f298dd6a4bafce7ea98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5cdc6ac1edaf4cc4a6375d28621bc35a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3d4c9bc96bdc4b7ca0cfd0c15e1d84ea> <http://schema.org/addressCountry> "United States" .
+

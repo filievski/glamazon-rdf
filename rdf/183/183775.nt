@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/telephone> "08621/645261" .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://schema.org/postalCode> "83308" .
+<http://lodlaundromat.org/.well-known/genid/N016573005c95458983d1105b47d27e76> <http://schema.org/latitude> "48.03"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/name> "Stadtmuseum Trostberg"@en .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/url> <http://www.stadt-trostberg.de/0jni1whycm8dtrostberg-cms_extract.l582.html?BUTTON_REC_ID=582> .
+<http://lodlaundromat.org/.well-known/genid/N3225091666a248f8bd1b4c372fc52fa6> <http://schema.org/url> <http://www.museums.io/en/museums/183775> .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.03&mlon=12.5557#map=15/48.03/12.5557> .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N3225091666a248f8bd1b4c372fc52fa6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7fa240ab0cb64beda9d0c387483b7410> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3225091666a248f8bd1b4c372fc52fa6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3225091666a248f8bd1b4c372fc52fa6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7fa240ab0cb64beda9d0c387483b7410> .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://schema.org/addressLocality> "Trostberg" .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N016573005c95458983d1105b47d27e76> <http://schema.org/longitude> "12.5557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48a75c67be1b4c2192e71b72b2797fb5> <http://schema.org/streetAddress> "Schedling 13" .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3225091666a248f8bd1b4c372fc52fa6> .
+<http://lodlaundromat.org/.well-known/genid/N016573005c95458983d1105b47d27e76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4be9b6a36be54eef9f14f30afbb7226a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N016573005c95458983d1105b47d27e76> .
+<http://lodlaundromat.org/.well-known/genid/N7fa240ab0cb64beda9d0c387483b7410> <http://schema.org/value> "183775"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7fa240ab0cb64beda9d0c387483b7410> <http://schema.org/name> "id" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/name> "NORTH CAROLINA CIVIL WAR HISTORY CENTER FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> .
+<http://lodlaundromat.org/.well-known/genid/N4d5588feabca45d88c1e4810391abf7c> <http://schema.org/latitude> "35.0542"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://schema.org/postalCode> "28305-3865" .
+<http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> <http://schema.org/id> "8403700416" .
+<http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.0542&mlon=-78.9076#map=15/35.0542/-78.9076> .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7f1d698b89dc4a91a95e291e5bd5d25a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4d5588feabca45d88c1e4810391abf7c> <http://schema.org/longitude> "-78.9076"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0095713f195947d3b05620222e585838> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f1d698b89dc4a91a95e291e5bd5d25a> <http://schema.org/value> "151545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4d5588feabca45d88c1e4810391abf7c> .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://schema.org/streetAddress> "PO BOX 53865" .
+<http://lodlaundromat.org/.well-known/genid/Nb11174fbc89f47bc95a1ceec785e6a5c> <http://schema.org/addressLocality> "FAYETTEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N4d5588feabca45d88c1e4810391abf7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1cd72cbd3784478dbc02e86de84e4cdf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7f1d698b89dc4a91a95e291e5bd5d25a> .
+<http://lodlaundromat.org/.well-known/genid/N7f1d698b89dc4a91a95e291e5bd5d25a> <http://schema.org/name> "id" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N02c193df5b27466ca9ed9a3c17f4d78b> <http://schema.org/value> "162652"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02c193df5b27466ca9ed9a3c17f4d78b> .
+<http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N02c193df5b27466ca9ed9a3c17f4d78b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> .
+<http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> <http://schema.org/id> "8405500101" .
+<http://lodlaundromat.org/.well-known/genid/Nb48dc6a8755545388ef91ec3a6a70029> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2861&mlon=-88.2504#map=15/44.2861/-88.2504> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/telephone> "+1 (920) 766-3122" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://schema.org/streetAddress> "1313 AUGUSTINE ST" .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb48dc6a8755545388ef91ec3a6a70029> .
+<http://lodlaundromat.org/.well-known/genid/N069317b795564855a2743536d1380af7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N02c193df5b27466ca9ed9a3c17f4d78b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://schema.org/addressLocality> "KAUKAUNA" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://schema.org/postalCode> "54130" .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> .
+<http://lodlaundromat.org/.well-known/genid/N07df7215c2934bb38651d1ad9bcfd175> <http://schema.org/name> "GRIGNON MANSION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb48dc6a8755545388ef91ec3a6a70029> <http://schema.org/longitude> "-88.2504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb48dc6a8755545388ef91ec3a6a70029> <http://schema.org/latitude> "44.2861"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6d0959705047a1a6e0c83bfc7320b0> <http://schema.org/addressCountry> "United States" .
+

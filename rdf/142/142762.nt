@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2e5ffa2b124234abc53d83b221c7cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://schema.org/streetAddress> "PO BOX 52" .
+<http://lodlaundromat.org/.well-known/genid/N5dba22f86a8d49298f9538c9901046e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N5dba22f86a8d49298f9538c9901046e8> <http://schema.org/latitude> "42.731"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://schema.org/addressLocality> "METHUEN" .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5dba22f86a8d49298f9538c9901046e8> .
+<http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf2e5ffa2b124234abc53d83b221c7cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5dba22f86a8d49298f9538c9901046e8> <http://schema.org/longitude> "-71.1741"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/name> "METHUEN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.731&mlon=-71.1741#map=15/42.731/-71.1741> .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://schema.org/postalCode> "01844" .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> .
+<http://lodlaundromat.org/.well-known/genid/N6b6f9ba8e80b42a1b83cfbaecc8a7779> <http://schema.org/id> "8402500392" .
+<http://lodlaundromat.org/.well-known/genid/Nb0a62b4adae64b88a144faddd38adc1f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndf2e5ffa2b124234abc53d83b221c7cb> .
+<http://lodlaundromat.org/.well-known/genid/Na48af4b73ebe43edaf5915370367f48d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndf2e5ffa2b124234abc53d83b221c7cb> <http://schema.org/value> "142762"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

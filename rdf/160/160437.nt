@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0bf231e4379e439591029a27964e8247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> .
+<http://lodlaundromat.org/.well-known/genid/N20b903069347469e8c248a74dd2fe92d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8611&mlon=-72.7277#map=15/42.8611/-72.7277> .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0bf231e4379e439591029a27964e8247> .
+<http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://schema.org/streetAddress> "PO BOX 242" .
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/N20b903069347469e8c248a74dd2fe92d> <http://schema.org/longitude> "-72.7277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/name> "HISTORICAL SOCIETY OF MARLBORO INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N20b903069347469e8c248a74dd2fe92d> .
+<http://lodlaundromat.org/.well-known/genid/N0bf231e4379e439591029a27964e8247> <http://schema.org/value> "160437"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0bf231e4379e439591029a27964e8247> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> <http://schema.org/id> "8405000243" .
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://schema.org/postalCode> "05344" .
+<http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N20b903069347469e8c248a74dd2fe92d> <http://schema.org/latitude> "42.8611"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4bc0df3aadb1415cad83aab260c4bf7f> .
+<http://lodlaundromat.org/.well-known/genid/Nac76b135c221421e8743aba15bdb0cd2> <http://schema.org/addressLocality> "MARLBORO" .
+<http://lodlaundromat.org/.well-known/genid/N8e16a527d510451fa134dc813696fd56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

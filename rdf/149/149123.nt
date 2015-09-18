@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e6039d5a16472e8ff51fbd2eb92e74> <http://schema.org/longitude> "-72.8432"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4b0ec82bf4be98ae696a7a29b2fb6> <http://schema.org/value> "149123"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4b0ec82bf4be98ae696a7a29b2fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://schema.org/postalCode> "11961" .
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://schema.org/addressLocality> "RIDGE" .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd1d4b0ec82bf4be98ae696a7a29b2fb6> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e6039d5a16472e8ff51fbd2eb92e74> <http://schema.org/latitude> "40.9106"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/name> "BROOKHAVEN VOLUNTEER FIRE"@en .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9106&mlon=-72.8432#map=15/40.9106/-72.8432> .
+<http://lodlaundromat.org/.well-known/genid/Nb6e6039d5a16472e8ff51fbd2eb92e74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb6e6039d5a16472e8ff51fbd2eb92e74> .
+<http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9fea9b36af5d4f68b22466178e745eb6> <http://schema.org/streetAddress> "25 MIDDLE COUNTRY RD" .
+<http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4b0ec82bf4be98ae696a7a29b2fb6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N262c7077d18b4425a8e876a472164c21> <http://schema.org/id> "8403600417" .
+<http://lodlaundromat.org/.well-known/genid/Na8d4a23815794ad597dafc4022619ecf> <http://schema.org/telephone> "+1 (631) 924-8114" .
+

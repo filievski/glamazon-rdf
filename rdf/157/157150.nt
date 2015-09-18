@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N854a066c64c64dbc8140bd8478011c42> <http://schema.org/latitude> "44.2397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2d8493152f39422c9b3f32b4c2b298cc> <http://schema.org/value> "157150"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N854a066c64c64dbc8140bd8478011c42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N854a066c64c64dbc8140bd8478011c42> <http://schema.org/longitude> "-96.481"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/name> "ELKTON COMMUNITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d8493152f39422c9b3f32b4c2b298cc> .
+<http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2d8493152f39422c9b3f32b4c2b298cc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2d8493152f39422c9b3f32b4c2b298cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2397&mlon=-96.481#map=15/44.2397/-96.481> .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://schema.org/addressLocality> "ELKTON" .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://schema.org/streetAddress> "105 N ELK ST" .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://schema.org/postalCode> "57026" .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N854a066c64c64dbc8140bd8478011c42> .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/telephone> "+1 (605) 542-2451" .
+<http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N88aeb1ffda72433eb890f96baedc85c5> <http://schema.org/addressRegion> "SD" .
+<http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> <http://schema.org/id> "8404600035" .
+<http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4ba98413ca6f47afa632a0e107a6359d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf7057f68b3354c9da5ce152d35308d2f> .
+

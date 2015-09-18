@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/url> <http://www.kuopionluonnontieteellinenmuseo.fi/> .
+<http://lodlaundromat.org/.well-known/genid/N5fe17af9a5b0409a9eb55cfeba156690> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N0bfadd9ecc0544a482e9de3c4c57ae9e> <http://schema.org/latitude> "27.6769"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N05759e9d10f14d9eaecab909a320059b> .
+<http://lodlaundromat.org/.well-known/genid/N5fe17af9a5b0409a9eb55cfeba156690> <http://schema.org/url> <http://www.museums.io/en/museums/185055> .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/name> "Kuopio Natural History Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N0bfadd9ecc0544a482e9de3c4c57ae9e> <http://schema.org/longitude> "27.6769"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5fe17af9a5b0409a9eb55cfeba156690> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.6769&mlon=27.6769#map=15/27.6769/27.6769> .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0bfadd9ecc0544a482e9de3c4c57ae9e> .
+<http://lodlaundromat.org/.well-known/genid/N0bfadd9ecc0544a482e9de3c4c57ae9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N05759e9d10f14d9eaecab909a320059b> <http://schema.org/value> "185055"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N937d3ed913884af88cac7b37f05c070d> .
+<http://lodlaundromat.org/.well-known/genid/N937d3ed913884af88cac7b37f05c070d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N937d3ed913884af88cac7b37f05c070d> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N550497ae77af414da31f44e62acc00bb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5fe17af9a5b0409a9eb55cfeba156690> .
+<http://lodlaundromat.org/.well-known/genid/N05759e9d10f14d9eaecab909a320059b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5fe17af9a5b0409a9eb55cfeba156690> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N05759e9d10f14d9eaecab909a320059b> <http://schema.org/name> "id" .
+

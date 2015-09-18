@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> .
+<http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> .
+<http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> <http://schema.org/id> "8404500176" .
+<http://lodlaundromat.org/.well-known/genid/Nb29edf7e060d4cb3ad0cf36bbbff89e3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb29edf7e060d4cb3ad0cf36bbbff89e3> <http://schema.org/value> "156881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://schema.org/streetAddress> "402 BOULEVARD" .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/name> "CORDILLERA PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/telephone> "+1 (800) 908-4490" .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f74b339c6244c1692835814c13c1599> .
+<http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4f74b339c6244c1692835814c13c1599> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb29edf7e060d4cb3ad0cf36bbbff89e3> .
+<http://lodlaundromat.org/.well-known/genid/N4f74b339c6244c1692835814c13c1599> <http://schema.org/longitude> "-82.6411"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb29edf7e060d4cb3ad0cf36bbbff89e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd336a18b62dd4127b1fa936d97fe35fa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://schema.org/addressLocality> "ANDERSON" .
+<http://lodlaundromat.org/.well-known/genid/Nd4755405ed5843ecba38cccc2ebddedb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.5134&mlon=-82.6411#map=15/34.5134/-82.6411> .
+<http://lodlaundromat.org/.well-known/genid/N4f74b339c6244c1692835814c13c1599> <http://schema.org/latitude> "34.5134"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://schema.org/postalCode> "29621-4004" .
+<http://lodlaundromat.org/.well-known/genid/N388dde4aac074983bc05d8b6bfe53148> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/Nf09a883f499f4c72b8c0906133a51243> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N092363fd57424c9da8fc02862a824cae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7077&mlon=15.7276#map=15/41.7077/15.7276> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/name> "Museo biografico di Padre Pio"@it .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N092363fd57424c9da8fc02862a824cae> .
+<http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> <http://schema.org/id> "106228" .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/telephone> "+39 0882459728" .
+<http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/url> <http://www.museopadrepio.it/> .
+<http://lodlaundromat.org/.well-known/genid/N092363fd57424c9da8fc02862a824cae> <http://schema.org/latitude> "41.7077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf85a0d2a4ac64d249aca371d71c4296f> .
+<http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> <http://schema.org/streetAddress> "Via Pirgiano, 25" .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf6806ec07e5c4c9c9869b73b475e0ac5> .
+<http://lodlaundromat.org/.well-known/genid/Nf85a0d2a4ac64d249aca371d71c4296f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf09a883f499f4c72b8c0906133a51243> <http://schema.org/contentUrl> <http://images.museums.io/n8VVCJxy2YJ8f08RYmHyJR5_WpA=/1000x1000/museums/logos/000/188/172/original/483943b3884d95886e472ddc2459d99e7d95af4.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> <http://schema.org/addressLocality> "San Giovanni Rotondo" .
+<http://lodlaundromat.org/.well-known/genid/Nf85a0d2a4ac64d249aca371d71c4296f> <http://schema.org/value> "188172"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf09a883f499f4c72b8c0906133a51243> .
+<http://lodlaundromat.org/.well-known/genid/N092363fd57424c9da8fc02862a824cae> <http://schema.org/longitude> "15.7276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N841be1e8ab11442e9c93cf9938a5e483> <http://schema.org/name> "The Padre Pio Biographical Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf85a0d2a4ac64d249aca371d71c4296f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> <http://schema.org/addressRegion> "Puglia" .
+<http://lodlaundromat.org/.well-known/genid/Nbff2c547727f478fba32de44750ccea3> <http://schema.org/addressCountry> "Italy" .
+

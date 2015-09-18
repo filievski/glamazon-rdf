@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> <http://schema.org/id> "8401000134" .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://schema.org/addressRegion> "DE" .
+<http://lodlaundromat.org/.well-known/genid/N30fd5399ad104ad2a0db16b5f496b516> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://schema.org/streetAddress> "PO BOX 170" .
+<http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/name> "FORT DELAWARE STATE PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/url> <http://www.destateparks.org/> .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://schema.org/addressLocality> "DELAWARE CITY" .
+<http://lodlaundromat.org/.well-known/genid/N326d57b385de46a49c2506d400833d06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://schema.org/postalCode> "19706" .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30fd5399ad104ad2a0db16b5f496b516> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N326d57b385de46a49c2506d400833d06> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N30fd5399ad104ad2a0db16b5f496b516> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30fd5399ad104ad2a0db16b5f496b516> <http://schema.org/value> "134202"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/telephone> "+1 (302) 834-7941" .
+<http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N326d57b385de46a49c2506d400833d06> <http://schema.org/longitude> "-75.5939"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf263a195f0954ee09a6052238d711446> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0de0252dae2a419ca9416c5451bbd216> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N326d57b385de46a49c2506d400833d06> <http://schema.org/latitude> "39.575"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c737bfdf8f640c6911b582017fe21ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.575&mlon=-75.5939#map=15/39.575/-75.5939> .
+

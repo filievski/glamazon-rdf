@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8899&mlon=-78.877#map=15/42.8899/-78.877> .
+<http://lodlaundromat.org/.well-known/genid/N536bd0b10fd14c03b3ffc1ed3d16c5da> <http://schema.org/longitude> "-78.877"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> .
+<http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> <http://schema.org/id> "8403601733" .
+<http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nd51c85382883403ca465a46255d09b8c> <http://schema.org/value> "150439"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N536bd0b10fd14c03b3ffc1ed3d16c5da> .
+<http://lodlaundromat.org/.well-known/genid/N4a61efda83d348f787a78bc395451d9b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> .
+<http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> <http://schema.org/postalCode> "14202-2150" .
+<http://lodlaundromat.org/.well-known/genid/N536bd0b10fd14c03b3ffc1ed3d16c5da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/url> <http://www.richardson-olmsted.com/> .
+<http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> <http://schema.org/addressLocality> "BUFFALO" .
+<http://lodlaundromat.org/.well-known/genid/N48446aa3b4444e149b022e5b3d0c8a46> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd51c85382883403ca465a46255d09b8c> .
+<http://lodlaundromat.org/.well-known/genid/Nd51c85382883403ca465a46255d09b8c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N182544617da04a8b84c3b1c09ca8ae49> <http://schema.org/name> "RICHARDSON CENTER CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd51c85382883403ca465a46255d09b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N536bd0b10fd14c03b3ffc1ed3d16c5da> <http://schema.org/latitude> "42.8899"^^<http://www.w3.org/2001/XMLSchema#double> .
+

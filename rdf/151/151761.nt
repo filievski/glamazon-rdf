@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N86328fb3cfd944c2a4e9e76e51f446af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N990cbc691d9e48e88f631226bcec98c8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://schema.org/postalCode> "28711-3408" .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> .
+<http://lodlaundromat.org/.well-known/genid/N86328fb3cfd944c2a4e9e76e51f446af> <http://schema.org/longitude> "-82.3217"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N990cbc691d9e48e88f631226bcec98c8> .
+<http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> <http://schema.org/id> "8403700632" .
+<http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N990cbc691d9e48e88f631226bcec98c8> <http://schema.org/value> "151761"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.6162&mlon=-82.3217#map=15/35.6162/-82.3217> .
+<http://lodlaundromat.org/.well-known/genid/N990cbc691d9e48e88f631226bcec98c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://schema.org/addressLocality> "BLACK MOUNTAI" .
+<http://lodlaundromat.org/.well-known/genid/N71130e327f2c43cca33d527b965c923f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9441c24bc1624d4f8663ae9a8f39a387> <http://schema.org/streetAddress> "225 W STATE ST" .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/name> "BLACK MOUNTAIN CENTER FOR ARTS"@en .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N86328fb3cfd944c2a4e9e76e51f446af> .
+<http://lodlaundromat.org/.well-known/genid/N14e89e22afc44d129512821c1c87e648> <http://schema.org/telephone> "+1 (828) 669-0930" .
+<http://lodlaundromat.org/.well-known/genid/N86328fb3cfd944c2a4e9e76e51f446af> <http://schema.org/latitude> "35.6162"^^<http://www.w3.org/2001/XMLSchema#double> .
+

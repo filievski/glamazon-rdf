@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/name> "OLD PEARCE PRESERVATION ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N318ce79ecc264bf98b0cf9924d519d6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N54967816253344e980ce7e12ce660c26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N54967816253344e980ce7e12ce660c26> .
+<http://lodlaundromat.org/.well-known/genid/N54967816253344e980ce7e12ce660c26> <http://schema.org/value> "129281"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N318ce79ecc264bf98b0cf9924d519d6f> <http://schema.org/latitude> "31.9352"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N318ce79ecc264bf98b0cf9924d519d6f> .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> <http://schema.org/id> "8400400183" .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N54967816253344e980ce7e12ce660c26> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N318ce79ecc264bf98b0cf9924d519d6f> <http://schema.org/longitude> "-109.831"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://schema.org/streetAddress> "PO BOX 776" .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://schema.org/addressLocality> "PEARCE" .
+<http://lodlaundromat.org/.well-known/genid/N0ba06af89c62400598bb0c481b1d717f> <http://schema.org/postalCode> "85625-0776" .
+<http://lodlaundromat.org/.well-known/genid/N8744a01042ca496fa365025898354bad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.9352&mlon=-109.831#map=15/31.9352/-109.831> .
+<http://lodlaundromat.org/.well-known/genid/N5d4efdeb57814a738acde910441707a8> <http://schema.org/url> <http://www.imls.gov/> .
+

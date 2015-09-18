@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N903a0fb1c2894d48874e395c8389c4f3> .
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8855&mlon=-77.0948#map=15/38.8855/-77.0948> .
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://schema.org/addressLocality> "ARLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/url> <http://www.arlingtonhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> .
+<http://lodlaundromat.org/.well-known/genid/N537cb40a46134be68b42d5f2f4699f45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N903a0fb1c2894d48874e395c8389c4f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N537cb40a46134be68b42d5f2f4699f45> .
+<http://lodlaundromat.org/.well-known/genid/N903a0fb1c2894d48874e395c8389c4f3> <http://schema.org/value> "161107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> <http://schema.org/id> "8405100613" .
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://schema.org/postalCode> "22210-3402" .
+<http://lodlaundromat.org/.well-known/genid/N537cb40a46134be68b42d5f2f4699f45> <http://schema.org/latitude> "38.8855"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://schema.org/streetAddress> "PO BOX 100402" .
+<http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/telephone> "+1 (703) 942-9247" .
+<http://lodlaundromat.org/.well-known/genid/Naf75df18b6354fad83f88f6689b78347> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N912dbd88984a477ebbaca52c708d23de> <http://schema.org/name> "ARLINGTON HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N537cb40a46134be68b42d5f2f4699f45> <http://schema.org/longitude> "-77.0948"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1310dc2acd62444abf4ea8813f0d39b9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N903a0fb1c2894d48874e395c8389c4f3> <http://schema.org/name> "id" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N38e1c7ce58924d5eb826697befaa8ccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N480fd663ab124dde8e32016c235b0c60> <http://schema.org/latitude> "33.346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N38e1c7ce58924d5eb826697befaa8ccb> .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/name> "ARIZONA PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> <http://schema.org/id> "8400400300" .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://schema.org/addressLocality> "CHANDLER" .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N480fd663ab124dde8e32016c235b0c60> .
+<http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://schema.org/streetAddress> "2149 W CHEYENNE DR" .
+<http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> .
+<http://lodlaundromat.org/.well-known/genid/N7ff4bb9fa52a4bc4ab72e3f34bc754cf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://schema.org/postalCode> "85224" .
+<http://lodlaundromat.org/.well-known/genid/N38e1c7ce58924d5eb826697befaa8ccb> <http://schema.org/value> "129398"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.346&mlon=-111.881#map=15/33.346/-111.881> .
+<http://lodlaundromat.org/.well-known/genid/N38e1c7ce58924d5eb826697befaa8ccb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N480fd663ab124dde8e32016c235b0c60> <http://schema.org/longitude> "-111.881"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N480fd663ab124dde8e32016c235b0c60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9a337bbbaba743baa62c75f2cb99305d> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N35f4151d02474be882ee1be22a1f991c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

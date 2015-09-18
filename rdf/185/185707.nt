@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N3ded58629a8146ce955e568427e88ed4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> .
+<http://lodlaundromat.org/.well-known/genid/Nd344662cec3c4352ba86ea629c943bac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> .
+<http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> <http://schema.org/addressRegion> "Basilicata" .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> <http://schema.org/streetAddress> "Via Vittoria, 14" .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nd344662cec3c4352ba86ea629c943bac> .
+<http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> <http://schema.org/id> "105434" .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/telephone> "+39 097393350" .
+<http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3ded58629a8146ce955e568427e88ed4> .
+<http://lodlaundromat.org/.well-known/genid/Nbaae8db6a5de41258e8c289f2718375f> <http://schema.org/value> "185707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbaae8db6a5de41258e8c289f2718375f> .
+<http://lodlaundromat.org/.well-known/genid/Nbaae8db6a5de41258e8c289f2718375f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9776&mlon=16.2981#map=15/39.9776/16.2981> .
+<http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd344662cec3c4352ba86ea629c943bac> <http://schema.org/contentUrl> <http://images.museums.io/HN1J_PheF0BFLPpxwEwtkiyvs50=/1000x1000/museums/logos/000/185/707/original/19421c7e17598f5b2cea4485be84252b496d60.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na8a6f93c0c9943c0b088cddf68fa61aa> <http://schema.org/name> "Collezione etnografica di Giuseppe Salamone"@it .
+<http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3ded58629a8146ce955e568427e88ed4> <http://schema.org/longitude> "16.2981"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbaae8db6a5de41258e8c289f2718375f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N651f7bbdb22f4a71aa2ada0d9db72b07> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1ec9409574b24595bee5a4be2511105c> <http://schema.org/addressLocality> "Terranova di Pollino" .
+<http://lodlaundromat.org/.well-known/genid/N3ded58629a8146ce955e568427e88ed4> <http://schema.org/latitude> "39.9776"^^<http://www.w3.org/2001/XMLSchema#double> .
+

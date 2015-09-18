@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1eb482b3e91f41d69cb5000d3ac0463a> <http://schema.org/latitude> "39.2519"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1eb482b3e91f41d69cb5000d3ac0463a> <http://schema.org/longitude> "-94.415"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9930634f2a4b04b0f61bc36339b647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1eb482b3e91f41d69cb5000d3ac0463a> .
+<http://lodlaundromat.org/.well-known/genid/N3b9930634f2a4b04b0f61bc36339b647> <http://schema.org/value> "146212"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2519&mlon=-94.415#map=15/39.2519/-94.415> .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3b9930634f2a4b04b0f61bc36339b647> .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> .
+<http://lodlaundromat.org/.well-known/genid/N1eb482b3e91f41d69cb5000d3ac0463a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://schema.org/addressLocality> "LIBERTY" .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://schema.org/streetAddress> "WILLIAM JEWELL COLLEGE" .
+<http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> <http://schema.org/id> "8402900641" .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://schema.org/postalCode> "64068-6406" .
+<http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc58675c331b94bb09a69cad1ede5ede4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N3b9930634f2a4b04b0f61bc36339b647> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://schema.org/name> "MISSOURI BAPTIST HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc163254d75d04ffaae0307adeecdebb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N400ab82193124c7f9737f9fe484ce74a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

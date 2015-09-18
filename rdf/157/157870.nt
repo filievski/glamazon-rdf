@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> <http://schema.org/id> "8404700541" .
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/name> "MEMPHIS BROOKS MUSEUM OF ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> .
+<http://lodlaundromat.org/.well-known/genid/N503567e341ad40eaa0ea1205e0ff6e26> <http://schema.org/longitude> "-89.9958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c2be67160ce4073815c3684028c2efe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c2be67160ce4073815c3684028c2efe> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/url> <http://www.brooksmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://schema.org/addressLocality> "MEMPHIS" .
+<http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5c2be67160ce4073815c3684028c2efe> .
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://schema.org/streetAddress> "1934 POPLAR AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.1423&mlon=-89.9958#map=15/35.1423/-89.9958> .
+<http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N34b1bdf481c64111bb0c1ad69fc40ae9> <http://schema.org/postalCode> "38104-2756" .
+<http://lodlaundromat.org/.well-known/genid/Nbb33051dbc624e2493394847681a7465> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N503567e341ad40eaa0ea1205e0ff6e26> .
+<http://lodlaundromat.org/.well-known/genid/N5c2be67160ce4073815c3684028c2efe> <http://schema.org/value> "157870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N851d2b0dfa91401c8493421ce0314888> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N503567e341ad40eaa0ea1205e0ff6e26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N503567e341ad40eaa0ea1205e0ff6e26> <http://schema.org/latitude> "35.1423"^^<http://www.w3.org/2001/XMLSchema#double> .
+

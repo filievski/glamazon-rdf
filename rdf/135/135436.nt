@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2131b14d2c2743148905f3c846362e98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> .
+<http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1d895ca43a77448f91b790f7f860c54e> <http://schema.org/latitude> "30.4604"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d895ca43a77448f91b790f7f860c54e> <http://schema.org/longitude> "-84.3135"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d895ca43a77448f91b790f7f860c54e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/name> "LAURA JEPSEN INSTITUTE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1d895ca43a77448f91b790f7f860c54e> .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/telephone> "+1 (850) 383-6556" .
+<http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> <http://schema.org/id> "8401200991" .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2131b14d2c2743148905f3c846362e98> <http://schema.org/value> "135436"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.4604&mlon=-84.3135#map=15/30.4604/-84.3135> .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://schema.org/postalCode> "32302-3305" .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N61f719685f694abf8d888f644d959592> .
+<http://lodlaundromat.org/.well-known/genid/N903aa36d6f5449e2b987f7b87493747c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2131b14d2c2743148905f3c846362e98> .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://schema.org/addressLocality> "TALLAHASSEE" .
+<http://lodlaundromat.org/.well-known/genid/N596d430b93fd42d6807ffff5bacf83ac> <http://schema.org/streetAddress> "PO BOX 11305" .
+<http://lodlaundromat.org/.well-known/genid/N2131b14d2c2743148905f3c846362e98> <http://schema.org/name> "id" .
+

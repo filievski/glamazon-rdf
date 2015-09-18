@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> <http://schema.org/id> "8401800586" .
+<http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://schema.org/addressLocality> "BLOOMINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8665797ddaf2446c92b62b98ddcee09d> <http://schema.org/value> "138800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc731bcfb08c64fc1a9746f9b63cfdb81> .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc731bcfb08c64fc1a9746f9b63cfdb81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8665797ddaf2446c92b62b98ddcee09d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://schema.org/postalCode> "47403-1476" .
+<http://lodlaundromat.org/.well-known/genid/Nc731bcfb08c64fc1a9746f9b63cfdb81> <http://schema.org/latitude> "39.1635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8665797ddaf2446c92b62b98ddcee09d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8665797ddaf2446c92b62b98ddcee09d> .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/name> "FARMER HOUSE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2b232a06a9b644b89d093622a8b8068a> .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N5dce3be311d74d24815e1c07f6ef6b1e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1635&mlon=-86.5399#map=15/39.1635/-86.5399> .
+<http://lodlaundromat.org/.well-known/genid/Nc731bcfb08c64fc1a9746f9b63cfdb81> <http://schema.org/longitude> "-86.5399"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://schema.org/streetAddress> "334 S JACKSON ST" .
+<http://lodlaundromat.org/.well-known/genid/N39f2cbcd880f4c3bb5a3bdc55e049a2e> <http://schema.org/addressCountry> "United States" .
+

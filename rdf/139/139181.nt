@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7dde33f83bde42acaef49fdacf16fc05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N130a9f7213af43f3b1aea1dae90cb89a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> <http://schema.org/id> "8401900218" .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/name> "SIOUX CITY SCOTTISH RITE BUILDINGPRESERVATION CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N130a9f7213af43f3b1aea1dae90cb89a> <http://schema.org/value> "139181"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N130a9f7213af43f3b1aea1dae90cb89a> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://schema.org/streetAddress> "PO BOX 896" .
+<http://lodlaundromat.org/.well-known/genid/N130a9f7213af43f3b1aea1dae90cb89a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://schema.org/postalCode> "51102-0896" .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://schema.org/addressLocality> "SIOUX CITY" .
+<http://lodlaundromat.org/.well-known/genid/N7dde33f83bde42acaef49fdacf16fc05> <http://schema.org/latitude> "42.4924"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7dde33f83bde42acaef49fdacf16fc05> .
+<http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7dde33f83bde42acaef49fdacf16fc05> <http://schema.org/longitude> "-96.402"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2818af4c6e29403796860135c2b1a450> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N23eeb751278b406488784d7c5d7a799c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4924&mlon=-96.402#map=15/42.4924/-96.402> .
+<http://lodlaundromat.org/.well-known/genid/N1d7a8a35de99471683063f9c38f9863d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

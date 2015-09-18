@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N7261c2224f8848129cd445d3c4b992fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7261c2224f8848129cd445d3c4b992fa> .
+<http://lodlaundromat.org/.well-known/genid/Nbace9c5672e244ed80d36349f2d25388> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/name> "Southern Health Historical Collection"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd8e5af5e4a474447929ba0d3f177aac9> .
+<http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/telephone> "(03) 9594 6666 " .
+<http://lodlaundromat.org/.well-known/genid/N7261c2224f8848129cd445d3c4b992fa> <http://schema.org/longitude> "145.121"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbace9c5672e244ed80d36349f2d25388> .
+<http://lodlaundromat.org/.well-known/genid/N4b5c629e35954d1083d62de24b7b1d44> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.921&mlon=145.121#map=15/-37.921/145.121> .
+<http://lodlaundromat.org/.well-known/genid/Nbace9c5672e244ed80d36349f2d25388> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd8e5af5e4a474447929ba0d3f177aac9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbace9c5672e244ed80d36349f2d25388> <http://schema.org/value> "164303"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd8e5af5e4a474447929ba0d3f177aac9> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> <http://schema.org/id> "southern-health-historical-collection" .
+<http://lodlaundromat.org/.well-known/genid/N1a3caebe53484b1cb6bd56549df43a58> <http://schema.org/url> <http://victoriancollections.net.au/organisations/southern-health-historical-collection> .
+<http://lodlaundromat.org/.well-known/genid/N7261c2224f8848129cd445d3c4b992fa> <http://schema.org/latitude> "-37.921"^^<http://www.w3.org/2001/XMLSchema#double> .
+

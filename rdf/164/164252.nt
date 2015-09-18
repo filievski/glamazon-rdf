@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Ndbb97e3c176441e4befda7f8a8fe2643> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc157ea9f548241f2841c61a8a8de6380> <http://schema.org/longitude> "144.972"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndbb97e3c176441e4befda7f8a8fe2643> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4692293b0df947929a185a1a47a5a100> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nc157ea9f548241f2841c61a8a8de6380> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc157ea9f548241f2841c61a8a8de6380> <http://schema.org/latitude> "-37.8085"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc157ea9f548241f2841c61a8a8de6380> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8085&mlon=144.972#map=15/-37.8085/144.972> .
+<http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> <http://schema.org/id> "royal-australasian-college-of-surgeons" .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndbb97e3c176441e4befda7f8a8fe2643> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/url> <http://www.surgeons.org/about/museum-and-art-gallery/> .
+<http://lodlaundromat.org/.well-known/genid/Nc445a36a56304139afe251c80f748a6c> <http://schema.org/url> <http://victoriancollections.net.au/organisations/royal-australasian-college-of-surgeons> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/openingHours> "10am to 4pm Monday to Thursday"@en .
+<http://lodlaundromat.org/.well-known/genid/N4692293b0df947929a185a1a47a5a100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndbb97e3c176441e4befda7f8a8fe2643> <http://schema.org/value> "164252"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4692293b0df947929a185a1a47a5a100> .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/telephone> "9276 7447" .
+<http://lodlaundromat.org/.well-known/genid/N564d922f1da54454ba91ce390ede9b8d> <http://schema.org/name> "Royal Australasian College of Surgeons"@en .
+

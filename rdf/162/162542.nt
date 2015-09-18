@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> <http://schema.org/id> "8405400255" .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncedfa2c94364470b93b942e0ac936fc4> .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/name> "FAYETTE COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://schema.org/addressLocality> "ANSTED" .
+<http://lodlaundromat.org/.well-known/genid/N906151095e434c2593ab096256187fca> <http://schema.org/latitude> "38.1337"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N906151095e434c2593ab096256187fca> <http://schema.org/longitude> "-81.0971"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> .
+<http://lodlaundromat.org/.well-known/genid/N906151095e434c2593ab096256187fca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncedfa2c94364470b93b942e0ac936fc4> <http://schema.org/value> "162542"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N906151095e434c2593ab096256187fca> .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://schema.org/streetAddress> "PO BOX 702" .
+<http://lodlaundromat.org/.well-known/genid/Ncedfa2c94364470b93b942e0ac936fc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://schema.org/postalCode> "25812" .
+<http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c0dc688e8cb499095bd72202b7aa069> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1337&mlon=-81.0971#map=15/38.1337/-81.0971> .
+<http://lodlaundromat.org/.well-known/genid/N96e5dc3f53e44c24a08d0cddcb507420> <http://schema.org/addressRegion> "WV" .
+<http://lodlaundromat.org/.well-known/genid/Ncedfa2c94364470b93b942e0ac936fc4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf322b75cd2f4d26af5204a355037cb8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

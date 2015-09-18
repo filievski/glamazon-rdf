@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://schema.org/streetAddress> "PO BOX 935" .
+<http://lodlaundromat.org/.well-known/genid/N61e19a044e1e4181bb96050fdc0f4d8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://schema.org/postalCode> "28697-0935" .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N61e19a044e1e4181bb96050fdc0f4d8d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.1352&mlon=-81.1722#map=15/36.1352/-81.1722> .
+<http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/url> <http://www.wilkesnc.org/> .
+<http://lodlaundromat.org/.well-known/genid/N61e19a044e1e4181bb96050fdc0f4d8d> <http://schema.org/value> "151375"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/name> "WILKES HERITAGE MUSEUM INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndfda0f407c584ca99a1510745713ed7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N61e19a044e1e4181bb96050fdc0f4d8d> .
+<http://lodlaundromat.org/.well-known/genid/Ndfda0f407c584ca99a1510745713ed7d> <http://schema.org/latitude> "36.1352"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> .
+<http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> <http://schema.org/id> "8403700246" .
+<http://lodlaundromat.org/.well-known/genid/Ne331ebe5db8e46de9c70551210dba648> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndfda0f407c584ca99a1510745713ed7d> .
+<http://lodlaundromat.org/.well-known/genid/N5346e5850e774d41ab941de74dc46138> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://schema.org/addressLocality> "WILKESBORO" .
+<http://lodlaundromat.org/.well-known/genid/N2a7ffe25f7cf449091b30754b692a219> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndfda0f407c584ca99a1510745713ed7d> <http://schema.org/longitude> "-81.1722"^^<http://www.w3.org/2001/XMLSchema#double> .
+

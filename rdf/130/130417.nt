@@ -1,0 +1,32 @@
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> <http://schema.org/id> "8400600543" .
+<http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Cabot's_Pueblo_Museum> .
+<http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9578&mlon=-116.482#map=15/33.9578/-116.482> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N223426dd882f48b1b7d8366fbab3f933> .
+<http://lodlaundromat.org/.well-known/genid/Nd280e1be689f40d0b235cc365820d8b0> <http://schema.org/longitude> "-116.482"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd280e1be689f40d0b235cc365820d8b0> <http://schema.org/latitude> "33.9578"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2190a4bd877a4daf9d991e09e6d01279> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd280e1be689f40d0b235cc365820d8b0> .
+<http://lodlaundromat.org/.well-known/genid/N223426dd882f48b1b7d8366fbab3f933> <http://schema.org/contentUrl> <http://images.museums.io/dfGKoTL0OmzgLHkpoxV4sWv6XnI=/1000x1000/museums/logos/000/130/417/original/Cabots-Pueblo-Museum.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N6da30e7e4bcf48bf923c8adb96768e7f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N223426dd882f48b1b7d8366fbab3f933> <http://schema.org/license> <https://creativecommons.org/publicdomain/zero/1.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2190a4bd877a4daf9d991e09e6d01279> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd280e1be689f40d0b235cc365820d8b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N2190a4bd877a4daf9d991e09e6d01279> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2190a4bd877a4daf9d991e09e6d01279> <http://schema.org/value> "130417"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N223426dd882f48b1b7d8366fbab3f933> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/name> "CABOT'S PUEBLO MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/url> <http://www.cabotsmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N85ba16412e1e461ba363724e2403a22a> <http://schema.org/telephone> "+1 (760) 329-7610" .
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://schema.org/postalCode> "92240" .
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://schema.org/streetAddress> "67616 DESERT VIEW AVE" .
+<http://lodlaundromat.org/.well-known/genid/N2beecffe35df4a258ef4cee012ac8c96> <http://schema.org/addressLocality> "DESERT HOT SPRINGS" .
+

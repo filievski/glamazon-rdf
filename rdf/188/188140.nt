@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> <http://schema.org/addressLocality> "Alberona" .
+<http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N4cf88845074b4d78947e10406f3ab7fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N79ac5dcb329e4f20a2fc3a54b9434f62> <http://schema.org/value> "188140"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/name> "Antiquarium comunale di Alberona"@it .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/url> <http://www.comunealberona.it/> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/telephone> "+39 0881592022" .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4cf88845074b4d78947e10406f3ab7fc> .
+<http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N79ac5dcb329e4f20a2fc3a54b9434f62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> <http://schema.org/addressRegion> "Puglia" .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3673e14c18a2466b895a7ed7963aa485> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N79ac5dcb329e4f20a2fc3a54b9434f62> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/name> "The Municipal Antiquarian of Alberona"@en .
+<http://lodlaundromat.org/.well-known/genid/N4cf88845074b4d78947e10406f3ab7fc> <http://schema.org/latitude> "41.4336"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N79ac5dcb329e4f20a2fc3a54b9434f62> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4cf88845074b4d78947e10406f3ab7fc> <http://schema.org/longitude> "15.122"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4336&mlon=15.122#map=15/41.4336/15.122> .
+<http://lodlaundromat.org/.well-known/genid/N3673e14c18a2466b895a7ed7963aa485> <http://schema.org/contentUrl> <http://images.museums.io/nxHW-Eccb8ItrETKO1vjbuMzNR0=/1000x1000/museums/logos/000/188/140/original/b0a4df9a314486d7b213e11b2eb265a923427d3f.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N3673e14c18a2466b895a7ed7963aa485> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62fe4302fac04561a52639607df3b0c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N7cd845bdf6cb4c6ea915e21e9c9a1418> <http://schema.org/streetAddress> "Corso Vittorio Emanuele, 6" .
+<http://lodlaundromat.org/.well-known/genid/Nf97c7832e5184e52bbf3cecd9c30e6e7> <http://schema.org/id> "102359" .
+

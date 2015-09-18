@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc0c6a0f8d99a496bad4325578e93b1d8> <http://schema.org/value> "139547"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc0c6a0f8d99a496bad4325578e93b1d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc0c6a0f8d99a496bad4325578e93b1d8> .
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://schema.org/streetAddress> "119 E FRONT ST" .
+<http://lodlaundromat.org/.well-known/genid/N93fa201e2d3a421798657a635aae164b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N93fa201e2d3a421798657a635aae164b> <http://schema.org/latitude> "41.504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.504&mlon=-94.3184#map=15/41.504/-94.3184> .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/name> "STUART DEPOT RESTORATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> <http://schema.org/id> "8401900584" .
+<http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> .
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> .
+<http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc0c6a0f8d99a496bad4325578e93b1d8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://schema.org/postalCode> "50250" .
+<http://lodlaundromat.org/.well-known/genid/N12c1fcad8e934cda9af655e8927f51ba> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N93fa201e2d3a421798657a635aae164b> <http://schema.org/longitude> "-94.3184"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N384232f3a08e411eb44057b4652a2b78> <http://schema.org/addressLocality> "STUART" .
+<http://lodlaundromat.org/.well-known/genid/N3d60419659ac48d4b6cb581a095610db> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N93fa201e2d3a421798657a635aae164b> .
+

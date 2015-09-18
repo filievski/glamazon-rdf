@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7f8a5d1568294a2ba201ef263fd8284b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://schema.org/addressLocality> "LANSDOWNE" .
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://schema.org/postalCode> "19050-2205" .
+<http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> .
+<http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf615e5f118e942babbbfe28ef6ce82c5> .
+<http://lodlaundromat.org/.well-known/genid/N7f8a5d1568294a2ba201ef263fd8284b> <http://schema.org/value> "156437"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7f8a5d1568294a2ba201ef263fd8284b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7f8a5d1568294a2ba201ef263fd8284b> .
+<http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://schema.org/streetAddress> "31 N LANSDOWNE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> .
+<http://lodlaundromat.org/.well-known/genid/Nf615e5f118e942babbbfe28ef6ce82c5> <http://schema.org/latitude> "39.9393"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N839848c278da41e4bcf8d22f4fb8a60e> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Nf615e5f118e942babbbfe28ef6ce82c5> <http://schema.org/longitude> "-75.2724"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/name> "HISTORIC LANSDOWNE THEATER CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N0e3360cc0cd64428923b0afdc2ad617f> <http://schema.org/id> "8404201631" .
+<http://lodlaundromat.org/.well-known/genid/Nf615e5f118e942babbbfe28ef6ce82c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4880587e732b439a93f823f852925f70> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9393&mlon=-75.2724#map=15/39.9393/-75.2724> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> .
+<http://lodlaundromat.org/.well-known/genid/N5eae89003397403c964d06b7ac91bfa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://schema.org/addressLocality> "MCALLEN" .
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://schema.org/streetAddress> "POST OFFICE BOX 4228" .
+<http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5eae89003397403c964d06b7ac91bfa3> .
+<http://lodlaundromat.org/.well-known/genid/N03e17d7617a146adab281aa8723e9824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.2159&mlon=-98.2116#map=15/26.2159/-98.2116> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N03e17d7617a146adab281aa8723e9824> .
+<http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> .
+<http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N35298551d5df47348bd774e4c2233038> <http://schema.org/name> "RIO GRANDE VALLEY RAILS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5eae89003397403c964d06b7ac91bfa3> <http://schema.org/longitude> "-98.2116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5eae89003397403c964d06b7ac91bfa3> <http://schema.org/latitude> "26.2159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://schema.org/postalCode> "78502-4228" .
+<http://lodlaundromat.org/.well-known/genid/N03e17d7617a146adab281aa8723e9824> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc73cbe6da86941b0bbf36c450d1dfecb> <http://schema.org/id> "8404801258" .
+<http://lodlaundromat.org/.well-known/genid/N03e17d7617a146adab281aa8723e9824> <http://schema.org/value> "159158"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na9bc37345c6040acb504ff832a320f42> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc1a3a90346924e8faa8fe514a73907cc> <http://schema.org/longitude> "-73.6807"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://schema.org/addressLocality> "NEW HYDE PARK" .
+<http://lodlaundromat.org/.well-known/genid/Nc1a3a90346924e8faa8fe514a73907cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne1ef2e11880d4664b92d4a26a4391dbc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne1ef2e11880d4664b92d4a26a4391dbc> <http://schema.org/value> "149363"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne1ef2e11880d4664b92d4a26a4391dbc> .
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://schema.org/streetAddress> "1534 HIGHLAND AVE" .
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://schema.org/postalCode> "11040" .
+<http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.74&mlon=-73.6807#map=15/40.74/-73.6807> .
+<http://lodlaundromat.org/.well-known/genid/Ne1ef2e11880d4664b92d4a26a4391dbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc1a3a90346924e8faa8fe514a73907cc> .
+<http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc1a3a90346924e8faa8fe514a73907cc> <http://schema.org/latitude> "40.74"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> .
+<http://lodlaundromat.org/.well-known/genid/N27ea213c96d34e12b841def6b0d5c0e2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N410468ee3e554490941d326ce3acf129> <http://schema.org/name> "NEW HYDE PARK HISTORICAL SOCIETY INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd8016f59cd1745b3af8a0e104ce8706c> <http://schema.org/id> "8403600657" .
+

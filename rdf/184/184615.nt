@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nd163b19af7dd4129b68b346a84a2e793> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd163b19af7dd4129b68b346a84a2e793> .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2f92836d1c344ae2bf882f0949ee34b9> .
+<http://lodlaundromat.org/.well-known/genid/Nd163b19af7dd4129b68b346a84a2e793> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd163b19af7dd4129b68b346a84a2e793> <http://schema.org/url> <http://www.museums.io/en/museums/184615> .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/name> "Msunduzi/ Voortrekker Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N2f92836d1c344ae2bf882f0949ee34b9> <http://schema.org/value> "184615"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2f92836d1c344ae2bf882f0949ee34b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nce201809a6634ef98a235e08a3039480> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8405b1143e944c89b5a8eba034664814> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nce201809a6634ef98a235e08a3039480> .
+<http://lodlaundromat.org/.well-known/genid/Nce201809a6634ef98a235e08a3039480> <http://schema.org/longitude> "30.3796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-29.6035&mlon=30.3796#map=15/-29.6035/30.3796> .
+<http://lodlaundromat.org/.well-known/genid/N2f92836d1c344ae2bf882f0949ee34b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nce201809a6634ef98a235e08a3039480> <http://schema.org/latitude> "-29.6035"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6145c7dda8a459f9d1701fdd7c312a3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8405b1143e944c89b5a8eba034664814> .
+<http://lodlaundromat.org/.well-known/genid/N8405b1143e944c89b5a8eba034664814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd163b19af7dd4129b68b346a84a2e793> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

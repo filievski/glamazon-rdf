@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N2e4169de01d54b92a6fe705981bbd509> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/telephone> "+39 0143 322634" .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2e4169de01d54b92a6fe705981bbd509> .
+<http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2e4169de01d54b92a6fe705981bbd509> <http://schema.org/longitude> "8.7861"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nec46adef90ea46f294c15779ba3fd790> <http://schema.org/value> "187559"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N16eaabcd19144d8096151d42c45582c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N16eaabcd19144d8096151d42c45582c3> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/name> "Museo dei campionissimi"@it .
+<http://lodlaundromat.org/.well-known/genid/N16eaabcd19144d8096151d42c45582c3> <http://schema.org/contentUrl> <http://images.museums.io/PNsPGkdQIZpgHbXoUUUq0AxOvwU=/1000x1000/museums/logos/000/187/559/original/833657c72b1c6c66e2428f2bed267ce36182d80.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/url> <http://www.museodeicampionissimi.it/> .
+<http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> <http://schema.org/id> "102461" .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7618&mlon=8.7861#map=15/44.7618/8.7861> .
+<http://lodlaundromat.org/.well-known/genid/Nec6b8d54a0bc461cb34f16ac8024e4bf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nec46adef90ea46f294c15779ba3fd790> .
+<http://lodlaundromat.org/.well-known/genid/Nec46adef90ea46f294c15779ba3fd790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e4169de01d54b92a6fe705981bbd509> <http://schema.org/latitude> "44.7618"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> <http://schema.org/addressLocality> "Novi Ligure" .
+<http://lodlaundromat.org/.well-known/genid/N6779f25cc5954aad9a53deff64ee715b> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nec46adef90ea46f294c15779ba3fd790> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N82a39607534e4d70af1ef9ed443d53dd> <http://schema.org/streetAddress> "Viale dei Campionissimi, " .
+

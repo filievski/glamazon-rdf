@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8c1bf2891b104de986844b40f15c9d1c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/name> "DAUER MUSEUM OF CLASSIC CARS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> <http://schema.org/id> "8401200585" .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.1647&mlon=-80.215#map=15/26.1647/-80.215> .
+<http://lodlaundromat.org/.well-known/genid/N8c1bf2891b104de986844b40f15c9d1c> <http://schema.org/longitude> "-80.215"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/url> <http://www.dauerclassiccars.com/> .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> .
+<http://lodlaundromat.org/.well-known/genid/N810210f799e042a9b84de33f6f88d97b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c1bf2891b104de986844b40f15c9d1c> <http://schema.org/latitude> "26.1647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://schema.org/streetAddress> "4850 W OAKLAND PARK BLVD 145" .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N810210f799e042a9b84de33f6f88d97b> .
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://schema.org/addressLocality> "FT LAUDERDALE" .
+<http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N810210f799e042a9b84de33f6f88d97b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51f7809fd7fc40d1b0280048573a8f55> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8c1bf2891b104de986844b40f15c9d1c> .
+<http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N810210f799e042a9b84de33f6f88d97b> <http://schema.org/value> "135031"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nde4fdd5f71554e7c87d622f96ae512ff> <http://schema.org/postalCode> "33313-7277" .
+<http://lodlaundromat.org/.well-known/genid/N0cc9c59e914e41439a126f662cbcac9c> <http://schema.org/url> <http://www.imls.gov/> .
+

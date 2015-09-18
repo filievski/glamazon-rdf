@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/Nf042273038d245ef9d22d8915f3864af> <http://schema.org/latitude> "-29.6773"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b45ab50814648f99eb877f81b7c52bb> .
+<http://lodlaundromat.org/.well-known/genid/N0b45ab50814648f99eb877f81b7c52bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/name> "Kleinsee Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne303bb535e574169a489aced1f874d95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0b45ab50814648f99eb877f81b7c52bb> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Na9ea985f444d4bebb87982df4e595909> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne303bb535e574169a489aced1f874d95> <http://schema.org/value> "184590"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na9ea985f444d4bebb87982df4e595909> .
+<http://lodlaundromat.org/.well-known/genid/Nf042273038d245ef9d22d8915f3864af> <http://schema.org/longitude> "17.069"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf042273038d245ef9d22d8915f3864af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na9ea985f444d4bebb87982df4e595909> <http://schema.org/url> <http://www.museums.io/en/museums/184590> .
+<http://lodlaundromat.org/.well-known/genid/Na9ea985f444d4bebb87982df4e595909> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Na9ea985f444d4bebb87982df4e595909> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne303bb535e574169a489aced1f874d95> .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-29.6773&mlon=17.069#map=15/-29.6773/17.069> .
+<http://lodlaundromat.org/.well-known/genid/Ne303bb535e574169a489aced1f874d95> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf35d8f2ae4274a4495df9a1459393749> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf042273038d245ef9d22d8915f3864af> .
+

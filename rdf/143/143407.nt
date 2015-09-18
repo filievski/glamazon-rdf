@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2465ca315f4148e7951e29f71bc806e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> .
+<http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/name> "BRIGHTON-ALLSTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25947c93e43948208f6f70d4b7c37869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> <http://schema.org/id> "8402501037" .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2465ca315f4148e7951e29f71bc806e7> .
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://schema.org/addressLocality> "BRIGHTON" .
+<http://lodlaundromat.org/.well-known/genid/N2465ca315f4148e7951e29f71bc806e7> <http://schema.org/value> "143407"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N25947c93e43948208f6f70d4b7c37869> <http://schema.org/longitude> "-71.1539"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2465ca315f4148e7951e29f71bc806e7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://schema.org/streetAddress> "20 CHESTNUT HILL AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://schema.org/postalCode> "02135-3214" .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N25947c93e43948208f6f70d4b7c37869> .
+<http://lodlaundromat.org/.well-known/genid/N188aa981d3224f538b76f140e6768aa0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7336ef3d524b414baca3cbd679a0e84d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3481&mlon=-71.1539#map=15/42.3481/-71.1539> .
+<http://lodlaundromat.org/.well-known/genid/N25947c93e43948208f6f70d4b7c37869> <http://schema.org/latitude> "42.3481"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2f1f6f623dde4a1b8e5115b1239b1c7a> <http://schema.org/addressRegion> "MA" .
+

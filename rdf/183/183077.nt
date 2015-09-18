@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N85bb8443dbf24a64891c48841f75dcc5> .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N00eb849a92d44c5ca592c76424e5ee3b> .
+<http://lodlaundromat.org/.well-known/genid/N85bb8443dbf24a64891c48841f75dcc5> <http://schema.org/value> "183077"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6e1f91651d514cc495d98a8273e4f53b> <http://schema.org/url> <http://www.museums.io/en/museums/183077> .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/name> "Industriemuseum Lauf"@en .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/url> <http://www.industriemuseum-lauf.de/> .
+<http://lodlaundromat.org/.well-known/genid/N6e1f91651d514cc495d98a8273e4f53b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e1f91651d514cc495d98a8273e4f53b> .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://schema.org/addressLocality> "Lauf" .
+<http://lodlaundromat.org/.well-known/genid/N00eb849a92d44c5ca592c76424e5ee3b> <http://schema.org/longitude> "11.2768"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N00eb849a92d44c5ca592c76424e5ee3b> <http://schema.org/latitude> "49.5098"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e1f91651d514cc495d98a8273e4f53b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.5098&mlon=11.2768#map=15/49.5098/11.2768> .
+<http://lodlaundromat.org/.well-known/genid/N00eb849a92d44c5ca592c76424e5ee3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N85bb8443dbf24a64891c48841f75dcc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://schema.org/streetAddress> "Sichartstra\u00DFe 15" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> .
+<http://lodlaundromat.org/.well-known/genid/N85bb8443dbf24a64891c48841f75dcc5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6e1f91651d514cc495d98a8273e4f53b> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://schema.org/postalCode> "91207" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c378c9a1c048a59c8f54602ff1ad5a> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N620a5c8d21014a14b78f82217b3e1ce1> <http://schema.org/telephone> "09123/9903-0" .
+

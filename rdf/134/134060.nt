@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N02554eaf04b84e3f8e96bc88d8746c39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0674&mlon=-73.5146#map=15/41.0674/-73.5146> .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N44d6a40b80094f22a4c9a8ce05993ce6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://schema.org/addressLocality> "STAMFORD" .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> .
+<http://lodlaundromat.org/.well-known/genid/N44d6a40b80094f22a4c9a8ce05993ce6> <http://schema.org/longitude> "-73.5146"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02554eaf04b84e3f8e96bc88d8746c39> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> <http://schema.org/id> "8400900535" .
+<http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N02554eaf04b84e3f8e96bc88d8746c39> <http://schema.org/value> "134060"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/name> "HOMER L WISE MEMORIAL COMMITTEE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://schema.org/streetAddress> "21 FAIRMONT AVE" .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N44d6a40b80094f22a4c9a8ce05993ce6> .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02554eaf04b84e3f8e96bc88d8746c39> .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://schema.org/postalCode> "06906-2310" .
+<http://lodlaundromat.org/.well-known/genid/N04301054ada443eb82335e5fa3b7ebec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3f62bc7759154a499d6fdd4791ca9714> .
+<http://lodlaundromat.org/.well-known/genid/N44d6a40b80094f22a4c9a8ce05993ce6> <http://schema.org/latitude> "41.0674"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a5bb4c97bf84eaf89b981c22e376373> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

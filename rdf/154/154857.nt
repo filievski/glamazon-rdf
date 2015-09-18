@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nce961446cdba4565a7a9c65b247ac8ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://schema.org/streetAddress> "1 FENNER AVE" .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://schema.org/postalCode> "18354" .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N7ee9722216db4990a58bc12d1abbb458> <http://schema.org/longitude> "-75.3097"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ee9722216db4990a58bc12d1abbb458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/name> "TOY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> <http://schema.org/id> "8404200051" .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7ee9722216db4990a58bc12d1abbb458> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/telephone> "+1 (570) 402-0243" .
+<http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.927&mlon=-75.3097#map=15/40.927/-75.3097> .
+<http://lodlaundromat.org/.well-known/genid/Nce961446cdba4565a7a9c65b247ac8ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7ee9722216db4990a58bc12d1abbb458> <http://schema.org/latitude> "40.927"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> <http://schema.org/addressLocality> "SCIOTA" .
+<http://lodlaundromat.org/.well-known/genid/Nce961446cdba4565a7a9c65b247ac8ec> <http://schema.org/value> "154857"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nce961446cdba4565a7a9c65b247ac8ec> .
+<http://lodlaundromat.org/.well-known/genid/N09555021dced40a69d3dc5d15b393427> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1c7192e508c5415598f9254d6c25ff90> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na6dad4c05f2a4b8c9f978c58cd2fcf3c> .
+

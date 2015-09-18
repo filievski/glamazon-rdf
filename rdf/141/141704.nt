@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://schema.org/streetAddress> "PO BOX 246" .
+<http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> <http://schema.org/id> "8402300553" .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://schema.org/postalCode> "04357-0246" .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1486&mlon=-68.4512#map=15/44.1486/-68.4512> .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e7af25c75184bb391b601ca46f242c2> .
+<http://lodlaundromat.org/.well-known/genid/N5e7af25c75184bb391b601ca46f242c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N409fcf74f3854eedb206705918a261ec> .
+<http://lodlaundromat.org/.well-known/genid/N409fcf74f3854eedb206705918a261ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://schema.org/addressLocality> "RICHMOND" .
+<http://lodlaundromat.org/.well-known/genid/N409fcf74f3854eedb206705918a261ec> <http://schema.org/value> "141704"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> .
+<http://lodlaundromat.org/.well-known/genid/N5e7af25c75184bb391b601ca46f242c2> <http://schema.org/longitude> "-68.4512"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4be047f932e64fb19b4ad70f98489d2c> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/name> "FRIENDS OF SWAN ISLAND"@en .
+<http://lodlaundromat.org/.well-known/genid/N6960e60c912940fb8e72b0ba9a2a0537> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N409fcf74f3854eedb206705918a261ec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd6312a25a7644dc7bd8c80c1b76744e0> <http://schema.org/url> <http://www.swansisland.org/lighthouse.htm> .
+<http://lodlaundromat.org/.well-known/genid/N5e7af25c75184bb391b601ca46f242c2> <http://schema.org/latitude> "44.1486"^^<http://www.w3.org/2001/XMLSchema#double> .
+

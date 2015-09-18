@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://schema.org/streetAddress> "2845 N BAKER STREET" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> .
+<http://lodlaundromat.org/.well-known/genid/Nc3f203011881485b9ff534df3dd8d9cf> <http://schema.org/value> "131876"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc3f203011881485b9ff534df3dd8d9cf> .
+<http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4bf1483080964acc8db5798a80f20c9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc3f203011881485b9ff534df3dd8d9cf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> <http://schema.org/id> "8400602002" .
+<http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://schema.org/postalCode> "93305-1839" .
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4bf1483080964acc8db5798a80f20c9a> .
+<http://lodlaundromat.org/.well-known/genid/Nc3f203011881485b9ff534df3dd8d9cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4008&mlon=-118.987#map=15/35.4008/-118.987> .
+<http://lodlaundromat.org/.well-known/genid/N1d3f404aa1604a0e85cfcccfb093be0e> <http://schema.org/addressLocality> "BAKERSFIELD" .
+<http://lodlaundromat.org/.well-known/genid/Na31fbd39433c4830832c278c3b916f4f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc077d66315a646fca3a4f202d19c3728> <http://schema.org/name> "BAKERSFIELD YOUTH SYMPHONY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4bf1483080964acc8db5798a80f20c9a> <http://schema.org/latitude> "35.4008"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4bf1483080964acc8db5798a80f20c9a> <http://schema.org/longitude> "-118.987"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N933f259145674a27840c56f13d980a22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0b7dad40b1664d48bd14dd45f500f205> .
+<http://lodlaundromat.org/.well-known/genid/N0b7dad40b1664d48bd14dd45f500f205> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> .
+<http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/name> "Museo civico di Bevagna"@it .
+<http://lodlaundromat.org/.well-known/genid/N13448906eaa146d28de010d1c7d4161c> <http://schema.org/contentUrl> <http://images.museums.io/W63UqLb1C6Bu8ngKx7giGvN7ZHk=/1000x1000/museums/logos/000/189/190/original/28e2bc2795e3a0f7bfcf6c566c5e231be159ee5f.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> <http://schema.org/id> "100684" .
+<http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N0b7dad40b1664d48bd14dd45f500f205> <http://schema.org/latitude> "42.9335"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/telephone> "+39 0742360031" .
+<http://lodlaundromat.org/.well-known/genid/N13448906eaa146d28de010d1c7d4161c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/url> <http://www.comune.bevagna.pg.it/> .
+<http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> <http://schema.org/addressLocality> "Bevagna" .
+<http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N13448906eaa146d28de010d1c7d4161c> .
+<http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0b7dad40b1664d48bd14dd45f500f205> <http://schema.org/longitude> "12.6088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N933f259145674a27840c56f13d980a22> <http://schema.org/value> "189190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9335&mlon=12.6088#map=15/42.9335/12.6088> .
+<http://lodlaundromat.org/.well-known/genid/N40d7a838ba8f46d281fbdf933e7eb50a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N933f259145674a27840c56f13d980a22> .
+<http://lodlaundromat.org/.well-known/genid/N497778df47ab4b25b907e4aea247205f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N933f259145674a27840c56f13d980a22> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4a347d91a6fa48438b1c502e3b8f910c> <http://schema.org/streetAddress> "Corso Matteotti, 70" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/name> "ESSEX HISTORICAL SOCIETY & SHIPBUILDING MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N48221f797c9b457b8d7bfe65ba635124> .
+<http://lodlaundromat.org/.well-known/genid/N48221f797c9b457b8d7bfe65ba635124> <http://schema.org/value> "143420"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/url> <http://www.essexshipbuildingmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N403904c06149409bb4bbb0059dda421e> <http://schema.org/longitude> "-70.7797"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N403904c06149409bb4bbb0059dda421e> .
+<http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> .
+<http://lodlaundromat.org/.well-known/genid/N403904c06149409bb4bbb0059dda421e> <http://schema.org/latitude> "42.6323"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> <http://schema.org/id> "8402501050" .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/telephone> "+1 (978) 768-7541" .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6323&mlon=-70.7797#map=15/42.6323/-70.7797> .
+<http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48221f797c9b457b8d7bfe65ba635124> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N48221f797c9b457b8d7bfe65ba635124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://schema.org/postalCode> "01929-0005" .
+<http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6761eaf7ec0e4e918a76e92de2c615c0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N403904c06149409bb4bbb0059dda421e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://schema.org/streetAddress> "PO BOX 277" .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://schema.org/addressLocality> "ESSEX" .
+<http://lodlaundromat.org/.well-known/genid/N5870ecf752894fba9f52feb44bddb458> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> .
+<http://lodlaundromat.org/.well-known/genid/N23b9a0ab491c447c9fe2ca5e67ce6d95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

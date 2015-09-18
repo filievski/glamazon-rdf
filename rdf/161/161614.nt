@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nfd97802a914641efa303424cf796c328> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfd97802a914641efa303424cf796c328> <http://schema.org/longitude> "-123.734"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/url> <http://nwcarriagemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfd97802a914641efa303424cf796c328> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbd9cdf81054a42de83e6dd9b394872fc> .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbd9cdf81054a42de83e6dd9b394872fc> <http://schema.org/value> "161614"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbd9cdf81054a42de83e6dd9b394872fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://schema.org/streetAddress> "312 ALDER ST" .
+<http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfd97802a914641efa303424cf796c328> <http://schema.org/latitude> "46.684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd9cdf81054a42de83e6dd9b394872fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/telephone> "+1 (360) 942-4150" .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.684&mlon=-123.734#map=15/46.684/-123.734> .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/name> "MUSEUMS, NORTHWEST CARRIAGE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> <http://schema.org/id> "8405300063" .
+<http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://schema.org/postalCode> "98577" .
+<http://lodlaundromat.org/.well-known/genid/N5e3d3003c4b74d2e98f492b7344bf2eb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> .
+<http://lodlaundromat.org/.well-known/genid/N3168f133e6834c20b3370a5a036189d2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N976da16ed288413cb5b021eaabfa2e5c> <http://schema.org/addressLocality> "RAYMOND" .
+

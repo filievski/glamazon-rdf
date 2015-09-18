@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2c36d09f34994c9eb6e20da0a07df9d2> <http://schema.org/latitude> "39.5198"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2fc601394d64ebaa8ff4f5819d0a5af> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5198&mlon=-76.6343#map=15/39.5198/-76.6343> .
+<http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2c36d09f34994c9eb6e20da0a07df9d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> .
+<http://lodlaundromat.org/.well-known/genid/N2c36d09f34994c9eb6e20da0a07df9d2> <http://schema.org/longitude> "-76.6343"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://schema.org/postalCode> "21152-8856" .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> .
+<http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne2fc601394d64ebaa8ff4f5819d0a5af> <http://schema.org/value> "142191"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://schema.org/streetAddress> "20 OLD FORGE GARTH" .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/name> "FIRST BATTALION MARYLAND CAVALRY IN"@en .
+<http://lodlaundromat.org/.well-known/genid/Naab1ff9c560e44f498463b67a3b7c32a> <http://schema.org/id> "8402400484" .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne2fc601394d64ebaa8ff4f5819d0a5af> .
+<http://lodlaundromat.org/.well-known/genid/Ne2fc601394d64ebaa8ff4f5819d0a5af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne6733dcc05b945739def5815814cde7f> <http://schema.org/addressLocality> "SPARKS" .
+<http://lodlaundromat.org/.well-known/genid/N71432dbe4fef4249ae5b22737b507a4e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2c36d09f34994c9eb6e20da0a07df9d2> .
+

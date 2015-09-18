@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/N018bfd8c7938424496563c5e626dc284> <http://schema.org/longitude> "-117.151"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N018bfd8c7938424496563c5e626dc284> <http://schema.org/latitude> "32.75"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N76b6a5a057ae457a8cf5f55a059c62fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N76b6a5a057ae457a8cf5f55a059c62fc> .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://schema.org/streetAddress> "PO BOX 33956" .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N76b6a5a057ae457a8cf5f55a059c62fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd27d1d355b8b4f31afce9ad8bdbc5d46> <http://schema.org/license> <https://en.wikipedia.org/wiki/Public_domain> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/name> "LAMBDA ARCHIVES OF SAN DIEGO"@en .
+<http://lodlaundromat.org/.well-known/genid/N76b6a5a057ae457a8cf5f55a059c62fc> <http://schema.org/value> "131123"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Lambda_Archives_of_San_Diego> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> .
+<http://lodlaundromat.org/.well-known/genid/N018bfd8c7938424496563c5e626dc284> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://schema.org/addressLocality> "SAN DIEGO" .
+<http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N65be4a717443435d9b2d846b0d4c73a7> <http://schema.org/postalCode> "92163-3956" .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.75&mlon=-117.151#map=15/32.75/-117.151> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N018bfd8c7938424496563c5e626dc284> .
+<http://lodlaundromat.org/.well-known/genid/N37bfaf513c844a388da33acd8bfa46f9> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nd27d1d355b8b4f31afce9ad8bdbc5d46> .
+<http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd27d1d355b8b4f31afce9ad8bdbc5d46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nd27d1d355b8b4f31afce9ad8bdbc5d46> <http://schema.org/contentUrl> <http://images.museums.io/DHKCBZ2F1wUupERxVnTjUeeD650=/1000x1000/museums/logos/000/131/123/original/LAmbda_Logo.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N40500634257742e0818eca3a31188fbb> <http://schema.org/id> "8400601249" .
+

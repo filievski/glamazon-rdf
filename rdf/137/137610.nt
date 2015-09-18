@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4f89d27c2e4f468b803f48f3811f091b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbcc6ad31a80c4bfca977f07f0514fd40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f89d27c2e4f468b803f48f3811f091b> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/telephone> "+1 (708) 386-7635" .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://schema.org/postalCode> "60301-1195" .
+<http://lodlaundromat.org/.well-known/genid/N4f89d27c2e4f468b803f48f3811f091b> <http://schema.org/latitude> "41.8879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f89d27c2e4f468b803f48f3811f091b> <http://schema.org/longitude> "-87.8007"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://schema.org/addressLocality> "OAK PARK" .
+<http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbcc6ad31a80c4bfca977f07f0514fd40> <http://schema.org/value> "137610"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8879&mlon=-87.8007#map=15/41.8879/-87.8007> .
+<http://lodlaundromat.org/.well-known/genid/Nd0ae72fe04b44cb3bd43741fd40615da> <http://schema.org/streetAddress> "100 FOREST PL APT P52" .
+<http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbcc6ad31a80c4bfca977f07f0514fd40> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> .
+<http://lodlaundromat.org/.well-known/genid/Ne45d4e87d9404f65929ffa837ab7acbd> <http://schema.org/name> "LATIN AMERICAN MUSEUM OF ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N43e225b779bb4111b716113ccfcadbb2> <http://schema.org/id> "8401700755" .
+<http://lodlaundromat.org/.well-known/genid/Nbcc6ad31a80c4bfca977f07f0514fd40> <http://schema.org/name> "id" .
+

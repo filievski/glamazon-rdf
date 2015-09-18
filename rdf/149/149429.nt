@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N34617a92a8de496c891a56ec23083d14> <http://schema.org/latitude> "40.8753"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a608d31c0b04bf0be04b08cc0f18bd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N34617a92a8de496c891a56ec23083d14> <http://schema.org/longitude> "-73.4224"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a608d31c0b04bf0be04b08cc0f18bd8> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> .
+<http://lodlaundromat.org/.well-known/genid/N34617a92a8de496c891a56ec23083d14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N34617a92a8de496c891a56ec23083d14> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8753&mlon=-73.4224#map=15/40.8753/-73.4224> .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/name> "HECKSCHER MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N4a608d31c0b04bf0be04b08cc0f18bd8> <http://schema.org/value> "149429"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9d90476451c94fec964f50c531b43b70> <http://schema.org/id> "8403600723" .
+<http://lodlaundromat.org/.well-known/genid/N4a608d31c0b04bf0be04b08cc0f18bd8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://schema.org/postalCode> "11743-2741" .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N202a9c066a0d4e27a1d1809930517ccf> <http://schema.org/url> <http://www.heckscher.org/> .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://schema.org/streetAddress> "2 PRIME AVE" .
+<http://lodlaundromat.org/.well-known/genid/N845cbd17aa9c4715986812b4489d5a27> <http://schema.org/addressLocality> "HUNTINGTON" .
+

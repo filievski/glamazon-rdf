@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N6243b5e9962f4a44b2e63facad4b4c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf699375fb9944e4db69168dd11bf2ec6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf699375fb9944e4db69168dd11bf2ec6> .
+<http://lodlaundromat.org/.well-known/genid/Nf699375fb9944e4db69168dd11bf2ec6> <http://schema.org/url> <http://www.museums.io/en/museums/184643> .
+<http://lodlaundromat.org/.well-known/genid/Ncf77bd2f89c64f5e85a3d303e5ec4008> <http://schema.org/longitude> "28.4985"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N89fc9e80bdcf449aa52f22a019f36401> .
+<http://lodlaundromat.org/.well-known/genid/Ncf77bd2f89c64f5e85a3d303e5ec4008> <http://schema.org/latitude> "-25.5226"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncf77bd2f89c64f5e85a3d303e5ec4008> .
+<http://lodlaundromat.org/.well-known/genid/Ncf77bd2f89c64f5e85a3d303e5ec4008> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-25.5226&mlon=28.4985#map=15/-25.5226/28.4985> .
+<http://lodlaundromat.org/.well-known/genid/N89fc9e80bdcf449aa52f22a019f36401> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6243b5e9962f4a44b2e63facad4b4c87> .
+<http://lodlaundromat.org/.well-known/genid/Nf699375fb9944e4db69168dd11bf2ec6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89fc9e80bdcf449aa52f22a019f36401> <http://schema.org/value> "184643"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6243b5e9962f4a44b2e63facad4b4c87> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/Nd5f12bbee3ad42b9838759db4c2d5c98> <http://schema.org/name> "Pilgrims Rest"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf699375fb9944e4db69168dd11bf2ec6> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N89fc9e80bdcf449aa52f22a019f36401> <http://schema.org/name> "id" .
+

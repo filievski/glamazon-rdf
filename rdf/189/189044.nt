@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5df9f74aae8843b9a36a7e4d28facbb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N338e036ab6a84328aeca9f528f44b8e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5df9f74aae8843b9a36a7e4d28facbb2> .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.3144&mlon=11.3235#map=15/43.3144/11.3235> .
+<http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/url> <http://www.mna.it/> .
+<http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> .
+<http://lodlaundromat.org/.well-known/genid/N2dbfa963167040e38457353d02302e10> <http://schema.org/latitude> "43.3144"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N338e036ab6a84328aeca9f528f44b8e4> .
+<http://lodlaundromat.org/.well-known/genid/N2dbfa963167040e38457353d02302e10> <http://schema.org/longitude> "11.3235"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2dbfa963167040e38457353d02302e10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> <http://schema.org/id> "103278" .
+<http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> <http://schema.org/addressLocality> "Siena" .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2dbfa963167040e38457353d02302e10> .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/telephone> "+39 0577233892" .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> .
+<http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53f16727c41e436c9f78703b31bd4419> <http://schema.org/streetAddress> "del Laterino, 8" .
+<http://lodlaundromat.org/.well-known/genid/N338e036ab6a84328aeca9f528f44b8e4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N338e036ab6a84328aeca9f528f44b8e4> <http://schema.org/value> "189044"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N3f79b91e0f534fa8b6ba241f8b2815bf> <http://schema.org/name> "Simus - Museo nazionale dell'Antartide Felice Ippolito"@it .
+<http://lodlaundromat.org/.well-known/genid/N9bf25fc6d18142d992817155bec431dc> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N5df9f74aae8843b9a36a7e4d28facbb2> <http://schema.org/contentUrl> <http://images.museums.io/n-LQpCv39-_hCtES23b6snSzhn0=/1000x1000/museums/logos/000/189/044/original/15c58cbb1dd78ba10ef5eec2f0f2a24e19bbbd.jpg> .
+

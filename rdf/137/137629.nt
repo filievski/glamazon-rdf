@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2ca2baabe6f845d4ab9f18b5abdd2faf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://schema.org/streetAddress> "PO BOX 743" .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> .
+<http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf7919c07c17f444e92f4312e96af4bc0> .
+<http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> .
+<http://lodlaundromat.org/.well-known/genid/Nf7919c07c17f444e92f4312e96af4bc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6201&mlon=-87.8395#map=15/41.6201/-87.8395> .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://schema.org/addressLocality> "ORLANDO PARK" .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/name> "OLD ORLAND HERITAGE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ca2baabe6f845d4ab9f18b5abdd2faf> .
+<http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N287462813b1f4201833d10376fad81a8> <http://schema.org/id> "8401700774" .
+<http://lodlaundromat.org/.well-known/genid/Nf7919c07c17f444e92f4312e96af4bc0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf7919c07c17f444e92f4312e96af4bc0> <http://schema.org/value> "137629"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2ca2baabe6f845d4ab9f18b5abdd2faf> <http://schema.org/longitude> "-87.8395"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ca2baabe6f845d4ab9f18b5abdd2faf> <http://schema.org/latitude> "41.6201"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc8667b6f077a4590898cb4efae100021> <http://schema.org/postalCode> "60462-0743" .
+<http://lodlaundromat.org/.well-known/genid/N602e9e5deffe4b348f8397335df3216f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

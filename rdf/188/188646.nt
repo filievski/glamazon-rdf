@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.7749&mlon=11.2528#map=15/43.7749/11.2528> .
+<http://lodlaundromat.org/.well-known/genid/Nfd74a48670ff4512a874db4d0093aab9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9076372f5c974325a470d4d927978698> .
+<http://lodlaundromat.org/.well-known/genid/Nfd74a48670ff4512a874db4d0093aab9> <http://schema.org/longitude> "11.2528"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9076372f5c974325a470d4d927978698> <http://schema.org/value> "188646"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3cb4a865ba114a69a3dd61a497edb390> .
+<http://lodlaundromat.org/.well-known/genid/N9076372f5c974325a470d4d927978698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> <http://schema.org/id> "20538" .
+<http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nfd74a48670ff4512a874db4d0093aab9> <http://schema.org/latitude> "43.7749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfd74a48670ff4512a874db4d0093aab9> .
+<http://lodlaundromat.org/.well-known/genid/N3cb4a865ba114a69a3dd61a497edb390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/telephone> "+39 0552388602" .
+<http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> .
+<http://lodlaundromat.org/.well-known/genid/N9076372f5c974325a470d4d927978698> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> <http://schema.org/streetAddress> "Madonna Aldobrandini, " .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> .
+<http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/name> "Museo delle Cappelle Medicee"@it .
+<http://lodlaundromat.org/.well-known/genid/N3cb4a865ba114a69a3dd61a497edb390> <http://schema.org/contentUrl> <http://images.museums.io/ntx8T2SSy7hNs0-1I-w_Y8hH5Pw=/1000x1000/museums/logos/000/188/646/original/34b4d3e4e9e962139371db681bf4573120b721fc.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41642cfdd0e247d2901004ee1e072756> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N918e600807ab42e9b1f0503d0fc5d650> <http://schema.org/url> <http://www.polomuseale.firenze.it/musei/?m=cappellemedicee> .
+<http://lodlaundromat.org/.well-known/genid/Na47402b4e4ef463f9af1a4ba5552856c> <http://schema.org/addressLocality> "Firenze" .
+

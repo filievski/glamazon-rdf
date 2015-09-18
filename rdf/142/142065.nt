@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf950253e5f844936903a029857786e13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> .
+<http://lodlaundromat.org/.well-known/genid/Nf950253e5f844936903a029857786e13> <http://schema.org/longitude> "-77.2392"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://schema.org/addressLocality> "MOUNT AIRY" .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/name> "THE FREDERICK COUNTY FARM MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf950253e5f844936903a029857786e13> <http://schema.org/latitude> "39.3912"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N17aea559d465416e843efb6daf109fc9> <http://schema.org/value> "142065"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> <http://schema.org/id> "8402400358" .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3912&mlon=-77.2392#map=15/39.3912/-77.2392> .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N17aea559d465416e843efb6daf109fc9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://schema.org/streetAddress> "5732 DETRICK RD" .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N17aea559d465416e843efb6daf109fc9> .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> .
+<http://lodlaundromat.org/.well-known/genid/N85dea69002f74e8aaf9c14c2ace90385> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf950253e5f844936903a029857786e13> .
+<http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://schema.org/postalCode> "21769-8713" .
+<http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfc8c697de6554b63bdebf5299caf60a0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N17aea559d465416e843efb6daf109fc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N119d0fdb9f7249f3839345a57f6f34a8> <http://schema.org/addressRegion> "MD" .
+

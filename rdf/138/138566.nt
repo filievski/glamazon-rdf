@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N19721166a92540ecbfd383b884e529af> .
+<http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/url> <http://workingmensinstitute.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> <http://schema.org/postalCode> "47631" .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/telephone> "+1 (812) 682-4806" .
+<http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncc6b03e6a9364f01a57e6c1aaa72c209> .
+<http://lodlaundromat.org/.well-known/genid/Ncc6b03e6a9364f01a57e6c1aaa72c209> <http://schema.org/longitude> "-87.9335"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc6b03e6a9364f01a57e6c1aaa72c209> <http://schema.org/latitude> "38.129"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N19721166a92540ecbfd383b884e529af> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.129&mlon=-87.9335#map=15/38.129/-87.9335> .
+<http://lodlaundromat.org/.well-known/genid/Ncc6b03e6a9364f01a57e6c1aaa72c209> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> <http://schema.org/id> "8401800352" .
+<http://lodlaundromat.org/.well-known/genid/N19721166a92540ecbfd383b884e529af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N20ddad5572604b788aaabe2f4d714ce9> <http://schema.org/name> "WORKING MEN'S INSTITUTE"@en .
+<http://lodlaundromat.org/.well-known/genid/N19721166a92540ecbfd383b884e529af> <http://schema.org/value> "138566"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0779ee92595b45f2aede12bb7f6d6320> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> <http://schema.org/addressLocality> "NEW HARMONY" .
+<http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Ncd092291309043efa9e4cbc1e5b68197> <http://schema.org/addressCountry> "United States" .
+

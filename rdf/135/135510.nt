@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/name> "VENICE MUSEUM AND ARCHIVES"@en .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbaa87afcf67c4aeea0688b101474e9cb> .
+<http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> .
+<http://lodlaundromat.org/.well-known/genid/Ne752491f4c2b467daa9a495cd2f020a7> <http://schema.org/longitude> "-82.4477"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://schema.org/addressLocality> "VENICE" .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne752491f4c2b467daa9a495cd2f020a7> .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://schema.org/streetAddress> "351 NASSAU STREET SOUTH" .
+<http://lodlaundromat.org/.well-known/genid/Nbaa87afcf67c4aeea0688b101474e9cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/telephone> "+1 (941) 486-2487" .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.0951&mlon=-82.4477#map=15/27.0951/-82.4477> .
+<http://lodlaundromat.org/.well-known/genid/N509e4da7aca547fb9ab3ab176fd2f5bd> <http://schema.org/url> <http://www.venicegov.com/archives> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa87afcf67c4aeea0688b101474e9cb> <http://schema.org/value> "135510"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbaa87afcf67c4aeea0688b101474e9cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6709984c2c764d5d8d48ac8fe61c1273> <http://schema.org/id> "8401201065" .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb0287c84a58a4ecf8d2756943f19f068> <http://schema.org/postalCode> "34285" .
+<http://lodlaundromat.org/.well-known/genid/Ne752491f4c2b467daa9a495cd2f020a7> <http://schema.org/latitude> "27.0951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne752491f4c2b467daa9a495cd2f020a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nea83f2f95785413d9d203df4f137151f> <http://schema.org/longitude> "-72.9658"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nea83f2f95785413d9d203df4f137151f> .
+<http://lodlaundromat.org/.well-known/genid/N1642913d58ba4674a488a0c4a1a3d183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7628&mlon=-72.9658#map=15/41.7628/-72.9658> .
+<http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nea83f2f95785413d9d203df4f137151f> <http://schema.org/latitude> "41.7628"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> .
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1642913d58ba4674a488a0c4a1a3d183> <http://schema.org/value> "134050"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> <http://schema.org/id> "8400900525" .
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://schema.org/streetAddress> "PO BOX 1545" .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> .
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://schema.org/postalCode> "06013-0545" .
+<http://lodlaundromat.org/.well-known/genid/N5dbff34dd9494ce19241cc36f6a68720> <http://schema.org/addressLocality> "BURLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N1642913d58ba4674a488a0c4a1a3d183> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1642913d58ba4674a488a0c4a1a3d183> .
+<http://lodlaundromat.org/.well-known/genid/Nea83f2f95785413d9d203df4f137151f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N55cff341d6364415ad3aafd3be7d8c4d> <http://schema.org/name> "NEW ENGLAND AUTO & TRANSPORTATION MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N50f8c0edf41c40eab5c0eb8473472591> <http://schema.org/name> "us" .
+

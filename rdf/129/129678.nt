@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/name> "ARKANSAS INLAND MARITIME MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://schema.org/streetAddress> "300 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://schema.org/addressLocality> "N LITTLE ROCK" .
+<http://lodlaundromat.org/.well-known/genid/Na349c7f87d4b40eeaf391466e0152fc6> <http://schema.org/value> "129678"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7a39bf2d3f244515a8abd4533fc307b4> <http://schema.org/latitude> "34.7562"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7a39bf2d3f244515a8abd4533fc307b4> .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://schema.org/postalCode> "72114-5326" .
+<http://lodlaundromat.org/.well-known/genid/Ne5558c773a2d422790e2bb78f59f73d0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na349c7f87d4b40eeaf391466e0152fc6> .
+<http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> <http://schema.org/id> "8400500114" .
+<http://lodlaundromat.org/.well-known/genid/Nb77b212e43ce46c1877c9d17c47fe365> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7562&mlon=-92.2678#map=15/34.7562/-92.2678> .
+<http://lodlaundromat.org/.well-known/genid/N7a39bf2d3f244515a8abd4533fc307b4> <http://schema.org/longitude> "-92.2678"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na349c7f87d4b40eeaf391466e0152fc6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a39bf2d3f244515a8abd4533fc307b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na349c7f87d4b40eeaf391466e0152fc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf36a86bc49e74ffa97befd8936445c66> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> <http://schema.org/id> "8402500631" .
+<http://lodlaundromat.org/.well-known/genid/Ndfd39cc49389481a9b181573c8e44a5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://schema.org/postalCode> "02066" .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndfd39cc49389481a9b181573c8e44a5d> .
+<http://lodlaundromat.org/.well-known/genid/Ndfd39cc49389481a9b181573c8e44a5d> <http://schema.org/value> "143001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1994&mlon=-70.7826#map=15/42.1994/-70.7826> .
+<http://lodlaundromat.org/.well-known/genid/Ndfd39cc49389481a9b181573c8e44a5d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/name> "UNITARIAN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://schema.org/addressLocality> "SCITUATE" .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> .
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://schema.org/streetAddress> "27 GROVE ST" .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2f2e20f282094d0c920acb76b31df5d8> .
+<http://lodlaundromat.org/.well-known/genid/N2f2e20f282094d0c920acb76b31df5d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/url> <http://www.uua.org/uuhs> .
+<http://lodlaundromat.org/.well-known/genid/N2f2e20f282094d0c920acb76b31df5d8> <http://schema.org/longitude> "-70.7826"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2f2e20f282094d0c920acb76b31df5d8> <http://schema.org/latitude> "42.1994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nff72ff09efeb46c6887389dd78a7fcb9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> .
+<http://lodlaundromat.org/.well-known/genid/Nebcc0f0d59004bc88278e7f1712d19f7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne90ce321f4644beeaa9bf8abc954a086> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

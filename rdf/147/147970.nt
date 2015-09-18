@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N919e978985ab4c55a7fcb7e4fca38559> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://schema.org/postalCode> "08050-0886" .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://schema.org/addressLocality> "MANAHAWKIN" .
+<http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/telephone> "+1 (609) 597-3557" .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> .
+<http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> <http://schema.org/id> "8403400338" .
+<http://lodlaundromat.org/.well-known/genid/N18f54ddf3f72406e983c1e14a6a0c6ba> <http://schema.org/value> "147970"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/name> "PINE SHORES ART ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N18f54ddf3f72406e983c1e14a6a0c6ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N919e978985ab4c55a7fcb7e4fca38559> <http://schema.org/longitude> "-74.2516"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N919e978985ab4c55a7fcb7e4fca38559> .
+<http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> <http://schema.org/streetAddress> "PO BOX 886" .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7096&mlon=-74.2516#map=15/39.7096/-74.2516> .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N18f54ddf3f72406e983c1e14a6a0c6ba> .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5162a4f686844a8383c3324a1d14a096> .
+<http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc138042645054b15b91fcfc214f90bc7> <http://schema.org/url> <http://pineshoresartassociation.org/> .
+<http://lodlaundromat.org/.well-known/genid/N18f54ddf3f72406e983c1e14a6a0c6ba> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc835f6f64e2441c5a1d45c2839ae020a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N919e978985ab4c55a7fcb7e4fca38559> <http://schema.org/latitude> "39.7096"^^<http://www.w3.org/2001/XMLSchema#double> .
+

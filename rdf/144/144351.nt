@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N56d001bdd14e4c919759b209386f2696> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N56d001bdd14e4c919759b209386f2696> .
+<http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> <http://schema.org/id> "8402600888" .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> .
+<http://lodlaundromat.org/.well-known/genid/N0957789cd2ca493284b1c1e98e7a7505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0957789cd2ca493284b1c1e98e7a7505> .
+<http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N56d001bdd14e4c919759b209386f2696> <http://schema.org/value> "144351"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0957789cd2ca493284b1c1e98e7a7505> <http://schema.org/longitude> "-84.2389"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.0997&mlon=-84.2389#map=15/46.0997/-84.2389> .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://schema.org/postalCode> "49736" .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0957789cd2ca493284b1c1e98e7a7505> <http://schema.org/latitude> "46.0997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://schema.org/addressLocality> "STALWART" .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> .
+<http://lodlaundromat.org/.well-known/genid/N4ae049498a1d4cbda88b411ed35645cd> <http://schema.org/name> "NATIVE AMERICAN SOCIETY FOR HISTORICAL PRESERVATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N56d001bdd14e4c919759b209386f2696> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0db1e1d20bd1490e8d0a28d4a3bf10f7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5e815d863fb34976abfb35905bfd21aa> <http://schema.org/streetAddress> "27671 S REYNOLDS RD" .
+

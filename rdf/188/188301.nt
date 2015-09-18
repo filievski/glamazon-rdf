@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N1a19a877c2ba426b8822a0c4171ea89e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N1a19a877c2ba426b8822a0c4171ea89e> .
+<http://lodlaundromat.org/.well-known/genid/Naec12f6b6f3a4042bab1040813ed2a40> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> <http://schema.org/id> "106495" .
+<http://lodlaundromat.org/.well-known/genid/N1a19a877c2ba426b8822a0c4171ea89e> <http://schema.org/contentUrl> <http://images.museums.io/S_0IMyQX7-D1XAwW89ywv_P2gQs=/1000x1000/museums/logos/000/188/301/original/8ce0f4ddf7bb198bd657a095fe74efb7b49ecd.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N770618c87e814dbeb8cad3f123b5bb29> <http://schema.org/latitude> "40.328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N770618c87e814dbeb8cad3f123b5bb29> <http://schema.org/longitude> "9.30896"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> .
+<http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N770618c87e814dbeb8cad3f123b5bb29> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/name> "Museo archeologico nazionale G. Asproni"@it .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/url> <http://www.museoarcheologiconuoro.beniculturali.it/> .
+<http://lodlaundromat.org/.well-known/genid/Naec12f6b6f3a4042bab1040813ed2a40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> <http://schema.org/addressLocality> "Nuoro" .
+<http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.328&mlon=9.30896#map=15/40.328/9.30896> .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/telephone> "+39 0784 31688" .
+<http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> <http://schema.org/streetAddress> "Via Manno, 1" .
+<http://lodlaundromat.org/.well-known/genid/Nd937bb0d625f414eb1ad3c3b901746b5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naec12f6b6f3a4042bab1040813ed2a40> .
+<http://lodlaundromat.org/.well-known/genid/Naec12f6b6f3a4042bab1040813ed2a40> <http://schema.org/value> "188301"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> <http://schema.org/addressRegion> "Sardegna" .
+<http://lodlaundromat.org/.well-known/genid/N770618c87e814dbeb8cad3f123b5bb29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N9797a0a8bac34da9b37ac3458e50a0b8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10ed907cd5ea4006955e12d77be731af> .
+

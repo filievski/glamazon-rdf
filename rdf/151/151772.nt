@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/name> "SURFACE INTERVAL"@en .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> .
+<http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://schema.org/addressLocality> "BEAUFORT" .
+<http://lodlaundromat.org/.well-known/genid/N9bf9d8d61ff6475eb7e67297c868073f> <http://schema.org/value> "151772"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> <http://schema.org/id> "8403700643" .
+<http://lodlaundromat.org/.well-known/genid/Ncf0dc2b6b7864b9fbf4655d0cd629d88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7696&mlon=-76.5564#map=15/34.7696/-76.5564> .
+<http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncf0dc2b6b7864b9fbf4655d0cd629d88> .
+<http://lodlaundromat.org/.well-known/genid/Ncf0dc2b6b7864b9fbf4655d0cd629d88> <http://schema.org/latitude> "34.7696"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9bf9d8d61ff6475eb7e67297c868073f> .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://schema.org/streetAddress> "121 LISTON ROAD - OTWAY" .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> .
+<http://lodlaundromat.org/.well-known/genid/N9bf9d8d61ff6475eb7e67297c868073f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://schema.org/postalCode> "28516-7270" .
+<http://lodlaundromat.org/.well-known/genid/N9bf9d8d61ff6475eb7e67297c868073f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N642c248bb8834fa4a3dd4c2ffaf2435d> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Ncf0dc2b6b7864b9fbf4655d0cd629d88> <http://schema.org/longitude> "-76.5564"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd32905180d8c46338ceb328099aa919c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1b5d22d186b441eca0253c4581c974cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N79a6876b8b644219abc168428c3d50fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N79a6876b8b644219abc168428c3d50fd> .
+<http://lodlaundromat.org/.well-known/genid/N79a6876b8b644219abc168428c3d50fd> <http://schema.org/latitude> "49.081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e54a7fa4a44e41917dd50e94c0f86f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/telephone> "09942/442" .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://schema.org/streetAddress> "Regerstra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://schema.org/postalCode> "94234" .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf5e54a7fa4a44e41917dd50e94c0f86f> .
+<http://lodlaundromat.org/.well-known/genid/N469f540b765746978d5ebdb9c733da65> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N469f540b765746978d5ebdb9c733da65> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/url> <http://www.viechtach.de/VITSeiten_MuseumViechtach.aspx> .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N79a6876b8b644219abc168428c3d50fd> <http://schema.org/longitude> "12.8838"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N469f540b765746978d5ebdb9c733da65> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e54a7fa4a44e41917dd50e94c0f86f> <http://schema.org/value> "183800"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/name> "Museum Viechtach"@en .
+<http://lodlaundromat.org/.well-known/genid/N469f540b765746978d5ebdb9c733da65> <http://schema.org/url> <http://www.museums.io/en/museums/183800> .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://schema.org/addressLocality> "Viechtach" .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.081&mlon=12.8838#map=15/49.081/12.8838> .
+<http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N33888b90faf8445fb76ce0612c9d06c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nae6f14e4fd8649f9a6ed339f9fff4423> .
+<http://lodlaundromat.org/.well-known/genid/Nf5e54a7fa4a44e41917dd50e94c0f86f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N469f540b765746978d5ebdb9c733da65> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

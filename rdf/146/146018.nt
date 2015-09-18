@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.7557&mlon=-90.3945#map=15/36.7557/-90.3945> .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/telephone> "+1 (573) 785-2220" .
+<http://lodlaundromat.org/.well-known/genid/N84b83b804a004ae39eeab63c335c795b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a189ad8fc71403eacf2d021a7025fd8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N84b83b804a004ae39eeab63c335c795b> .
+<http://lodlaundromat.org/.well-known/genid/N4a189ad8fc71403eacf2d021a7025fd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a189ad8fc71403eacf2d021a7025fd8> .
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://schema.org/postalCode> "63902-1083" .
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://schema.org/addressLocality> "POPLAR BLUFF" .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> .
+<http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N525fb8b3d1ed4ee9bf4ccb58d8f18731> <http://schema.org/id> "8402900447" .
+<http://lodlaundromat.org/.well-known/genid/Nee43bddf3a1948d5a6939d4d277f2936> <http://schema.org/name> "POPLAR BLUFF MUSEUM ASSOCIATION 106 S 2ND ST"@en .
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://schema.org/streetAddress> "PO BOX 1083" .
+<http://lodlaundromat.org/.well-known/genid/N4a189ad8fc71403eacf2d021a7025fd8> <http://schema.org/value> "146018"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5834edebfc6c40c49d2b5da356ae3685> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N84b83b804a004ae39eeab63c335c795b> <http://schema.org/longitude> "-90.3945"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N84b83b804a004ae39eeab63c335c795b> <http://schema.org/latitude> "36.7557"^^<http://www.w3.org/2001/XMLSchema#double> .
+

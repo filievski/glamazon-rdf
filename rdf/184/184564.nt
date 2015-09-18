@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N08eae38a787745a697c1ef8413368f4e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24ffeaf3c0e841dd8bd92a97b6b6cc4c> <http://schema.org/url> <http://www.museums.io/en/museums/184564> .
+<http://lodlaundromat.org/.well-known/genid/N08eae38a787745a697c1ef8413368f4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> <http://schema.org/streetAddress> "Fort Amiel, R34, outside Newcastle" .
+<http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> <http://schema.org/addressLocality> "Newcastle" .
+<http://lodlaundromat.org/.well-known/genid/N24ffeaf3c0e841dd8bd92a97b6b6cc4c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://schema.org/name> "Fort Amiel Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N24ffeaf3c0e841dd8bd92a97b6b6cc4c> .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://schema.org/telephone> "034 328 7621" .
+<http://lodlaundromat.org/.well-known/genid/N08eae38a787745a697c1ef8413368f4e> <http://schema.org/value> "184564"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08eae38a787745a697c1ef8413368f4e> .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N24ffeaf3c0e841dd8bd92a97b6b6cc4c> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N8bf97972eea348bf8ba2a963d473967f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> .
+<http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N048440e8de0547219884a39f6960f4fe> <http://schema.org/addressRegion> "KwaZulu Natal" .
+<http://lodlaundromat.org/.well-known/genid/N24ffeaf3c0e841dd8bd92a97b6b6cc4c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

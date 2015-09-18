@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://schema.org/addressLocality> "OXFORD" .
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> <http://schema.org/id> "8402300176" .
+<http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda30440380b74470bc7736005af561a0> <http://schema.org/longitude> "-70.4996"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda30440380b74470bc7736005af561a0> <http://schema.org/latitude> "44.1332"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N72cb49097237454cbf809db388a8464e> .
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://schema.org/postalCode> "04270-4270" .
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N72cb49097237454cbf809db388a8464e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N72cb49097237454cbf809db388a8464e> <http://schema.org/value> "141327"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nda30440380b74470bc7736005af561a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.1332&mlon=-70.4996#map=15/44.1332/-70.4996> .
+<http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nda30440380b74470bc7736005af561a0> .
+<http://lodlaundromat.org/.well-known/genid/N72cb49097237454cbf809db388a8464e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/name> "OXFORD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://schema.org/streetAddress> "27 ALLEN HILL ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nfcde67e53c4345588d06383a2e385999> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N42655131ec004ab697973d5d1cb43739> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a7726399fe94e8d92e0f730719db281> .
+

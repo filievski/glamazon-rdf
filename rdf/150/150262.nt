@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8da5f26c88924619972b1d9f56436642> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6f1f0bbe3cfb4813b135c22cbc689e0d> <http://schema.org/latitude> "42.537"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> .
+<http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8da5f26c88924619972b1d9f56436642> <http://schema.org/value> "150262"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8da5f26c88924619972b1d9f56436642> .
+<http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8da5f26c88924619972b1d9f56436642> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6f1f0bbe3cfb4813b135c22cbc689e0d> <http://schema.org/longitude> "-75.5209"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://schema.org/streetAddress> "33 REXFORD STREET" .
+<http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> <http://schema.org/id> "8403601556" .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://schema.org/addressLocality> "NORWICH" .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/name> "BULLTHISTLE MODEL RAILROAD SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6f1f0bbe3cfb4813b135c22cbc689e0d> .
+<http://lodlaundromat.org/.well-known/genid/Nbbfbf0c4bf0a407397fe1caa87fdb1dc> <http://schema.org/postalCode> "13815-1120" .
+<http://lodlaundromat.org/.well-known/genid/N70e8dd23b0d24760816ff78b140708ae> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.537&mlon=-75.5209#map=15/42.537/-75.5209> .
+<http://lodlaundromat.org/.well-known/genid/N6f1f0bbe3cfb4813b135c22cbc689e0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N78f74dcdc9094dec93d441aef41a4cc3> <http://schema.org/name> "us" .
+

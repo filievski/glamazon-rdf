@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nda9a350ef4e94c199d113f38645a20c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://schema.org/postalCode> "04011-0943" .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.9011&mlon=-69.9531#map=15/43.9011/-69.9531> .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://schema.org/addressLocality> "BRUNSWICK" .
+<http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9f0e0961744146afbd9ae3a39943f7f3> .
+<http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/name> "BRUNSWICK NAVAL MUSEUM AND MEMORIAL GARDENS"@en .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://schema.org/streetAddress> "PO BOX 943" .
+<http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> <http://schema.org/id> "8402300486" .
+<http://lodlaundromat.org/.well-known/genid/N9f0e0961744146afbd9ae3a39943f7f3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9f0e0961744146afbd9ae3a39943f7f3> <http://schema.org/value> "141637"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nda9a350ef4e94c199d113f38645a20c6> .
+<http://lodlaundromat.org/.well-known/genid/N9f0e0961744146afbd9ae3a39943f7f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda9a350ef4e94c199d113f38645a20c6> <http://schema.org/latitude> "43.9011"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda9a350ef4e94c199d113f38645a20c6> <http://schema.org/longitude> "-69.9531"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4fdcfe704e514ee58696ca782b8717f4> .
+<http://lodlaundromat.org/.well-known/genid/Neaa02394b07f452bb61d8188a1a7cbc2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4e3f55544db445308f7dfaf615cdf7eb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

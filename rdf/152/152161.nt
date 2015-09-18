@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N784f668bf1404cf0b03c9669d2a60e03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N97b2f31a080a41eaac08a61540953b95> .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N97b2f31a080a41eaac08a61540953b95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://schema.org/addressLocality> "GLEN ULLIN" .
+<http://lodlaundromat.org/.well-known/genid/N784f668bf1404cf0b03c9669d2a60e03> <http://schema.org/longitude> "-101.784"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://schema.org/postalCode> "58631" .
+<http://lodlaundromat.org/.well-known/genid/N97b2f31a080a41eaac08a61540953b95> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N784f668bf1404cf0b03c9669d2a60e03> <http://schema.org/latitude> "46.7496"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.7496&mlon=-101.784#map=15/46.7496/-101.784> .
+<http://lodlaundromat.org/.well-known/genid/N5bd31c08fd2c487da82f0d964b908365> <http://schema.org/id> "8403800117" .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/name> "GLEN ULLIN MUSEUM AND AUXILIARY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd3c0588d07e74ca69122a17708bdcb68> <http://schema.org/streetAddress> "6315 46TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N9a6bfbd67c724754840b432b90350d57> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N784f668bf1404cf0b03c9669d2a60e03> .
+<http://lodlaundromat.org/.well-known/genid/N97b2f31a080a41eaac08a61540953b95> <http://schema.org/value> "152161"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

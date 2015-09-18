@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/name> "SAINTE GENEVIEVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> <http://schema.org/id> "8402900028" .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7889c475f61a47df82a18b97f5ad6412> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> .
+<http://lodlaundromat.org/.well-known/genid/N9a725b7df0194b98bedfe7ddc325da96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9a725b7df0194b98bedfe7ddc325da96> .
+<http://lodlaundromat.org/.well-known/genid/N7889c475f61a47df82a18b97f5ad6412> <http://schema.org/longitude> "-90.3756"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9128&mlon=-90.3756#map=15/38.9128/-90.3756> .
+<http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N24da14c838a44b0496667ca7fbe68124> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> <http://schema.org/postalCode> "63373" .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> .
+<http://lodlaundromat.org/.well-known/genid/N7889c475f61a47df82a18b97f5ad6412> <http://schema.org/latitude> "38.9128"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> <http://schema.org/addressLocality> "PORTAGE DES SIOUX" .
+<http://lodlaundromat.org/.well-known/genid/N889061f8087544eb9c127d021847f93f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7889c475f61a47df82a18b97f5ad6412> .
+<http://lodlaundromat.org/.well-known/genid/N9a725b7df0194b98bedfe7ddc325da96> <http://schema.org/value> "145599"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfca3a19e51f44ebea54629cb1628e10f> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N9a725b7df0194b98bedfe7ddc325da96> <http://schema.org/name> "id" .
+

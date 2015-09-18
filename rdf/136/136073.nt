@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://schema.org/addressLocality> "VALDOSTA" .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N03e011fa5c784265a538b7d5d108d9e3> <http://schema.org/latitude> "30.8357"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N58b859d5ffe348659478a7a4e30562da> <http://schema.org/value> "136073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> .
+<http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N58b859d5ffe348659478a7a4e30562da> .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N03e011fa5c784265a538b7d5d108d9e3> .
+<http://lodlaundromat.org/.well-known/genid/N03e011fa5c784265a538b7d5d108d9e3> <http://schema.org/longitude> "-83.2814"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03e011fa5c784265a538b7d5d108d9e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://schema.org/postalCode> "31604-3601" .
+<http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/name> "LITTLE ACTORS THEATRE OF VALDOSTA"@en .
+<http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> <http://schema.org/id> "8401300344" .
+<http://lodlaundromat.org/.well-known/genid/N58b859d5ffe348659478a7a4e30562da> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N58b859d5ffe348659478a7a4e30562da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N010fcec5655a4de7906812f33200c839> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://schema.org/streetAddress> "PO BOX 3601" .
+<http://lodlaundromat.org/.well-known/genid/Na0a67f3afc0f4d32a45b15659497bd8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20186b2065c34fa0aba4dd5325dd8be0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.8357&mlon=-83.2814#map=15/30.8357/-83.2814> .
+

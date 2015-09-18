@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5bb53f8cafe744388375f8d62b0c52b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf472f57dcee64fa3992a5d4272a73561> <http://schema.org/latitude> "42.101"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/telephone> "+1 (815) 784-5559" .
+<http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/name> "KISHWAUKEE VALLEY HERITAGE SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> .
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://schema.org/addressLocality> "GENOA" .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5bb53f8cafe744388375f8d62b0c52b1> .
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf472f57dcee64fa3992a5d4272a73561> .
+<http://lodlaundromat.org/.well-known/genid/N5bb53f8cafe744388375f8d62b0c52b1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://schema.org/postalCode> "60135-1405" .
+<http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> <http://schema.org/id> "8401701300" .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.101&mlon=-88.6874#map=15/42.101/-88.6874> .
+<http://lodlaundromat.org/.well-known/genid/Nf472f57dcee64fa3992a5d4272a73561> <http://schema.org/longitude> "-88.6874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf472f57dcee64fa3992a5d4272a73561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://schema.org/streetAddress> "700 PARK AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nbd53c401978a4a58a26d94f349d1346d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5f5409229dc84853828d838601d9f3ea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfc5a351261ff4f91b29d50a30f3a872a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5bb53f8cafe744388375f8d62b0c52b1> <http://schema.org/value> "138155"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

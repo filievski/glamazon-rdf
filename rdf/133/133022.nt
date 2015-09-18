@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://schema.org/addressLocality> "EVERGREEN" .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://schema.org/streetAddress> "PO BOX 759" .
+<http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> <http://schema.org/id> "8400800198" .
+<http://lodlaundromat.org/.well-known/genid/N614bdf3657a647bd8118c27205c3d62a> <http://schema.org/value> "133022"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7b14b80e76f24f119d029615d73bbee9> .
+<http://lodlaundromat.org/.well-known/genid/N7b14b80e76f24f119d029615d73bbee9> <http://schema.org/longitude> "-105.344"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://schema.org/postalCode> "80437-0759" .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> .
+<http://lodlaundromat.org/.well-known/genid/N614bdf3657a647bd8118c27205c3d62a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N614bdf3657a647bd8118c27205c3d62a> .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6516&mlon=-105.344#map=15/39.6516/-105.344> .
+<http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b14b80e76f24f119d029615d73bbee9> <http://schema.org/latitude> "39.6516"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N614bdf3657a647bd8118c27205c3d62a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b14b80e76f24f119d029615d73bbee9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N945ed1b34b5a41729bbec2cb8604539c> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/name> "EVERGREEN RODEO ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb83eab891155417c99ab3291e2bac6c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43a279d5a6ae4aa19e13197baafae6e4> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> .
+<http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/telephone> "+1 (330) 725-7516" .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://schema.org/addressLocality> "MEDINA" .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/name> "MEDINA CMNTY DESIGN COMMITTEE"@en .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://schema.org/postalCode> "44256-2310" .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd52a044d4c8a49e3a483b4494121444c> .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd52a044d4c8a49e3a483b4494121444c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd52a044d4c8a49e3a483b4494121444c> <http://schema.org/latitude> "41.1387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1387&mlon=-81.871#map=15/41.1387/-81.871> .
+<http://lodlaundromat.org/.well-known/genid/N8011051acbea4812a022de474189562d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N96788207f91f46e4b71dd40224b6b1c4> <http://schema.org/streetAddress> "141 S PROSPECT ST" .
+<http://lodlaundromat.org/.well-known/genid/N8011051acbea4812a022de474189562d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> <http://schema.org/id> "8403900332" .
+<http://lodlaundromat.org/.well-known/genid/N42d4fd542aa04d2f94b505e681832580> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8011051acbea4812a022de474189562d> .
+<http://lodlaundromat.org/.well-known/genid/N8011051acbea4812a022de474189562d> <http://schema.org/value> "152555"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nad7c7bc7818a49b4b04127dbb0d3cbf9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd52a044d4c8a49e3a483b4494121444c> <http://schema.org/longitude> "-81.871"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> <http://schema.org/url> <http://victoriancollections.net.au/organisations/kew-historical-society-inc> .
+<http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d3accf4849a45c79db251a2f2b1f6e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b96ae826ef8414eaed7e05ee5476eeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf553be5c5e4a4804ac2e60b8d320b884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9b96ae826ef8414eaed7e05ee5476eeb> <http://schema.org/value> "163982"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/name> "Kew Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9b96ae826ef8414eaed7e05ee5476eeb> .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8d3accf4849a45c79db251a2f2b1f6e5> .
+<http://lodlaundromat.org/.well-known/genid/N8d3accf4849a45c79db251a2f2b1f6e5> <http://schema.org/latitude> "-37.8084"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b96ae826ef8414eaed7e05ee5476eeb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf553be5c5e4a4804ac2e60b8d320b884> .
+<http://lodlaundromat.org/.well-known/genid/N8e8fc3fb8d3f470eaa8f0f67ae48bd20> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8084&mlon=145.035#map=15/-37.8084/145.035> .
+<http://lodlaundromat.org/.well-known/genid/N8d3accf4849a45c79db251a2f2b1f6e5> <http://schema.org/longitude> "145.035"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne24326cceda045508e9fc0dd40ca97e5> <http://schema.org/id> "kew-historical-society-inc" .
+<http://lodlaundromat.org/.well-known/genid/Nf553be5c5e4a4804ac2e60b8d320b884> <http://schema.org/addressCountry> "Australia" .
+

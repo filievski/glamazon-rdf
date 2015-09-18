@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://schema.org/streetAddress> "603 W JACKSON" .
+<http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> .
+<http://lodlaundromat.org/.well-known/genid/Nd224d72db2c74e5da6d8b444da860f31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd224d72db2c74e5da6d8b444da860f31> <http://schema.org/latitude> "39.6418"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://schema.org/postalCode> "74743-3041" .
+<http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> <http://schema.org/id> "8404000218" .
+<http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://schema.org/addressLocality> "HUGO" .
+<http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf7b3aab87b914889b74a1e841fb7a755> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf7b3aab87b914889b74a1e841fb7a755> <http://schema.org/value> "153864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6120f50d6afb4956a65097153b256f49> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd224d72db2c74e5da6d8b444da860f31> .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/name> "RIVERFRONT MUSEUMS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf7b3aab87b914889b74a1e841fb7a755> .
+<http://lodlaundromat.org/.well-known/genid/N7dd750685f5445e5bbd2ffdf0d8df013> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6418&mlon=-79.9624#map=15/39.6418/-79.9624> .
+<http://lodlaundromat.org/.well-known/genid/Nd224d72db2c74e5da6d8b444da860f31> <http://schema.org/longitude> "-79.9624"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf7b3aab87b914889b74a1e841fb7a755> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N77d97605ec284a5eae9c685dccdc3659> <http://schema.org/addressCountry> "United States" .
+

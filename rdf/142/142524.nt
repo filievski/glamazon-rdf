@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6dd8cefdd4f2428e9dc4152eadabfd2d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://schema.org/streetAddress> "36 CODMAN RD" .
+<http://lodlaundromat.org/.well-known/genid/N6dd8cefdd4f2428e9dc4152eadabfd2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://schema.org/addressLocality> "LINCOLN" .
+<http://lodlaundromat.org/.well-known/genid/N6dd8cefdd4f2428e9dc4152eadabfd2d> <http://schema.org/value> "142524"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N006336d97d934ac9b85829da95430fdc> .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/telephone> "+1 (781) 259-8843" .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6dd8cefdd4f2428e9dc4152eadabfd2d> .
+<http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> <http://schema.org/id> "8402500154" .
+<http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/name> "CODMAN HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N006336d97d934ac9b85829da95430fdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd3a0002e9422402fb6ce11a4cd22dc73> <http://schema.org/postalCode> "01773" .
+<http://lodlaundromat.org/.well-known/genid/N6533ea928e444e82bf6f5cb9b6144510> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N006336d97d934ac9b85829da95430fdc> <http://schema.org/longitude> "-71.3322"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N006336d97d934ac9b85829da95430fdc> <http://schema.org/latitude> "42.4169"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d5cf11d5ae6449e9907a04e9614d6dd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4169&mlon=-71.3322#map=15/42.4169/-71.3322> .
+

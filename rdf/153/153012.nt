@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N44ec48777cdc43718f5f091208e20bf0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://schema.org/postalCode> "43302-5054" .
+<http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> <http://schema.org/id> "8403900789" .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> .
+<http://lodlaundromat.org/.well-known/genid/N44ec48777cdc43718f5f091208e20bf0> <http://schema.org/value> "153012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5783&mlon=-83.1261#map=15/40.5783/-83.1261> .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N68caeeb5e20042dd996c1eec5f477670> <http://schema.org/latitude> "40.5783"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N68caeeb5e20042dd996c1eec5f477670> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://schema.org/streetAddress> "620 DELAWARE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> .
+<http://lodlaundromat.org/.well-known/genid/N2709157534db465e97e7036e62547858> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://schema.org/addressLocality> "MARION" .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N44ec48777cdc43718f5f091208e20bf0> .
+<http://lodlaundromat.org/.well-known/genid/N44ec48777cdc43718f5f091208e20bf0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N68caeeb5e20042dd996c1eec5f477670> <http://schema.org/longitude> "-83.1261"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68caeeb5e20042dd996c1eec5f477670> .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc0b9d604c2c4402c829e1e67fe32c2d4> <http://schema.org/name> "MARION WORLD WAR II VETERANS MEMORIAL ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb9fa8253775e4d1bb4382527ef82c186> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

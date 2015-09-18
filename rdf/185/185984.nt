@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3377f0149120480cab9f5c2c5c157b02> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c5234de6ee4f7694bfbb73e5e80abb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> .
+<http://lodlaundromat.org/.well-known/genid/N3377f0149120480cab9f5c2c5c157b02> <http://schema.org/value> "185984"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3377f0149120480cab9f5c2c5c157b02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/telephone> "+39 0818 857249" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c5234de6ee4f7694bfbb73e5e80abb> <http://schema.org/longitude> "14.3714"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf8c5234de6ee4f7694bfbb73e5e80abb> <http://schema.org/latitude> "40.9441"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> <http://schema.org/id> "101823" .
+<http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/name> "Museo civico di Acerra"@it .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3377f0149120480cab9f5c2c5c157b02> .
+<http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> <http://schema.org/addressLocality> "Acerra" .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/url> <http://www.pulcinellamuseo.it/> .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9441&mlon=14.3714#map=15/40.9441/14.3714> .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1aa3bb5dbfb7420ca94be427b29f6b53> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N3737c60485414b05bdb4b7dfef9ea324> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf8c5234de6ee4f7694bfbb73e5e80abb> .
+<http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8086735228a64b9a85a09e47017d9a05> <http://schema.org/streetAddress> "Piazza Castello Baronale, " .
+

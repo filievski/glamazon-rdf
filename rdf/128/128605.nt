@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> .
+<http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> <http://schema.org/id> "8400100135" .
+<http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2f28e00ed44042bb8ab6685677f128e2> <http://schema.org/latitude> "33.6803"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/name> "ST CLAIR HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://schema.org/postalCode> "35120-3512" .
+<http://lodlaundromat.org/.well-known/genid/N2f28e00ed44042bb8ab6685677f128e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://schema.org/addressLocality> "ODENVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N18e7cc7394e64a25bace54e74f6f77f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N18e7cc7394e64a25bace54e74f6f77f4> .
+<http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.6803&mlon=-86.3948#map=15/33.6803/-86.3948> .
+<http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://schema.org/streetAddress> "150 WARE AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N2f28e00ed44042bb8ab6685677f128e2> <http://schema.org/longitude> "-86.3948"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N085a2f52eed94ad98506b080799e32a6> .
+<http://lodlaundromat.org/.well-known/genid/Need31931d29b4116b46c76c37543de9c> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2f28e00ed44042bb8ab6685677f128e2> .
+<http://lodlaundromat.org/.well-known/genid/N92950add12404cbc9d1872e330aea1ff> <http://schema.org/url> <http://facebookst.clairhistoricalsociety/> .
+<http://lodlaundromat.org/.well-known/genid/N18e7cc7394e64a25bace54e74f6f77f4> <http://schema.org/value> "128605"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N18e7cc7394e64a25bace54e74f6f77f4> <http://schema.org/name> "id" .
+

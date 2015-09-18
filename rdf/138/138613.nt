@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N379f2b204f87454fa68412cff4e1e6ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N379f2b204f87454fa68412cff4e1e6ed> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N379f2b204f87454fa68412cff4e1e6ed> <http://schema.org/value> "138613"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2178079f85fd40e29f9dfa37e4b8a93d> <http://schema.org/latitude> "40.4492"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4492&mlon=-86.9375#map=15/40.4492/-86.9375> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://schema.org/postalCode> "47906" .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N2178079f85fd40e29f9dfa37e4b8a93d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2178079f85fd40e29f9dfa37e4b8a93d> .
+<http://lodlaundromat.org/.well-known/genid/N1b7956e212764c3d86836e7f2a488a2a> <http://schema.org/name> "SHELBY TOWNSHIP HISTORICAL ASSOCIATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndc7af9969e3f4031a448578479eab103> <http://schema.org/id> "8401800399" .
+<http://lodlaundromat.org/.well-known/genid/N379f2b204f87454fa68412cff4e1e6ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2178079f85fd40e29f9dfa37e4b8a93d> <http://schema.org/longitude> "-86.9375"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://schema.org/streetAddress> "2226 FRANCISCAN DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N246694aa30a64a25966746a784cdde1a> <http://schema.org/addressLocality> "WEST LAFAYETTE" .
+

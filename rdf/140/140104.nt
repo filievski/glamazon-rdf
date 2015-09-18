@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.0017&mlon=-98.7617#map=15/38.0017/-98.7617> .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N27c58b521c184aea9bac76fbf9ae8dc0> .
+<http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5b0f5cee3e654e519a6407dc4bc09b2d> .
+<http://lodlaundromat.org/.well-known/genid/N5b0f5cee3e654e519a6407dc4bc09b2d> <http://schema.org/longitude> "-98.7617"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b0f5cee3e654e519a6407dc4bc09b2d> <http://schema.org/latitude> "38.0017"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://schema.org/streetAddress> "312 NORTH MAIN" .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://schema.org/postalCode> "67576-1733" .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://schema.org/addressLocality> "SAINT JOHN" .
+<http://lodlaundromat.org/.well-known/genid/N27c58b521c184aea9bac76fbf9ae8dc0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> <http://schema.org/id> "8402000430" .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/url> <http://www.stjohnsciencemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5b0f5cee3e654e519a6407dc4bc09b2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N27c58b521c184aea9bac76fbf9ae8dc0> <http://schema.org/value> "140104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27c58b521c184aea9bac76fbf9ae8dc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f236922e3294955a658351d58b2488a> <http://schema.org/name> "ST JOHN SCIENTIFIC MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N091f265b5eb945d981907ab57e5bfac7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N19bda907c8df4330a7811d4f29e9a17b> <http://schema.org/addressCountry> "United States" .
+

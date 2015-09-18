@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4b88d1395c4c44a5a15e1a4e91113092> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N13e119858d7c4af783f4032605c519d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N9e73c8d989ff4b869a72b9c68f533de2> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9e73c8d989ff4b869a72b9c68f533de2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://schema.org/addressLocality> "Tirschenreuth" .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/name> "Plan-Weseritzer-Heimatstuben mit  Archiv"@en .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/telephone> "09631/6122" .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N13e119858d7c4af783f4032605c519d8> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/url> <http://www.stadt-tirschenreuth.de/kultur-tourismus/sehenswertes/museumsquartier-mq.html> .
+<http://lodlaundromat.org/.well-known/genid/N4b88d1395c4c44a5a15e1a4e91113092> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N13e119858d7c4af783f4032605c519d8> <http://schema.org/latitude> "49.8792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9e73c8d989ff4b869a72b9c68f533de2> <http://schema.org/url> <http://www.museums.io/en/museums/183758> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4b88d1395c4c44a5a15e1a4e91113092> .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.8792&mlon=12.3387#map=15/49.8792/12.3387> .
+<http://lodlaundromat.org/.well-known/genid/N13e119858d7c4af783f4032605c519d8> <http://schema.org/longitude> "12.3387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://schema.org/postalCode> "95643" .
+<http://lodlaundromat.org/.well-known/genid/N189dd1c06a72410a889ffa93beb9d470> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9e73c8d989ff4b869a72b9c68f533de2> .
+<http://lodlaundromat.org/.well-known/genid/N9e73c8d989ff4b869a72b9c68f533de2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://schema.org/streetAddress> "Regensburger Stra\u00DFe 6" .
+<http://lodlaundromat.org/.well-known/genid/Na09d910a7f19436392c08e3b01bcb3ae> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N4b88d1395c4c44a5a15e1a4e91113092> <http://schema.org/value> "183758"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

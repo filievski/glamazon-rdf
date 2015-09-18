@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2aee217e48d549968d566b776d9328a0> .
+<http://lodlaundromat.org/.well-known/genid/N2aee217e48d549968d566b776d9328a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne71058b2b682455a9cadee7d3dca0add> .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.9508&mlon=10.7149#map=15/47.9508/10.7149> .
+<http://lodlaundromat.org/.well-known/genid/Ne71058b2b682455a9cadee7d3dca0add> <http://schema.org/url> <http://www.museums.io/en/museums/182839> .
+<http://lodlaundromat.org/.well-known/genid/N2aee217e48d549968d566b776d9328a0> <http://schema.org/value> "182839"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/name> "Heimatstube Gutenberg"@en .
+<http://lodlaundromat.org/.well-known/genid/N100a28286ced4cbea7d02867f616734e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N100a28286ced4cbea7d02867f616734e> <http://schema.org/longitude> "10.7149"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N100a28286ced4cbea7d02867f616734e> .
+<http://lodlaundromat.org/.well-known/genid/Ne71058b2b682455a9cadee7d3dca0add> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://schema.org/addressLocality> "Oberostendorf" .
+<http://lodlaundromat.org/.well-known/genid/Ne71058b2b682455a9cadee7d3dca0add> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://schema.org/postalCode> "86869" .
+<http://lodlaundromat.org/.well-known/genid/N251ee58640fd454b8f13b61679385631> <http://schema.org/streetAddress> "Schulstra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/Ne71058b2b682455a9cadee7d3dca0add> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N100a28286ced4cbea7d02867f616734e> <http://schema.org/latitude> "47.9508"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2aee217e48d549968d566b776d9328a0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f2fa5e7552f431db7f01ff339c44025> <http://schema.org/telephone> "08344/551" .
+

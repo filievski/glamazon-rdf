@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1621a52ffd384d1f991c557afdd13b1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://schema.org/addressLocality> "BRENHAM" .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N412bdbc23952442195d2b8edaf6e4ca6> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1621a52ffd384d1f991c557afdd13b1e> .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://schema.org/postalCode> "77834-2006" .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N412bdbc23952442195d2b8edaf6e4ca6> <http://schema.org/value> "158731"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N412bdbc23952442195d2b8edaf6e4ca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/name> "BRENHAM MAIN ST HISTORICAL PRESERVATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://schema.org/streetAddress> "PO BOX 2006" .
+<http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb98989a3d6014d848beff74e4a1cbdf2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1621a52ffd384d1f991c557afdd13b1e> <http://schema.org/longitude> "-96.3968"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N412bdbc23952442195d2b8edaf6e4ca6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> <http://schema.org/id> "8404800831" .
+<http://lodlaundromat.org/.well-known/genid/N1621a52ffd384d1f991c557afdd13b1e> <http://schema.org/latitude> "30.1694"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> .
+<http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf06a6aace7874768b50ed6d0e40b4155> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N304e6b6547134a06addcf141da42595a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.1694&mlon=-96.3968#map=15/30.1694/-96.3968> .
+

@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N7c96afb93eed442f971ae0f4f4fe0699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/telephone> "(03) 5484 1759  and (03) 5484 2556  and (03) 5484 1787 " .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> .
+<http://lodlaundromat.org/.well-known/genid/N8a4bf31d97d84f489f3e791ea7706ab0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7c96afb93eed442f971ae0f4f4fe0699> .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nde2d3591accd4addb636dcdeb22cf794> .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a4bf31d97d84f489f3e791ea7706ab0> .
+<http://lodlaundromat.org/.well-known/genid/N7c96afb93eed442f971ae0f4f4fe0699> <http://schema.org/longitude> "144.709"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c96afb93eed442f971ae0f4f4fe0699> <http://schema.org/latitude> "-36.3554"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde2d3591accd4addb636dcdeb22cf794> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nde2d3591accd4addb636dcdeb22cf794> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> <http://schema.org/url> <http://victoriancollections.net.au/organisations/rochester-historical-pioneer-society-museum> .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/name> "Rochester Historical and Pioneer Society Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> <http://schema.org/id> "rochester-historical-pioneer-society-museum" .
+<http://lodlaundromat.org/.well-known/genid/N8a4bf31d97d84f489f3e791ea7706ab0> <http://schema.org/value> "164245"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8a4bf31d97d84f489f3e791ea7706ab0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/openingHours> "Open by appointment by contacting \n\nJ. &amp; M. Harley - Ph:(03) 5484 1759 \n\nB. &amp; F. Griffin - Ph:(03) 5484 1787 \n\nJ. &amp; L. Haines - Ph;(03) 5484 2556 \n"@en .
+<http://lodlaundromat.org/.well-known/genid/N09e60fc2cbe24be4bc2ca67a88078d3e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.3554&mlon=144.709#map=15/-36.3554/144.709> .
+<http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N2f941f52cf934d6fb1618c7230a1aef6> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+

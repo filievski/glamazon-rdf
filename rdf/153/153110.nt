@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> <http://schema.org/id> "8403900888" .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne43640a54d754499a07dea571dfd8ade> .
+<http://lodlaundromat.org/.well-known/genid/Ne43640a54d754499a07dea571dfd8ade> <http://schema.org/value> "153110"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/name> "OBERLIN COLLEGE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/url> <https://home.oberlin.edu/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/telephone> "+1 (440) 775-8411" .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne43640a54d754499a07dea571dfd8ade> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://schema.org/streetAddress> "70 N PROFESSOR ST" .
+<http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4f8425bf96046c8ac60aa8b4d220901> .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://schema.org/postalCode> "44074-1019" .
+<http://lodlaundromat.org/.well-known/genid/Ne43640a54d754499a07dea571dfd8ade> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb4f8425bf96046c8ac60aa8b4d220901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncbdf6c445504414181ade69aaf778537> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4f8425bf96046c8ac60aa8b4d220901> <http://schema.org/longitude> "-82.22"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb4f8425bf96046c8ac60aa8b4d220901> <http://schema.org/latitude> "41.2934"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://schema.org/addressLocality> "OBERLIN" .
+<http://lodlaundromat.org/.well-known/genid/Nbb050ba650ae4d439d1d2b59cd256992> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2934&mlon=-82.22#map=15/41.2934/-82.22> .
+<http://lodlaundromat.org/.well-known/genid/N5de2cd1ba1144ff79e7d2b26317ec9fa> <http://schema.org/addressRegion> "OH" .
+

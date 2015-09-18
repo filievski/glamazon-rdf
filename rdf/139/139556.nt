@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5f3b678a69604e5ab9a97181996d4a6b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5f3b678a69604e5ab9a97181996d4a6b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc2c28d5e90e94fb5b498ee38b0aa9c6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://schema.org/addressLocality> "CEDAR RAPIDS" .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc2c28d5e90e94fb5b498ee38b0aa9c6f> .
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://schema.org/streetAddress> "616 A AVENUE NE" .
+<http://lodlaundromat.org/.well-known/genid/Nc2c28d5e90e94fb5b498ee38b0aa9c6f> <http://schema.org/latitude> "41.9822"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> .
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> <http://schema.org/id> "8401900593" .
+<http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> <http://schema.org/postalCode> "52401-1016" .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb45ee85595db49579ee1dccb1ad4b226> .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc2c28d5e90e94fb5b498ee38b0aa9c6f> <http://schema.org/longitude> "-91.6649"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9822&mlon=-91.6649#map=15/41.9822/-91.6649> .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/name> "CEDAR RAPIDS CONSISTORY BUILDING TR"@en .
+<http://lodlaundromat.org/.well-known/genid/N5f3b678a69604e5ab9a97181996d4a6b> <http://schema.org/value> "139556"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndeb2f0cbfc83407fb2a1029270cf890f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5f3b678a69604e5ab9a97181996d4a6b> .
+<http://lodlaundromat.org/.well-known/genid/N74885f82c8744f9084bf926b6768f664> <http://schema.org/url> <http://www.imls.gov/> .
+

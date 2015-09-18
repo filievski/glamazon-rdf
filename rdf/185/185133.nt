@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N449bd001f02d49b596f2e4589ac010cd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N881f9e03a2564d4eb7810c53e14b9d89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na4b43b793dca48dcaf43771fbef81f18> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N881f9e03a2564d4eb7810c53e14b9d89> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na4b43b793dca48dcaf43771fbef81f18> .
+<http://lodlaundromat.org/.well-known/genid/N881f9e03a2564d4eb7810c53e14b9d89> <http://schema.org/name> "Museum of Jakobstad, The Malm House"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb0b0c774707740b48122c0cb8babab6f> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Na4b43b793dca48dcaf43771fbef81f18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb0b0c774707740b48122c0cb8babab6f> <http://schema.org/url> <http://www.museums.io/en/museums/185133> .
+<http://lodlaundromat.org/.well-known/genid/Nb0b0c774707740b48122c0cb8babab6f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N449bd001f02d49b596f2e4589ac010cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N881f9e03a2564d4eb7810c53e14b9d89> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N449bd001f02d49b596f2e4589ac010cd> .
+<http://lodlaundromat.org/.well-known/genid/Nb0b0c774707740b48122c0cb8babab6f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N881f9e03a2564d4eb7810c53e14b9d89> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb0b0c774707740b48122c0cb8babab6f> .
+<http://lodlaundromat.org/.well-known/genid/N449bd001f02d49b596f2e4589ac010cd> <http://schema.org/value> "185133"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

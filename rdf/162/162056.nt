@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> .
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://schema.org/addressLocality> "BELLEVUE" .
+<http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> <http://schema.org/id> "8405300505" .
+<http://lodlaundromat.org/.well-known/genid/N99f09bc712a54becab074bb4deb0d2fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N99f09bc712a54becab074bb4deb0d2fc> <http://schema.org/value> "162056"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N99f09bc712a54becab074bb4deb0d2fc> .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5758&mlon=-122.119#map=15/47.5758/-122.119> .
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/name> "ACROSS THE BRIDGE EASTSIDE CHILDREN'S MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Neb79361a14634e97b7f25adfbd285fd5> <http://schema.org/longitude> "-122.119"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neb79361a14634e97b7f25adfbd285fd5> <http://schema.org/latitude> "47.5758"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://schema.org/streetAddress> "3819 165TH PL SE" .
+<http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb79361a14634e97b7f25adfbd285fd5> .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/telephone> "+1 (425) 747-5126" .
+<http://lodlaundromat.org/.well-known/genid/N99f09bc712a54becab074bb4deb0d2fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Neb79361a14634e97b7f25adfbd285fd5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N36454c85eaef47cb880f3c41e72a4a63> <http://schema.org/postalCode> "98008" .
+<http://lodlaundromat.org/.well-known/genid/N35a9939ae34d48faa1d6670a65efef36> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N526897eacb014723b8fff222cc9b7c3a> .
+

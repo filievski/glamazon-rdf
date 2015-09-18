@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndec0545e458640498640ba0ead50374e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://schema.org/streetAddress> "PO BOX 653" .
+<http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/name> "FRANKLIN TOWNSHIP HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndec0545e458640498640ba0ead50374e> <http://schema.org/value> "152441"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N442ce2f7ff1b4499a3077c224bc56cf5> <http://schema.org/latitude> "38.834"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N442ce2f7ff1b4499a3077c224bc56cf5> <http://schema.org/longitude> "-84.0733"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N442ce2f7ff1b4499a3077c224bc56cf5> .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndec0545e458640498640ba0ead50374e> .
+<http://lodlaundromat.org/.well-known/genid/N442ce2f7ff1b4499a3077c224bc56cf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://schema.org/postalCode> "45120-0653" .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> .
+<http://lodlaundromat.org/.well-known/genid/N4a45b09b920543f08e0542ceed9dfb62> <http://schema.org/id> "8403900218" .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> .
+<http://lodlaundromat.org/.well-known/genid/Ndec0545e458640498640ba0ead50374e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N4987d68917c84f46ab31868625cd93b2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.834&mlon=-84.0733#map=15/38.834/-84.0733> .
+<http://lodlaundromat.org/.well-known/genid/Nb96e0927bd574e229e9c38f37f5bee4d> <http://schema.org/addressLocality> "FELICITY" .
+

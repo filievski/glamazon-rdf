@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N0db8fc8aa5a5468ebfde02c37fe73968> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> <http://schema.org/addressRegion> "Lazio" .
+<http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N034711b3f19d44558123a9bdc90eb078> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/url> <http://www.museobrigantaggiocellere.it/> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5092&mlon=11.7754#map=15/42.5092/11.7754> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> .
+<http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0db8fc8aa5a5468ebfde02c37fe73968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na950db4c63e54b78bc38e00dad21834b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> .
+<http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> <http://schema.org/streetAddress> "Via Guglielmo Marconi, 20" .
+<http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N034711b3f19d44558123a9bdc90eb078> <http://schema.org/contentUrl> <http://images.museums.io/TJgjkANwaceYa7zZBpSCqzMb9e0=/1000x1000/museums/logos/000/186/633/original/e7af9f9a93775e221e332b2bd32c74d9103ea3a2.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na950db4c63e54b78bc38e00dad21834b> <http://schema.org/latitude> "42.5092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na950db4c63e54b78bc38e00dad21834b> <http://schema.org/longitude> "11.7754"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/name> "Museo del brigantaggio di Cellere"@it .
+<http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na950db4c63e54b78bc38e00dad21834b> .
+<http://lodlaundromat.org/.well-known/genid/N4a1f0cbe398c4c7a87ba22403ce91453> <http://schema.org/addressLocality> "Cellere" .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/telephone> "+39 " .
+<http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> <http://schema.org/id> "108171" .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0db8fc8aa5a5468ebfde02c37fe73968> <http://schema.org/value> "186633"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0db8fc8aa5a5468ebfde02c37fe73968> .
+<http://lodlaundromat.org/.well-known/genid/N23d25a42cc27497e839a87e052c32440> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N034711b3f19d44558123a9bdc90eb078> .
+<http://lodlaundromat.org/.well-known/genid/N94cd4b59230043dd8c812e7ceffa0684> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

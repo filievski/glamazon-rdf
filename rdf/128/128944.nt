@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne83bda68e4aa487eaf283a733330a0ba> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nff5327dd72c243a3ad51b644837ff409> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne83bda68e4aa487eaf283a733330a0ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://schema.org/postalCode> "99801" .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/telephone> "+1 (907) 586-3572" .
+<http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nff5327dd72c243a3ad51b644837ff409> .
+<http://lodlaundromat.org/.well-known/genid/Nff5327dd72c243a3ad51b644837ff409> <http://schema.org/latitude> "58.2999"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> <http://schema.org/id> "8400200015" .
+<http://lodlaundromat.org/.well-known/genid/Nff5327dd72c243a3ad51b644837ff409> <http://schema.org/longitude> "-134.407"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne83bda68e4aa487eaf283a733330a0ba> .
+<http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://schema.org/streetAddress> "155 S. SEWARD" .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/name> "JUNEAU DOUGLAS CITY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> <http://schema.org/addressLocality> "JUNEAU" .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c83137ac732436ab4c23ae33006c1e7> .
+<http://lodlaundromat.org/.well-known/genid/Neb79082b458843aea7c9150fbfc5efc4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=58.2999&mlon=-134.407#map=15/58.2999/-134.407> .
+<http://lodlaundromat.org/.well-known/genid/Ne83bda68e4aa487eaf283a733330a0ba> <http://schema.org/value> "128944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0b5be6c65acb4102894a10ae936b6533> <http://schema.org/name> "us" .
+

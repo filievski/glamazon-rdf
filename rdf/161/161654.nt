@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0eeac8b20d324c94999d5f9be263485e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://schema.org/addressLocality> "GRANITE FALLS" .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0eeac8b20d324c94999d5f9be263485e> .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/telephone> "+1 (360) 691-2603" .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> <http://schema.org/id> "8405300103" .
+<http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N424281a0f2e84cb6b795ceb310f25236> .
+<http://lodlaundromat.org/.well-known/genid/N424281a0f2e84cb6b795ceb310f25236> <http://schema.org/latitude> "48.081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0eeac8b20d324c94999d5f9be263485e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/name> "GRANITE FALLS HISTORICAL MSM"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://schema.org/streetAddress> "108 E UNION ST" .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://schema.org/postalCode> "98252" .
+<http://lodlaundromat.org/.well-known/genid/N8138e25e0bde44f69e6aa60cf1991bad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N424281a0f2e84cb6b795ceb310f25236> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.081&mlon=-121.968#map=15/48.081/-121.968> .
+<http://lodlaundromat.org/.well-known/genid/N424281a0f2e84cb6b795ceb310f25236> <http://schema.org/longitude> "-121.968"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne1fd362ea1d94463b736de42480a484e> <http://schema.org/url> <http://www.gfhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N76f6efa2467346bca554eb42fba0e38f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0eeac8b20d324c94999d5f9be263485e> <http://schema.org/value> "161654"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

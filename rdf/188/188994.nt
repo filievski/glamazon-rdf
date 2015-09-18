@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N08e7ffe3aaec4c068a76fbec6924df07> <http://schema.org/value> "188994"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/name> "Monteriggioni in Arme"@it .
+<http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N1c00a9554f5e414c94a6cbefe9ff4523> <http://schema.org/longitude> "11.2237"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N1c00a9554f5e414c94a6cbefe9ff4523> <http://schema.org/latitude> "43.3896"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> <http://schema.org/addressLocality> "Monteriggioni" .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.3896&mlon=11.2237#map=15/43.3896/11.2237> .
+<http://lodlaundromat.org/.well-known/genid/N8c49ad7f0c4443c4945431235c44b224> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N8c49ad7f0c4443c4945431235c44b224> <http://schema.org/contentUrl> <http://images.museums.io/MbT4FaoYs0v4Ul1G7N5RNJgT-Ss=/1000x1000/museums/logos/000/188/994/original/bb107648d45de98e5a63d1386672e0d9bb7e9f3.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/telephone> "+39 0577304834" .
+<http://lodlaundromat.org/.well-known/genid/N08e7ffe3aaec4c068a76fbec6924df07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/url> <http://www.monteriggioniturismo.it/> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08e7ffe3aaec4c068a76fbec6924df07> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1c00a9554f5e414c94a6cbefe9ff4523> .
+<http://lodlaundromat.org/.well-known/genid/N08e7ffe3aaec4c068a76fbec6924df07> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> <http://schema.org/id> "103253" .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N8c49ad7f0c4443c4945431235c44b224> .
+<http://lodlaundromat.org/.well-known/genid/Na9a7192d37754e15977d408f70096605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> <http://schema.org/streetAddress> "Roma, 23" .
+<http://lodlaundromat.org/.well-known/genid/N2b8f772fd0f74d8a9822c0b23902e968> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N1c00a9554f5e414c94a6cbefe9ff4523> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c24eb8fdd04c43b20da5250c02f320> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N52f9482ec4ee400194e802bd473424f2> <http://schema.org/longitude> "-97.7994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N324c959d0e0f44009c349f3f3364a9ef> <http://schema.org/value> "146816"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N52f9482ec4ee400194e802bd473424f2> .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/name> "PLAINVIEW HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> .
+<http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N324c959d0e0f44009c349f3f3364a9ef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://schema.org/streetAddress> "C/O HENRY STARK POB 43" .
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://schema.org/addressLocality> "PLAINVIEW" .
+<http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N324c959d0e0f44009c349f3f3364a9ef> .
+<http://lodlaundromat.org/.well-known/genid/N52f9482ec4ee400194e802bd473424f2> <http://schema.org/latitude> "42.352"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://schema.org/postalCode> "68769" .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> .
+<http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1aebe2da898f477da8dc7bb6bcdf2fb6> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> <http://schema.org/id> "8403100155" .
+<http://lodlaundromat.org/.well-known/genid/N52f9482ec4ee400194e802bd473424f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N101ce2f9f641497daf396c1af46be2bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N324c959d0e0f44009c349f3f3364a9ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb75f45de66274fb5b49e202809422e7f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.352&mlon=-97.7994#map=15/42.352/-97.7994> .
+

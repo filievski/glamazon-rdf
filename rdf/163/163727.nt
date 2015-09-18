@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N816e8c77f9de47519d67aeba7c922ca6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nedc95ca11464411cbaf62836789668b1> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N816e8c77f9de47519d67aeba7c922ca6> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> .
+<http://lodlaundromat.org/.well-known/genid/Naef458bbcd3e447a86475b6d55dd8088> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nedc95ca11464411cbaf62836789668b1> .
+<http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N816e8c77f9de47519d67aeba7c922ca6> <http://schema.org/value> "163727"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Naef458bbcd3e447a86475b6d55dd8088> <http://schema.org/latitude> "-37.8441"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naef458bbcd3e447a86475b6d55dd8088> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/name> "Briagolong RSL Sub Branch"@en .
+<http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> <http://schema.org/url> <http://victoriancollections.net.au/organisations/briagolong-rsl-> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8441&mlon=147.074#map=15/-37.8441/147.074> .
+<http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nedc95ca11464411cbaf62836789668b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N73cc1008580e44f0bc3e8c1078da058a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N816e8c77f9de47519d67aeba7c922ca6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5611eea9091943d4aa59f4e5421ba376> <http://schema.org/id> "briagolong-rsl-" .
+<http://lodlaundromat.org/.well-known/genid/Naef458bbcd3e447a86475b6d55dd8088> <http://schema.org/longitude> "147.074"^^<http://www.w3.org/2001/XMLSchema#double> .
+

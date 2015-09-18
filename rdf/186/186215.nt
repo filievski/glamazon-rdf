@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6f5ced20a1144b4f8719a158edf7e105> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> <http://schema.org/id> "111250" .
+<http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N6f5ced20a1144b4f8719a158edf7e105> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> <http://schema.org/streetAddress> "Via Roma, 16/a" .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nae006295d9b84781802edd7835fb104b> <http://schema.org/latitude> "43.7921"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.7921&mlon=12.1535#map=15/43.7921/12.1535> .
+<http://lodlaundromat.org/.well-known/genid/Nae006295d9b84781802edd7835fb104b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6f5ced20a1144b4f8719a158edf7e105> .
+<http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> <http://schema.org/addressLocality> "Casteldelci" .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> .
+<http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N6f5ced20a1144b4f8719a158edf7e105> <http://schema.org/value> "186215"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3ab62f8cf2f241cd9d7a1af5853561b2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/name> "Casa museo archeologico"@it .
+<http://lodlaundromat.org/.well-known/genid/Nf1e91047354f4c9281faad3b33f59f8d> <http://schema.org/addressRegion> "Emilia-Romagna" .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/url> <http://www.comune.casteldelci.rn.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/telephone> "+39 (+39) 0541 915423" .
+<http://lodlaundromat.org/.well-known/genid/Nbef0f1f48c474c74b13c3cefa6ea4027> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nae006295d9b84781802edd7835fb104b> .
+<http://lodlaundromat.org/.well-known/genid/Nae006295d9b84781802edd7835fb104b> <http://schema.org/longitude> "12.1535"^^<http://www.w3.org/2001/XMLSchema#double> .
+

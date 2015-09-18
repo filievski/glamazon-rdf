@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N08ab9d940bf14ec0854eb994b20dd0e3> <http://schema.org/longitude> "146.686"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08ab9d940bf14ec0854eb994b20dd0e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N08ab9d940bf14ec0854eb994b20dd0e3> <http://schema.org/latitude> "-36.355"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne07727ba3b254d38908dd82cb57a1c36> .
+<http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> <http://schema.org/url> <http://victoriancollections.net.au/organisations/murray-brewery-historic-museum> .
+<http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> .
+<http://lodlaundromat.org/.well-known/genid/N0c389388a5454fef8f479823a75c4e1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c389388a5454fef8f479823a75c4e1b> <http://schema.org/value> "164133"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N08ab9d940bf14ec0854eb994b20dd0e3> .
+<http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> <http://schema.org/id> "murray-brewery-historic-museum" .
+<http://lodlaundromat.org/.well-known/genid/N25c1bbc93da94347bc53b6d7ed40bc70> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0c389388a5454fef8f479823a75c4e1b> .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.355&mlon=146.686#map=15/-36.355/146.686> .
+<http://lodlaundromat.org/.well-known/genid/N0c389388a5454fef8f479823a75c4e1b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/name> "Murray Brewery Historic Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/telephone> "(03) 5728 1304" .
+<http://lodlaundromat.org/.well-known/genid/Ne07727ba3b254d38908dd82cb57a1c36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6981a8ffb1914624a3c06b19b469d2f0> <http://schema.org/url> <http://www.murraybreweries.com.au/> .
+<http://lodlaundromat.org/.well-known/genid/Ne07727ba3b254d38908dd82cb57a1c36> <http://schema.org/addressCountry> "Australia" .
+

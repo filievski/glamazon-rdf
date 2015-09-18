@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd692f4f3721a4247be3e5165c8928a4c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd692f4f3721a4247be3e5165c8928a4c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://schema.org/addressLocality> "W SENECA" .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://schema.org/postalCode> "14224-1569" .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> <http://schema.org/id> "8403601497" .
+<http://lodlaundromat.org/.well-known/genid/Nd692f4f3721a4247be3e5165c8928a4c> <http://schema.org/value> "150203"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd692f4f3721a4247be3e5165c8928a4c> .
+<http://lodlaundromat.org/.well-known/genid/N5e98ad36730f4ebebdc6ba92a116da28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> .
+<http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd753ba4fbd6848f198049796a5924fac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> .
+<http://lodlaundromat.org/.well-known/genid/N5e98ad36730f4ebebdc6ba92a116da28> <http://schema.org/latitude> "42.8606"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5e98ad36730f4ebebdc6ba92a116da28> <http://schema.org/longitude> "-78.7491"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/name> "WEBER MONUMENT ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e98ad36730f4ebebdc6ba92a116da28> .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://schema.org/streetAddress> "353 MEADOW DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/Nf25ef54de45f4eb79790a59a4ead6dd2> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nd856fa71bf3a48c78df6b59b271c6f5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8606&mlon=-78.7491#map=15/42.8606/-78.7491> .
+

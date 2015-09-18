@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://schema.org/addressRegion> "HI" .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/name> "ALOHA SHIRT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=20.9163&mlon=-156.381#map=15/20.9163/-156.381> .
+<http://lodlaundromat.org/.well-known/genid/Ncce5ea7e03d34da9aeb02d19ed7d405f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncce5ea7e03d34da9aeb02d19ed7d405f> .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> .
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://schema.org/streetAddress> "127 HANA HWY" .
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://schema.org/addressLocality> "PAIA" .
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5633a6cf1c4c4f69b049a6c0a06ce87b> <http://schema.org/value> "136488"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncce5ea7e03d34da9aeb02d19ed7d405f> <http://schema.org/longitude> "-156.381"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5633a6cf1c4c4f69b049a6c0a06ce87b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5633a6cf1c4c4f69b049a6c0a06ce87b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> <http://schema.org/id> "8401500027" .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/telephone> "+1 (808) 579-8770" .
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://schema.org/postalCode> "96779" .
+<http://lodlaundromat.org/.well-known/genid/Nbb74d064db404e038d917fcc64f9d8f4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6e9f90f033ea47e3a5c926b975ae9478> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5633a6cf1c4c4f69b049a6c0a06ce87b> .
+<http://lodlaundromat.org/.well-known/genid/Ncce5ea7e03d34da9aeb02d19ed7d405f> <http://schema.org/latitude> "20.9163"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40bae5073c804d4ea3d868b3b23626e3> <http://schema.org/addressCountry> "United States" .
+

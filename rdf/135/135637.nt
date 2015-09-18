@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> <http://schema.org/id> "8401201192" .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.5614&mlon=-82.4047#map=15/27.5614/-82.4047> .
+<http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0c427c7f54bf4b67a20e670d5c4f8e68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N11fa6845efd741659b98c0bbdd78806a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> .
+<http://lodlaundromat.org/.well-known/genid/N0c427c7f54bf4b67a20e670d5c4f8e68> <http://schema.org/longitude> "-82.4047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> .
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://schema.org/streetAddress> "C/O LEWIS COLLINS 8940 BUNKER HILL" .
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://schema.org/postalCode> "34219" .
+<http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N11fa6845efd741659b98c0bbdd78806a> .
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N11fa6845efd741659b98c0bbdd78806a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbef34d9dd911411c8b39689b0b6b527e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c427c7f54bf4b67a20e670d5c4f8e68> .
+<http://lodlaundromat.org/.well-known/genid/N0c427c7f54bf4b67a20e670d5c4f8e68> <http://schema.org/latitude> "27.5614"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://schema.org/addressLocality> "DUETTE" .
+<http://lodlaundromat.org/.well-known/genid/N310106b55dd448f09d5311d8e7413c81> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N11fa6845efd741659b98c0bbdd78806a> <http://schema.org/value> "135637"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N81b439a7129648148db83cd7e2cc13bc> <http://schema.org/name> "CROSLEY ESTATE FOUNDATION INC"@en .
+

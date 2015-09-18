@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> .
+<http://lodlaundromat.org/.well-known/genid/N63d0df7acdd94e6ca616a1a109c1b94d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2eb956baa6e2458c9b2c2745e32b32fe> .
+<http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N63d0df7acdd94e6ca616a1a109c1b94d> .
+<http://lodlaundromat.org/.well-known/genid/N63d0df7acdd94e6ca616a1a109c1b94d> <http://schema.org/value> "138633"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2eb956baa6e2458c9b2c2745e32b32fe> <http://schema.org/latitude> "38.7477"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.7477&mlon=-85.065#map=15/38.7477/-85.065> .
+<http://lodlaundromat.org/.well-known/genid/N63d0df7acdd94e6ca616a1a109c1b94d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/telephone> "+1 (812) 427-3560" .
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://schema.org/addressLocality> "VEVAY" .
+<http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> <http://schema.org/id> "8401800419" .
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://schema.org/streetAddress> "208 E MARKET ST" .
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://schema.org/postalCode> "47043" .
+<http://lodlaundromat.org/.well-known/genid/N2eb956baa6e2458c9b2c2745e32b32fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N51594d31da004e87aabff324ebc13e48> <http://schema.org/name> "SWITZERLAND CO HISTORICAL SOCIETY MAIN & MARKET ST"@en .
+<http://lodlaundromat.org/.well-known/genid/N2eb956baa6e2458c9b2c2745e32b32fe> <http://schema.org/longitude> "-85.065"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc5164975673d4550890a42f501680a64> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N8858c1e1ed2c4ec7966325dc238dae9f> <http://schema.org/name> "us" .
+

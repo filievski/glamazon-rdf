@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/name> "ANNAPOLIS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47608489e2d24a2a8b3592120c66f08a> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3e3590eeee0c41f58b0ed5993ab708cb> .
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://schema.org/postalCode> "95412" .
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://schema.org/addressLocality> "ANNAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/N3e3590eeee0c41f58b0ed5993ab708cb> <http://schema.org/latitude> "38.7232"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.7232&mlon=-123.373#map=15/38.7232/-123.373> .
+<http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N47608489e2d24a2a8b3592120c66f08a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> <http://schema.org/id> "8400602327" .
+<http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N47608489e2d24a2a8b3592120c66f08a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N47608489e2d24a2a8b3592120c66f08a> <http://schema.org/value> "132201"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4863929ccf2c4a859a46f4bbf50ee0c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e096cd00d7d4b0e97506243af151dc9> .
+<http://lodlaundromat.org/.well-known/genid/N3e3590eeee0c41f58b0ed5993ab708cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N3e3590eeee0c41f58b0ed5993ab708cb> <http://schema.org/longitude> "-123.373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad5e2b17a6694b91bde8a94c252e2c0d> <http://schema.org/streetAddress> "36855 ANNAPOLIS RD" .
+

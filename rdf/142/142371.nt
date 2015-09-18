@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N66beaa43255b494ea4c4bdfae5a71011> <http://schema.org/latitude> "42.6446"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> .
+<http://lodlaundromat.org/.well-known/genid/N66beaa43255b494ea4c4bdfae5a71011> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://schema.org/postalCode> "01852" .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N66beaa43255b494ea4c4bdfae5a71011> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd4436cdb9c414d6a96f115b65c074c37> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N66beaa43255b494ea4c4bdfae5a71011> <http://schema.org/longitude> "-71.3149"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6446&mlon=-71.3149#map=15/42.6446/-71.3149> .
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://schema.org/streetAddress> "243 WORTHEN STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nd4436cdb9c414d6a96f115b65c074c37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> .
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://schema.org/addressLocality> "LOWELL" .
+<http://lodlaundromat.org/.well-known/genid/Nd4436cdb9c414d6a96f115b65c074c37> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N258d990de5f64523940fe54579ff9aa3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/name> "WHISTLER HOUSE MUSEUM OF ART"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd8a887f913477abc71d153d9c92039> <http://schema.org/id> "8402500001" .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://schema.org/telephone> "+1 (978) 452-7641" .
+<http://lodlaundromat.org/.well-known/genid/Nbd4445a8ca3a4b3bb40b95ac7cfc4d7f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd4436cdb9c414d6a96f115b65c074c37> <http://schema.org/value> "142371"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

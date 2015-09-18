@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N908b930cadca45738604d546d81d2c2d> .
+<http://lodlaundromat.org/.well-known/genid/N908b930cadca45738604d546d81d2c2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb876b4dc44624854b6c856f02f8748b7> .
+<http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb876b4dc44624854b6c856f02f8748b7> <http://schema.org/latitude> "42.3569"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N908b930cadca45738604d546d81d2c2d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nce63a764669449a6b55355f4094074b8> .
+<http://lodlaundromat.org/.well-known/genid/Nb876b4dc44624854b6c856f02f8748b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3569&mlon=14.4049#map=15/42.3569/14.4049> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/name> "Museo diocesano di Ortona"@it .
+<http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nce63a764669449a6b55355f4094074b8> <http://schema.org/contentUrl> <http://images.museums.io/jwW6BM_veogOCwYDo6F5X0v47Ag=/1000x1000/museums/logos/000/185/570/original/ed1e63b4f2b6da3a637de3b1179552e1d5e647da.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> .
+<http://lodlaundromat.org/.well-known/genid/Nb876b4dc44624854b6c856f02f8748b7> <http://schema.org/longitude> "14.4049"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> <http://schema.org/streetAddress> "Piazza San Tommaso, 1" .
+<http://lodlaundromat.org/.well-known/genid/N908b930cadca45738604d546d81d2c2d> <http://schema.org/value> "185570"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> <http://schema.org/addressLocality> "Ortona" .
+<http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nce63a764669449a6b55355f4094074b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> <http://schema.org/id> "100058" .
+<http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> <http://schema.org/addressRegion> "Abruzzo" .
+<http://lodlaundromat.org/.well-known/genid/Na6bd5d63eb464df78137feaab2371ca0> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb1dfda5817a44dc99353adf4dfb475a4> .
+<http://lodlaundromat.org/.well-known/genid/N7d7339981f834d54bb154f96ef9b83c0> <http://schema.org/telephone> "+39 0859062977" .
+

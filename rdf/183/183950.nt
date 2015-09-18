@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N08b226c53052490c86c6e9eb973f3a3d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1a16f4e557f540bc9df556d4069b1024> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N1a16f4e557f540bc9df556d4069b1024> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4010eace48b04246b91aaf6e28d1bf77> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a16f4e557f540bc9df556d4069b1024> .
+<http://lodlaundromat.org/.well-known/genid/N1a16f4e557f540bc9df556d4069b1024> <http://schema.org/streetAddress> "Lustige Stra\u00DFe" .
+<http://lodlaundromat.org/.well-known/genid/N4010eace48b04246b91aaf6e28d1bf77> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/telephone> "90" .
+<http://lodlaundromat.org/.well-known/genid/N08b226c53052490c86c6e9eb973f3a3d> <http://schema.org/value> "183950"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/url> <http://www.google.de/> .
+<http://lodlaundromat.org/.well-known/genid/N4010eace48b04246b91aaf6e28d1bf77> <http://schema.org/url> <http://www.museums.io/en/museums/183950> .
+<http://lodlaundromat.org/.well-known/genid/N1a16f4e557f540bc9df556d4069b1024> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/name> "ZZZ_TestMuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N08b226c53052490c86c6e9eb973f3a3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08b226c53052490c86c6e9eb973f3a3d> .
+<http://lodlaundromat.org/.well-known/genid/N4010eace48b04246b91aaf6e28d1bf77> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne87d7c6dbb064f95879917d79dfdf175> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4010eace48b04246b91aaf6e28d1bf77> .
+

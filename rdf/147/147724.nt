@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndedfa561cc45431ca441cc13bbedd4bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/url> <http://menloparkmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9058aaf6ba344f0b8a1a4e3236bda9c> <http://schema.org/latitude> "40.5635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndedfa561cc45431ca441cc13bbedd4bb> <http://schema.org/value> "147724"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb9058aaf6ba344f0b8a1a4e3236bda9c> <http://schema.org/longitude> "-74.3387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> .
+<http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://schema.org/addressLocality> "EDISON" .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> <http://schema.org/id> "8403400092" .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://schema.org/streetAddress> "37 CHRISTIE ST" .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://schema.org/postalCode> "08820" .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5635&mlon=-74.3387#map=15/40.5635/-74.3387> .
+<http://lodlaundromat.org/.well-known/genid/Nb9058aaf6ba344f0b8a1a4e3236bda9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01713c9269b442a69f35ddb7a01dc456> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndedfa561cc45431ca441cc13bbedd4bb> .
+<http://lodlaundromat.org/.well-known/genid/Ndedfa561cc45431ca441cc13bbedd4bb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/telephone> "+1 (732) 549-3299" .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb9058aaf6ba344f0b8a1a4e3236bda9c> .
+<http://lodlaundromat.org/.well-known/genid/N952458e15a3342d38b0d2201df847616> <http://schema.org/name> "EDISON MEMORIAL TOWER"@en .
+<http://lodlaundromat.org/.well-known/genid/N45e89e7584394dde8565294327ab521c> <http://schema.org/addressCountry> "United States" .
+

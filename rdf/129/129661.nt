@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://schema.org/addressLocality> "FORT SMITH" .
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://schema.org/postalCode> "72903-3152" .
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/name> "RIVER VALLEY BOTANICAL GARDENS"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncc53995aa444400dbdc72e9e80f69fce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> .
+<http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbea8c6e893d043bbbf28b205beacb006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbea8c6e893d043bbbf28b205beacb006> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://schema.org/addressRegion> "AR" .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbea8c6e893d043bbbf28b205beacb006> .
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf12bf42e38a7482297587ca2f380c901> <http://schema.org/streetAddress> "4300 ROGERS AVE SUITE 26" .
+<http://lodlaundromat.org/.well-known/genid/Nbea8c6e893d043bbbf28b205beacb006> <http://schema.org/value> "129661"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncc53995aa444400dbdc72e9e80f69fce> <http://schema.org/latitude> "35.3688"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> <http://schema.org/id> "8400500097" .
+<http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nab7d8b74f2dc4f388b3df7ff0445a951> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncc53995aa444400dbdc72e9e80f69fce> .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3bae54201f474ac781dff2e9aff32cea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.3688&mlon=-94.3845#map=15/35.3688/-94.3845> .
+<http://lodlaundromat.org/.well-known/genid/Ncc53995aa444400dbdc72e9e80f69fce> <http://schema.org/longitude> "-94.3845"^^<http://www.w3.org/2001/XMLSchema#double> .
+

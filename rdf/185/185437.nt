@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf4f096d11d604774bf7ecd92892157ff> <http://schema.org/latitude> "24.1571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=24.1571&mlon=24.1571#map=15/24.1571/24.1571> .
+<http://lodlaundromat.org/.well-known/genid/N66d2c1480bbf4a14bd54e87df7880d21> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd92b65e97351478eba4301d02bd1f46b> <http://schema.org/value> "185437"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N66d2c1480bbf4a14bd54e87df7880d21> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N07761ff036084ae98d3ca19c238fd641> .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/url> <http://www.tornio.fi/Alatornionpitajamuseo> .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N66d2c1480bbf4a14bd54e87df7880d21> .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd92b65e97351478eba4301d02bd1f46b> .
+<http://lodlaundromat.org/.well-known/genid/Nf4f096d11d604774bf7ecd92892157ff> <http://schema.org/longitude> "24.1571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/name> "Alatornio Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N66d2c1480bbf4a14bd54e87df7880d21> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N66d2c1480bbf4a14bd54e87df7880d21> <http://schema.org/url> <http://www.museums.io/en/museums/185437> .
+<http://lodlaundromat.org/.well-known/genid/Nf4f096d11d604774bf7ecd92892157ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd92b65e97351478eba4301d02bd1f46b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2c53c85aa9044e8e8e9046fa94d69975> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf4f096d11d604774bf7ecd92892157ff> .
+<http://lodlaundromat.org/.well-known/genid/N07761ff036084ae98d3ca19c238fd641> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd92b65e97351478eba4301d02bd1f46b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N07761ff036084ae98d3ca19c238fd641> <http://schema.org/addressCountry> "Finland" .
+

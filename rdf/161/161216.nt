@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://schema.org/streetAddress> "601 COURT ST" .
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7cdf2442a63f45668902ca978a3b94e4> <http://schema.org/latitude> "36.8343"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://schema.org/postalCode> "23704-3607" .
+<http://lodlaundromat.org/.well-known/genid/N28463dcaf25f415cbdcfaf0a2a18abe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7cdf2442a63f45668902ca978a3b94e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N28463dcaf25f415cbdcfaf0a2a18abe3> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/telephone> "+1 (603) 431-2000" .
+<http://lodlaundromat.org/.well-known/genid/N7cdf2442a63f45668902ca978a3b94e4> <http://schema.org/longitude> "-76.3008"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N28463dcaf25f415cbdcfaf0a2a18abe3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/url> <http://www.portsmouthpubliclibrary.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.8343&mlon=-76.3008#map=15/36.8343/-76.3008> .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7cdf2442a63f45668902ca978a3b94e4> .
+<http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N28463dcaf25f415cbdcfaf0a2a18abe3> <http://schema.org/value> "161216"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://schema.org/addressLocality> "PORTSMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> .
+<http://lodlaundromat.org/.well-known/genid/Nce0ad72ecda14650b696c3ca812e1fbe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nae2ea91393fe4ae08251565a6bfc7faa> <http://schema.org/name> "PORTSMOUTH PUBLIC LIBRARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N380b3a7fc164466a9a60b63b25366f49> <http://schema.org/id> "8405100722" .
+

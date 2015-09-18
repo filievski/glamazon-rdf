@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://schema.org/addressLocality> "Neunkirchen" .
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/url> <http://www.neunkirchen-am-brand.de/museen/synagoge> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/telephone> "09134/705-41" .
+<http://lodlaundromat.org/.well-known/genid/N5048ce7d676c4a8db5b3daf36d4f00a2> <http://schema.org/url> <http://www.museums.io/en/museums/182713> .
+<http://lodlaundromat.org/.well-known/genid/Ncf676244bcc24ad3b794e06c36a14df5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6403&mlon=11.1925#map=15/49.6403/11.1925> .
+<http://lodlaundromat.org/.well-known/genid/Nb105fa80ad3a480fad3b65943371a07d> <http://schema.org/latitude> "49.6403"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N5048ce7d676c4a8db5b3daf36d4f00a2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> .
+<http://lodlaundromat.org/.well-known/genid/Nb105fa80ad3a480fad3b65943371a07d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb105fa80ad3a480fad3b65943371a07d> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5048ce7d676c4a8db5b3daf36d4f00a2> .
+<http://lodlaundromat.org/.well-known/genid/Nb105fa80ad3a480fad3b65943371a07d> <http://schema.org/longitude> "11.1925"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://schema.org/streetAddress> "Wagnergasse 8" .
+<http://lodlaundromat.org/.well-known/genid/N86f6aa43fb70424e9a2f9325028751f1> <http://schema.org/postalCode> "91077" .
+<http://lodlaundromat.org/.well-known/genid/N5048ce7d676c4a8db5b3daf36d4f00a2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/name> "Synagoge und J\u00FCdisches Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N5048ce7d676c4a8db5b3daf36d4f00a2> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ncf676244bcc24ad3b794e06c36a14df5> <http://schema.org/value> "182713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncf676244bcc24ad3b794e06c36a14df5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf931f90e841b4b5fa8764e38c0fe44f6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncf676244bcc24ad3b794e06c36a14df5> .
+

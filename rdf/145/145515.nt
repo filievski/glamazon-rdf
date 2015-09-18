@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> <http://schema.org/id> "8402800222" .
+<http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://schema.org/postalCode> "39083-3029" .
+<http://lodlaundromat.org/.well-known/genid/Nd9caddf1bb29426a901e30c6fb2c72b1> <http://schema.org/longitude> "-90.4011"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/telephone> "+1 (601) 894-5601" .
+<http://lodlaundromat.org/.well-known/genid/Nd9caddf1bb29426a901e30c6fb2c72b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://schema.org/streetAddress> "421 W GALLATIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd9caddf1bb29426a901e30c6fb2c72b1> .
+<http://lodlaundromat.org/.well-known/genid/N07817ac78e2846678cdfa6982325e8f0> <http://schema.org/value> "145515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://schema.org/addressLocality> "HAZELHURST" .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/name> "MISSISSIPPI MUSIC HALL OF FAME"@en .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/url> <http://www.msmusic.org/index.html> .
+<http://lodlaundromat.org/.well-known/genid/Nd9caddf1bb29426a901e30c6fb2c72b1> <http://schema.org/latitude> "31.86"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N07817ac78e2846678cdfa6982325e8f0> .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> .
+<http://lodlaundromat.org/.well-known/genid/N07817ac78e2846678cdfa6982325e8f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N28eaedaa7ea746f3b7492b3f45b7d0fd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N516dfb04975a4696862816910cd25b3b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.86&mlon=-90.4011#map=15/31.86/-90.4011> .
+<http://lodlaundromat.org/.well-known/genid/N07817ac78e2846678cdfa6982325e8f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N661f1f447f5748d7b28e069205cf0497> <http://schema.org/addressRegion> "MS" .
+

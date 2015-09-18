@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> .
+<http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> <http://schema.org/id> "8405100419" .
+<http://lodlaundromat.org/.well-known/genid/N77f7f548037d47839df130bc8b251a23> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://schema.org/streetAddress> "PO BOX 3605" .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd9737005eb444a469ced0c99dee91738> <http://schema.org/latitude> "37.2756"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N77f7f548037d47839df130bc8b251a23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd9737005eb444a469ced0c99dee91738> .
+<http://lodlaundromat.org/.well-known/genid/Nd9737005eb444a469ced0c99dee91738> <http://schema.org/longitude> "-76.7078"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://schema.org/postalCode> "23187-3605" .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://schema.org/addressLocality> "WILLIAMSBURG" .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N77f7f548037d47839df130bc8b251a23> .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.2756&mlon=-76.7078#map=15/37.2756/-76.7078> .
+<http://lodlaundromat.org/.well-known/genid/N97cad527495045939dc9fcac24a97c92> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd9737005eb444a469ced0c99dee91738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2870a8dfd75240cd9f2fb306f827b5d3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne125c418fb3b4154be3c91f656817cdd> <http://schema.org/name> "JAMESTOWN YORKTOWN FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N77f7f548037d47839df130bc8b251a23> <http://schema.org/value> "160913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

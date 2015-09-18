@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N847bfdda661147409983bc909b713322> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://schema.org/addressLocality> "IRVINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N43787f7e5bb843e8b2f6c4b47b902845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N847bfdda661147409983bc909b713322> .
+<http://lodlaundromat.org/.well-known/genid/N847bfdda661147409983bc909b713322> <http://schema.org/latitude> "41.0384"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/name> "IRVINGTON LANDMARK PRESERVATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0384&mlon=-73.8632#map=15/41.0384/-73.8632> .
+<http://lodlaundromat.org/.well-known/genid/N43787f7e5bb843e8b2f6c4b47b902845> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://schema.org/postalCode> "10533-0443" .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> .
+<http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://schema.org/streetAddress> "PO BOX 443" .
+<http://lodlaundromat.org/.well-known/genid/N73d55100e52940b2bdd8556ee7576c4d> <http://schema.org/id> "8403600903" .
+<http://lodlaundromat.org/.well-known/genid/N43787f7e5bb843e8b2f6c4b47b902845> <http://schema.org/value> "149609"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N497db5f82c494aa48e4c157923bf8ecf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N43787f7e5bb843e8b2f6c4b47b902845> .
+<http://lodlaundromat.org/.well-known/genid/N7e39889f8c194efc98d689ff270abe10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N847bfdda661147409983bc909b713322> <http://schema.org/longitude> "-73.8632"^^<http://www.w3.org/2001/XMLSchema#double> .
+

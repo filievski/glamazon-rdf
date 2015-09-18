@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N5ba2a1a4276640feb38cb804bf4ee7e9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne2d3b998b54c400b921ea8638776a27a> <http://schema.org/value> "185216"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc8ce9acbc7f84eefb75c3cee3a59de86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5ba2a1a4276640feb38cb804bf4ee7e9> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nc8ce9acbc7f84eefb75c3cee3a59de86> <http://schema.org/latitude> "24.4647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ba2a1a4276640feb38cb804bf4ee7e9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb4ebe71c37524e44a437b17488cbe53f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc8ce9acbc7f84eefb75c3cee3a59de86> .
+<http://lodlaundromat.org/.well-known/genid/Nc8ce9acbc7f84eefb75c3cee3a59de86> <http://schema.org/longitude> "24.4647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ba2a1a4276640feb38cb804bf4ee7e9> <http://schema.org/url> <http://www.museums.io/en/museums/185216> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5ba2a1a4276640feb38cb804bf4ee7e9> .
+<http://lodlaundromat.org/.well-known/genid/Ne2d3b998b54c400b921ea8638776a27a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb4ebe71c37524e44a437b17488cbe53f> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Ne2d3b998b54c400b921ea8638776a27a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/name> "H\u00E4meenlinna Historical Museum, Palander House"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne2d3b998b54c400b921ea8638776a27a> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb4ebe71c37524e44a437b17488cbe53f> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd78ffff72ed54e41a23d6d271591e662> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=24.4647&mlon=24.4647#map=15/24.4647/24.4647> .
+

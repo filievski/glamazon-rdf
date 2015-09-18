@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1db579dc48d74eb9b34a1a40ca87fbce> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1db579dc48d74eb9b34a1a40ca87fbce> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nc58fdaef33c7435f81dcfc75766651a8> <http://schema.org/longitude> "10.1447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1db579dc48d74eb9b34a1a40ca87fbce> .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4299&mlon=10.1447#map=15/48.4299/10.1447> .
+<http://lodlaundromat.org/.well-known/genid/N1e17e0cd2aeb4f54a03b1d2c7ceb4f52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1e17e0cd2aeb4f54a03b1d2c7ceb4f52> <http://schema.org/value> "183409"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://schema.org/streetAddress> "Alte Landstra\u00DFe 1 a" .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/telephone> "07308/922443" .
+<http://lodlaundromat.org/.well-known/genid/N1db579dc48d74eb9b34a1a40ca87fbce> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://schema.org/addressLocality> "Nersingen" .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/url> <http://www.landkreis.neu-ulm.de/de/museum-fuer-bildende-kunst-im-landkreis-neu-ulm.html> .
+<http://lodlaundromat.org/.well-known/genid/N1db579dc48d74eb9b34a1a40ca87fbce> <http://schema.org/url> <http://www.museums.io/en/museums/183409> .
+<http://lodlaundromat.org/.well-known/genid/N52581c0013af4659a20f9ca9fb7f6392> <http://schema.org/postalCode> "89278" .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1e17e0cd2aeb4f54a03b1d2c7ceb4f52> .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/name> "Museum f\u00FCr bildende Kunst im Landkreis Neu-Ulm"@en .
+<http://lodlaundromat.org/.well-known/genid/N1e17e0cd2aeb4f54a03b1d2c7ceb4f52> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc58fdaef33c7435f81dcfc75766651a8> .
+<http://lodlaundromat.org/.well-known/genid/Nc58fdaef33c7435f81dcfc75766651a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc58fdaef33c7435f81dcfc75766651a8> <http://schema.org/latitude> "48.4299"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86e2e7f62ef942efac024c74accb423c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N57a17c3378f44a25bca1cf8c2f626c29> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4163&mlon=-90.4282#map=15/42.4163/-90.4282> .
+<http://lodlaundromat.org/.well-known/genid/N57a17c3378f44a25bca1cf8c2f626c29> <http://schema.org/value> "137190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://schema.org/streetAddress> "122 1/2 N MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd13e46b2588640d68d550babbe45b542> .
+<http://lodlaundromat.org/.well-known/genid/Nd13e46b2588640d68d550babbe45b542> <http://schema.org/latitude> "42.4163"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> <http://schema.org/id> "8401700335" .
+<http://lodlaundromat.org/.well-known/genid/Nd13e46b2588640d68d550babbe45b542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://schema.org/postalCode> "61036-2222" .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N57a17c3378f44a25bca1cf8c2f626c29> .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://schema.org/addressLocality> "GALENA" .
+<http://lodlaundromat.org/.well-known/genid/N4731a107f81d4b738fd38b88a5da9ba3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N124655e8746c40e696e3fb91add541a1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8ebdbff2e7174b948f08000f71f5bdca> <http://schema.org/name> "US GRANT CENTER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N57a17c3378f44a25bca1cf8c2f626c29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd13e46b2588640d68d550babbe45b542> <http://schema.org/longitude> "-90.4282"^^<http://www.w3.org/2001/XMLSchema#double> .
+

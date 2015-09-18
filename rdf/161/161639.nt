@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/telephone> "+1 (509) 843-1600" .
+<http://lodlaundromat.org/.well-known/genid/N65f3ad8f35e04c8099e5d44783593f29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N65f3ad8f35e04c8099e5d44783593f29> <http://schema.org/value> "161639"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://schema.org/streetAddress> "800 W MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/Nadcacdc7709f41ac804e3b9a0b337782> <http://schema.org/longitude> "-117.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N65f3ad8f35e04c8099e5d44783593f29> .
+<http://lodlaundromat.org/.well-known/genid/Nadcacdc7709f41ac804e3b9a0b337782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> <http://schema.org/id> "8405300088" .
+<http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.4744&mlon=-117.6#map=15/46.4744/-117.6> .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/name> "LEWIS AND CLARK COUNTRY PNR MSM"@en .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nadcacdc7709f41ac804e3b9a0b337782> .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N65f3ad8f35e04c8099e5d44783593f29> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nadcacdc7709f41ac804e3b9a0b337782> <http://schema.org/latitude> "46.4744"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5dc311ae9edf4cff9dc1663002502f16> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N280bf2b500f54ee7bf1fe69ee0c569a2> .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://schema.org/postalCode> "99347" .
+<http://lodlaundromat.org/.well-known/genid/N2e4693176db148c7880f558f8d3b7ee0> <http://schema.org/addressLocality> "POMEROY" .
+

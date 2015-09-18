@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.164&mlon=11.3331#map=15/44.164/11.3331> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9da488207c37412c9f4901bd2597e6d7> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> .
+<http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> <http://schema.org/addressLocality> "Firenzuola" .
+<http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9da488207c37412c9f4901bd2597e6d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf74e7ecd8d2249398f6bc384af9eb7dc> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbacd95f961a243769874fb76a0ca224c> .
+<http://lodlaundromat.org/.well-known/genid/N9da488207c37412c9f4901bd2597e6d7> <http://schema.org/latitude> "44.164"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nf74e7ecd8d2249398f6bc384af9eb7dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N9da488207c37412c9f4901bd2597e6d7> <http://schema.org/longitude> "11.3331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> .
+<http://lodlaundromat.org/.well-known/genid/N6fcc23ac5b0a4b9b8b7020a222498f45> <http://schema.org/streetAddress> "della Chiesa, 4" .
+<http://lodlaundromat.org/.well-known/genid/Nf74e7ecd8d2249398f6bc384af9eb7dc> <http://schema.org/contentUrl> <http://images.museums.io/JY0sX2yrGi_yO6uN4gjlBjo1fcg=/1000x1000/museums/logos/000/188/678/original/6855cbbc802e47f3b65daf263fd4fed8b7ea86b.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/telephone> "+39 055818110" .
+<http://lodlaundromat.org/.well-known/genid/N562a169c6b9f4895925b3a24732717e6> <http://schema.org/name> "Museo storico etnografico di Bruscoli"@it .
+<http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> <http://schema.org/id> "103971" .
+<http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nbacd95f961a243769874fb76a0ca224c> <http://schema.org/value> "188678"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbacd95f961a243769874fb76a0ca224c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbacd95f961a243769874fb76a0ca224c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5f3a805097f54d778103dd55c9436658> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+

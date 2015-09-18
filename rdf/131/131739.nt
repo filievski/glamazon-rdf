@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://schema.org/streetAddress> "160 N MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> <http://schema.org/id> "8400601865" .
+<http://lodlaundromat.org/.well-known/genid/N8fc320113a9a42ada5bef0f1033fa4fa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8fc320113a9a42ada5bef0f1033fa4fa> .
+<http://lodlaundromat.org/.well-known/genid/N8fc320113a9a42ada5bef0f1033fa4fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndfc63c968e3d4867ab4024d33dc9729d> <http://schema.org/latitude> "37.4327"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://schema.org/addressLocality> "MILPITAS" .
+<http://lodlaundromat.org/.well-known/genid/N5ea5a45e051c4c31be31eb1842e71aaf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.4327&mlon=-121.907#map=15/37.4327/-121.907> .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://schema.org/postalCode> "95035-4323" .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/name> "MILPITAS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndfc63c968e3d4867ab4024d33dc9729d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfc3766bd45b345668ea46a4b8ac625ac> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8fc320113a9a42ada5bef0f1033fa4fa> <http://schema.org/value> "131739"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndfc63c968e3d4867ab4024d33dc9729d> <http://schema.org/longitude> "-121.907"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39466af23ba840abb03f191d9d30e145> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndfc63c968e3d4867ab4024d33dc9729d> .
+

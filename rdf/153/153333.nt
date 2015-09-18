@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1641bfc28bb942e68420446a4c376182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> <http://schema.org/id> "8403901111" .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://schema.org/streetAddress> "2866 STATION ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/name> "YORK TOWNSHIP HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5c5af32111704f509ba0b42c90c7cbe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c5af32111704f509ba0b42c90c7cbe9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1641bfc28bb942e68420446a4c376182> <http://schema.org/longitude> "-81.9587"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1641bfc28bb942e68420446a4c376182> <http://schema.org/latitude> "41.1961"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1961&mlon=-81.9587#map=15/41.1961/-81.9587> .
+<http://lodlaundromat.org/.well-known/genid/N75227ccaf99d4d0da3d0ab26fe11e0f9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5c5af32111704f509ba0b42c90c7cbe9> .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1641bfc28bb942e68420446a4c376182> .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://schema.org/postalCode> "44256" .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://schema.org/addressLocality> "MEDINA" .
+<http://lodlaundromat.org/.well-known/genid/N375013d59ea64560bf9bfe38835aa647> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> .
+<http://lodlaundromat.org/.well-known/genid/Nb194eaf4986045c89e75671e741e3867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c5af32111704f509ba0b42c90c7cbe9> <http://schema.org/value> "153333"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

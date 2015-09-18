@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> .
+<http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6b4ea96d46bf44b192e560e19257c976> .
+<http://lodlaundromat.org/.well-known/genid/N6b4ea96d46bf44b192e560e19257c976> <http://schema.org/longitude> "-80.2106"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6cdc2dbe08884a299f682c30275f5faf> <http://schema.org/value> "134698"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://schema.org/postalCode> "33314" .
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://schema.org/streetAddress> "5710 SEMINOLE WAY" .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/name> "AH TAH THI KI MUSEUMS"@en .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6cdc2dbe08884a299f682c30275f5faf> .
+<http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> <http://schema.org/id> "8401200252" .
+<http://lodlaundromat.org/.well-known/genid/N6cdc2dbe08884a299f682c30275f5faf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6b4ea96d46bf44b192e560e19257c976> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://schema.org/addressLocality> "FORT LAUDERDALE" .
+<http://lodlaundromat.org/.well-known/genid/N6b4ea96d46bf44b192e560e19257c976> <http://schema.org/latitude> "26.0509"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.0509&mlon=-80.2106#map=15/26.0509/-80.2106> .
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N6cdc2dbe08884a299f682c30275f5faf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N948e11f28d3b4063a7273db84088ba05> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7bf83f3db83748bb96b9aa83e7bc078b> <http://schema.org/telephone> "+1 (954) 792-1213" .
+<http://lodlaundromat.org/.well-known/genid/Nee1328f492d9411fb7cb31de499e2824> <http://schema.org/@Type> "Dataset" .
+

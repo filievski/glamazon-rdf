@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://schema.org/addressLocality> "RALEIGH" .
+<http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/name> "STATE CAPITOL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N64cc3dc99c4a44c69f08c0add54f69c4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2e4a0984059f41b69ae6ff26a8912580> <http://schema.org/latitude> "35.7765"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e4a0984059f41b69ae6ff26a8912580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> .
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> <http://schema.org/id> "8403700876" .
+<http://lodlaundromat.org/.well-known/genid/N64cc3dc99c4a44c69f08c0add54f69c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://schema.org/postalCode> "27699-0001" .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N64cc3dc99c4a44c69f08c0add54f69c4> .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2e4a0984059f41b69ae6ff26a8912580> .
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N33b28bef4d7d4f3db77c3b975ab9632b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> .
+<http://lodlaundromat.org/.well-known/genid/N50f33181d62b4e5ba4d1bad5f6c68a5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.7765&mlon=-78.6383#map=15/35.7765/-78.6383> .
+<http://lodlaundromat.org/.well-known/genid/Nda3d35bd349f44de821ed516da50dfcc> <http://schema.org/streetAddress> "MAIL SERVICE CENTER STE 4624" .
+<http://lodlaundromat.org/.well-known/genid/N2e4a0984059f41b69ae6ff26a8912580> <http://schema.org/longitude> "-78.6383"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64cc3dc99c4a44c69f08c0add54f69c4> <http://schema.org/value> "152005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.1511&mlon=-90.9111#map=15/46.1511/-90.9111> .
+<http://lodlaundromat.org/.well-known/genid/Nc796170e9a0e4fd1911df47ce3a6224b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Nc796170e9a0e4fd1911df47ce3a6224b> <http://schema.org/latitude> "46.1511"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> .
+<http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> <http://schema.org/id> "8405500454" .
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://schema.org/streetAddress> "127" .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na42bd6d0dd17463880c77d02caa17a52> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/name> "GLIDDEN AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> .
+<http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc796170e9a0e4fd1911df47ce3a6224b> .
+<http://lodlaundromat.org/.well-known/genid/Na42bd6d0dd17463880c77d02caa17a52> <http://schema.org/value> "163005"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2f9ac21489694345b04482b3e426fdfd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na42bd6d0dd17463880c77d02caa17a52> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc796170e9a0e4fd1911df47ce3a6224b> <http://schema.org/longitude> "-90.9111"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://schema.org/addressLocality> "GLIDDEN" .
+<http://lodlaundromat.org/.well-known/genid/N72462e48ac394c6c9adbbeeabb99c84d> <http://schema.org/postalCode> "54527" .
+<http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5fc23f904e1d4b768958ff8444263030> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na42bd6d0dd17463880c77d02caa17a52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

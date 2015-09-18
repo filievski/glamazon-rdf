@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb19a724a4f3542db97c58c31ad7628c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb19a724a4f3542db97c58c31ad7628c0> <http://schema.org/latitude> "37.6743"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6743&mlon=-97.3562#map=15/37.6743/-97.3562> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/telephone> "+1 (316) 833-3760" .
+<http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> <http://schema.org/id> "8402000041" .
+<http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf726acf38cfe42989dd142d0fad6cced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://schema.org/postalCode> "67213-3855" .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://schema.org/addressLocality> "WICHITA" .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb19a724a4f3542db97c58c31ad7628c0> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf726acf38cfe42989dd142d0fad6cced> .
+<http://lodlaundromat.org/.well-known/genid/Nf726acf38cfe42989dd142d0fad6cced> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf726acf38cfe42989dd142d0fad6cced> <http://schema.org/value> "139715"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://schema.org/streetAddress> "USD 259, 855 SOUTH MARTINSON" .
+<http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb19a724a4f3542db97c58c31ad7628c0> <http://schema.org/longitude> "-97.3562"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb3ccbf9416ff4cf58b1f79fffacdb8fe> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbe900f8d32b441959babb4b843329759> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf91e55dd337940e3887e4f0e2182641c> <http://schema.org/name> "MCCORMICK MUSEUM-SCIENCE CENTER"@en .
+

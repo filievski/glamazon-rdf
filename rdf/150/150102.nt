@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N58dc205dc9844101935cb59003d9024b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://schema.org/streetAddress> "PO BOX 201" .
+<http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N77e96335a8fd40848259ecc57e19b267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> <http://schema.org/id> "8403601396" .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/name> "COMMITTEE TO PRESERVE THE NARCISSA HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N77e96335a8fd40848259ecc57e19b267> .
+<http://lodlaundromat.org/.well-known/genid/N77e96335a8fd40848259ecc57e19b267> <http://schema.org/latitude> "42.5236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N58dc205dc9844101935cb59003d9024b> <http://schema.org/value> "150102"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N58dc205dc9844101935cb59003d9024b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N58dc205dc9844101935cb59003d9024b> .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5236&mlon=-77.2891#map=15/42.5236/-77.2891> .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> .
+<http://lodlaundromat.org/.well-known/genid/N01e91673e09949af8516e42872ab5768> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N06a08069c9a24afe9bc7dc564df5ad20> .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://schema.org/postalCode> "14873-0201" .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://schema.org/addressLocality> "PRATTSBURGH" .
+<http://lodlaundromat.org/.well-known/genid/Nb6331a301147492c9054bae663cc5c5a> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N77e96335a8fd40848259ecc57e19b267> <http://schema.org/longitude> "-77.2891"^^<http://www.w3.org/2001/XMLSchema#double> .
+

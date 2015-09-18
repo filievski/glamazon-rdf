@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc891022419ec453ebdeb66c10cccf6de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> <http://schema.org/id> "8401900221" .
+<http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne97e7d84719340fdb92e24cc2728ab0f> <http://schema.org/value> "139184"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne97e7d84719340fdb92e24cc2728ab0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne97e7d84719340fdb92e24cc2728ab0f> .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2576&mlon=-95.8512#map=15/41.2576/-95.8512> .
+<http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc891022419ec453ebdeb66c10cccf6de> <http://schema.org/longitude> "-95.8512"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc891022419ec453ebdeb66c10cccf6de> .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/name> "KEEP COUNCIL BLUFFS BEAUTIFUL"@en .
+<http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> <http://schema.org/postalCode> "51503-0826" .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f21600a9eca439588923b2e59bef7f5> .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/url> <http://www.keepcouncilbluffsbeautiful.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nc891022419ec453ebdeb66c10cccf6de> <http://schema.org/latitude> "41.2576"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> <http://schema.org/addressLocality> "COUNCIL BLUFFS" .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6e3fd927e7d549b080942088b13ff44b> .
+<http://lodlaundromat.org/.well-known/genid/Ne97e7d84719340fdb92e24cc2728ab0f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2b74cf8b356a4c6cb00d9aa9a442b6d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

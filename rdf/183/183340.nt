@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/name> "Stadtmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N32658cbebcee4c239c6a04c512094fa6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4bcb2b9524da40b08f9d9c97eeb10661> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N32658cbebcee4c239c6a04c512094fa6> <http://schema.org/latitude> "49.2785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N306bd18e15194a0388c6daf20fec1d23> .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/url> <http://www.stadtmuseum.neumarkt.de/> .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N32658cbebcee4c239c6a04c512094fa6> .
+<http://lodlaundromat.org/.well-known/genid/N32658cbebcee4c239c6a04c512094fa6> <http://schema.org/longitude> "11.4565"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4bcb2b9524da40b08f9d9c97eeb10661> <http://schema.org/url> <http://www.museums.io/en/museums/183340> .
+<http://lodlaundromat.org/.well-known/genid/N306bd18e15194a0388c6daf20fec1d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N306bd18e15194a0388c6daf20fec1d23> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4bcb2b9524da40b08f9d9c97eeb10661> .
+<http://lodlaundromat.org/.well-known/genid/N4bcb2b9524da40b08f9d9c97eeb10661> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4bcb2b9524da40b08f9d9c97eeb10661> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.2785&mlon=11.4565#map=15/49.2785/11.4565> .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://schema.org/streetAddress> "Adolf-Kolping-Stra\u00DFe 4" .
+<http://lodlaundromat.org/.well-known/genid/N306bd18e15194a0388c6daf20fec1d23> <http://schema.org/value> "183340"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://schema.org/addressLocality> "Neumarkt" .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://schema.org/telephone> "09181/2401" .
+<http://lodlaundromat.org/.well-known/genid/N55dcf8205b3c474da5693cc0928a3095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N45f93fcae0ba4a4bafda029e34d16139> <http://schema.org/postalCode> "92318" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb2646ae947754894b1612a24647d25bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd6ad0ad6d3a745d2a5a247bc15e6d3a9> .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2646ae947754894b1612a24647d25bf> .
+<http://lodlaundromat.org/.well-known/genid/Nb2646ae947754894b1612a24647d25bf> <http://schema.org/latitude> "29.6358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> .
+<http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd6ad0ad6d3a745d2a5a247bc15e6d3a9> <http://schema.org/value> "158319"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6ad0ad6d3a745d2a5a247bc15e6d3a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://schema.org/streetAddress> "PO BOX 2286" .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://schema.org/postalCode> "77497-2286" .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.6358&mlon=-95.5719#map=15/29.6358/-95.5719> .
+<http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://schema.org/addressLocality> "STAFFORD" .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/name> "STAFFORD HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb97bdcaac513464e8ca29b7de5a96e5b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N58631daa99d642b48c1211799363d934> <http://schema.org/id> "8404800419" .
+<http://lodlaundromat.org/.well-known/genid/N3032ba416539488dbd9da012006c0c06> <http://schema.org/telephone> "+1 (281) 499-7549" .
+<http://lodlaundromat.org/.well-known/genid/Nd6ad0ad6d3a745d2a5a247bc15e6d3a9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb2646ae947754894b1612a24647d25bf> <http://schema.org/longitude> "-95.5719"^^<http://www.w3.org/2001/XMLSchema#double> .
+

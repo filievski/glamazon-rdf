@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N0990a7f138f2424083db0dee56d15912> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/name> "Raccolta museale Franco Leoni"@it .
+<http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/Nccbb815df8f54a6d87bef643e8e8f65b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nccbb815df8f54a6d87bef643e8e8f65b> <http://schema.org/contentUrl> <http://images.museums.io/1BSQ5CehD7JqwNjHPnBuFZrAR9g=/1000x1000/museums/logos/000/187/144/original/8eddf5d92e2c59b576d0d13eaafbefa1c2a7.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N4a27fd70f9e340068a8de0bba918bf54> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a27fd70f9e340068a8de0bba918bf54> .
+<http://lodlaundromat.org/.well-known/genid/N4a27fd70f9e340068a8de0bba918bf54> <http://schema.org/value> "187144"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/telephone> "+39 0382927167" .
+<http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0990a7f138f2424083db0dee56d15912> .
+<http://lodlaundromat.org/.well-known/genid/N0990a7f138f2424083db0dee56d15912> <http://schema.org/latitude> "45.0938"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> <http://schema.org/streetAddress> "Via Stradella, 12" .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/url> <http://www.etnografico-trattori-francoleoni.it/> .
+<http://lodlaundromat.org/.well-known/genid/N0990a7f138f2424083db0dee56d15912> <http://schema.org/longitude> "9.31351"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nccbb815df8f54a6d87bef643e8e8f65b> .
+<http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> <http://schema.org/id> "103773" .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> .
+<http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N4a27fd70f9e340068a8de0bba918bf54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne376b4b9f35a433fa54506b58f750f55> <http://schema.org/addressLocality> "Portalbera" .
+<http://lodlaundromat.org/.well-known/genid/N481b57b813bc45f6b4dea366f47001ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0938&mlon=9.31351#map=15/45.0938/9.31351> .
+<http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N11297757da3e401996a4a5033d7dbce3> <http://schema.org/name> "itapi" .
+

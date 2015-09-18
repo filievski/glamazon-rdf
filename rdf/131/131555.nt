@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6ae5268785cc46cba17e9fa8445ef993> <http://schema.org/value> "131555"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://schema.org/addressLocality> "SAN QUENTIN" .
+<http://lodlaundromat.org/.well-known/genid/N8c98bc66d0234defb5243b0fcb06dbad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://schema.org/streetAddress> "PO BOX 205" .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6ae5268785cc46cba17e9fa8445ef993> .
+<http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ae5268785cc46cba17e9fa8445ef993> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/San_Quentin_State_Prison> .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8c98bc66d0234defb5243b0fcb06dbad> .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9431&mlon=-122.481#map=15/37.9431/-122.481> .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> .
+<http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> .
+<http://lodlaundromat.org/.well-known/genid/N1db04e03cfb945db90ed69b90be2ff4b> <http://schema.org/name> "SAN QUENTIN MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> <http://schema.org/id> "8400601681" .
+<http://lodlaundromat.org/.well-known/genid/N232f47c93c0548eab5a6666f456f438b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c98bc66d0234defb5243b0fcb06dbad> <http://schema.org/latitude> "37.9431"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf6635780922549f188264b943b6b5644> <http://schema.org/postalCode> "94964" .
+<http://lodlaundromat.org/.well-known/genid/N6ae5268785cc46cba17e9fa8445ef993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c98bc66d0234defb5243b0fcb06dbad> <http://schema.org/longitude> "-122.481"^^<http://www.w3.org/2001/XMLSchema#double> .
+

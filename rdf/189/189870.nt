@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N74b7cfb8568a40c286db1fe5df0b55f4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.2745&mlon=-86.1984#map=15/37.2745/-86.1984> .
+<http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N56c3372bbdf645649a479541d48626bb> <http://schema.org/latitude> "37.2745"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N74b7cfb8568a40c286db1fe5df0b55f4> .
+<http://lodlaundromat.org/.well-known/genid/N74b7cfb8568a40c286db1fe5df0b55f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N56c3372bbdf645649a479541d48626bb> <http://schema.org/longitude> "-86.1984"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> .
+<http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> <http://schema.org/id> "8402100480" .
+<http://lodlaundromat.org/.well-known/genid/N74b7cfb8568a40c286db1fe5df0b55f4> <http://schema.org/value> "189870"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N56c3372bbdf645649a479541d48626bb> .
+<http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6fc3304b298e469cb47bcc051d0fa100> .
+<http://lodlaundromat.org/.well-known/genid/N56c3372bbdf645649a479541d48626bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/name> "MAMMOTH CAVE NATIONAL PARK"@en .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://schema.org/streetAddress> "POST OFFICE BOX 7" .
+<http://lodlaundromat.org/.well-known/genid/Nb004ae2d59fd4678af044dd20c1c5d1e> <http://schema.org/telephone> "+1 (270) 758-2143" .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://schema.org/postalCode> "42259" .
+<http://lodlaundromat.org/.well-known/genid/N7f509acec1bc42b4973cee10b155c1ed> <http://schema.org/addressLocality> "MAMMOTH CAVE" .
+

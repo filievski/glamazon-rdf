@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://schema.org/addressLocality> "PHOENIX" .
+<http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> .
+<http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> <http://schema.org/id> "8400400102" .
+<http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://schema.org/streetAddress> "1700 W. WASHINGTON ST." .
+<http://lodlaundromat.org/.well-known/genid/Nffd77c32dc244ecc804f9e0b814eb845> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4492&mlon=-112.094#map=15/33.4492/-112.094> .
+<http://lodlaundromat.org/.well-known/genid/N6c25fec807594cb4a1e6f197af56ea54> <http://schema.org/longitude> "-112.094"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/telephone> "+1 (602) 542-4675" .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N25cba2b9386546d090e0d37794ca5e31> .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/name> "ARIZONA STATE CAPITOL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nffd77c32dc244ecc804f9e0b814eb845> <http://schema.org/value> "129200"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://schema.org/postalCode> "85007" .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nffd77c32dc244ecc804f9e0b814eb845> .
+<http://lodlaundromat.org/.well-known/genid/N6c25fec807594cb4a1e6f197af56ea54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad278009e7b2419b82df6fae4b68b585> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N194e1275bff64cba8dfba7a9a611000b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c25fec807594cb4a1e6f197af56ea54> .
+<http://lodlaundromat.org/.well-known/genid/Nffd77c32dc244ecc804f9e0b814eb845> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c25fec807594cb4a1e6f197af56ea54> <http://schema.org/latitude> "33.4492"^^<http://www.w3.org/2001/XMLSchema#double> .
+

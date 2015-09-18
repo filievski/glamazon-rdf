@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ncb4b39cb6c1c48cf80eab033eedce758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncb4b39cb6c1c48cf80eab033eedce758> .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/telephone> "+1 (707) 942-5911" .
+<http://lodlaundromat.org/.well-known/genid/N5e048022b27941ed8d120809294eca10> <http://schema.org/longitude> "-122.592"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncb4b39cb6c1c48cf80eab033eedce758> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e048022b27941ed8d120809294eca10> <http://schema.org/latitude> "38.5924"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e048022b27941ed8d120809294eca10> .
+<http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> <http://schema.org/id> "8400602320" .
+<http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/name> "SHARPSTEEN MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e048022b27941ed8d120809294eca10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/url> <http://www.sharpsteenmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://schema.org/addressLocality> "CALISTOGA" .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncb4b39cb6c1c48cf80eab033eedce758> <http://schema.org/value> "132194"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://schema.org/postalCode> "94515-0573" .
+<http://lodlaundromat.org/.well-known/genid/Nf75758bdfbd94dc69ac57779a59ee5aa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N94d23533602147a5a8b5e1d7cce2051d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5924&mlon=-122.592#map=15/38.5924/-122.592> .
+<http://lodlaundromat.org/.well-known/genid/N4e097b20c13846f29cc41b29dbed0edd> <http://schema.org/streetAddress> "PO BOX 573" .
+

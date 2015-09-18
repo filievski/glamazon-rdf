@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/name> "PISCATAQUA MARITIME COMMISSION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://schema.org/addressLocality> "PORTSMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/N9109da4acbec428cb02ba76009bf0ea8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9109da4acbec428cb02ba76009bf0ea8> <http://schema.org/value> "147414"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> .
+<http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> <http://schema.org/id> "8403300189" .
+<http://lodlaundromat.org/.well-known/genid/N9109da4acbec428cb02ba76009bf0ea8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0775&mlon=-70.7559#map=15/43.0775/-70.7559> .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://schema.org/streetAddress> "PO BOX 545" .
+<http://lodlaundromat.org/.well-known/genid/Neb612cd43e314f8aa9f9fc41244fe93a> <http://schema.org/longitude> "-70.7559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e63f6bf7a7b4e45a6303db85cb44a3f> <http://schema.org/postalCode> "03802-0545" .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9109da4acbec428cb02ba76009bf0ea8> .
+<http://lodlaundromat.org/.well-known/genid/Neb612cd43e314f8aa9f9fc41244fe93a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N715ad10f0a71437bb13574e8e429dbad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb612cd43e314f8aa9f9fc41244fe93a> .
+<http://lodlaundromat.org/.well-known/genid/N135f98c468014c8fb8d0ef47273697d2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Neb612cd43e314f8aa9f9fc41244fe93a> <http://schema.org/latitude> "43.0775"^^<http://www.w3.org/2001/XMLSchema#double> .
+

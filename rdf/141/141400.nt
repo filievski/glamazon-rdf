@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> <http://schema.org/id> "8402300249" .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/name> "SEARSMONT HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3cfae12989e14cb5857ef3a8dd39e9c1> <http://schema.org/latitude> "44.3611"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3cfae12989e14cb5857ef3a8dd39e9c1> .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> .
+<http://lodlaundromat.org/.well-known/genid/N3cfae12989e14cb5857ef3a8dd39e9c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N94801d18bc9b44519ba6f756594043c0> .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://schema.org/postalCode> "04973-0104" .
+<http://lodlaundromat.org/.well-known/genid/N94801d18bc9b44519ba6f756594043c0> <http://schema.org/value> "141400"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N94801d18bc9b44519ba6f756594043c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3cfae12989e14cb5857ef3a8dd39e9c1> <http://schema.org/longitude> "-69.1902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N94801d18bc9b44519ba6f756594043c0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://schema.org/addressLocality> "SEARSMONT" .
+<http://lodlaundromat.org/.well-known/genid/N0524e2f780aa4838880299ed79bd2999> <http://schema.org/streetAddress> "PO BOX 104" .
+<http://lodlaundromat.org/.well-known/genid/Nbbccc06f1570406996903456886554d8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3611&mlon=-69.1902#map=15/44.3611/-69.1902> .
+<http://lodlaundromat.org/.well-known/genid/N44d8f5485de04c26bf8c1894df3c7f5c> <http://schema.org/@Type> "Dataset" .
+

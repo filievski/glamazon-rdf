@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7e70a53665a84607babf966714732536> .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Neb07d741bad84eafa8fcdefceff004d7> .
+<http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> <http://schema.org/addressLocality> "Guardabosone" .
+<http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/name> "Museo di scienze naturali di Guardabosone"@it .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/telephone> "+39 015761116" .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> .
+<http://lodlaundromat.org/.well-known/genid/N7e70a53665a84607babf966714732536> <http://schema.org/longitude> "8.24933"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7e70a53665a84607babf966714732536> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e70a53665a84607babf966714732536> <http://schema.org/latitude> "45.702"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> .
+<http://lodlaundromat.org/.well-known/genid/Neb07d741bad84eafa8fcdefceff004d7> <http://schema.org/value> "188029"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N009db93f85594238bbfc91c695487603> <http://schema.org/streetAddress> "Via Roma, " .
+<http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> <http://schema.org/id> "102834" .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/url> <http://www.museostorianaturale.org/> .
+<http://lodlaundromat.org/.well-known/genid/Na3e186acee9040b9bd9f14ce58df4cc1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Neb07d741bad84eafa8fcdefceff004d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neb07d741bad84eafa8fcdefceff004d7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N52f51e74777f4d3e8f56d9108d4ae972> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.702&mlon=8.24933#map=15/45.702/8.24933> .
+

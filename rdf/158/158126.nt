@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://schema.org/streetAddress> "MARFA FOUNDATION" .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/name> "FORT DA RUSSELL"@en .
+<http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N05ab20053c9c4783a3ca4eea7b211309> .
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N05ab20053c9c4783a3ca4eea7b211309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> <http://schema.org/id> "8404800226" .
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> .
+<http://lodlaundromat.org/.well-known/genid/Na4bc42d1d57b4677b77feb061fee0b5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na4bc42d1d57b4677b77feb061fee0b5b> .
+<http://lodlaundromat.org/.well-known/genid/N05ab20053c9c4783a3ca4eea7b211309> <http://schema.org/value> "158126"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na4bc42d1d57b4677b77feb061fee0b5b> <http://schema.org/longitude> "-104.239"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://schema.org/postalCode> "79843" .
+<http://lodlaundromat.org/.well-known/genid/Nf25dea4a4f8d4574a90817f9f02374eb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.0004&mlon=-104.239#map=15/30.0004/-104.239> .
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://schema.org/addressLocality> "MARFA" .
+<http://lodlaundromat.org/.well-known/genid/Na4bc42d1d57b4677b77feb061fee0b5b> <http://schema.org/latitude> "30.0004"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nca460a438b3e4ff5b9fcd30dfd06eaf3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6c895956351147b89b239e96be8cfe24> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N05ab20053c9c4783a3ca4eea7b211309> <http://schema.org/name> "id" .
+

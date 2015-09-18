@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d31511f1c1b45918b0364664622c866> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> <http://schema.org/id> "8403601846" .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/name> "THE WOODBURY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/url> <http://woodburyhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3493&mlon=-74.125#map=15/41.3493/-74.125> .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d31511f1c1b45918b0364664622c866> .
+<http://lodlaundromat.org/.well-known/genid/N6d31511f1c1b45918b0364664622c866> <http://schema.org/latitude> "41.3493"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncdc78c41889042d79542e367647b85e5> .
+<http://lodlaundromat.org/.well-known/genid/N6d31511f1c1b45918b0364664622c866> <http://schema.org/longitude> "-74.125"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> .
+<http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/telephone> "+1 (845) 928-6770" .
+<http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N93f796689ef44e0d823eafa3dd490430> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://schema.org/streetAddress> "PO BOX 30" .
+<http://lodlaundromat.org/.well-known/genid/Ncdc78c41889042d79542e367647b85e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncdc78c41889042d79542e367647b85e5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://schema.org/postalCode> "10930" .
+<http://lodlaundromat.org/.well-known/genid/N10cb62a4ed3e49f281b0d5c10e94ee24> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> .
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncdc78c41889042d79542e367647b85e5> <http://schema.org/value> "150552"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://schema.org/addressLocality> "HIGHLAND MILLS" .
+<http://lodlaundromat.org/.well-known/genid/N9f07a8baf5aa4ccbb5c66855284ef564> <http://schema.org/addressRegion> "NY" .
+

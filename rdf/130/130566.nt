@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/name> "THE AFRICAN AMERICAN ART AND CULTURE COMPLEX"@en .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4740f12966e24999b0ce35da1f5ff309> .
+<http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7805&mlon=-122.432#map=15/37.7805/-122.432> .
+<http://lodlaundromat.org/.well-known/genid/N34fc60d61f1647eab3b8e75592864ddb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://schema.org/postalCode> "94115-4720" .
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://schema.org/streetAddress> "1410 TURK ST" .
+<http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N34fc60d61f1647eab3b8e75592864ddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N34fc60d61f1647eab3b8e75592864ddb> <http://schema.org/value> "130566"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> <http://schema.org/id> "8400600692" .
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb7ec2a899f5b427584b7f52042ea9eec> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/Nce831036d9b04329b8982451621ee282> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b4ae4967fed4f7bb98bd8df1e9ba203> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N34fc60d61f1647eab3b8e75592864ddb> .
+<http://lodlaundromat.org/.well-known/genid/N4740f12966e24999b0ce35da1f5ff309> <http://schema.org/latitude> "37.7805"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4740f12966e24999b0ce35da1f5ff309> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4740f12966e24999b0ce35da1f5ff309> <http://schema.org/longitude> "-122.432"^^<http://www.w3.org/2001/XMLSchema#double> .
+

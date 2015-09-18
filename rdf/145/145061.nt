@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Na4fefe2b9e8b4ce3bbe3929b05c91c26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na4fefe2b9e8b4ce3bbe3929b05c91c26> <http://schema.org/value> "145061"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1c628f09698c4000ae01d4d59c179c32> .
+<http://lodlaundromat.org/.well-known/genid/N1c628f09698c4000ae01d4d59c179c32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na4fefe2b9e8b4ce3bbe3929b05c91c26> .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://schema.org/postalCode> "55615-2312" .
+<http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> <http://schema.org/id> "8402700501" .
+<http://lodlaundromat.org/.well-known/genid/Na4fefe2b9e8b4ce3bbe3929b05c91c26> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/name> "TOFTE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/telephone> "+1 (218) 663-7050" .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5763&mlon=-90.8315#map=15/47.5763/-90.8315> .
+<http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/url> <http://www.commercialfishingmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://schema.org/streetAddress> "PO BOX 2312" .
+<http://lodlaundromat.org/.well-known/genid/N1c628f09698c4000ae01d4d59c179c32> <http://schema.org/longitude> "-90.8315"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://schema.org/addressLocality> "TOFTE" .
+<http://lodlaundromat.org/.well-known/genid/N7197171c0b704ce49101284d3db6ddda> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N8c76239a91cf4a68bf2f6379c4c45dae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Neb5aecbd9e9c499999c0d11c92355d3b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c628f09698c4000ae01d4d59c179c32> <http://schema.org/latitude> "47.5763"^^<http://www.w3.org/2001/XMLSchema#double> .
+

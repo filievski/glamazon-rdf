@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3014d01ff3b84e0daa045e38b924695c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://schema.org/addressLocality> "STATEN ISLAND" .
+<http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3014d01ff3b84e0daa045e38b924695c> <http://schema.org/value> "149518"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/telephone> "+1 (718) 442-5966" .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne474a057282f4b93b5ddba5c3295811f> .
+<http://lodlaundromat.org/.well-known/genid/Ne474a057282f4b93b5ddba5c3295811f> <http://schema.org/longitude> "-74.1334"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6325&mlon=-74.1334#map=15/40.6325/-74.1334> .
+<http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne474a057282f4b93b5ddba5c3295811f> <http://schema.org/latitude> "40.6325"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3014d01ff3b84e0daa045e38b924695c> .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://schema.org/streetAddress> "984 POST AVE" .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://schema.org/postalCode> "10302-1836" .
+<http://lodlaundromat.org/.well-known/genid/N3014d01ff3b84e0daa045e38b924695c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/url> <http://www.jewishhistoricalsocietysi.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> <http://schema.org/id> "8403600812" .
+<http://lodlaundromat.org/.well-known/genid/N334a02b2bf9d443fabb215723a58b72d> <http://schema.org/name> "JEWISH HISTORICAL SOCIETY OF STATEN ISLAND"@en .
+<http://lodlaundromat.org/.well-known/genid/N821c79940cb8464693b46c3261888cb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne474a057282f4b93b5ddba5c3295811f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d29b0017e1543f8ac550ce9c19c4c33> <http://schema.org/name> "us" .
+

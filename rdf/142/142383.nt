@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3672&mlon=-71.1872#map=15/42.3672/-71.1872> .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> <http://schema.org/id> "8402500013" .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://schema.org/addressLocality> "WATERTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://schema.org/postalCode> "02172-4401" .
+<http://lodlaundromat.org/.well-known/genid/N1f3e9488256a4e658ccf8a3a557ca8fa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1f3e9488256a4e658ccf8a3a557ca8fa> <http://schema.org/value> "142383"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfdf3733664cd41b580ff1665c9bea2e3> <http://schema.org/latitude> "42.3672"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfdf3733664cd41b580ff1665c9bea2e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://schema.org/streetAddress> "123 MAIN ST." .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/name> "WATERTOWN FREE PUBLIC LIBRARY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfdf3733664cd41b580ff1665c9bea2e3> <http://schema.org/longitude> "-71.1872"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1f3e9488256a4e658ccf8a3a557ca8fa> .
+<http://lodlaundromat.org/.well-known/genid/N1f3e9488256a4e658ccf8a3a557ca8fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N88dae090bb9847f99e6426cb69df3d85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfdf3733664cd41b580ff1665c9bea2e3> .
+<http://lodlaundromat.org/.well-known/genid/N3d147923e96642039d97fd69541dc0c4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N52e219b033484211a0cd32d9980e34c3> .
+

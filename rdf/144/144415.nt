@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na64afbf01cf8429eada329c7c9577490> <http://schema.org/latitude> "43.0573"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na64afbf01cf8429eada329c7c9577490> <http://schema.org/longitude> "-84.1514"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na64afbf01cf8429eada329c7c9577490> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://schema.org/addressLocality> "OWOSSO" .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://schema.org/postalCode> "48867-9468" .
+<http://lodlaundromat.org/.well-known/genid/N942aacbe7b2543559ed6f3f3054c3ad2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> .
+<http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N942aacbe7b2543559ed6f3f3054c3ad2> .
+<http://lodlaundromat.org/.well-known/genid/N942aacbe7b2543559ed6f3f3054c3ad2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0573&mlon=-84.1514#map=15/43.0573/-84.1514> .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N942aacbe7b2543559ed6f3f3054c3ad2> <http://schema.org/value> "144415"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> <http://schema.org/id> "8402600952" .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://schema.org/streetAddress> "788 E JUDDVILLE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na64afbf01cf8429eada329c7c9577490> .
+<http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> .
+<http://lodlaundromat.org/.well-known/genid/Ncefc416d9746445ebf7ff8ae814265a6> <http://schema.org/name> "PRESERVATION OWOSSO"@en .
+<http://lodlaundromat.org/.well-known/genid/N239afdc6cf6a43dd8757a3af0800bd41> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1f27ea7ca97f44419cd4930f18a56be1> <http://schema.org/addressCountry> "United States" .
+

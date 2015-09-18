@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9be2a05d4e4a487289fc01566f1191cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/name> "FRESNO CITY & COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9be2a05d4e4a487289fc01566f1191cb> <http://schema.org/longitude> "-119.921"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9be2a05d4e4a487289fc01566f1191cb> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9491877f11ed41b99a06aee22ec2f2ad> <http://schema.org/value> "132093"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9491877f11ed41b99a06aee22ec2f2ad> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> <http://schema.org/id> "8400602219" .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://schema.org/streetAddress> "7160 W KEARNEY BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N9491877f11ed41b99a06aee22ec2f2ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9be2a05d4e4a487289fc01566f1191cb> <http://schema.org/latitude> "36.728"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.728&mlon=-119.921#map=15/36.728/-119.921> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9491877f11ed41b99a06aee22ec2f2ad> .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://schema.org/postalCode> "93706-9520" .
+<http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://schema.org/addressLocality> "FRESNO" .
+<http://lodlaundromat.org/.well-known/genid/N1bb122ff85934a20a476e244f8966147> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N33f59193a4fe420c883bd53600bcc3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6041c48048b5450b8190d8f9fa05c391> <http://schema.org/url> <http://www.imls.gov/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N101b9242d8434d1ead5edc9db6d822f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9fb663eb218a485f9e650ee7b8e4eff2> .
+<http://lodlaundromat.org/.well-known/genid/N101b9242d8434d1ead5edc9db6d822f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N101b9242d8434d1ead5edc9db6d822f0> .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/name> "BANKS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> .
+<http://lodlaundromat.org/.well-known/genid/N101b9242d8434d1ead5edc9db6d822f0> <http://schema.org/value> "154515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://schema.org/postalCode> "97106-0206" .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://schema.org/addressLocality> "BANKS" .
+<http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9fb663eb218a485f9e650ee7b8e4eff2> <http://schema.org/longitude> "-123.114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fb663eb218a485f9e650ee7b8e4eff2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N519276124913461199d273c5bf4f8402> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.6395&mlon=-123.114#map=15/45.6395/-123.114> .
+<http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> <http://schema.org/id> "8404100308" .
+<http://lodlaundromat.org/.well-known/genid/N3bcdd914198b4dad9314fa42ef7805e3> <http://schema.org/streetAddress> "PO BOX 206" .
+<http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fb663eb218a485f9e650ee7b8e4eff2> <http://schema.org/latitude> "45.6395"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64d75fbd4146444b8e5a4c3e37f93e7c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

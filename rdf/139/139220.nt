@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7c944ccc9958446db25653c034d4cc37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> <http://schema.org/id> "8401900257" .
+<http://lodlaundromat.org/.well-known/genid/N7c944ccc9958446db25653c034d4cc37> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://schema.org/addressLocality> "WAPELLO" .
+<http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/name> "FAIRVIEW ZOOLOGICAL FARM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://schema.org/streetAddress> "1754 123RD AVE" .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> .
+<http://lodlaundromat.org/.well-known/genid/N7c944ccc9958446db25653c034d4cc37> <http://schema.org/value> "139220"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7c944ccc9958446db25653c034d4cc37> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> .
+<http://lodlaundromat.org/.well-known/genid/N5f3626526d854bffbfe0d12989ab18b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N38660fb996424012ab512323467a6270> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3722519bf334462caf02a8dbbba7d48a> <http://schema.org/postalCode> "52653-9550" .
+<http://lodlaundromat.org/.well-known/genid/N5f3626526d854bffbfe0d12989ab18b2> <http://schema.org/longitude> "-91.15"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5f3626526d854bffbfe0d12989ab18b2> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.083&mlon=-91.15#map=15/41.083/-91.15> .
+<http://lodlaundromat.org/.well-known/genid/N5f3626526d854bffbfe0d12989ab18b2> <http://schema.org/latitude> "41.083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3f1dcaec80984247b4feb0c9733afc8f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

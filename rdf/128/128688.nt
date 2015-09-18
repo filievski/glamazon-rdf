@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N788fac37309e424a81d11d8c717a53d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N788fac37309e424a81d11d8c717a53d2> <http://schema.org/longitude> "-86.781"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01cd712db4944731a86b0019f3ac4fb5> <http://schema.org/value> "128688"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N788fac37309e424a81d11d8c717a53d2> .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://schema.org/streetAddress> "2803 CARLISLE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N01cd712db4944731a86b0019f3ac4fb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://schema.org/postalCode> "35213-3417" .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N01cd712db4944731a86b0019f3ac4fb5> .
+<http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://schema.org/addressLocality> "BIRMINGHAM" .
+<http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> .
+<http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf633c3bc0e744477bccb63db4e763aad> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4965&mlon=-86.781#map=15/33.4965/-86.781> .
+<http://lodlaundromat.org/.well-known/genid/N01cd712db4944731a86b0019f3ac4fb5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/name> "REDMONT PARK HISTORIC DISTRICT FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N81200ab8ac304617840d226cfa26d8ea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> .
+<http://lodlaundromat.org/.well-known/genid/N788fac37309e424a81d11d8c717a53d2> <http://schema.org/latitude> "33.4965"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd240e0e92654f6084688a0c3e1baaa3> <http://schema.org/id> "8400100218" .
+

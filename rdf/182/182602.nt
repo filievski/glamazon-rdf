@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N43c2d1ef2ac443aca557642f84b77e05> <http://schema.org/latitude> "50.1264"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N259b625ed7f540f19394721ef355a96d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne0e648c7f43149059975b7c06205bab8> .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/telephone> "09573/7999" .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> .
+<http://lodlaundromat.org/.well-known/genid/N259b625ed7f540f19394721ef355a96d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne0e648c7f43149059975b7c06205bab8> <http://schema.org/url> <http://www.museums.io/en/museums/182602> .
+<http://lodlaundromat.org/.well-known/genid/N259b625ed7f540f19394721ef355a96d> <http://schema.org/value> "182602"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.1264&mlon=11.2465#map=15/50.1264/11.2465> .
+<http://lodlaundromat.org/.well-known/genid/Ne0e648c7f43149059975b7c06205bab8> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://schema.org/addressLocality> "Altenkunstadt" .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/name> "Synagoge Altenkunstadt"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N259b625ed7f540f19394721ef355a96d> .
+<http://lodlaundromat.org/.well-known/genid/N43c2d1ef2ac443aca557642f84b77e05> <http://schema.org/longitude> "11.2465"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N43c2d1ef2ac443aca557642f84b77e05> .
+<http://lodlaundromat.org/.well-known/genid/N643cf5ea39d940b2b497582f4cf1fc19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://schema.org/postalCode> "96264" .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nfa514ea51f3b4bc3929f29892661b052> <http://schema.org/streetAddress> "Judenhof 3" .
+<http://lodlaundromat.org/.well-known/genid/Ne0e648c7f43149059975b7c06205bab8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N43c2d1ef2ac443aca557642f84b77e05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne0e648c7f43149059975b7c06205bab8> <http://schema.org/@Type> "Dataset" .
+

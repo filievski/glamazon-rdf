@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/name> "TOWN OF SULLIVAN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5635e6052a954586b22d5e4552cac46e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5635e6052a954586b22d5e4552cac46e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24f17079a58043f7bf4ded214ad072cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://schema.org/postalCode> "53178" .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> .
+<http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> <http://schema.org/id> "8405500391" .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5635e6052a954586b22d5e4552cac46e> .
+<http://lodlaundromat.org/.well-known/genid/N5635e6052a954586b22d5e4552cac46e> <http://schema.org/value> "162942"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N24f17079a58043f7bf4ded214ad072cf> .
+<http://lodlaundromat.org/.well-known/genid/N24f17079a58043f7bf4ded214ad072cf> <http://schema.org/longitude> "-88.5841"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.005&mlon=-88.5841#map=15/43.005/-88.5841> .
+<http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> .
+<http://lodlaundromat.org/.well-known/genid/N5c81322838b941ac8b52208f5d6c1e00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://schema.org/streetAddress> "N 3866 WEST ST" .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://schema.org/addressLocality> "SULLIVAN" .
+<http://lodlaundromat.org/.well-known/genid/N1352fbe72926468e85e32542384463d5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N24f17079a58043f7bf4ded214ad072cf> <http://schema.org/latitude> "43.005"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17e74691ab7d486fb03107b7a9c1d564> <http://schema.org/@Type> "Dataset" .
+

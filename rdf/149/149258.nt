@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2a8500ade7d6440c980744b8c0430773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N45a54fa382694882a717f5fb9b5be75d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/url> <http://www.brooklynkids.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N45a54fa382694882a717f5fb9b5be75d> .
+<http://lodlaundromat.org/.well-known/genid/N2a8500ade7d6440c980744b8c0430773> <http://schema.org/latitude> "40.6749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6749&mlon=-73.9445#map=15/40.6749/-73.9445> .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> .
+<http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a8500ade7d6440c980744b8c0430773> .
+<http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> <http://schema.org/id> "8403600552" .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/name> "BROOKLYN CHILDRENS MUSEUM CORP"@en .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://schema.org/postalCode> "11213-1930" .
+<http://lodlaundromat.org/.well-known/genid/N45a54fa382694882a717f5fb9b5be75d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://schema.org/streetAddress> "145 BROOKLYN AVE" .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbf1ef8e181c84f41b4f68362c36262c9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb0d3063772ed4e8f867360b1705a5f8e> .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N20b27b3abc5d45b4aad05a58e5840686> <http://schema.org/addressLocality> "BROOKLYN" .
+<http://lodlaundromat.org/.well-known/genid/N2a8500ade7d6440c980744b8c0430773> <http://schema.org/longitude> "-73.9445"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N45a54fa382694882a717f5fb9b5be75d> <http://schema.org/value> "149258"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

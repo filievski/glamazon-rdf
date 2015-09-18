@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://schema.org/streetAddress> "1306 E COLLEGE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N62dab5475c794d1b8a2950213ab80652> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N62dab5475c794d1b8a2950213ab80652> <http://schema.org/value> "148654"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://schema.org/postalCode> "88201" .
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncce00b94a7284511a136d88943c19c99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://schema.org/addressRegion> "NM" .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N62dab5475c794d1b8a2950213ab80652> .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4087&mlon=-104.506#map=15/33.4087/-104.506> .
+<http://lodlaundromat.org/.well-known/genid/Ncce00b94a7284511a136d88943c19c99> <http://schema.org/longitude> "-104.506"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncce00b94a7284511a136d88943c19c99> .
+<http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> <http://schema.org/id> "8403500244" .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> .
+<http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://schema.org/addressLocality> "ROSWELL" .
+<http://lodlaundromat.org/.well-known/genid/Ncce00b94a7284511a136d88943c19c99> <http://schema.org/latitude> "33.4087"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62dab5475c794d1b8a2950213ab80652> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/name> "FRIENDS OF THE ROSWELL ZOO INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N67eb8c0062ea45dd91a531c20fb379bc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> .
+<http://lodlaundromat.org/.well-known/genid/N22e173bfd6a549329b0317527b4a1b72> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N119e9a75c55a4ea2b4f9f7e8716d6f12> <http://schema.org/@Type> "Dataset" .
+

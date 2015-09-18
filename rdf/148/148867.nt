@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N82bc84d4e18d40f8b28365d6e34ab2a6> <http://schema.org/latitude> "42.0967"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N82bc84d4e18d40f8b28365d6e34ab2a6> .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/name> "LUCY-DESI MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://schema.org/addressLocality> "JAMESTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N05107e9653d94c338906fc2a72bcff59> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> <http://schema.org/id> "8403600161" .
+<http://lodlaundromat.org/.well-known/genid/N05107e9653d94c338906fc2a72bcff59> <http://schema.org/value> "148867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N05107e9653d94c338906fc2a72bcff59> .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0967&mlon=-79.2393#map=15/42.0967/-79.2393> .
+<http://lodlaundromat.org/.well-known/genid/N05107e9653d94c338906fc2a72bcff59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> .
+<http://lodlaundromat.org/.well-known/genid/N6d0f47a195ee4b3c898e55711996c3e1> <http://schema.org/telephone> "+1 (716) 484-0800" .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://schema.org/streetAddress> "116 EAST 3RD STREET" .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N82bc84d4e18d40f8b28365d6e34ab2a6> <http://schema.org/longitude> "-79.2393"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82bc84d4e18d40f8b28365d6e34ab2a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7022ccec684145c0add7799609e9ec60> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7cf64b147d4a4d59906a983d36c6959b> <http://schema.org/postalCode> "14701" .
+

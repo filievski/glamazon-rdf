@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N95a7d284bc964b4bb04eda748068c816> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8127&mlon=-73.738#map=15/40.8127/-73.738> .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a77576eaf5f4e958ddcc6301d3ad7b8> <http://schema.org/longitude> "-73.738"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> .
+<http://lodlaundromat.org/.well-known/genid/N4a77576eaf5f4e958ddcc6301d3ad7b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://schema.org/addressLocality> "KINGS POINT" .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://schema.org/postalCode> "11024" .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4a77576eaf5f4e958ddcc6301d3ad7b8> .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/telephone> "+1 (516) 829-3861" .
+<http://lodlaundromat.org/.well-known/genid/N4a77576eaf5f4e958ddcc6301d3ad7b8> <http://schema.org/latitude> "40.8127"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/name> "AMERICAN MERCHANT MARINE MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N0b427bc3c35e4c6aae1b35e3543e5b88> <http://schema.org/streetAddress> "U S MERCHANT MARINE ACA" .
+<http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> <http://schema.org/id> "8403600558" .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> .
+<http://lodlaundromat.org/.well-known/genid/N95a7d284bc964b4bb04eda748068c816> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4bc6256c5309469aa0e10a9739f80085> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95a7d284bc964b4bb04eda748068c816> .
+<http://lodlaundromat.org/.well-known/genid/N2a581ad265414966a5af5c0a3ddb4437> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N95a7d284bc964b4bb04eda748068c816> <http://schema.org/value> "149264"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

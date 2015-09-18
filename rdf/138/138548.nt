@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c9d429a373440c5ba2ddb4b107eb3b7> .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/telephone> "+1 (260) 356-1945" .
+<http://lodlaundromat.org/.well-known/genid/N6c9d429a373440c5ba2ddb4b107eb3b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> .
+<http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> <http://schema.org/id> "8401800334" .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://schema.org/postalCode> "46750-9201" .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://schema.org/streetAddress> "1365 N WARREN RD" .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/name> "WINGS OF FREEDOM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6c9d429a373440c5ba2ddb4b107eb3b7> <http://schema.org/longitude> "-85.4687"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N235e1fb090174241b89c05ccca8fe8cb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndad0a5d4c47844a9aa8f75b24cf15cf4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6c9d429a373440c5ba2ddb4b107eb3b7> <http://schema.org/latitude> "40.8547"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8547&mlon=-85.4687#map=15/40.8547/-85.4687> .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> <http://schema.org/addressLocality> "HUNTINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f5b98a2184f451ab591da3ea2251fd2> .
+<http://lodlaundromat.org/.well-known/genid/Ndad0a5d4c47844a9aa8f75b24cf15cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5a0389b7205f4f0aae8add5e1d561811> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndad0a5d4c47844a9aa8f75b24cf15cf4> .
+<http://lodlaundromat.org/.well-known/genid/Ndad0a5d4c47844a9aa8f75b24cf15cf4> <http://schema.org/value> "138548"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

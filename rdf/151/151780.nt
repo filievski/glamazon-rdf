@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://schema.org/streetAddress> "400 HERMITAGE RD" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1c25e8f5bf304c7bb493dc5393ce0136> .
+<http://lodlaundromat.org/.well-known/genid/N332b8163a10949c5b18ae2290c2a5615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N332b8163a10949c5b18ae2290c2a5615> <http://schema.org/longitude> "-80.827"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1c25e8f5bf304c7bb493dc5393ce0136> <http://schema.org/value> "151780"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N332b8163a10949c5b18ae2290c2a5615> .
+<http://lodlaundromat.org/.well-known/genid/N1c25e8f5bf304c7bb493dc5393ce0136> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/telephone> "+1 (704) 375-4400" .
+<http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1c25e8f5bf304c7bb493dc5393ce0136> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N332b8163a10949c5b18ae2290c2a5615> <http://schema.org/latitude> "35.202"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://schema.org/postalCode> "28207-1842" .
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> .
+<http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> <http://schema.org/id> "8403700651" .
+<http://lodlaundromat.org/.well-known/genid/N23dac377416446bfa162cb7bec65a846> <http://schema.org/addressLocality> "CHARLOTTE" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/name> "THE LYNNWOOD FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N567439f1494b4b71ae46258241249c9e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.202&mlon=-80.827#map=15/35.202/-80.827> .
+<http://lodlaundromat.org/.well-known/genid/N9462396f20ef4cb08ae201fa20f44248> <http://schema.org/url> <http://www.imls.gov/> .
+

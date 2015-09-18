@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://schema.org/streetAddress> "205 E 3RD ST" .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0789&mlon=-102.221#map=15/40.0789/-102.221> .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1d8473373379460c9e705d6f16a88e2c> .
+<http://lodlaundromat.org/.well-known/genid/Na9259d60404b466cbb5582aadd917771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/name> "WRAY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/url> <http://www.wrayco.net/museum_display.html> .
+<http://lodlaundromat.org/.well-known/genid/Na9259d60404b466cbb5582aadd917771> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://schema.org/postalCode> "80758" .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na9259d60404b466cbb5582aadd917771> .
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N93c3ae8f6e4b46538e1c3192d4b606ee> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> .
+<http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1d8473373379460c9e705d6f16a88e2c> <http://schema.org/latitude> "40.0789"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na9259d60404b466cbb5582aadd917771> <http://schema.org/value> "132825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0ae13584f70a437aa9c1640866253462> <http://schema.org/addressLocality> "WRAY" .
+<http://lodlaundromat.org/.well-known/genid/N599722b18ce745d5b4b177a5c6d67bd8> <http://schema.org/id> "8400800001" .
+<http://lodlaundromat.org/.well-known/genid/N1d8473373379460c9e705d6f16a88e2c> <http://schema.org/longitude> "-102.221"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d8473373379460c9e705d6f16a88e2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

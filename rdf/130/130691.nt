@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://schema.org/addressLocality> "SANTA MONICA" .
+<http://lodlaundromat.org/.well-known/genid/N991ad00991c7475b8ad60f4854f19062> <http://schema.org/longitude> "-118.5"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N991ad00991c7475b8ad60f4854f19062> <http://schema.org/latitude> "34.0155"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53c39cf83a034b4b9be8c720be471fcf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N991ad00991c7475b8ad60f4854f19062> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0155&mlon=-118.5#map=15/34.0155/-118.5> .
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://schema.org/streetAddress> "1299 OCEAN AVE STE 333" .
+<http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> <http://schema.org/id> "8400600817" .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/name> "GRAY EAGLES FOUNDATION LTD"@en .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N991ad00991c7475b8ad60f4854f19062> .
+<http://lodlaundromat.org/.well-known/genid/N53c39cf83a034b4b9be8c720be471fcf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N53c39cf83a034b4b9be8c720be471fcf> .
+<http://lodlaundromat.org/.well-known/genid/N53c39cf83a034b4b9be8c720be471fcf> <http://schema.org/value> "130691"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N135d8f7a19484d54b6692931196f7b53> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> .
+<http://lodlaundromat.org/.well-known/genid/N7c128c6612104ccaa156359f63a60776> <http://schema.org/postalCode> "90401-1057" .
+<http://lodlaundromat.org/.well-known/genid/N9fc7c3dfdbb14d6eb9aea4a54da1cb48> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

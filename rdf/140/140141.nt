@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N367f9f5a874b4776b33ff2a7a6c53c83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N367f9f5a874b4776b33ff2a7a6c53c83> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://schema.org/postalCode> "67431-0577" .
+<http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> <http://schema.org/id> "8402000467" .
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://schema.org/streetAddress> "438-442 MARSHALL ST BOX 577" .
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://schema.org/addressLocality> "CHAPMAN" .
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N509d9bc8c2d34839a47e92d8011fa52b> <http://schema.org/latitude> "38.9715"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N367f9f5a874b4776b33ff2a7a6c53c83> .
+<http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/name> "CHAPMAN AREA PRESERVATION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9715&mlon=-97.0196#map=15/38.9715/-97.0196> .
+<http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N64e74b6bce874ce3af4179cec996ff41> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N509d9bc8c2d34839a47e92d8011fa52b> .
+<http://lodlaundromat.org/.well-known/genid/N509d9bc8c2d34839a47e92d8011fa52b> <http://schema.org/longitude> "-97.0196"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a8b4a365c944649ae803166f0c3a81b> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N509d9bc8c2d34839a47e92d8011fa52b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1caf01d3c0d743378a4cb1c120379e54> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N367f9f5a874b4776b33ff2a7a6c53c83> <http://schema.org/value> "140141"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Nd2e7f080ef9446109a6bb34d95d284ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N35b3776aae424853a30beba14359ba3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35b3776aae424853a30beba14359ba3c> <http://schema.org/value> "185103"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35b3776aae424853a30beba14359ba3c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na0f6f68edfd8494bbccc3aa89fc49d3b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na0f6f68edfd8494bbccc3aa89fc49d3b> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://schema.org/url> <http://www.keminmaa.fi/index.php?p=Keminmaan_kotiseutumuseo> .
+<http://lodlaundromat.org/.well-known/genid/Na0f6f68edfd8494bbccc3aa89fc49d3b> <http://schema.org/url> <http://www.museums.io/en/museums/185103> .
+<http://lodlaundromat.org/.well-known/genid/Nd2e7f080ef9446109a6bb34d95d284ee> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na0f6f68edfd8494bbccc3aa89fc49d3b> .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd2e7f080ef9446109a6bb34d95d284ee> .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35b3776aae424853a30beba14359ba3c> .
+<http://lodlaundromat.org/.well-known/genid/N525e087f53f0425eafdfb5621d06231d> <http://schema.org/name> "Keminmaa Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Na0f6f68edfd8494bbccc3aa89fc49d3b> <http://schema.org/@Type> "Dataset" .
+

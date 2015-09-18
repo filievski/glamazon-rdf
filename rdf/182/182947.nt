@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N80416a1e7dda4a3a87ce3cf43cea5a72> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://schema.org/postalCode> "85049" .
+<http://lodlaundromat.org/.well-known/genid/N5287d2e2229d4f74a1910d8e076dd7bb> <http://schema.org/longitude> "11.4226"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5287d2e2229d4f74a1910d8e076dd7bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5287d2e2229d4f74a1910d8e076dd7bb> <http://schema.org/latitude> "48.765"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80416a1e7dda4a3a87ce3cf43cea5a72> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N80416a1e7dda4a3a87ce3cf43cea5a72> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N80416a1e7dda4a3a87ce3cf43cea5a72> <http://schema.org/url> <http://www.museums.io/en/museums/182947> .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://schema.org/streetAddress> "Kupferstra\u00DFe 18" .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N80416a1e7dda4a3a87ce3cf43cea5a72> .
+<http://lodlaundromat.org/.well-known/genid/N716f1d8b7b7b42f4bf3638edb4252d59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/name> "Flei\u00DFerhaus"@en .
+<http://lodlaundromat.org/.well-known/genid/N716f1d8b7b7b42f4bf3638edb4252d59> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/url> <http://www.ingolstadt.de/stadtmuseum> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5287d2e2229d4f74a1910d8e076dd7bb> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N716f1d8b7b7b42f4bf3638edb4252d59> .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://schema.org/addressLocality> "Ingolstadt" .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> .
+<http://lodlaundromat.org/.well-known/genid/N67a0770d62a4458ea2ddcca8f609297a> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N716f1d8b7b7b42f4bf3638edb4252d59> <http://schema.org/value> "182947"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.765&mlon=11.4226#map=15/48.765/11.4226> .
+<http://lodlaundromat.org/.well-known/genid/N3a29bf2e19e3478ab6f270a74cd6df54> <http://schema.org/telephone> "0841/305-1880" .
+

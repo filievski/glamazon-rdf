@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> .
+<http://lodlaundromat.org/.well-known/genid/Na30dfa52b6a0459fb8cae1628a97b09a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N89d0bd541fd44d61a625010195e0cdcb> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.8521&mlon=10.6669#map=15/43.8521/10.6669> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/name> "Fortezza di Montecarlo"@it .
+<http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e82140362404bb7b0ae2e8456fb34> <http://schema.org/latitude> "43.8521"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na30dfa52b6a0459fb8cae1628a97b09a> .
+<http://lodlaundromat.org/.well-known/genid/N89d0bd541fd44d61a625010195e0cdcb> <http://schema.org/contentUrl> <http://images.museums.io/Z3FH7LrDrAIkioBtbGRMPRwczjo=/1000x1000/museums/logos/000/188/834/original/b040c153f9d7889c28614f85e2ed3ce23bf.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncd9e82140362404bb7b0ae2e8456fb34> .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/telephone> "+39 058322401" .
+<http://lodlaundromat.org/.well-known/genid/N67ae0c73b52a4e01ba99407fab69f75c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> .
+<http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Na30dfa52b6a0459fb8cae1628a97b09a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na30dfa52b6a0459fb8cae1628a97b09a> <http://schema.org/value> "188834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> <http://schema.org/streetAddress> "Fortezza, 4" .
+<http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> <http://schema.org/id> "103098" .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e82140362404bb7b0ae2e8456fb34> <http://schema.org/longitude> "10.6669"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N013251efffc24fb2b366bafebc34fed0> <http://schema.org/addressLocality> "Montecarlo" .
+<http://lodlaundromat.org/.well-known/genid/N89d0bd541fd44d61a625010195e0cdcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ncd9e82140362404bb7b0ae2e8456fb34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6f82e8edc9434cb89751f2a472c45dec> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

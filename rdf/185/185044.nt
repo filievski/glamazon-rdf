@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0d6d734b712b49759f74ca73b74b055b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N93f3d9f9b019425aa52c8938f4152864> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naa9cbe5b09374e8696a97b9b13bd4405> .
+<http://lodlaundromat.org/.well-known/genid/Naa9cbe5b09374e8696a97b9b13bd4405> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/name> "Coconi Botanical Garden"@en .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naa9cbe5b09374e8696a97b9b13bd4405> <http://schema.org/longitude> "45.1339"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N93f3d9f9b019425aa52c8938f4152864> .
+<http://lodlaundromat.org/.well-known/genid/Nc6f097e7e4dd46669f2edf0fc08dc7e0> <http://schema.org/description> "Free"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb5624645b3534e5fbb7cf00d98db495d> <http://schema.org/value> "185044"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N93f3d9f9b019425aa52c8938f4152864> <http://schema.org/url> <http://www.museums.io/en/museums/185044> .
+<http://lodlaundromat.org/.well-known/genid/Naa9cbe5b09374e8696a97b9b13bd4405> <http://schema.org/latitude> "-12.8343"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93f3d9f9b019425aa52c8938f4152864> <http://schema.org/name> "manual" .
+<http://lodlaundromat.org/.well-known/genid/N93f3d9f9b019425aa52c8938f4152864> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/telephone> "+262 269 62 50 67" .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/offers> <http://lodlaundromat.org/.well-known/genid/Nc6f097e7e4dd46669f2edf0fc08dc7e0> .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0d6d734b712b49759f74ca73b74b055b> .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/openingHours> "Monday to Friday. From 6:30 to 15:15 except on Friday when the garden closes at 11am.\r\nClosed Weekends"@en .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-12.8343&mlon=45.1339#map=15/-12.8343/45.1339> .
+<http://lodlaundromat.org/.well-known/genid/N0d6d734b712b49759f74ca73b74b055b> <http://schema.org/addressLocality> "Cicona" .
+<http://lodlaundromat.org/.well-known/genid/Nb5624645b3534e5fbb7cf00d98db495d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc6f097e7e4dd46669f2edf0fc08dc7e0> <http://schema.org/@Type> "Offer" .
+<http://lodlaundromat.org/.well-known/genid/N1236278290ef4c37ac4beefd68fd5348> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb5624645b3534e5fbb7cf00d98db495d> .
+<http://lodlaundromat.org/.well-known/genid/Nb5624645b3534e5fbb7cf00d98db495d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0d6d734b712b49759f74ca73b74b055b> <http://schema.org/addressCountry> "Mayotte" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N33d7fe99d1c04d8aa0d69a3b8be50331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://schema.org/addressLocality> "SANTA CRUZ" .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> <http://schema.org/id> "8400600919" .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> .
+<http://lodlaundromat.org/.well-known/genid/N7fa023c5b4bd42958f39f71bb0177479> <http://schema.org/longitude> "-121.991"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N7fa023c5b4bd42958f39f71bb0177479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7fa023c5b4bd42958f39f71bb0177479> .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7fa023c5b4bd42958f39f71bb0177479> <http://schema.org/latitude> "36.9635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33d7fe99d1c04d8aa0d69a3b8be50331> <http://schema.org/value> "130793"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N33d7fe99d1c04d8aa0d69a3b8be50331> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> .
+<http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://schema.org/streetAddress> "PO BOX 83" .
+<http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.9635&mlon=-121.991#map=15/36.9635/-121.991> .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/name> "CHILDREN'S ART FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N91b209af5a0d473e87b408189d11fdfd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N80478bdcde4c425b85039e73ad022a3e> <http://schema.org/postalCode> "95063-0083" .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/telephone> "+1 (831) 426-5557" .
+<http://lodlaundromat.org/.well-known/genid/N596ad37dcc1d4aec8114f5fbf6eee785> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N33d7fe99d1c04d8aa0d69a3b8be50331> .
+

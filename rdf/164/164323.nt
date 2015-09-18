@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N23760d0b6da2409d85ca19e3dc1a6225> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N799b012ae2bc4e58aa8c97c47d9de31d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N799b012ae2bc4e58aa8c97c47d9de31d> .
+<http://lodlaundromat.org/.well-known/genid/N23760d0b6da2409d85ca19e3dc1a6225> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N81e4a2cf5ddb4674aad9c75aa6f0712d> .
+<http://lodlaundromat.org/.well-known/genid/N799b012ae2bc4e58aa8c97c47d9de31d> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> <http://schema.org/id> "st-kilda-rsl" .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/N81e4a2cf5ddb4674aad9c75aa6f0712d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N81e4a2cf5ddb4674aad9c75aa6f0712d> <http://schema.org/value> "164323"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N23760d0b6da2409d85ca19e3dc1a6225> .
+<http://lodlaundromat.org/.well-known/genid/N81e4a2cf5ddb4674aad9c75aa6f0712d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/name> "St Kilda RSL Sub Branch"@en .
+<http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> <http://schema.org/url> <http://victoriancollections.net.au/organisations/st-kilda-rsl> .
+<http://lodlaundromat.org/.well-known/genid/N799b012ae2bc4e58aa8c97c47d9de31d> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7abcc916d1ee42968280e0e1bbb5ca73> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> .
+<http://lodlaundromat.org/.well-known/genid/Nad4872c63b07429ea9787e73ccef29df> <http://schema.org/name> "au_vic" .
+

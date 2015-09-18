@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd5688cff59774c3bb4011efd0e92bea5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf9d4e1973e6540f7841f8b9ced372cc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d4e1973e6540f7841f8b9ced372cc0> <http://schema.org/latitude> "40.9474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://schema.org/postalCode> "61402-1214" .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://schema.org/streetAddress> "PO BOX 1214" .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf9d4e1973e6540f7841f8b9ced372cc0> .
+<http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> <http://schema.org/id> "8401701119" .
+<http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1be22ef852c8455fa1bd71aba798791c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> <http://schema.org/addressLocality> "GALESBURG" .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9474&mlon=-90.363#map=15/40.9474/-90.363> .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/name> "GALESBURG PRESERVATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncb3646af03524b4296972919ad8b9f46> .
+<http://lodlaundromat.org/.well-known/genid/Nd5688cff59774c3bb4011efd0e92bea5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf9d4e1973e6540f7841f8b9ced372cc0> <http://schema.org/longitude> "-90.363"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd5688cff59774c3bb4011efd0e92bea5> <http://schema.org/value> "137974"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4572944fb2444119af2d7f0a84db7d06> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd5688cff59774c3bb4011efd0e92bea5> .
+

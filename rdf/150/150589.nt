@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6729&mlon=-73.7809#map=15/42.6729/-73.7809> .
+<http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf580263b534348e7839a1dc360b4461f> .
+<http://lodlaundromat.org/.well-known/genid/N98f4c4d72cb545308f6010d71a9c7d23> <http://schema.org/value> "150589"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> .
+<http://lodlaundromat.org/.well-known/genid/N98f4c4d72cb545308f6010d71a9c7d23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> .
+<http://lodlaundromat.org/.well-known/genid/Nf580263b534348e7839a1dc360b4461f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N98f4c4d72cb545308f6010d71a9c7d23> .
+<http://lodlaundromat.org/.well-known/genid/Nf580263b534348e7839a1dc360b4461f> <http://schema.org/longitude> "-73.7809"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://schema.org/addressLocality> "ALBANY" .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N161e8d49716f487faf22f4bb106adf04> <http://schema.org/name> "MUSEUM OF PRINTS AND PRINTMAKING"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://schema.org/streetAddress> "PO BOX 6578" .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://schema.org/postalCode> "12206-0578" .
+<http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf580263b534348e7839a1dc360b4461f> <http://schema.org/latitude> "42.6729"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> <http://schema.org/id> "8403601883" .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfb3e314e29bd439996d1c144a75c75a9> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N98f4c4d72cb545308f6010d71a9c7d23> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N03425a428ef949c48071de97f9eaadfa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/url> <http://www.comune.galliate.no.it/> .
+<http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> .
+<http://lodlaundromat.org/.well-known/genid/N7d0ff6b56110414199f280eaf7ab9a0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4781&mlon=8.69625#map=15/45.4781/8.69625> .
+<http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> <http://schema.org/addressLocality> "Galliate" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nae96f36d338449a8a1e4990274ea2b9d> <http://schema.org/latitude> "45.4781"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> <http://schema.org/id> "102649" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nae96f36d338449a8a1e4990274ea2b9d> .
+<http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> <http://schema.org/streetAddress> "c/o Castello Visconteo Sforzesco, " .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/telephone> "+39 0321800767" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> .
+<http://lodlaundromat.org/.well-known/genid/Nae96f36d338449a8a1e4990274ea2b9d> <http://schema.org/longitude> "8.69625"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d0ff6b56110414199f280eaf7ab9a0a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/name> "Museo civico \"Angelo Bozzola\" - Castello di Galliate"@it .
+<http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nca14281fd3f243bab3d90d701093766e> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nae96f36d338449a8a1e4990274ea2b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N705acf4314754fe3806ad156973300d3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7d0ff6b56110414199f280eaf7ab9a0a> .
+<http://lodlaundromat.org/.well-known/genid/N7d0ff6b56110414199f280eaf7ab9a0a> <http://schema.org/value> "187764"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N844ed059f1984209a8e697083a070709> <http://schema.org/addressCountry> "Italy" .
+

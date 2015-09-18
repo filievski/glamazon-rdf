@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N4d58e70c234a4a05b42e97261af891b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/telephone> "+1 (336) 227-4785" .
+<http://lodlaundromat.org/.well-known/genid/N3e3bde104d094c60a9932b72ab254340> <http://schema.org/latitude> "36.0092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4d58e70c234a4a05b42e97261af891b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3e3bde104d094c60a9932b72ab254340> <http://schema.org/longitude> "-79.5199"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://schema.org/streetAddress> "5803 S NC 62" .
+<http://lodlaundromat.org/.well-known/genid/N3e3bde104d094c60a9932b72ab254340> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4d58e70c234a4a05b42e97261af891b9> <http://schema.org/value> "151356"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3e3bde104d094c60a9932b72ab254340> .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> .
+<http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/name> "ALAMANCE BATTLEGROUND FRIENDS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.0092&mlon=-79.5199#map=15/36.0092/-79.5199> .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4d58e70c234a4a05b42e97261af891b9> .
+<http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb5f7aa5802c545f3902e02f0affda82a> <http://schema.org/id> "8403700227" .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://schema.org/url> <http://www.nchistoricsites.org/> .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9b008188a0044ff5ae571ee946dd5637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://schema.org/addressLocality> "BURLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N62d240880429472b9d0ab0c3fb3c879f> <http://schema.org/postalCode> "27215" .
+

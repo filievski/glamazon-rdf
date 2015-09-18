@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2f7949559f534b7b8e9784dd1bb92f37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2f7949559f534b7b8e9784dd1bb92f37> <http://schema.org/longitude> "-69.6206"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2f7949559f534b7b8e9784dd1bb92f37> .
+<http://lodlaundromat.org/.well-known/genid/N10c53f5ad3af42c094b771476f7a13e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.5527&mlon=-69.6206#map=15/44.5527/-69.6206> .
+<http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N10c53f5ad3af42c094b771476f7a13e1> .
+<http://lodlaundromat.org/.well-known/genid/N2f7949559f534b7b8e9784dd1bb92f37> <http://schema.org/latitude> "44.5527"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> <http://schema.org/id> "8402300545" .
+<http://lodlaundromat.org/.well-known/genid/N10c53f5ad3af42c094b771476f7a13e1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/name> "ROSEMARIE BECK FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10c53f5ad3af42c094b771476f7a13e1> <http://schema.org/value> "141696"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://schema.org/streetAddress> "41 PROSPECT ST C/O ROGER PHELPS" .
+<http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N092804b5e07e4c1295be33088933a83b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://schema.org/addressLocality> "WATERVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Ne0a280aa1a7c45ffad1ef648546eaf38> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> .
+<http://lodlaundromat.org/.well-known/genid/N5719b6c49efa4a48aac3de260cc0cc39> <http://schema.org/postalCode> "4901" .
+

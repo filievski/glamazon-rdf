@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://schema.org/streetAddress> "Hauptstra\u00DFe 35" .
+<http://lodlaundromat.org/.well-known/genid/N83e092e6bacb4c2ca183a9aa57b68431> <http://schema.org/longitude> "10.3666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N83e092e6bacb4c2ca183a9aa57b68431> <http://schema.org/latitude> "48.5528"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf27b6251d8fd4ad1a07d23d91a2f19d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/name> "Sudetendeutsche Heimatstube"@en .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.5528&mlon=10.3666#map=15/48.5528/10.3666> .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf27b6251d8fd4ad1a07d23d91a2f19d1> .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na206d8f452cc489a9c988e0e1bbefc6b> .
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Na206d8f452cc489a9c988e0e1bbefc6b> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Na206d8f452cc489a9c988e0e1bbefc6b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/telephone> "09073/7982" .
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://schema.org/addressLocality> "Gundelfingen" .
+<http://lodlaundromat.org/.well-known/genid/N17a08880c11a4780ac5f7cabb31aac72> <http://schema.org/postalCode> "89423" .
+<http://lodlaundromat.org/.well-known/genid/Na206d8f452cc489a9c988e0e1bbefc6b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8b239973b8164800a4ed9dbc572bc9d0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N83e092e6bacb4c2ca183a9aa57b68431> .
+<http://lodlaundromat.org/.well-known/genid/Na206d8f452cc489a9c988e0e1bbefc6b> <http://schema.org/url> <http://www.museums.io/en/museums/182832> .
+<http://lodlaundromat.org/.well-known/genid/N83e092e6bacb4c2ca183a9aa57b68431> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf27b6251d8fd4ad1a07d23d91a2f19d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf27b6251d8fd4ad1a07d23d91a2f19d1> <http://schema.org/value> "182832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

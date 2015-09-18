@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N93f3fa81a61e460c9b8d6b05c284a0c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> .
+<http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/name> "SOUTHWEST HARBOR HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/url> <http://swhhs.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://schema.org/streetAddress> "PO BOX 272" .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.2376&mlon=-68.3443#map=15/44.2376/-68.3443> .
+<http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://schema.org/postalCode> "04653" .
+<http://lodlaundromat.org/.well-known/genid/Nd6c23a175aa445a298035360ffe7ba0b> <http://schema.org/latitude> "44.2376"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> <http://schema.org/id> "8402300394" .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> .
+<http://lodlaundromat.org/.well-known/genid/N93f3fa81a61e460c9b8d6b05c284a0c3> <http://schema.org/value> "141545"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8ed3584060454d8e92616234cd4cf947> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd6c23a175aa445a298035360ffe7ba0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N93f3fa81a61e460c9b8d6b05c284a0c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncfb1c71b19254976926089c302d13c2c> <http://schema.org/addressLocality> "SOUTHWEST HARBOR" .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N93f3fa81a61e460c9b8d6b05c284a0c3> .
+<http://lodlaundromat.org/.well-known/genid/N784076293c29446089c37be5e4367671> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd6c23a175aa445a298035360ffe7ba0b> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c23a175aa445a298035360ffe7ba0b> <http://schema.org/longitude> "-68.3443"^^<http://www.w3.org/2001/XMLSchema#double> .
+

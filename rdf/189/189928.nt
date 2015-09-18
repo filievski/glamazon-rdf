@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne8a26776ef674cf9a6befd353d984e4d> .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/name> "HARVARD UNIVERSITY HERBARIA & LIBRARIES"@en .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> .
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://schema.org/addressLocality> "CAMBRIDGE" .
+<http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> <http://schema.org/id> "8402501117" .
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://schema.org/streetAddress> "22 DIVINITY AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Ne8a26776ef674cf9a6befd353d984e4d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne8a26776ef674cf9a6befd353d984e4d> <http://schema.org/latitude> "42.0592"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne8ede115b7c24726bd640d54631aa152> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ede115b7c24726bd640d54631aa152> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ede115b7c24726bd640d54631aa152> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0592&mlon=-80.1739#map=15/42.0592/-80.1739> .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/url> <http://huh.harvard.edu/> .
+<http://lodlaundromat.org/.well-known/genid/Ne8ede115b7c24726bd640d54631aa152> <http://schema.org/value> "189928"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne8a26776ef674cf9a6befd353d984e4d> <http://schema.org/longitude> "-80.1739"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na722c381553b420ab506b9708f158dc3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://schema.org/postalCode> "2138" .
+<http://lodlaundromat.org/.well-known/genid/N0e95f9174e904f859e3a6f3cac068a60> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N59670aa7dc584579ac386619b32025a3> <http://schema.org/telephone> "+1 (617) 495-2365" .
+

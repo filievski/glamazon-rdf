@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> <http://schema.org/addressLocality> "Genova" .
+<http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/N0d61866ee39947ffbe1d3b81a0501a88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> .
+<http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> <http://schema.org/id> "100368" .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> .
+<http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N869d9957753645149f5e4c6fe5e94ab2> .
+<http://lodlaundromat.org/.well-known/genid/N8f16ac592ed741f1a2431a74fd8c8785> <http://schema.org/streetAddress> "Piazza C. Bonavino, 7" .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/telephone> "+39 010/6969885" .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/name> "Museo navale di Pegli"@it .
+<http://lodlaundromat.org/.well-known/genid/N0d61866ee39947ffbe1d3b81a0501a88> <http://schema.org/value> "186707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/url> <http://www.museonavale.it/> .
+<http://lodlaundromat.org/.well-known/genid/N316a5e8fc4564374b4d21ef76b896b40> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0d61866ee39947ffbe1d3b81a0501a88> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.4285&mlon=8.81526#map=15/44.4285/8.81526> .
+<http://lodlaundromat.org/.well-known/genid/N29ec96c7291c4a47bd3c0cc8ded0a615> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0d61866ee39947ffbe1d3b81a0501a88> .
+<http://lodlaundromat.org/.well-known/genid/N869d9957753645149f5e4c6fe5e94ab2> <http://schema.org/longitude> "8.81526"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N869d9957753645149f5e4c6fe5e94ab2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N869d9957753645149f5e4c6fe5e94ab2> <http://schema.org/latitude> "44.4285"^^<http://www.w3.org/2001/XMLSchema#double> .
+

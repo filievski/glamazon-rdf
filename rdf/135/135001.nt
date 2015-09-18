@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://schema.org/streetAddress> "146 CREEKSIDE DR" .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> <http://schema.org/id> "8401200555" .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8b0339373cfe430dbdf0792e17ee38dd> .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://schema.org/postalCode> "32086-5405" .
+<http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc6a1e01865344551881b0daa5b37f659> <http://schema.org/latitude> "29.8256"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc6a1e01865344551881b0daa5b37f659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8b0339373cfe430dbdf0792e17ee38dd> <http://schema.org/value> "135001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc6a1e01865344551881b0daa5b37f659> .
+<http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> .
+<http://lodlaundromat.org/.well-known/genid/N8b0339373cfe430dbdf0792e17ee38dd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8b0339373cfe430dbdf0792e17ee38dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc6a1e01865344551881b0daa5b37f659> <http://schema.org/longitude> "-81.3249"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nac284d189d184baa86688abeb7ff6270> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/name> "SAINT AUGUSTINE JEWISH HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7c220d8d5140415c98cb45afe0d59033> <http://schema.org/addressLocality> "ST AUGUSTINE" .
+<http://lodlaundromat.org/.well-known/genid/N3589a521af9c4c23ba8f19fa29d4279e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.8256&mlon=-81.3249#map=15/29.8256/-81.3249> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7218&mlon=-74.4147#map=15/41.7218/-74.4147> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> .
+<http://lodlaundromat.org/.well-known/genid/N178ee54ab9984277aa5153338df294bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N178ee54ab9984277aa5153338df294bb> <http://schema.org/value> "151118"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N178ee54ab9984277aa5153338df294bb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://schema.org/addressLocality> "ELLENVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> <http://schema.org/id> "8403602412" .
+<http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/name> "COMMITTEE FOR CATSKILL RESORT MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N178ee54ab9984277aa5153338df294bb> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://schema.org/postalCode> "12428-0045" .
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N2e2b506b79e742d3b41a97688336a211> <http://schema.org/latitude> "41.7218"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e2b506b79e742d3b41a97688336a211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2e2b506b79e742d3b41a97688336a211> <http://schema.org/longitude> "-74.4147"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> .
+<http://lodlaundromat.org/.well-known/genid/Ndc6165bf86ea42b4ab514ac961ba5b0f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N33e761250e904e5fb59aa4c86fb212a6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2e2b506b79e742d3b41a97688336a211> .
+<http://lodlaundromat.org/.well-known/genid/Nc37fe93b07314c96a75623671cd49586> <http://schema.org/streetAddress> "PO BOX 45" .
+

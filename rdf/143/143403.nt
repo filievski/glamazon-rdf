@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbd59298440fe4771b93361a63fbed422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://schema.org/streetAddress> "230 CONGRESS ST FL 12" .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3544&mlon=-71.0544#map=15/42.3544/-71.0544> .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://schema.org/addressLocality> "BOSTON" .
+<http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> <http://schema.org/id> "8402501033" .
+<http://lodlaundromat.org/.well-known/genid/N4db6ee0de0d94ba28ec52f27616016f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4db6ee0de0d94ba28ec52f27616016f5> <http://schema.org/longitude> "-71.0544"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1979ab0031884011a1d1f1799b9d63df> <http://schema.org/postalCode> "02110-2464" .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/name> "THOMAS JEFFERSON MEMORIAL CENTER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4db6ee0de0d94ba28ec52f27616016f5> .
+<http://lodlaundromat.org/.well-known/genid/Nbd59298440fe4771b93361a63fbed422> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4db6ee0de0d94ba28ec52f27616016f5> <http://schema.org/latitude> "42.3544"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f44583da2b04afea6b8595b5f8fa02a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbd59298440fe4771b93361a63fbed422> .
+<http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N425d9bee11734274a322d8937a6e8378> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbd59298440fe4771b93361a63fbed422> <http://schema.org/value> "143403"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

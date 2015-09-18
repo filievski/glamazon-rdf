@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3d49cbc856c141df884d9c1413668587> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://schema.org/postalCode> "66771" .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.5145&mlon=-95.1685#map=15/37.5145/-95.1685> .
+<http://lodlaundromat.org/.well-known/genid/Nde69f57687924836a4fd8271ef7a7c22> <http://schema.org/longitude> "-95.1685"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde69f57687924836a4fd8271ef7a7c22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://schema.org/streetAddress> "203 WASHINGTON ST" .
+<http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3d49cbc856c141df884d9c1413668587> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nde69f57687924836a4fd8271ef7a7c22> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> .
+<http://lodlaundromat.org/.well-known/genid/Nde69f57687924836a4fd8271ef7a7c22> <http://schema.org/latitude> "37.5145"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d49cbc856c141df884d9c1413668587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/telephone> "+1 (620) 449-2320" .
+<http://lodlaundromat.org/.well-known/genid/N3d49cbc856c141df884d9c1413668587> <http://schema.org/value> "139694"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N755eece1bdd64f6aa95ebe3a3d4e7d80> <http://schema.org/name> "OSAGE MISSION - NEOSHO COUNTY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> <http://schema.org/id> "8402000020" .
+<http://lodlaundromat.org/.well-known/genid/N1fb6343ba9554fb0a5343b2352fce10c> <http://schema.org/addressLocality> "SAINT PAUL" .
+<http://lodlaundromat.org/.well-known/genid/N20ee7c9e9de147f684957cc05c9ca057> <http://schema.org/name> "us" .
+

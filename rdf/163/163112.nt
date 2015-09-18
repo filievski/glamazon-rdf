@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0bca8b3b423a45c9ae69c67b4e4420c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7860fa88cf3842a99895bf5abcf4a7c6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> .
+<http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> <http://schema.org/id> "8405500561" .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N0bca8b3b423a45c9ae69c67b4e4420c0> <http://schema.org/latitude> "42.4977"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://schema.org/addressLocality> "BELOIT" .
+<http://lodlaundromat.org/.well-known/genid/N0bca8b3b423a45c9ae69c67b4e4420c0> <http://schema.org/longitude> "-89.0379"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/name> "FRIENDS OF BECKMAN MILL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4977&mlon=-89.0379#map=15/42.4977/-89.0379> .
+<http://lodlaundromat.org/.well-known/genid/N7860fa88cf3842a99895bf5abcf4a7c6> <http://schema.org/value> "163112"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5b76aa8ea8c54e82b7d0d62f1f127dfb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://schema.org/postalCode> "53512-0074" .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://schema.org/streetAddress> "PO BOX 74" .
+<http://lodlaundromat.org/.well-known/genid/N65bb4bb3bfa54952b04098e132169ae3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0bca8b3b423a45c9ae69c67b4e4420c0> .
+<http://lodlaundromat.org/.well-known/genid/N606e73706f0b4cfca999882a50d8846c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7860fa88cf3842a99895bf5abcf4a7c6> .
+<http://lodlaundromat.org/.well-known/genid/N7860fa88cf3842a99895bf5abcf4a7c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

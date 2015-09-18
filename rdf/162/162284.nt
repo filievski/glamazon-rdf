@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://schema.org/addressLocality> "SEATTLE" .
+<http://lodlaundromat.org/.well-known/genid/Na7a988fb28fb4375b4ee743f637db407> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://schema.org/postalCode> "98125-4426" .
+<http://lodlaundromat.org/.well-known/genid/Na7a988fb28fb4375b4ee743f637db407> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/name> "SEATTLE WORLD PERCUSSION SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na7a988fb28fb4375b4ee743f637db407> <http://schema.org/value> "162284"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfa755a7655554fa387ea8fcbfb616a20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa755a7655554fa387ea8fcbfb616a20> <http://schema.org/latitude> "47.722"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://schema.org/streetAddress> "12729 LAKE CITY WAY NE" .
+<http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7a988fb28fb4375b4ee743f637db407> .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.722&mlon=-122.294#map=15/47.722/-122.294> .
+<http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> <http://schema.org/id> "8405300733" .
+<http://lodlaundromat.org/.well-known/genid/N73fc6007415747999e694519d2dd5a3e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfa755a7655554fa387ea8fcbfb616a20> <http://schema.org/longitude> "-122.294"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne01c1254800c4eb893af620366cb79c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfa755a7655554fa387ea8fcbfb616a20> .
+<http://lodlaundromat.org/.well-known/genid/N5b42acfff9b54038b629060554720804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N20c260c7522f4088a614a2a288075281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N20c260c7522f4088a614a2a288075281> .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N241d83f2cf6649f2ba57c0c82c492337> .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://schema.org/name> "Museum Farm Hermas"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a18cbb13e00404db3045d654157a7ee> <http://schema.org/value> "185188"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7a18cbb13e00404db3045d654157a7ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N241d83f2cf6649f2ba57c0c82c492337> <http://schema.org/url> <http://www.museums.io/en/museums/185188> .
+<http://lodlaundromat.org/.well-known/genid/N7a18cbb13e00404db3045d654157a7ee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N241d83f2cf6649f2ba57c0c82c492337> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://schema.org/url> <http://www.visitaland.com/hermas/fi> .
+<http://lodlaundromat.org/.well-known/genid/Na2fb46b64d4642a1a749280bdf960863> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7a18cbb13e00404db3045d654157a7ee> .
+<http://lodlaundromat.org/.well-known/genid/N241d83f2cf6649f2ba57c0c82c492337> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N241d83f2cf6649f2ba57c0c82c492337> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20c260c7522f4088a614a2a288075281> <http://schema.org/addressCountry> "Finland" .
+

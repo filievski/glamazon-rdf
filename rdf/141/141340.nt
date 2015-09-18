@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb3da5f1a5714dd085608f4468edda32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> <http://schema.org/id> "8402300189" .
+<http://lodlaundromat.org/.well-known/genid/N08c0d738a93d4caaaed8950f88511c81> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbb3da5f1a5714dd085608f4468edda32> .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N08c0d738a93d4caaaed8950f88511c81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://schema.org/postalCode> "04048-0083" .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08c0d738a93d4caaaed8950f88511c81> .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://schema.org/addressLocality> "LIMERICK" .
+<http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://schema.org/streetAddress> "PO BOX 83" .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/name> "LIMERICK HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> .
+<http://lodlaundromat.org/.well-known/genid/N4e5e6f1953804322a2dafade07b1bffc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb3da5f1a5714dd085608f4468edda32> <http://schema.org/latitude> "43.6926"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbb3da5f1a5714dd085608f4468edda32> <http://schema.org/longitude> "-70.7851"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6926&mlon=-70.7851#map=15/43.6926/-70.7851> .
+<http://lodlaundromat.org/.well-known/genid/Nf2cab57e4fa347b2815009c3ec4049aa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2d65d7ec0bb44c4f9508ab7e5de54ba1> .
+<http://lodlaundromat.org/.well-known/genid/N08c0d738a93d4caaaed8950f88511c81> <http://schema.org/value> "141340"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

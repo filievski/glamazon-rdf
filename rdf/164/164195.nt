@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N41bdddc36c1a4ec68a50d1b2af4e0c6c> <http://schema.org/longitude> "144.217"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41bdddc36c1a4ec68a50d1b2af4e0c6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7cae51bd614480ae6f087447764654> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N41bdddc36c1a4ec68a50d1b2af4e0c6c> <http://schema.org/latitude> "-37.0643"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.0643&mlon=144.217#map=15/-37.0643/144.217> .
+<http://lodlaundromat.org/.well-known/genid/Nbc7cae51bd614480ae6f087447764654> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbc7cae51bd614480ae6f087447764654> .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd74b9826fe7348be8fbd3b7135d73d27> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/name> "Pioneers & Old Residents Association of Castlemaine"@en .
+<http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> <http://schema.org/id> "pioneers-old-residents-association-castlemaine-inc" .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd74b9826fe7348be8fbd3b7135d73d27> .
+<http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N8946500807394f48b66fe6d1bbc0cbc6> <http://schema.org/url> <http://victoriancollections.net.au/organisations/pioneers-old-residents-association-castlemaine-inc> .
+<http://lodlaundromat.org/.well-known/genid/Nf9aca35b6f6f4d87a39ad2fe0e92aa0a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N41bdddc36c1a4ec68a50d1b2af4e0c6c> .
+<http://lodlaundromat.org/.well-known/genid/Nd74b9826fe7348be8fbd3b7135d73d27> <http://schema.org/value> "164195"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd74b9826fe7348be8fbd3b7135d73d27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

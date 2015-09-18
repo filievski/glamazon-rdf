@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N84ad8f7e81c840e4a6bfc8df928dcee0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://schema.org/postalCode> "35578" .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N84ad8f7e81c840e4a6bfc8df928dcee0> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9adf6f1c63c045c78bb7f6e8ca3fd8f0> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9adf6f1c63c045c78bb7f6e8ca3fd8f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9adf6f1c63c045c78bb7f6e8ca3fd8f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/name> "MCDOWELL ENVIRONMENTAL CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://schema.org/addressLocality> "NAUVOO" .
+<http://lodlaundromat.org/.well-known/genid/N9adf6f1c63c045c78bb7f6e8ca3fd8f0> <http://schema.org/value> "189580"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/telephone> "+1 (205) 387-1806" .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/url> <http://www.campmcdowell.com/> .
+<http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N84ad8f7e81c840e4a6bfc8df928dcee0> <http://schema.org/latitude> "46.866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://schema.org/streetAddress> "105 DELONG RD" .
+<http://lodlaundromat.org/.well-known/genid/N97c4b1f723fa4e8fb9c137da76536d91> <http://schema.org/id> "8400100461" .
+<http://lodlaundromat.org/.well-known/genid/N96bd8676e62349ecb65fd07d6c7fc9fa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.866&mlon=-96.7918#map=15/46.866/-96.7918> .
+<http://lodlaundromat.org/.well-known/genid/N84ad8f7e81c840e4a6bfc8df928dcee0> <http://schema.org/longitude> "-96.7918"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12c7633d1700419a9fc9e7ecac6555f7> <http://schema.org/addressCountry> "United States" .
+

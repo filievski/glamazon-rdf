@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd83cc1d1ff0749f8a00b9fce02f44b2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3ae7cb40245344b48d8e17e5dc49bdef> .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://schema.org/streetAddress> "201 KENMURE DR" .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3ae7cb40245344b48d8e17e5dc49bdef> <http://schema.org/latitude> "33.6678"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ae7cb40245344b48d8e17e5dc49bdef> <http://schema.org/longitude> "-117.977"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/name> "ORDER OF THE FIRST FAMILIES OF MAINE"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://schema.org/postalCode> "92646-4503" .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> <http://schema.org/id> "8400600653" .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.6678&mlon=-117.977#map=15/33.6678/-117.977> .
+<http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd83cc1d1ff0749f8a00b9fce02f44b2d> .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd83cc1d1ff0749f8a00b9fce02f44b2d> <http://schema.org/value> "130527"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3ae7cb40245344b48d8e17e5dc49bdef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc40be4de775c4a3e99762073d01fa7ca> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> .
+<http://lodlaundromat.org/.well-known/genid/N8e74d83ec61c48ea98c47057674a897e> <http://schema.org/addressLocality> "FLAT ROCK" .
+<http://lodlaundromat.org/.well-known/genid/N3b5116286b844b6d9b1778043db209fc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd83cc1d1ff0749f8a00b9fce02f44b2d> <http://schema.org/name> "id" .
+

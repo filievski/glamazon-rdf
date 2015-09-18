@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://schema.org/streetAddress> "4455 SOUTH BLVD STE 400" .
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N529a80af630d4b2581a3fb58f32f271f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3cda42018f7c44e9b98d0af140cbf494> <http://schema.org/latitude> "36.8328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3cda42018f7c44e9b98d0af140cbf494> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N529a80af630d4b2581a3fb58f32f271f> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3cda42018f7c44e9b98d0af140cbf494> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/name> "MILITARY AVIATION MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N529a80af630d4b2581a3fb58f32f271f> <http://schema.org/value> "160834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://schema.org/addressLocality> "VIRGINIA BCH" .
+<http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://schema.org/postalCode> "23452-1159" .
+<http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/telephone> "+1 (757) 721-7767" .
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> <http://schema.org/id> "8405100340" .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.8328&mlon=-76.1284#map=15/36.8328/-76.1284> .
+<http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/url> <http://www.militaryaviationmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N6a57f31810294d50b28d4f5a7abfc501> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N529a80af630d4b2581a3fb58f32f271f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3cda42018f7c44e9b98d0af140cbf494> <http://schema.org/longitude> "-76.1284"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94d688cd4c2f4f4899222be8bc39fc5e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N836782a6504f48779c4e787e0862b069> .
+

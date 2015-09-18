@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://schema.org/streetAddress> "109 N NIOTA RD" .
+<http://lodlaundromat.org/.well-known/genid/Nc69d6fb6207648ce89be801835a97acc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/telephone> "+1 (423) 887-5455" .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> .
+<http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> <http://schema.org/id> "8404700098" .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/name> "ENGLEWOOD TEXTILE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf8819c6a09d041e39bff24b99ca9e9f6> <http://schema.org/latitude> "35.4298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://schema.org/postalCode> "37329" .
+<http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf8819c6a09d041e39bff24b99ca9e9f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4298&mlon=-84.4879#map=15/35.4298/-84.4879> .
+<http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N213fcbfca93d4b89b4307e46a973e280> <http://schema.org/addressLocality> "ENGLEWOOD" .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> .
+<http://lodlaundromat.org/.well-known/genid/Nf8819c6a09d041e39bff24b99ca9e9f6> <http://schema.org/longitude> "-84.4879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc69d6fb6207648ce89be801835a97acc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc69d6fb6207648ce89be801835a97acc> .
+<http://lodlaundromat.org/.well-known/genid/N0ada5753afa64012b0db284cf4fec0a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf99624750ebc4ae0a89e992ec5818551> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf8819c6a09d041e39bff24b99ca9e9f6> .
+<http://lodlaundromat.org/.well-known/genid/Nc69d6fb6207648ce89be801835a97acc> <http://schema.org/value> "157427"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

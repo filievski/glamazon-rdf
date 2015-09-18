@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://schema.org/postalCode> "20001-2788" .
+<http://lodlaundromat.org/.well-known/genid/N3ad495b833074f43be92707b307851fd> <http://schema.org/latitude> "38.8984"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3ad495b833074f43be92707b307851fd> .
+<http://lodlaundromat.org/.well-known/genid/Nc0c5176ceee648c8bdaabdb9d5a2f70d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3ad495b833074f43be92707b307851fd> <http://schema.org/longitude> "-77.0162"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc0c5176ceee648c8bdaabdb9d5a2f70d> .
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://schema.org/streetAddress> "701 4TH ST NW STE 200" .
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://schema.org/addressRegion> "DC" .
+<http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8984&mlon=-77.0162#map=15/38.8984/-77.0162> .
+<http://lodlaundromat.org/.well-known/genid/Nc0c5176ceee648c8bdaabdb9d5a2f70d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3ad495b833074f43be92707b307851fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/name> "JEWISH HISTORICAL SOCIETY OF GREATER WASHINGTON INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc1dda494aad74e4e848c3de514b9e96d> <http://schema.org/addressLocality> "WASHINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> <http://schema.org/id> "8401100191" .
+<http://lodlaundromat.org/.well-known/genid/Nbfca90b8619747c1af5e98435a3cd053> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/url> <http://www.jhsgw.org/> .
+<http://lodlaundromat.org/.well-known/genid/N154230ffd0744ffcb60539e189195f94> <http://schema.org/telephone> "+1 (202) 789-0900" .
+<http://lodlaundromat.org/.well-known/genid/Nc0c5176ceee648c8bdaabdb9d5a2f70d> <http://schema.org/value> "134410"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N09e80acc3da34718ba7e951461c9b26a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> <http://schema.org/id> "8401700508" .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N09e80acc3da34718ba7e951461c9b26a> <http://schema.org/latitude> "42.2971"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3977c2ba4e804104bb37a1734d43176b> <http://schema.org/value> "137363"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N09e80acc3da34718ba7e951461c9b26a> <http://schema.org/longitude> "-89.6232"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/name> "FREEPORT SCOTTISH RITE TEMPLE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3977c2ba4e804104bb37a1734d43176b> .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2971&mlon=-89.6232#map=15/42.2971/-89.6232> .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://schema.org/streetAddress> "305 W STEPHENSON" .
+<http://lodlaundromat.org/.well-known/genid/N3977c2ba4e804104bb37a1734d43176b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> .
+<http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3977c2ba4e804104bb37a1734d43176b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0ce6c9bd7bd44f3cab3e7d41f7919302> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://schema.org/postalCode> "61032-4326" .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N7ac8629491e84b4e9e01b7c5eab1152a> <http://schema.org/addressLocality> "FREEPORT" .
+<http://lodlaundromat.org/.well-known/genid/N13560fa5290b432db553bde7c5752b2d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N09e80acc3da34718ba7e951461c9b26a> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Na09347a424134ffc831bd53e73e010fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://schema.org/addressLocality> "PORT ARANSAS" .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://schema.org/streetAddress> "PO BOX 1175" .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N84e16c14b6bc449b936e4a40cdbe0714> .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://schema.org/postalCode> "78373-1175" .
+<http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N84e16c14b6bc449b936e4a40cdbe0714> <http://schema.org/value> "159156"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.8345&mlon=-97.0615#map=15/27.8345/-97.0615> .
+<http://lodlaundromat.org/.well-known/genid/Na09347a424134ffc831bd53e73e010fc> <http://schema.org/latitude> "27.8345"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na09347a424134ffc831bd53e73e010fc> .
+<http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/telephone> "+1 (361) 749-7334" .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N99bfc616249547578f989993445e03e5> .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/url> <http://www.portaransasartcenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://schema.org/name> "PORT ARANSAS ART CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N8832cfba235a4200934629420f051cb0> <http://schema.org/id> "8404801256" .
+<http://lodlaundromat.org/.well-known/genid/N7bb898bbb0d440b6aa6c0857e83111ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N84e16c14b6bc449b936e4a40cdbe0714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na09347a424134ffc831bd53e73e010fc> <http://schema.org/longitude> "-97.0615"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N84e16c14b6bc449b936e4a40cdbe0714> <http://schema.org/name> "id" .
+

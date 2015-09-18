@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N40a43594188a4606af42d8c91fa94659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N40a43594188a4606af42d8c91fa94659> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N40a43594188a4606af42d8c91fa94659> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/telephone> "08721/96360" .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://schema.org/addressLocality> "Hebertsfelden" .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/name> "Gemeindemuseum Hebertsfelden"@en .
+<http://lodlaundromat.org/.well-known/genid/N57a571e0ec8d4889b6376fb8678a2e0b> <http://schema.org/longitude> "12.8169"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40a43594188a4606af42d8c91fa94659> <http://schema.org/value> "182860"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/url> <http://www.rottalermuseumstrasse.de/index.php?page=37> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4169&mlon=12.8169#map=15/48.4169/12.8169> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb447b8a1b81c458abcf9c97186cb994b> <http://schema.org/url> <http://www.museums.io/en/museums/182860> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb447b8a1b81c458abcf9c97186cb994b> .
+<http://lodlaundromat.org/.well-known/genid/Na9916bfa4c5d49af88e15481d21a3e76> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N57a571e0ec8d4889b6376fb8678a2e0b> .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N57a571e0ec8d4889b6376fb8678a2e0b> <http://schema.org/latitude> "48.4169"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57a571e0ec8d4889b6376fb8678a2e0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://schema.org/streetAddress> "Bahnhofstra\u00DFe 3" .
+<http://lodlaundromat.org/.well-known/genid/Nb447b8a1b81c458abcf9c97186cb994b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb447b8a1b81c458abcf9c97186cb994b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb447b8a1b81c458abcf9c97186cb994b> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N1d7fbb1cfff243c1bb884248a0245eec> <http://schema.org/postalCode> "84332" .
+

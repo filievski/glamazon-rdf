@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6b43cae85c9842edbaf0783066b7dfe6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.1263&mlon=-90.4494#map=15/37.1263/-90.4494> .
+<http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> <http://schema.org/id> "8402900616" .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/name> "SYLVAN SCHOOL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://schema.org/addressLocality> "GREENVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://schema.org/streetAddress> "PO BOX 32" .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd7c4d0bba46bc989cbe7e0741c432> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd7c4d0bba46bc989cbe7e0741c432> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://schema.org/postalCode> "63944-0032" .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf7dd7c4d0bba46bc989cbe7e0741c432> .
+<http://lodlaundromat.org/.well-known/genid/N6b43cae85c9842edbaf0783066b7dfe6> <http://schema.org/latitude> "37.1263"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1b6164a55842474aad998cc80ae2b838> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6b43cae85c9842edbaf0783066b7dfe6> .
+<http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf7dd7c4d0bba46bc989cbe7e0741c432> <http://schema.org/value> "146187"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nde60d49f29f747c39315353a312a980a> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N6b43cae85c9842edbaf0783066b7dfe6> <http://schema.org/longitude> "-90.4494"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncf36590ed99349dfae849d326f263743> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

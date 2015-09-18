@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na04e29490a2b40f589c0beb0a50cf507> .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncb6a5c89080f493aafcb15a146edaf9d> .
+<http://lodlaundromat.org/.well-known/genid/Ncb6a5c89080f493aafcb15a146edaf9d> <http://schema.org/latitude> "-36.4194"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na04e29490a2b40f589c0beb0a50cf507> <http://schema.org/value> "163791"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na04e29490a2b40f589c0beb0a50cf507> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/name> "Coach House Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N0a437300e5af464f9ac36b43fff1c5ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0a437300e5af464f9ac36b43fff1c5ed> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0a437300e5af464f9ac36b43fff1c5ed> .
+<http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> <http://schema.org/url> <http://victoriancollections.net.au/organisations/coach-house-museum> .
+<http://lodlaundromat.org/.well-known/genid/Ncb6a5c89080f493aafcb15a146edaf9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> <http://schema.org/id> "coach-house-museum" .
+<http://lodlaundromat.org/.well-known/genid/Ncb6a5c89080f493aafcb15a146edaf9d> <http://schema.org/longitude> "143.614"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/telephone> "(03) 5494 3342" .
+<http://lodlaundromat.org/.well-known/genid/Na04e29490a2b40f589c0beb0a50cf507> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8f2cbe9446e14e8db8e289e9135a1d01> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.4194&mlon=143.614#map=15/-36.4194/143.614> .
+<http://lodlaundromat.org/.well-known/genid/N448a965ef7a847b0a2ee466d2c3653dd> <http://schema.org/name> "au_vic" .
+

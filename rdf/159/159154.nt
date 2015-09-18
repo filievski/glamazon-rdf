@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://schema.org/addressLocality> "GEORGETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Neaf662c287724bfbbccdc888178ee5cf> .
+<http://lodlaundromat.org/.well-known/genid/Neaf662c287724bfbbccdc888178ee5cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neaf662c287724bfbbccdc888178ee5cf> <http://schema.org/value> "159154"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Neaf662c287724bfbbccdc888178ee5cf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/url> <http://www.williamsonmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/name> "WILLIAMSON COUNTY HISTORICAL MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N82f3c8dc909f48bda3c590aefe10a605> <http://schema.org/longitude> "-97.678"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://schema.org/streetAddress> "716 S AUSTIN AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N82f3c8dc909f48bda3c590aefe10a605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N82f3c8dc909f48bda3c590aefe10a605> <http://schema.org/latitude> "30.6368"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> .
+<http://lodlaundromat.org/.well-known/genid/Nf839a61b427c4d37a892987dc574f406> <http://schema.org/id> "8404801254" .
+<http://lodlaundromat.org/.well-known/genid/Nd8c47fc7beff4335b47c36191e23664d> <http://schema.org/postalCode> "78626-5709" .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N82f3c8dc909f48bda3c590aefe10a605> .
+<http://lodlaundromat.org/.well-known/genid/N0091b346517a40ec97ad5fb5fc201894> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6368&mlon=-97.678#map=15/30.6368/-97.678> .
+

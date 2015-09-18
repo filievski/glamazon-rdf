@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N8f7e74209e46421b88d29a283ebe817a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne67b4dcfcef94c91bd3045840ba116c8> .
+<http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N12000ea4b3ce4e51b6211e4b31e5f861> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne67b4dcfcef94c91bd3045840ba116c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N12000ea4b3ce4e51b6211e4b31e5f861> <http://schema.org/latitude> "-35.9808"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f7e74209e46421b88d29a283ebe817a> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/telephone> "(03) 53 99 05 64" .
+<http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> <http://schema.org/url> <http://victoriancollections.net.au/organisations/birchip-history-museum> .
+<http://lodlaundromat.org/.well-known/genid/N12000ea4b3ce4e51b6211e4b31e5f861> <http://schema.org/longitude> "142.918"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/name> "Birchip History Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne67b4dcfcef94c91bd3045840ba116c8> <http://schema.org/value> "163713"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N12000ea4b3ce4e51b6211e4b31e5f861> .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-35.9808&mlon=142.918#map=15/-35.9808/142.918> .
+<http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8f7e74209e46421b88d29a283ebe817a> .
+<http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> <http://schema.org/id> "birchip-history-museum" .
+<http://lodlaundromat.org/.well-known/genid/Ne67b4dcfcef94c91bd3045840ba116c8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1d19030f25af46148d8b476565b3e4ff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nff98faa05ced4c43930b66aebee22e38> .
+

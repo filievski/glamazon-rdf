@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N08d4a98120084f6abff2a572373a58a4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N08d4a98120084f6abff2a572373a58a4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N621e8e9f2452499c9e9fda4449e20b61> .
+<http://lodlaundromat.org/.well-known/genid/N10772fc3147d4799a32eff4bbbc493f2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7c501a7696504ab2a49f90fcf2cc9333> <http://schema.org/value> "185251"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N621e8e9f2452499c9e9fda4449e20b61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N08d4a98120084f6abff2a572373a58a4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10772fc3147d4799a32eff4bbbc493f2> .
+<http://lodlaundromat.org/.well-known/genid/N7c501a7696504ab2a49f90fcf2cc9333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c501a7696504ab2a49f90fcf2cc9333> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N621e8e9f2452499c9e9fda4449e20b61> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N08d4a98120084f6abff2a572373a58a4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7c501a7696504ab2a49f90fcf2cc9333> .
+<http://lodlaundromat.org/.well-known/genid/N08d4a98120084f6abff2a572373a58a4> <http://schema.org/name> "KAMU Espoo City Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N10772fc3147d4799a32eff4bbbc493f2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10772fc3147d4799a32eff4bbbc493f2> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N10772fc3147d4799a32eff4bbbc493f2> <http://schema.org/url> <http://www.museums.io/en/museums/185251> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N60773c0b1fe34dd28a9e09486e791323> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://schema.org/addressLocality> "STEILACOOM" .
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N60773c0b1fe34dd28a9e09486e791323> <http://schema.org/value> "161566"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.1722&mlon=-122.6#map=15/47.1722/-122.6> .
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://schema.org/streetAddress> "1515 LAFAYETTE ST" .
+<http://lodlaundromat.org/.well-known/genid/N38f8efe232df4578b53a5a2b1f4031e1> <http://schema.org/longitude> "-122.6"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N38f8efe232df4578b53a5a2b1f4031e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://schema.org/postalCode> "98388" .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/name> "STEILACOOM TRIBAL CULTURAL CENTER AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N60773c0b1fe34dd28a9e09486e791323> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60773c0b1fe34dd28a9e09486e791323> .
+<http://lodlaundromat.org/.well-known/genid/N07ae8701c62842b1b0b2b584b88ed7cf> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N38f8efe232df4578b53a5a2b1f4031e1> <http://schema.org/latitude> "47.1722"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> <http://schema.org/id> "8405300015" .
+<http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/telephone> "+1 (253) 584-6308" .
+<http://lodlaundromat.org/.well-known/genid/N228d0b09ba9d48609f524982cea65dc8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na25541bd1e5e4c2bbf1f8c108e53f75b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N38f8efe232df4578b53a5a2b1f4031e1> .
+

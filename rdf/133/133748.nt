@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/name> "FRIENDS OF THE ANSONIA NATURE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8c3370f3fc374b698dcb6ac8be46177e> <http://schema.org/longitude> "-73.0529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://schema.org/postalCode> "06401" .
+<http://lodlaundromat.org/.well-known/genid/N8c3370f3fc374b698dcb6ac8be46177e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8fabec3546764f4b8b02d4d159e9b771> <http://schema.org/value> "133748"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8fabec3546764f4b8b02d4d159e9b771> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8fabec3546764f4b8b02d4d159e9b771> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N36ee3d07279744e98084cf9565f6d257> <http://schema.org/id> "8400900223" .
+<http://lodlaundromat.org/.well-known/genid/N8c3370f3fc374b698dcb6ac8be46177e> <http://schema.org/latitude> "41.3464"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://schema.org/streetAddress> "10 DEERFIELD ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N8fabec3546764f4b8b02d4d159e9b771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8c3370f3fc374b698dcb6ac8be46177e> .
+<http://lodlaundromat.org/.well-known/genid/N462e6604570b44e5a7aebaecf2849d5b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3464&mlon=-73.0529#map=15/41.3464/-73.0529> .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/Nf83dfe0adedb497ebf9dfacbd0056065> <http://schema.org/addressLocality> "ANSONIA" .
+

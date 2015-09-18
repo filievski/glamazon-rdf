@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N06285c7b770d4dc0af3eafd28b67089e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://schema.org/addressLocality> "HARTFORD" .
+<http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://schema.org/streetAddress> "255 MAIN ST FL 4" .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N06285c7b770d4dc0af3eafd28b67089e> <http://schema.org/longitude> "-72.6753"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7592&mlon=-72.6753#map=15/41.7592/-72.6753> .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7a3f6767fe8943b481e2bbae51af438e> .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N06285c7b770d4dc0af3eafd28b67089e> .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://schema.org/postalCode> "06106-1821" .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> <http://schema.org/id> "8400900138" .
+<http://lodlaundromat.org/.well-known/genid/N4c8cfde2d7cc4a8aac23e7c1796ea094> <http://schema.org/name> "ANTIQUARIAN & LANDMARKS SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N7a3f6767fe8943b481e2bbae51af438e> <http://schema.org/value> "133663"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N06285c7b770d4dc0af3eafd28b67089e> <http://schema.org/latitude> "41.7592"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b69703f514e402d8040808be460befe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7a3f6767fe8943b481e2bbae51af438e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a3f6767fe8943b481e2bbae51af438e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5e15bdec71464635ad34ac09d0cc53b0> <http://schema.org/@Type> "Dataset" .
+

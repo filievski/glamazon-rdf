@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7d43ddb989384e6194a5afd36537baf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfca40fa0aee2491887f203a6bfc50577> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/url> <http://www.santuariodelpiratello.it/> .
+<http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N7d43ddb989384e6194a5afd36537baf4> <http://schema.org/latitude> "44.5056"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> <http://schema.org/streetAddress> "Via Emilia Ponente, 27" .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.5056&mlon=11.3091#map=15/44.5056/11.3091> .
+<http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> <http://schema.org/addressRegion> "Emilia-Romagna" .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> .
+<http://lodlaundromat.org/.well-known/genid/N7d43ddb989384e6194a5afd36537baf4> <http://schema.org/longitude> "11.3091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/telephone> "+39 0542 40455" .
+<http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> <http://schema.org/id> "111125" .
+<http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nfca40fa0aee2491887f203a6bfc50577> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7d43ddb989384e6194a5afd36537baf4> .
+<http://lodlaundromat.org/.well-known/genid/Nfca40fa0aee2491887f203a6bfc50577> <http://schema.org/value> "186119"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfca40fa0aee2491887f203a6bfc50577> .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/name> "Museo d\u2019arte sacra del Santuario del Piratello"@it .
+<http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N01bc7ea3bfe543baa75d03349bb972e6> <http://schema.org/addressLocality> "Bologna" .
+<http://lodlaundromat.org/.well-known/genid/N9770fbfeea844e5da857f0807a54f1b9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> .
+<http://lodlaundromat.org/.well-known/genid/N27f7ec40d23944bfae54af8444141832> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5d882861c1474baba93e0f3d973d505d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N11a2fc3e05074a60a1a00b772a1f67b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N11a2fc3e05074a60a1a00b772a1f67b5> <http://schema.org/latitude> "37.8994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> .
+<http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://schema.org/addressLocality> "MILL VALLEY" .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://schema.org/streetAddress> "119 BELVEDERE DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/name> "MARIN MUSEUM OF THE AMERICAN INDIAN"@en .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N5d882861c1474baba93e0f3d973d505d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N11a2fc3e05074a60a1a00b772a1f67b5> <http://schema.org/longitude> "-122.511"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/telephone> "+1 (415) 897-4064" .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N11a2fc3e05074a60a1a00b772a1f67b5> .
+<http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> <http://schema.org/id> "8400600278" .
+<http://lodlaundromat.org/.well-known/genid/N5d882861c1474baba93e0f3d973d505d> <http://schema.org/value> "130152"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://schema.org/postalCode> "94941" .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N772fea0bf86c4be0b5f8a067486da6b9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d882861c1474baba93e0f3d973d505d> .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Marin_Museum_of_the_American_Indian> .
+<http://lodlaundromat.org/.well-known/genid/N5f367ef9f4ac4baa961e3eab0a5c2e39> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5c0ee19f668b434ba0dcd64afcd78bd7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.8994&mlon=-122.511#map=15/37.8994/-122.511> .
+

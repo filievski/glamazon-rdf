@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> <http://schema.org/id> "8404100484" .
+<http://lodlaundromat.org/.well-known/genid/N796ab2bd67cb494697c55e73f71bd9cf> <http://schema.org/latitude> "42.5602"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://schema.org/addressLocality> "CHILOQUIN" .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://schema.org/streetAddress> "36951 SOUTH CHILOQUIN ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3b14c37b906746e39b5b4bc52133afae> .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3b14c37b906746e39b5b4bc52133afae> <http://schema.org/value> "154691"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N796ab2bd67cb494697c55e73f71bd9cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N796ab2bd67cb494697c55e73f71bd9cf> .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3b14c37b906746e39b5b4bc52133afae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5602&mlon=-121.885#map=15/42.5602/-121.885> .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://schema.org/postalCode> "97624-9728" .
+<http://lodlaundromat.org/.well-known/genid/N796ab2bd67cb494697c55e73f71bd9cf> <http://schema.org/longitude> "-121.885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3b14c37b906746e39b5b4bc52133afae> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/name> "KLAMATH AND WESTERN RAILROAD INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N45ee1fa16b23475eb21cc4d9676425fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na3c8435e84334a0bac38cd042c5f94c5> .
+<http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N681980fe040246a29f4ec25dd4ccfd53> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

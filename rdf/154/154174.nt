@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N60fe93eec82149b090e3f7a050e7388e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/url> <http://www.jewishmuseum.net/> .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://schema.org/addressLocality> "TULSA" .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/name> "SHERWIN MILLER MUSEUM OF JEWISH ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://schema.org/streetAddress> "2021 E 71ST ST" .
+<http://lodlaundromat.org/.well-known/genid/N2a60939f0799431cb9b7f7be3f9f80d1> <http://schema.org/latitude> "36.0609"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.0609&mlon=-95.9635#map=15/36.0609/-95.9635> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/telephone> "+1 (918) 492-1818" .
+<http://lodlaundromat.org/.well-known/genid/N2a60939f0799431cb9b7f7be3f9f80d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> .
+<http://lodlaundromat.org/.well-known/genid/N2a60939f0799431cb9b7f7be3f9f80d1> <http://schema.org/longitude> "-95.9635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N60fe93eec82149b090e3f7a050e7388e> <http://schema.org/value> "154174"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N795e9d8339ca44ec989ec18f1799f113> <http://schema.org/id> "8404000528" .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://schema.org/postalCode> "74136-5408" .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60fe93eec82149b090e3f7a050e7388e> .
+<http://lodlaundromat.org/.well-known/genid/N437021a816ed4d8e8dabe2672441cbc3> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N157d2360eb2c4996a557686050d7d774> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a60939f0799431cb9b7f7be3f9f80d1> .
+<http://lodlaundromat.org/.well-known/genid/N60fe93eec82149b090e3f7a050e7388e> <http://schema.org/name> "id" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N337b630986ab4a78bf11aec7b2bd1c61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> <http://schema.org/id> "8403800245" .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://schema.org/streetAddress> "PO BOX 191" .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N337b630986ab4a78bf11aec7b2bd1c61> .
+<http://lodlaundromat.org/.well-known/genid/N60f62cab22974abab82b63f843344738> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/name> "MOHALL HOSPITAL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.2617&mlon=-101.774#map=15/47.2617/-101.774> .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N60f62cab22974abab82b63f843344738> .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N386da66733414abba1fa20242e716dd2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://schema.org/addressRegion> "ND" .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://schema.org/addressLocality> "MOHALL" .
+<http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na3f61a9490fd477fa2f887fe60d9ab47> <http://schema.org/postalCode> "58761" .
+<http://lodlaundromat.org/.well-known/genid/N60f62cab22974abab82b63f843344738> <http://schema.org/value> "190190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N60f62cab22974abab82b63f843344738> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N337b630986ab4a78bf11aec7b2bd1c61> <http://schema.org/longitude> "-101.774"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0f57a74a3e4246d999d9826d6d46b033> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N337b630986ab4a78bf11aec7b2bd1c61> <http://schema.org/latitude> "47.2617"^^<http://www.w3.org/2001/XMLSchema#double> .
+

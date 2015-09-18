@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0d2f531a75bf492a814738e0b4024762> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/name> "HAMRICK COMMUNITY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> .
+<http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9f9b0bda656a4d77a25e8ac910b51721> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9f9b0bda656a4d77a25e8ac910b51721> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://schema.org/streetAddress> "1346 MASSILLON RD" .
+<http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0d2f531a75bf492a814738e0b4024762> <http://schema.org/longitude> "-81.4633"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://schema.org/addressLocality> "AKRON" .
+<http://lodlaundromat.org/.well-known/genid/N0d2f531a75bf492a814738e0b4024762> <http://schema.org/latitude> "41.0246"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N74b8299527b6454fb974f863e5b4e54c> <http://schema.org/postalCode> "44306-4138" .
+<http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> .
+<http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0d2f531a75bf492a814738e0b4024762> .
+<http://lodlaundromat.org/.well-known/genid/N6dbd7cb8381c47dc91e7537a283da873> <http://schema.org/id> "8403900411" .
+<http://lodlaundromat.org/.well-known/genid/N9f9b0bda656a4d77a25e8ac910b51721> <http://schema.org/value> "152634"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9f9b0bda656a4d77a25e8ac910b51721> .
+<http://lodlaundromat.org/.well-known/genid/N62ce2a7c230d4d34af1bfac7458adae7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0246&mlon=-81.4633#map=15/41.0246/-81.4633> .
+

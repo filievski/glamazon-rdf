@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0fc9fbc6cfe7479a8623a4e7cbc7fbc6> .
+<http://lodlaundromat.org/.well-known/genid/N9327b444dbf7407aa58edc57ef7bf65b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9327b444dbf7407aa58edc57ef7bf65b> <http://schema.org/latitude> "23.5298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=23.5298&mlon=23.5298#map=15/23.5298/23.5298> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N49ca725ba9714d3cb99d15f9da748697> .
+<http://lodlaundromat.org/.well-known/genid/N3c1572da263e4f7caeae390bb3bc6ef2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N49ca725ba9714d3cb99d15f9da748697> <http://schema.org/url> <http://www.museums.io/en/museums/185082> .
+<http://lodlaundromat.org/.well-known/genid/N49ca725ba9714d3cb99d15f9da748697> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/name> "Nokia Museums"@en .
+<http://lodlaundromat.org/.well-known/genid/N0fc9fbc6cfe7479a8623a4e7cbc7fbc6> <http://schema.org/value> "185082"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3c1572da263e4f7caeae390bb3bc6ef2> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3c1572da263e4f7caeae390bb3bc6ef2> .
+<http://lodlaundromat.org/.well-known/genid/N0fc9fbc6cfe7479a8623a4e7cbc7fbc6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9327b444dbf7407aa58edc57ef7bf65b> .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://schema.org/url> <http://www.museokompassi.fi/nokia/nokian-museot/> .
+<http://lodlaundromat.org/.well-known/genid/N0fc9fbc6cfe7479a8623a4e7cbc7fbc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9327b444dbf7407aa58edc57ef7bf65b> <http://schema.org/longitude> "23.5298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49ca725ba9714d3cb99d15f9da748697> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/Nbd0fef30095949269a3208f289aa93aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N49ca725ba9714d3cb99d15f9da748697> <http://schema.org/@Type> "Dataset" .
+

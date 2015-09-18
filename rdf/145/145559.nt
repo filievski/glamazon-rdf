@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://schema.org/addressLocality> "WINONA" .
+<http://lodlaundromat.org/.well-known/genid/N965bf1a76c0e497c9e67fcf2a0cfec97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> .
+<http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0361ac3442534fd59603803136287331> .
+<http://lodlaundromat.org/.well-known/genid/N965bf1a76c0e497c9e67fcf2a0cfec97> <http://schema.org/latitude> "33.4774"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0361ac3442534fd59603803136287331> <http://schema.org/value> "145559"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/name> "FRIENDS OF IMMANUEL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0361ac3442534fd59603803136287331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4774&mlon=-89.7283#map=15/33.4774/-89.7283> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> .
+<http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N965bf1a76c0e497c9e67fcf2a0cfec97> <http://schema.org/longitude> "-89.7283"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5afa410ee14f4087b43415ff793d3839> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N965bf1a76c0e497c9e67fcf2a0cfec97> .
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://schema.org/postalCode> "38967" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://schema.org/streetAddress> "54 WHITEHEAD DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N2bc5e78ca82c4f02aadc78f29c679a05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0361ac3442534fd59603803136287331> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N076e40cdb2f2420ea2d51925a4b6e38e> <http://schema.org/id> "8402800266" .
+

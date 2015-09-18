@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3019559e7a5742f09a2b3dec36da16aa> <http://schema.org/latitude> "46.7336"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://schema.org/addressLocality> "MOSCOW" .
+<http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3019559e7a5742f09a2b3dec36da16aa> <http://schema.org/longitude> "-116.997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8bee9a64ea0a4c85b136ae5247637c76> .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://schema.org/streetAddress> "110 S ADAMS ST" .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/name> "MC CONNELL MANSION"@en .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://schema.org/addressRegion> "ID" .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/telephone> "+1 (208) 882-1004" .
+<http://lodlaundromat.org/.well-known/genid/N8bee9a64ea0a4c85b136ae5247637c76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8bee9a64ea0a4c85b136ae5247637c76> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N583a56fcb68e4b8e814dfaae91af47fa> <http://schema.org/id> "8401600016" .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.7336&mlon=-116.997#map=15/46.7336/-116.997> .
+<http://lodlaundromat.org/.well-known/genid/N3019559e7a5742f09a2b3dec36da16aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c4745ffd17c4679a785daf109b3333c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3019559e7a5742f09a2b3dec36da16aa> .
+<http://lodlaundromat.org/.well-known/genid/N13d02fddc4fb4655bb412d46a0f7aab3> <http://schema.org/postalCode> "83843" .
+<http://lodlaundromat.org/.well-known/genid/N8bee9a64ea0a4c85b136ae5247637c76> <http://schema.org/value> "136666"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

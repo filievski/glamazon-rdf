@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf4f65f01b4034ea3bc16053721875773> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://schema.org/streetAddress> "PO BOX 397" .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N813fc543ba924a1bbc165c14e8a7b74c> .
+<http://lodlaundromat.org/.well-known/genid/N813fc543ba924a1bbc165c14e8a7b74c> <http://schema.org/latitude> "37.7516"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7516&mlon=-84.2941#map=15/37.7516/-84.2941> .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/name> "MADISON COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/Nf4f65f01b4034ea3bc16053721875773> <http://schema.org/value> "140376"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf4f65f01b4034ea3bc16053721875773> .
+<http://lodlaundromat.org/.well-known/genid/N813fc543ba924a1bbc165c14e8a7b74c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N813fc543ba924a1bbc165c14e8a7b74c> <http://schema.org/longitude> "-84.2941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> <http://schema.org/id> "8402100133" .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf4f65f01b4034ea3bc16053721875773> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://schema.org/addressLocality> "RICHMOND" .
+<http://lodlaundromat.org/.well-known/genid/N42a35963698144fba616f3765675656d> <http://schema.org/url> <http://madisonhistoryky.org/> .
+<http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9d2be3d6bb7a4e6abe295a8cc5d56921> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne80dcbbda2d647b59e24f5ac61695c54> <http://schema.org/postalCode> "40475" .
+

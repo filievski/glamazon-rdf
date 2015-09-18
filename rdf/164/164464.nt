@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N0f925223b66c44aa8e3c37d0369caaca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> <http://schema.org/url> <http://victoriancollections.net.au/organisations/wesley-mission-melbourne-archives> .
+<http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> <http://schema.org/id> "wesley-mission-melbourne-archives" .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/telephone> "(03) 9662 2355" .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb8eb96708aac42b2adb222eaa7ccdc01> .
+<http://lodlaundromat.org/.well-known/genid/Nb8eb96708aac42b2adb222eaa7ccdc01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N0f925223b66c44aa8e3c37d0369caaca> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/name> "Wesley Mission Melbourne Archives"@en .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8099&mlon=144.968#map=15/-37.8099/144.968> .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne847a7233524401294449da04817dd2b> .
+<http://lodlaundromat.org/.well-known/genid/Ne847a7233524401294449da04817dd2b> <http://schema.org/latitude> "-37.8099"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne847a7233524401294449da04817dd2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne847a7233524401294449da04817dd2b> <http://schema.org/longitude> "144.968"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/url> <http://www.wesley.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/Nb8eb96708aac42b2adb222eaa7ccdc01> <http://schema.org/value> "164464"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f925223b66c44aa8e3c37d0369caaca> .
+<http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7613dec8182749cbb5f1b1842e04146f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na306bd9d24c54c828fc13a6b4f1820ff> .
+<http://lodlaundromat.org/.well-known/genid/Nb8eb96708aac42b2adb222eaa7ccdc01> <http://schema.org/name> "id" .
+

@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> <http://schema.org/addressLocality> "Johannesburg" .
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://schema.org/name> "Bernard Price Institute of Palaeontology"@en .
+<http://lodlaundromat.org/.well-known/genid/N1a1f7e50998c4bf4997a9785b4175695> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc527cae45ca84100bddf1798743bc4db> <http://schema.org/value> "184721"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc527cae45ca84100bddf1798743bc4db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc527cae45ca84100bddf1798743bc4db> .
+<http://lodlaundromat.org/.well-known/genid/N1a1f7e50998c4bf4997a9785b4175695> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1a1f7e50998c4bf4997a9785b4175695> <http://schema.org/url> <http://www.museums.io/en/museums/184721> .
+<http://lodlaundromat.org/.well-known/genid/N1a1f7e50998c4bf4997a9785b4175695> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1a1f7e50998c4bf4997a9785b4175695> .
+<http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> <http://schema.org/addressRegion> "Gauteng" .
+<http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://schema.org/telephone> "011 717 6682" .
+<http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> <http://schema.org/streetAddress> "Van Riet Louw Bldg, E Campus, Wits, Jan Smuts Ave, Braamfontein" .
+<http://lodlaundromat.org/.well-known/genid/Nc527cae45ca84100bddf1798743bc4db> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N01e729b8d69b4aa2b5388adb7080eaba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3541527a8290423c8a1bcddb543e2b1f> .
+

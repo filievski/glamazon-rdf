@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nff18512aac2d4ac59f84f7b3b25fdd6c> <http://schema.org/latitude> "48.0519"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc8abb5286bba4c66af20c5f62590c908> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://schema.org/postalCode> "86938" .
+<http://lodlaundromat.org/.well-known/genid/Nc8abb5286bba4c66af20c5f62590c908> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://schema.org/streetAddress> "Landsberger Stra\u00DFe 19" .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> .
+<http://lodlaundromat.org/.well-known/genid/Na96be686a89d482c9756427f717c62d6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc8abb5286bba4c66af20c5f62590c908> .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na96be686a89d482c9756427f717c62d6> .
+<http://lodlaundromat.org/.well-known/genid/Nff18512aac2d4ac59f84f7b3b25fdd6c> <http://schema.org/longitude> "11.0873"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na96be686a89d482c9756427f717c62d6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na96be686a89d482c9756427f717c62d6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nc8abb5286bba4c66af20c5f62590c908> <http://schema.org/value> "183938"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nff18512aac2d4ac59f84f7b3b25fdd6c> .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.0519&mlon=11.0873#map=15/48.0519/11.0873> .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/telephone> "08192/7675" .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/name> "Gestalt-Archiv Hans Herrmann e. V."@en .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://schema.org/addressLocality> "Schondorf" .
+<http://lodlaundromat.org/.well-known/genid/N5d27327bec9947259b8b02a7706cedde> <http://schema.org/url> <http://www.gestalt-archiv.de/> .
+<http://lodlaundromat.org/.well-known/genid/Na96be686a89d482c9756427f717c62d6> <http://schema.org/url> <http://www.museums.io/en/museums/183938> .
+<http://lodlaundromat.org/.well-known/genid/N4d2b64f2eab64b8cb84e7da59f51d15f> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Nff18512aac2d4ac59f84f7b3b25fdd6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

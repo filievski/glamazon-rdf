@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> .
+<http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N90cb02d35d284b898306f5f4776917ea> .
+<http://lodlaundromat.org/.well-known/genid/N070956c4749648fea7133a6598c25c02> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N070956c4749648fea7133a6598c25c02> .
+<http://lodlaundromat.org/.well-known/genid/N90cb02d35d284b898306f5f4776917ea> <http://schema.org/latitude> "41.6313"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N90cb02d35d284b898306f5f4776917ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://schema.org/addressLocality> "FAIRHAVEN" .
+<http://lodlaundromat.org/.well-known/genid/N070956c4749648fea7133a6598c25c02> <http://schema.org/value> "142705"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N90cb02d35d284b898306f5f4776917ea> <http://schema.org/longitude> "-70.9022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://schema.org/postalCode> "02719" .
+<http://lodlaundromat.org/.well-known/genid/N070956c4749648fea7133a6598c25c02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> <http://schema.org/id> "8402500335" .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/name> "FAIRHAVEN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6313&mlon=-70.9022#map=15/41.6313/-70.9022> .
+<http://lodlaundromat.org/.well-known/genid/Na03a0deedbe04bc1ad0a2fc00e69ff5d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> .
+<http://lodlaundromat.org/.well-known/genid/N4748134b0d0547a98440118e5370d954> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://schema.org/streetAddress> "1 FARMFIELD ST" .
+<http://lodlaundromat.org/.well-known/genid/N349d61eb967846baa49ed9bd8db30f11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

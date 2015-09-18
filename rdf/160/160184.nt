@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na7f15a8662e54b259e77fe8c415856e2> <http://schema.org/value> "160184"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na7f15a8662e54b259e77fe8c415856e2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> .
+<http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> .
+<http://lodlaundromat.org/.well-known/genid/N6d45a4c2e3e64f519ac282375c95dd8c> <http://schema.org/latitude> "40.7341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d45a4c2e3e64f519ac282375c95dd8c> <http://schema.org/longitude> "-111.824"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://schema.org/addressLocality> "SALT LAKE CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7341&mlon=-111.824#map=15/40.7341/-111.824> .
+<http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> <http://schema.org/id> "8404900250" .
+<http://lodlaundromat.org/.well-known/genid/Na7f15a8662e54b259e77fe8c415856e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://schema.org/postalCode> "84108-2736" .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7f15a8662e54b259e77fe8c415856e2> .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d45a4c2e3e64f519ac282375c95dd8c> .
+<http://lodlaundromat.org/.well-known/genid/N0b3cbfbf46334b06a2cfcceb0c4b3256> <http://schema.org/name> "THE PONY EXPRESS NATIONAL MUSEUM & ARCHIVES"@en .
+<http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9e8b70df81484d809ab618c7df77a40d> <http://schema.org/streetAddress> "2327 LOGAN WAY" .
+<http://lodlaundromat.org/.well-known/genid/Nefc096da40254e9082a7bbd911a26dee> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6d45a4c2e3e64f519ac282375c95dd8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

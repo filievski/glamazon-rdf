@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf0cc80fce69e4b85a40d47710441bafe> <http://schema.org/latitude> "38.2586"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2586&mlon=-104.62#map=15/38.2586/-104.62> .
+<http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne609e866891d46d183d4724d42d668da> <http://schema.org/value> "133292"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> .
+<http://lodlaundromat.org/.well-known/genid/Nf0cc80fce69e4b85a40d47710441bafe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne609e866891d46d183d4724d42d668da> .
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://schema.org/streetAddress> "116 BROADWAY AVE" .
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://schema.org/postalCode> "81004" .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/name> "PUEBLO FIRE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne609e866891d46d183d4724d42d668da> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> .
+<http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> <http://schema.org/id> "8400800468" .
+<http://lodlaundromat.org/.well-known/genid/Nf0cc80fce69e4b85a40d47710441bafe> <http://schema.org/longitude> "-104.62"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78ab873245744dd0ab5a978a38d4cd13> <http://schema.org/addressLocality> "PUEBLO" .
+<http://lodlaundromat.org/.well-known/genid/N67c6c67148b547e5b9ce6720b8db5584> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne609e866891d46d183d4724d42d668da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N935cf76fe9e647ce879b714845f7ef31> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf0cc80fce69e4b85a40d47710441bafe> .
+

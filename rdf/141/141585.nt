@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://schema.org/addressLocality> "AUGUSTA" .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> .
+<http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1724ff566ee04a4190ac6e31013bbcca> <http://schema.org/value> "141585"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3066&mlon=-69.7823#map=15/44.3066/-69.7823> .
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://schema.org/streetAddress> "83 STATE HOUSE STA" .
+<http://lodlaundromat.org/.well-known/genid/N1724ff566ee04a4190ac6e31013bbcca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na91ab83e2ad248c28d8b12a10ef58269> .
+<http://lodlaundromat.org/.well-known/genid/Na91ab83e2ad248c28d8b12a10ef58269> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> <http://schema.org/id> "8402300434" .
+<http://lodlaundromat.org/.well-known/genid/Na91ab83e2ad248c28d8b12a10ef58269> <http://schema.org/longitude> "-69.7823"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://schema.org/postalCode> "04333-0083" .
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> .
+<http://lodlaundromat.org/.well-known/genid/N1724ff566ee04a4190ac6e31013bbcca> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na987a039ee4c4b57ac487ce3ee911cf4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/name> "FRIENDS OF THE MAINE STATE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na91ab83e2ad248c28d8b12a10ef58269> <http://schema.org/latitude> "44.3066"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na8fc8e9e052c435b98a8c88266fb4abd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1724ff566ee04a4190ac6e31013bbcca> .
+<http://lodlaundromat.org/.well-known/genid/Na5014f74721542cfbc85ebf9de0c11c6> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndd60e58cfa3943dbabd0ad8b46bc189a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5634&mlon=-121.485#map=15/38.5634/-121.485> .
+<http://lodlaundromat.org/.well-known/genid/Ndd60e58cfa3943dbabd0ad8b46bc189a> <http://schema.org/longitude> "-121.485"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> .
+<http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> <http://schema.org/id> "8400601784" .
+<http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://schema.org/addressLocality> "SACRAMENTO" .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://schema.org/postalCode> "95818-1730" .
+<http://lodlaundromat.org/.well-known/genid/N348ff293cfa8412cb522ef59ea2d2d0b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndd60e58cfa3943dbabd0ad8b46bc189a> <http://schema.org/latitude> "38.5634"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/telephone> "+1 (916) 452-6751" .
+<http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> <http://schema.org/streetAddress> "2030 V STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndd60e58cfa3943dbabd0ad8b46bc189a> .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/name> "CALIFORNIA HIGHWAY PATROL MUSEUM BOARD OF DIRECTORS"@en .
+<http://lodlaundromat.org/.well-known/genid/N5084487e3f96451cbf4ce4d952f05355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5084487e3f96451cbf4ce4d952f05355> <http://schema.org/value> "131658"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N38f5f240e9b24c06b67fa4c630b6580c> .
+<http://lodlaundromat.org/.well-known/genid/N5084487e3f96451cbf4ce4d952f05355> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb22e3f67f1454fc794464466d632d50e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5084487e3f96451cbf4ce4d952f05355> .
+

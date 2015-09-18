@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://schema.org/streetAddress> "1975 SHRIVERS CORNER ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> <http://schema.org/id> "8404200358" .
+<http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> .
+<http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://schema.org/addressLocality> "GETTYSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N9d25050f5da74e46a5026849986db7dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9d25050f5da74e46a5026849986db7dc> <http://schema.org/latitude> "39.8825"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://schema.org/postalCode> "17325" .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb55f2d45406d4f90aaf8f961117ca73b> .
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/name> "HUNTERSOWN HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb55f2d45406d4f90aaf8f961117ca73b> <http://schema.org/value> "155164"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb55f2d45406d4f90aaf8f961117ca73b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.8825&mlon=-77.1615#map=15/39.8825/-77.1615> .
+<http://lodlaundromat.org/.well-known/genid/N9d25050f5da74e46a5026849986db7dc> <http://schema.org/longitude> "-77.1615"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9d25050f5da74e46a5026849986db7dc> .
+<http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb55f2d45406d4f90aaf8f961117ca73b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nca9bb7bcdccf4815898f01f21e69031a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6733e077e76a41eea41c4dd3c989215f> .
+<http://lodlaundromat.org/.well-known/genid/N28e68b469f74471baa0a0657aaa85918> <http://schema.org/@Type> "Dataset" .
+

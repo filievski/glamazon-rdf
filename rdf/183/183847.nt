@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6b53609ef48b433990ed5cb686e2df9d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd20768433b8c437db16e5360249d8027> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/telephone> "0881/7549" .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://schema.org/postalCode> "82362" .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.8429&mlon=11.1383#map=15/47.8429/11.1383> .
+<http://lodlaundromat.org/.well-known/genid/N6f2c0039b6004d79af2e9d92d43b1b21> <http://schema.org/longitude> "11.1383"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6f2c0039b6004d79af2e9d92d43b1b21> .
+<http://lodlaundromat.org/.well-known/genid/N6f2c0039b6004d79af2e9d92d43b1b21> <http://schema.org/latitude> "47.8429"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6f2c0039b6004d79af2e9d92d43b1b21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd20768433b8c437db16e5360249d8027> <http://schema.org/value> "183847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6b53609ef48b433990ed5cb686e2df9d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd20768433b8c437db16e5360249d8027> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6b53609ef48b433990ed5cb686e2df9d> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://schema.org/addressLocality> "Weilheim" .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6b53609ef48b433990ed5cb686e2df9d> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/name> "Sch\u00FCtzenmuseum der K\u00F6niglich privilegierten Feuersch\u00FCtzengesellschaft Weilheim"@en .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N6b53609ef48b433990ed5cb686e2df9d> <http://schema.org/url> <http://www.museums.io/en/museums/183847> .
+<http://lodlaundromat.org/.well-known/genid/N231ab8e6b54b46748bbe34d7b4d68a1f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd20768433b8c437db16e5360249d8027> .
+<http://lodlaundromat.org/.well-known/genid/N0580d7afad704727af4feb0196629110> <http://schema.org/streetAddress> "Sch\u00FCtzenstra\u00DFe 28" .
+

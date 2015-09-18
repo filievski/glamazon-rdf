@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nebf43daee3a24e1d8316ba532353fbd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://schema.org/addressLocality> "LOS ANGELES" .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na64918cc6b66486e9e4215a7db436f68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Madame_Tussauds_Hollywood> .
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://schema.org/streetAddress> "6933 HOLLYWOOD BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na64918cc6b66486e9e4215a7db436f68> .
+<http://lodlaundromat.org/.well-known/genid/Na64918cc6b66486e9e4215a7db436f68> <http://schema.org/longitude> "-118.341"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nebf43daee3a24e1d8316ba532353fbd4> <http://schema.org/value> "130189"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1016&mlon=-118.341#map=15/34.1016/-118.341> .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/url> <http://madametussaudsla.com/> .
+<http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/name> "MADAME TUSSAUDS HOLLYWOOD"@en .
+<http://lodlaundromat.org/.well-known/genid/Nebf43daee3a24e1d8316ba532353fbd4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nebf43daee3a24e1d8316ba532353fbd4> .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> .
+<http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> <http://schema.org/id> "8400600315" .
+<http://lodlaundromat.org/.well-known/genid/N0a508affd11d4f8485892c54d859304a> <http://schema.org/telephone> "+1 (1866) 841-3315" .
+<http://lodlaundromat.org/.well-known/genid/N47284cdd0f8640898c8aa3e84ec8f943> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0484b2890b754d7d97a7b400acbeb20f> <http://schema.org/postalCode> "90028" .
+<http://lodlaundromat.org/.well-known/genid/Na64918cc6b66486e9e4215a7db436f68> <http://schema.org/latitude> "34.1016"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N029978a87cf34c4a9604c05636523460> .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.758&mlon=-83.9485#map=15/40.758/-83.9485> .
+<http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e9db15279849268d9a73c93cb6e627> <http://schema.org/latitude> "40.758"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://schema.org/addressLocality> "LAFAYETTE" .
+<http://lodlaundromat.org/.well-known/genid/N029978a87cf34c4a9604c05636523460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N029978a87cf34c4a9604c05636523460> <http://schema.org/value> "152469"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne9e9db15279849268d9a73c93cb6e627> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N029978a87cf34c4a9604c05636523460> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne9e9db15279849268d9a73c93cb6e627> .
+<http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> .
+<http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/name> "LAFAYETTE JACKSON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbea316d6e68045368f0ad65595251eae> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> .
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://schema.org/streetAddress> "PO BOX 7147 207 SCHICK DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N6e33ebbc51aa4a8db77a3c62f55528b0> <http://schema.org/id> "8403900246" .
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://schema.org/postalCode> "45854" .
+<http://lodlaundromat.org/.well-known/genid/Ne9e9db15279849268d9a73c93cb6e627> <http://schema.org/longitude> "-83.9485"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N9561eda48523410487cd73c30226337a> <http://schema.org/addressCountry> "United States" .
+

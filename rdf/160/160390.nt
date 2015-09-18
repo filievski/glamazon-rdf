@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1dd972143b3f4547a696f8a57f1ca34f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94dee054be1f402cb658894b6520b63b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://schema.org/postalCode> "05001-1909" .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> .
+<http://lodlaundromat.org/.well-known/genid/N1dd972143b3f4547a696f8a57f1ca34f> <http://schema.org/value> "160390"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://schema.org/addressLocality> "WHITE RIVER JUNCITON" .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/name> "MAIN STREET MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N94dee054be1f402cb658894b6520b63b> <http://schema.org/longitude> "-72.3188"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/url> <http://www.mainstreetmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://schema.org/streetAddress> "58 BRIDGE ST" .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1dd972143b3f4547a696f8a57f1ca34f> .
+<http://lodlaundromat.org/.well-known/genid/N1dd972143b3f4547a696f8a57f1ca34f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Neb28dd32b38f4f46bb651ee0d56799bc> <http://schema.org/id> "8405000196" .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94dee054be1f402cb658894b6520b63b> .
+<http://lodlaundromat.org/.well-known/genid/N94dee054be1f402cb658894b6520b63b> <http://schema.org/latitude> "43.6499"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/telephone> "+1 (802) 356-2776" .
+<http://lodlaundromat.org/.well-known/genid/Nf2d263ce979646678ece0ed54b3641de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nadd666e356b546f79c3ae8acc3106038> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6499&mlon=-72.3188#map=15/43.6499/-72.3188> .
+

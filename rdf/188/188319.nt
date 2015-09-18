@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Na9c18b2116c0449ba96a6b6385e0862b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2163c9aefa43429abd9c7da835d55718> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na9c18b2116c0449ba96a6b6385e0862b> <http://schema.org/longitude> "9.193"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> <http://schema.org/addressRegion> "Sardegna" .
+<http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> .
+<http://lodlaundromat.org/.well-known/genid/Na9c18b2116c0449ba96a6b6385e0862b> <http://schema.org/latitude> "40.9211"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na9c18b2116c0449ba96a6b6385e0862b> .
+<http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> .
+<http://lodlaundromat.org/.well-known/genid/N2163c9aefa43429abd9c7da835d55718> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/url> <http://www.sardegnacultura.it/j/v/253?s=22605&v=2&c=2487&c1=2130&visb=&t=1%22> .
+<http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> <http://schema.org/id> "106301" .
+<http://lodlaundromat.org/.well-known/genid/N2163c9aefa43429abd9c7da835d55718> <http://schema.org/value> "188319"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> <http://schema.org/addressLocality> "Calangianus" .
+<http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/telephone> "+39 079 660659" .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9211&mlon=9.193#map=15/40.9211/9.193> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N13023028ab194e8d8fb9ca7116d7b613> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13023028ab194e8d8fb9ca7116d7b613> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2163c9aefa43429abd9c7da835d55718> .
+<http://lodlaundromat.org/.well-known/genid/N13023028ab194e8d8fb9ca7116d7b613> <http://schema.org/contentUrl> <http://images.museums.io/q_1hLMnZJMTUgmpENkj2RyIvZ3o=/1000x1000/museums/logos/000/188/319/original/89c7a5605a276073d0f4326f65f37a695b7a621b.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N6147ce24859944339448e050eb706194> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N93133f98850d4bb6a3bd5faada7f3ccd> <http://schema.org/streetAddress> "Via Rosario , snc" .
+<http://lodlaundromat.org/.well-known/genid/N89df6a27ce37468a858889f5773f068c> <http://schema.org/name> "Museo diocesano di arte sacra Santa Giusta"@it .
+

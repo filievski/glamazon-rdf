@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N59b066e234c54c7790765d2cf209edfc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/name> "Altes Rathaus"@en .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://schema.org/postalCode> "97688" .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N59b066e234c54c7790765d2cf209edfc> <http://schema.org/value> "183738"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N985f3cdfa9504d68a0e437d2c316ba58> <http://schema.org/longitude> "10.0766"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59b066e234c54c7790765d2cf209edfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://schema.org/addressLocality> "Bad Kissingen" .
+<http://lodlaundromat.org/.well-known/genid/Nc12aea89c36549119ab350f30d2f6372> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N985f3cdfa9504d68a0e437d2c316ba58> .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> .
+<http://lodlaundromat.org/.well-known/genid/N985f3cdfa9504d68a0e437d2c316ba58> <http://schema.org/latitude> "50.1999"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc12aea89c36549119ab350f30d2f6372> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc12aea89c36549119ab350f30d2f6372> <http://schema.org/url> <http://www.museums.io/en/museums/183738> .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N59b066e234c54c7790765d2cf209edfc> .
+<http://lodlaundromat.org/.well-known/genid/N985f3cdfa9504d68a0e437d2c316ba58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc12aea89c36549119ab350f30d2f6372> .
+<http://lodlaundromat.org/.well-known/genid/Nc12aea89c36549119ab350f30d2f6372> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Necefda54877449b4ae4d14dd85e50636> <http://schema.org/streetAddress> "Marktplatz 12" .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/telephone> "0971/8048250" .
+<http://lodlaundromat.org/.well-known/genid/N2ad78414be89469fb6cadf2af663216d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.1999&mlon=10.0766#map=15/50.1999/10.0766> .
+

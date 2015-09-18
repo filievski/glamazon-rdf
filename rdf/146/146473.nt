@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/name> "MADISON COUNTY ARCHIVES THOMPSON HICKMAN LIBRARY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne54c1e32407e4343aa1881cf42bbc1bb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne54c1e32407e4343aa1881cf42bbc1bb> .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> .
+<http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na38a2dfde6954744a7dcbae1fd1eb374> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://schema.org/addressLocality> "VIRGINIA CITY" .
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://schema.org/postalCode> "59755" .
+<http://lodlaundromat.org/.well-known/genid/Ne54c1e32407e4343aa1881cf42bbc1bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/telephone> "+1 (406) 843-5346" .
+<http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> .
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://schema.org/streetAddress> "217 IDAHO STREET" .
+<http://lodlaundromat.org/.well-known/genid/Na38a2dfde6954744a7dcbae1fd1eb374> <http://schema.org/longitude> "-111.942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N154caf9157544a81ab4ac87a81e34bcd> <http://schema.org/id> "8403000116" .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na38a2dfde6954744a7dcbae1fd1eb374> .
+<http://lodlaundromat.org/.well-known/genid/Ne54c1e32407e4343aa1881cf42bbc1bb> <http://schema.org/value> "146473"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na38a2dfde6954744a7dcbae1fd1eb374> <http://schema.org/latitude> "45.2932"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d7e0358dbdb4a2896d33c4a6d23d004> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb1144b4247fc4fe2abb8cb6b2c79caeb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.2932&mlon=-111.942#map=15/45.2932/-111.942> .
+

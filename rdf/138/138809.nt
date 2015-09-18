@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://schema.org/postalCode> "46802" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> .
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N72d0998c1b0e424e92ab0b49d267715b> .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> .
+<http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://schema.org/streetAddress> "200 E BERRY STREET" .
+<http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0797&mlon=-85.1368#map=15/41.0797/-85.1368> .
+<http://lodlaundromat.org/.well-known/genid/N72d0998c1b0e424e92ab0b49d267715b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/telephone> "+1 (260) 455-3864" .
+<http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nefd6ddc647a041df92c7b7a754c5c4d2> .
+<http://lodlaundromat.org/.well-known/genid/N72d0998c1b0e424e92ab0b49d267715b> <http://schema.org/value> "138809"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N72d0998c1b0e424e92ab0b49d267715b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nefd6ddc647a041df92c7b7a754c5c4d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne520b0ff2e1f45ffba076bbdfab3f16e> <http://schema.org/id> "8401800595" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f4bd87c92d4e45acca30296f26f965> <http://schema.org/name> "LINCOLN MUSEUM, FRIENDS OF"@en .
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na0fc94f90d7045ada81d03297aeebedd> <http://schema.org/addressLocality> "FORT WAYNE" .
+<http://lodlaundromat.org/.well-known/genid/Nefd6ddc647a041df92c7b7a754c5c4d2> <http://schema.org/longitude> "-85.1368"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nefd6ddc647a041df92c7b7a754c5c4d2> <http://schema.org/latitude> "41.0797"^^<http://www.w3.org/2001/XMLSchema#double> .
+

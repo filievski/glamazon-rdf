@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> <http://schema.org/url> <http://victoriancollections.net.au/organisations/melbourne-zoo> .
+<http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> <http://schema.org/id> "melbourne-zoo" .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7863&mlon=144.951#map=15/-37.7863/144.951> .
+<http://lodlaundromat.org/.well-known/genid/N68a6945a563845c5b1c0fc2f23ba8a79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N68a6945a563845c5b1c0fc2f23ba8a79> <http://schema.org/longitude> "144.951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68a6945a563845c5b1c0fc2f23ba8a79> .
+<http://lodlaundromat.org/.well-known/genid/N8cca70ca617d47ccb7b19d9b363a3f70> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/url> <http://www.zoo.org.au/melbourne/> .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nee84defd8cef45ad8da45071f120c192> .
+<http://lodlaundromat.org/.well-known/genid/Nee84defd8cef45ad8da45071f120c192> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/telephone> "(03) 9285 9300" .
+<http://lodlaundromat.org/.well-known/genid/Nee84defd8cef45ad8da45071f120c192> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8cca70ca617d47ccb7b19d9b363a3f70> .
+<http://lodlaundromat.org/.well-known/genid/N68a6945a563845c5b1c0fc2f23ba8a79> <http://schema.org/latitude> "-37.7863"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/name> "Melbourne Zoo"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8cca70ca617d47ccb7b19d9b363a3f70> <http://schema.org/value> "164074"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> .
+<http://lodlaundromat.org/.well-known/genid/Nb8be4604809a40f1a5d5c84ee8a06146> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8cca70ca617d47ccb7b19d9b363a3f70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5258506d4e604223a66e624193d8edf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

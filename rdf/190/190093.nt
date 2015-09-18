@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0704de8594494733821a4b52bd170aae> <http://schema.org/value> "190093"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf4b891477e994da9b9a522b64ecf9dad> <http://schema.org/longitude> "-88.5717"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf4b891477e994da9b9a522b64ecf9dad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/telephone> "+1 (716) 683-5959" .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9232&mlon=-88.5717#map=15/39.9232/-88.5717> .
+<http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> <http://schema.org/id> "8403602440" .
+<http://lodlaundromat.org/.well-known/genid/N0704de8594494733821a4b52bd170aae> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://schema.org/addressLocality> "DEPEW" .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/url> <http://www.dec.ny.gov/education/1837.html> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/name> "NYSDEC REINSTEIN WOODS EE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5947d42903224bc4b1f0da0e2baa2a15> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf4b891477e994da9b9a522b64ecf9dad> .
+<http://lodlaundromat.org/.well-known/genid/Naa3efb66199b49ad8a44003e638c3bb9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0704de8594494733821a4b52bd170aae> .
+<http://lodlaundromat.org/.well-known/genid/Nf4b891477e994da9b9a522b64ecf9dad> <http://schema.org/latitude> "39.9232"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://schema.org/streetAddress> "93 HONORINE DR" .
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://schema.org/postalCode> "14043" .
+<http://lodlaundromat.org/.well-known/genid/N798fd76f59554d81bdefc70a674d4f5b> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N0704de8594494733821a4b52bd170aae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

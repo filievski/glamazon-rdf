@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/url> <http://www.museo-opas.fi/fi/museo/kycklingsin-kotiseututalo> .
+<http://lodlaundromat.org/.well-known/genid/N4679a59a1a2943a6b0fd1850d834ef9d> <http://schema.org/longitude> "26.2048"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8de217b691b847829df1bd0c0823445f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53fae7d08f2c4fc1a4e3608fe131a271> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.2048&mlon=26.2048#map=15/26.2048/26.2048> .
+<http://lodlaundromat.org/.well-known/genid/N53fae7d08f2c4fc1a4e3608fe131a271> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8de217b691b847829df1bd0c0823445f> .
+<http://lodlaundromat.org/.well-known/genid/N55288b5d2dc5403994bd516d38e7bc1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4679a59a1a2943a6b0fd1850d834ef9d> .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N53fae7d08f2c4fc1a4e3608fe131a271> .
+<http://lodlaundromat.org/.well-known/genid/N4679a59a1a2943a6b0fd1850d834ef9d> <http://schema.org/latitude> "26.2048"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55288b5d2dc5403994bd516d38e7bc1b> <http://schema.org/value> "185072"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/name> "Kyckling's House Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N55288b5d2dc5403994bd516d38e7bc1b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4792da2618eb4e79bf7007280cde5831> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N55288b5d2dc5403994bd516d38e7bc1b> .
+<http://lodlaundromat.org/.well-known/genid/N53fae7d08f2c4fc1a4e3608fe131a271> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N8de217b691b847829df1bd0c0823445f> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N53fae7d08f2c4fc1a4e3608fe131a271> <http://schema.org/url> <http://www.museums.io/en/museums/185072> .
+<http://lodlaundromat.org/.well-known/genid/N4679a59a1a2943a6b0fd1850d834ef9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

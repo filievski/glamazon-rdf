@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://schema.org/addressLocality> "RYE" .
+<http://lodlaundromat.org/.well-known/genid/N185dd49b70084278a833d42a8a0d6069> <http://schema.org/value> "150995"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N185dd49b70084278a833d42a8a0d6069> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N185dd49b70084278a833d42a8a0d6069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9771&mlon=-73.6841#map=15/40.9771/-73.6841> .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> .
+<http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/url> <http://www.ryeartscenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4641c9a197c948f7b7ee968479c23775> .
+<http://lodlaundromat.org/.well-known/genid/N4641c9a197c948f7b7ee968479c23775> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> <http://schema.org/id> "8403602289" .
+<http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7219f39cbb1249199ac07220826bc897> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://schema.org/streetAddress> "51 MILTON RD" .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/name> "RYE ARTS CENTER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N185dd49b70084278a833d42a8a0d6069> .
+<http://lodlaundromat.org/.well-known/genid/N4641c9a197c948f7b7ee968479c23775> <http://schema.org/latitude> "40.9771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://schema.org/postalCode> "10580-3854" .
+<http://lodlaundromat.org/.well-known/genid/N4641c9a197c948f7b7ee968479c23775> <http://schema.org/longitude> "-73.6841"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N34fd7d612db743d3bdbecf24ac060b9d> <http://schema.org/telephone> "+1 (914) 967-0700" .
+<http://lodlaundromat.org/.well-known/genid/Ne2cfb7429b3040ff8843ed59def8ced9> <http://schema.org/addressRegion> "NY" .
+

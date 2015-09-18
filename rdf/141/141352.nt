@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/name> "GRAND LAKE STREAM HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb0f6f697775f47a398a25e4d1801c22e> .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> .
+<http://lodlaundromat.org/.well-known/genid/Nb0f6f697775f47a398a25e4d1801c22e> <http://schema.org/value> "141352"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb0f6f697775f47a398a25e4d1801c22e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e2171227f4e4cf4951052cec3588a0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb0f6f697775f47a398a25e4d1801c22e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> <http://schema.org/id> "8402300201" .
+<http://lodlaundromat.org/.well-known/genid/N2e2171227f4e4cf4951052cec3588a0d> <http://schema.org/latitude> "45.1788"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://schema.org/streetAddress> "10 BROWN LANE" .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2e2171227f4e4cf4951052cec3588a0d> .
+<http://lodlaundromat.org/.well-known/genid/N91c8750f36a747fe8a4a54d7488c085c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.1788&mlon=-67.7779#map=15/45.1788/-67.7779> .
+<http://lodlaundromat.org/.well-known/genid/N2e2171227f4e4cf4951052cec3588a0d> <http://schema.org/longitude> "-67.7779"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0a3b1de81a48452c94f4fd220bd72854> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://schema.org/postalCode> "04668" .
+<http://lodlaundromat.org/.well-known/genid/Nf942e66138f54ad18edf8cffe4244b66> <http://schema.org/addressLocality> "GRAND LAKE STREAM" .
+

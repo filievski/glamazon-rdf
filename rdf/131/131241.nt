@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/name> "CATHEDRAL CITY HISTORIAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N673af4dec1d947c18f8654afa88fa80f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd68ebda1ce6942769f4aa3f1a31cc5a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd68ebda1ce6942769f4aa3f1a31cc5a7> <http://schema.org/latitude> "33.816"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd68ebda1ce6942769f4aa3f1a31cc5a7> .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N673af4dec1d947c18f8654afa88fa80f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/url> <http://www.cathedralcityhistoricalsociety.com/> .
+<http://lodlaundromat.org/.well-known/genid/N673af4dec1d947c18f8654afa88fa80f> <http://schema.org/value> "131241"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://schema.org/postalCode> "92235-0444" .
+<http://lodlaundromat.org/.well-known/genid/Nd68ebda1ce6942769f4aa3f1a31cc5a7> <http://schema.org/longitude> "-116.455"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> .
+<http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.816&mlon=-116.455#map=15/33.816/-116.455> .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://schema.org/streetAddress> "PO BOX 444" .
+<http://lodlaundromat.org/.well-known/genid/N51eda2b8c1444a3aa1dfad8451528504> <http://schema.org/addressLocality> "CATHEDRAL CITY" .
+<http://lodlaundromat.org/.well-known/genid/N784920ddcf85417c9d35b9415e3dbadc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N673af4dec1d947c18f8654afa88fa80f> .
+<http://lodlaundromat.org/.well-known/genid/N024dfa883acc472cb3d83cfe94e1bc2b> <http://schema.org/id> "8400601367" .
+

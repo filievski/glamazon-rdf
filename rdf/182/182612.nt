@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b86bb2b9494ccdaeed1a0c74890d68> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2271&mlon=12.6764#map=15/48.2271/12.6764> .
+<http://lodlaundromat.org/.well-known/genid/N61a498f4a82c48e789a6541cc3e43a72> <http://schema.org/latitude> "48.2271"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3fbe4fb1a6984cb481f848249ff6d289> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3fbe4fb1a6984cb481f848249ff6d289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> .
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://schema.org/addressLocality> "Alt\u00F6tting" .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N61a498f4a82c48e789a6541cc3e43a72> .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/url> <http://www.neueschatzkammer.de/haus-papst-benedikt-xvi> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b86bb2b9494ccdaeed1a0c74890d68> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3fbe4fb1a6984cb481f848249ff6d289> .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/telephone> "08671/9242015" .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/name> "Haus Papst Benedikt XVI. \u2013 Neue Schatzkammer und Wallfahrtsmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne2b86bb2b9494ccdaeed1a0c74890d68> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b86bb2b9494ccdaeed1a0c74890d68> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N61a498f4a82c48e789a6541cc3e43a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://schema.org/postalCode> "84503" .
+<http://lodlaundromat.org/.well-known/genid/N3fbe4fb1a6984cb481f848249ff6d289> <http://schema.org/value> "182612"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne2b86bb2b9494ccdaeed1a0c74890d68> <http://schema.org/url> <http://www.museums.io/en/museums/182612> .
+<http://lodlaundromat.org/.well-known/genid/N61a498f4a82c48e789a6541cc3e43a72> <http://schema.org/longitude> "12.6764"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na0ba72c8e74e43c7a53bc7b03b770a69> <http://schema.org/streetAddress> "Kapellplatz 4" .
+<http://lodlaundromat.org/.well-known/genid/N5378ab1d299940d9b7f1eefb1093817a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

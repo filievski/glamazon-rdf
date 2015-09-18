@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1a57997818cc48b9b6a2453f0215584c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4441&mlon=-79.997#map=15/40.4441/-79.997> .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> .
+<http://lodlaundromat.org/.well-known/genid/Ne5e6bb18cb2f4f048d8e8c1a9fa8506b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://schema.org/streetAddress> "PNC BANK NA 620 LIBERTY AVE NO" .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> .
+<http://lodlaundromat.org/.well-known/genid/N1a57997818cc48b9b6a2453f0215584c> <http://schema.org/longitude> "-79.997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/name> "CHARLOTTE BATTLES U/W"@en .
+<http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne5e6bb18cb2f4f048d8e8c1a9fa8506b> <http://schema.org/value> "156191"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a57997818cc48b9b6a2453f0215584c> .
+<http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://schema.org/addressLocality> "PITTSBURGH" .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7850ee6071354167a585c13d3b0cd406> <http://schema.org/postalCode> "15222" .
+<http://lodlaundromat.org/.well-known/genid/N4f3df9999b70488587f767c1e06d23ec> <http://schema.org/id> "8404201385" .
+<http://lodlaundromat.org/.well-known/genid/N35adf850f55246979bb050d9d5b78171> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne5e6bb18cb2f4f048d8e8c1a9fa8506b> .
+<http://lodlaundromat.org/.well-known/genid/Ne5e6bb18cb2f4f048d8e8c1a9fa8506b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1a57997818cc48b9b6a2453f0215584c> <http://schema.org/latitude> "40.4441"^^<http://www.w3.org/2001/XMLSchema#double> .
+

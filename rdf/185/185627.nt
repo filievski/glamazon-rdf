@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> <http://schema.org/addressRegion> "Abruzzo" .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> .
+<http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N2cd4ab4a1be04dbaa64867311b98c580> <http://schema.org/longitude> "14.2161"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2cd4ab4a1be04dbaa64867311b98c580> <http://schema.org/latitude> "42.4618"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> <http://schema.org/streetAddress> "Lungofiume Paolucci, SNC" .
+<http://lodlaundromat.org/.well-known/genid/N76cda40600b541fa93f3bcf7e252a5fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76cda40600b541fa93f3bcf7e252a5fb> <http://schema.org/value> "185627"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2cd4ab4a1be04dbaa64867311b98c580> .
+<http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> <http://schema.org/id> "105426" .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/telephone> "+39 0854 283" .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4618&mlon=14.2161#map=15/42.4618/14.2161> .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/name> "Museo meraviglie marine Ex Museo Ittico"@it .
+<http://lodlaundromat.org/.well-known/genid/N69ef6355eee847598e05c0794348756f> <http://schema.org/addressLocality> "Pescara" .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/url> <http://www.muvi.org/museodellemeravigliemarine> .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N76cda40600b541fa93f3bcf7e252a5fb> .
+<http://lodlaundromat.org/.well-known/genid/N2cd4ab4a1be04dbaa64867311b98c580> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N76cda40600b541fa93f3bcf7e252a5fb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nc54f065bdc9a40ddb093b0d3c6d87a1f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> .
+<http://lodlaundromat.org/.well-known/genid/N6d486f39c9fd445e954842d98c92f2b0> <http://schema.org/@Type> "Dataset" .
+

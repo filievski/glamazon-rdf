@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3ffe44ccc7a7423f8f97edb396c13cb6> .
+<http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/name> "COMMONWEALTH COACH AND TROLLEY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3ffe44ccc7a7423f8f97edb396c13cb6> <http://schema.org/latitude> "37.2421"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.2421&mlon=-79.9472#map=15/37.2421/-79.9472> .
+<http://lodlaundromat.org/.well-known/genid/N3ffe44ccc7a7423f8f97edb396c13cb6> <http://schema.org/longitude> "-79.9472"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://schema.org/streetAddress> "10 27TH ST SE" .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/telephone> "+1 (540) 342-2383" .
+<http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> <http://schema.org/id> "8405100889" .
+<http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> .
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb2f12efcfe624d33b1f6ce6a92ca1d3c> <http://schema.org/value> "161383"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9aefaa9803194913bdc9b295fec0d894> .
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://schema.org/postalCode> "24014-3347" .
+<http://lodlaundromat.org/.well-known/genid/N3ffe44ccc7a7423f8f97edb396c13cb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N42ebb8ce461f402c92286bcb45cd6b11> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb2f12efcfe624d33b1f6ce6a92ca1d3c> .
+<http://lodlaundromat.org/.well-known/genid/Nb2f12efcfe624d33b1f6ce6a92ca1d3c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N526ae77b73884534a5d2fc940a8c958d> <http://schema.org/addressLocality> "ROANOKE" .
+<http://lodlaundromat.org/.well-known/genid/Nb2f12efcfe624d33b1f6ce6a92ca1d3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

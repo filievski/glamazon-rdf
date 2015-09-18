@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2d2172923f7e4b49aaf81816db5e2cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2d2172923f7e4b49aaf81816db5e2cf4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7ddd1fd6875b4cb6aca7049e3a85abe3> <http://schema.org/longitude> "-75.5513"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7ddd1fd6875b4cb6aca7049e3a85abe3> .
+<http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.8303&mlon=-75.5513#map=15/40.8303/-75.5513> .
+<http://lodlaundromat.org/.well-known/genid/N7ddd1fd6875b4cb6aca7049e3a85abe3> <http://schema.org/latitude> "40.8303"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://schema.org/streetAddress> "2555 HAHNS DAIRY RD" .
+<http://lodlaundromat.org/.well-known/genid/N2d2172923f7e4b49aaf81816db5e2cf4> <http://schema.org/value> "155368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7ddd1fd6875b4cb6aca7049e3a85abe3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://schema.org/postalCode> "18071" .
+<http://lodlaundromat.org/.well-known/genid/Na345eb0a53134f4fbe488ce34e9cf50c> <http://schema.org/id> "8404200562" .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/name> "NATIONAL RAILWAY HISTORICAL SOCIETY LEHIGH VALLEY CHAPTER IN"@en .
+<http://lodlaundromat.org/.well-known/genid/N399663c5179b4194b76ba2ba99ec66ce> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2d2172923f7e4b49aaf81816db5e2cf4> .
+<http://lodlaundromat.org/.well-known/genid/N5a8f29bf37be432d8e6322f1ba6b871a> <http://schema.org/addressLocality> "PALMERTON" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1ba5bef2bf874960bc599f5dc1c699ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N163ba9a332704deaa7a8d1ceb351aff9> .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/telephone> "+1 (508) 888-4668" .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1ba5bef2bf874960bc599f5dc1c699ac> .
+<http://lodlaundromat.org/.well-known/genid/N163ba9a332704deaa7a8d1ceb351aff9> <http://schema.org/latitude> "41.7459"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/name> "THORTON W. BURGESS SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://schema.org/postalCode> "02537-1316" .
+<http://lodlaundromat.org/.well-known/genid/N163ba9a332704deaa7a8d1ceb351aff9> <http://schema.org/longitude> "-70.4681"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7459&mlon=-70.4681#map=15/41.7459/-70.4681> .
+<http://lodlaundromat.org/.well-known/genid/N1ba5bef2bf874960bc599f5dc1c699ac> <http://schema.org/value> "142390"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> <http://schema.org/id> "8402500020" .
+<http://lodlaundromat.org/.well-known/genid/N1ba5bef2bf874960bc599f5dc1c699ac> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://schema.org/url> <http://www.thorntonburgess.org/> .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://schema.org/addressLocality> "EAST SANDWICH" .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N15a911202d1a4caca775013e70133f60> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N21c4565a51494bbca8098bb4ec53c884> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N163ba9a332704deaa7a8d1ceb351aff9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N46a625482a4b44aa9d91412dd26de99e> <http://schema.org/streetAddress> "6 DISCOVERY HILL ROAD" .
+

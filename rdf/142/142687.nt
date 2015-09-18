@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://schema.org/addressLocality> "HADLEY" .
+<http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> <http://schema.org/id> "8402500317" .
+<http://lodlaundromat.org/.well-known/genid/Nd85155b44c65456294fbf2bbb0da17b1> <http://schema.org/longitude> "-72.589"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N69f706aab5524d6c92d6a722d2d54fb8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N69f706aab5524d6c92d6a722d2d54fb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3423&mlon=-72.589#map=15/42.3423/-72.589> .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> .
+<http://lodlaundromat.org/.well-known/genid/Nd85155b44c65456294fbf2bbb0da17b1> <http://schema.org/latitude> "42.3423"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd85155b44c65456294fbf2bbb0da17b1> .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N69f706aab5524d6c92d6a722d2d54fb8> .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://schema.org/streetAddress> "147 RUSSELL STREET" .
+<http://lodlaundromat.org/.well-known/genid/N69f706aab5524d6c92d6a722d2d54fb8> <http://schema.org/value> "142687"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/name> "HADLEY FARM MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://schema.org/postalCode> "01035" .
+<http://lodlaundromat.org/.well-known/genid/Nd85155b44c65456294fbf2bbb0da17b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4c74e97c4b9f4c59b5d66189eea5dd10> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N050c7cbcb7784a28a1436365dbb58749> .
+<http://lodlaundromat.org/.well-known/genid/Ncebbe57d2cf34696b5969566f51e7bf9> <http://schema.org/addressRegion> "MA" .
+

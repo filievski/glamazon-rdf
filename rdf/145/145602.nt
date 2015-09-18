@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/name> "NATURAL HISTORY MUSEUM-OZARKS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf58dc9eb791745ec867f3384de60cc09> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/telephone> "+1 (417) 883-0594" .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> .
+<http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc5fcd322eb134143a7dffc4db11dfa91> .
+<http://lodlaundromat.org/.well-known/genid/Nc5fcd322eb134143a7dffc4db11dfa91> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf58dc9eb791745ec867f3384de60cc09> .
+<http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> <http://schema.org/id> "8402900031" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://schema.org/postalCode> "65810" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> .
+<http://lodlaundromat.org/.well-known/genid/Nc5fcd322eb134143a7dffc4db11dfa91> <http://schema.org/longitude> "-93.3288"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf58dc9eb791745ec867f3384de60cc09> <http://schema.org/value> "145602"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc5fcd322eb134143a7dffc4db11dfa91> <http://schema.org/latitude> "37.1058"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://schema.org/streetAddress> "2327 W FARM ROAD 190" .
+<http://lodlaundromat.org/.well-known/genid/N0217aff2a96244418e3ed6d32bd3971b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Nf58dc9eb791745ec867f3384de60cc09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbe5b021c904f4890a8142fd88336c7a3> <http://schema.org/addressLocality> "SPRINGFIELD" .
+<http://lodlaundromat.org/.well-known/genid/N0c660e73346c4807a6bb36422e04fe8c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.1058&mlon=-93.3288#map=15/37.1058/-93.3288> .
+

@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N2ea05de1de9e4389b1c12bc93776263d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3727d1698c844713a3a08bb975261df8> .
+<http://lodlaundromat.org/.well-known/genid/N780cae2b40c44910b39e74e9bb0a3eaf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N780cae2b40c44910b39e74e9bb0a3eaf> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N780cae2b40c44910b39e74e9bb0a3eaf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N61a02efa34c949ba86c6c56d10266adc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2ea05de1de9e4389b1c12bc93776263d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N780cae2b40c44910b39e74e9bb0a3eaf> .
+<http://lodlaundromat.org/.well-known/genid/N61a02efa34c949ba86c6c56d10266adc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2ea05de1de9e4389b1c12bc93776263d> <http://schema.org/name> "Joensuu Art Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N3727d1698c844713a3a08bb975261df8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N780cae2b40c44910b39e74e9bb0a3eaf> <http://schema.org/url> <http://www.museums.io/en/museums/185280> .
+<http://lodlaundromat.org/.well-known/genid/N2ea05de1de9e4389b1c12bc93776263d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N61a02efa34c949ba86c6c56d10266adc> <http://schema.org/value> "185280"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2ea05de1de9e4389b1c12bc93776263d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N61a02efa34c949ba86c6c56d10266adc> .
+<http://lodlaundromat.org/.well-known/genid/N3727d1698c844713a3a08bb975261df8> <http://schema.org/addressCountry> "Finland" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N37b2faa38aa94447a70272f7a6aaa0ca> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N37b2faa38aa94447a70272f7a6aaa0ca> .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://schema.org/postalCode> "99693" .
+<http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N37b2faa38aa94447a70272f7a6aaa0ca> <http://schema.org/value> "129000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1b08961e7fab4fe794d22131fde9afc0> .
+<http://lodlaundromat.org/.well-known/genid/N1b08961e7fab4fe794d22131fde9afc0> <http://schema.org/latitude> "60.7743"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N37b2faa38aa94447a70272f7a6aaa0ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/name> "WHITTIER MUSEUM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b08961e7fab4fe794d22131fde9afc0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=60.7743&mlon=-148.683#map=15/60.7743/-148.683> .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> <http://schema.org/id> "8400200071" .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://schema.org/streetAddress> "100 WHITTIER STREET" .
+<http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> <http://schema.org/addressLocality> "WHITTIER" .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nce0e9757792f40ccad3103b86a48a789> .
+<http://lodlaundromat.org/.well-known/genid/N55f0435aa9ae4209937465c9264ff4de> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N348c9efc846349cf965932b2c9677eea> .
+<http://lodlaundromat.org/.well-known/genid/N1b08961e7fab4fe794d22131fde9afc0> <http://schema.org/longitude> "-148.683"^^<http://www.w3.org/2001/XMLSchema#double> .
+

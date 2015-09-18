@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbddd1dd077fb4b3ebdc1912c26d0ca11> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/telephone> "+1 (515) 602-6000" .
+<http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> <http://schema.org/id> "8401900091" .
+<http://lodlaundromat.org/.well-known/genid/Nbddd1dd077fb4b3ebdc1912c26d0ca11> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N72cabca7ce854b7e8269658d3f02d371> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://schema.org/addressLocality> "CLARION" .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N72cabca7ce854b7e8269658d3f02d371> .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/name> "HEARTLAND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> .
+<http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://schema.org/postalCode> "50525" .
+<http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://schema.org/streetAddress> "119 9TH ST SW" .
+<http://lodlaundromat.org/.well-known/genid/N72cabca7ce854b7e8269658d3f02d371> <http://schema.org/latitude> "42.7314"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7314&mlon=-93.7443#map=15/42.7314/-93.7443> .
+<http://lodlaundromat.org/.well-known/genid/N72cabca7ce854b7e8269658d3f02d371> <http://schema.org/longitude> "-93.7443"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8c721752b8544e00b32512e99fe20c1d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/url> <http://www.heartlandmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N1aeed3500a1d4a219edd5ecbb59a7785> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2e492fcf0831420ebf364938cdf1d39c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbddd1dd077fb4b3ebdc1912c26d0ca11> .
+<http://lodlaundromat.org/.well-known/genid/Nbddd1dd077fb4b3ebdc1912c26d0ca11> <http://schema.org/value> "139054"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

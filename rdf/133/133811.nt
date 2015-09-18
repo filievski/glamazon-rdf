@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://schema.org/postalCode> "06830-6553" .
+<http://lodlaundromat.org/.well-known/genid/N1224120e52b04c7d96d0c66e8ddb8498> <http://schema.org/latitude> "41.0234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1963d83164d54707b5805e22fc3209de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1963d83164d54707b5805e22fc3209de> <http://schema.org/value> "133811"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> .
+<http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.0234&mlon=-73.6239#map=15/41.0234/-73.6239> .
+<http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1963d83164d54707b5805e22fc3209de> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1224120e52b04c7d96d0c66e8ddb8498> <http://schema.org/longitude> "-73.6239"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> <http://schema.org/id> "8400900286" .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/name> "LINCOLN INSTITUTE"@en .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://schema.org/addressLocality> "GREENWICH" .
+<http://lodlaundromat.org/.well-known/genid/N49b65f4aaf004f5aae80af7a81fb8a7d> <http://schema.org/streetAddress> "ONE FAWCETT PLACE" .
+<http://lodlaundromat.org/.well-known/genid/Nab383b2340f541ff92614f179bd40bb2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1963d83164d54707b5805e22fc3209de> .
+<http://lodlaundromat.org/.well-known/genid/Nd337cc11b5ee4036ac8554ee4b8a2832> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1224120e52b04c7d96d0c66e8ddb8498> .
+<http://lodlaundromat.org/.well-known/genid/N1224120e52b04c7d96d0c66e8ddb8498> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

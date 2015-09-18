@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://schema.org/postalCode> "91708" .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N1709c719516f41d4b5b2e415bbb642ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> <http://schema.org/id> "8400601565" .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://schema.org/streetAddress> "PO BOX 972" .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> .
+<http://lodlaundromat.org/.well-known/genid/N899d6d68739a4730bab29e30bf35ee10> <http://schema.org/latitude> "33.9541"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1709c719516f41d4b5b2e415bbb642ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1709c719516f41d4b5b2e415bbb642ed> .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9541&mlon=-117.647#map=15/33.9541/-117.647> .
+<http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N899d6d68739a4730bab29e30bf35ee10> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1709c719516f41d4b5b2e415bbb642ed> <http://schema.org/value> "131439"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb398374467854fb6b8a7618873cda1e3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf29769aa22fe4c62bb243402430d7838> <http://schema.org/addressLocality> "CHINO" .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/name> "CHINO VALLEY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N899d6d68739a4730bab29e30bf35ee10> <http://schema.org/longitude> "-117.647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41326ec44c794d59ad51b99a490492fb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N899d6d68739a4730bab29e30bf35ee10> .
+

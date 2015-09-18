@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0a785dffab4e40389f53eb37f9c58b47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> <http://schema.org/addressLocality> "Monasterolo di Savigliano" .
+<http://lodlaundromat.org/.well-known/genid/N0a785dffab4e40389f53eb37f9c58b47> <http://schema.org/longitude> "7.60454"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N0a785dffab4e40389f53eb37f9c58b47> <http://schema.org/latitude> "44.7059"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N07ba4416b0284690b3d8084579063d52> .
+<http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> .
+<http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7059&mlon=7.60454#map=15/44.7059/7.60454> .
+<http://lodlaundromat.org/.well-known/genid/N07ba4416b0284690b3d8084579063d52> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4a41c326c43e483bae3039c4d19bbcee> <http://schema.org/streetAddress> "Piazza Castello, 6, " .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a785dffab4e40389f53eb37f9c58b47> .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/telephone> "+39 0172 373026" .
+<http://lodlaundromat.org/.well-known/genid/N66f5cec9e3244b28baef9d4bcca4c39a> <http://schema.org/name> "Castello dei Solaro"@it .
+<http://lodlaundromat.org/.well-known/genid/N07ba4416b0284690b3d8084579063d52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N07ba4416b0284690b3d8084579063d52> <http://schema.org/value> "187715"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3680f83c121e488a8ff3557de62a1bfe> <http://schema.org/id> "102597" .
+

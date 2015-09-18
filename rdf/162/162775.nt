@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nd49bf50766c14284b2a99431e8bf2bc8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> .
+<http://lodlaundromat.org/.well-known/genid/Nd49bf50766c14284b2a99431e8bf2bc8> <http://schema.org/value> "162775"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nacfd9a6e81f947c0af024b1c803931da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd49bf50766c14284b2a99431e8bf2bc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://schema.org/postalCode> "54162" .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://schema.org/streetAddress> "PO BOX 944" .
+<http://lodlaundromat.org/.well-known/genid/Nacfd9a6e81f947c0af024b1c803931da> <http://schema.org/latitude> "44.6507"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd49bf50766c14284b2a99431e8bf2bc8> .
+<http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> <http://schema.org/id> "8405500224" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.6507&mlon=-88.2926#map=15/44.6507/-88.2926> .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nacfd9a6e81f947c0af024b1c803931da> .
+<http://lodlaundromat.org/.well-known/genid/Nacfd9a6e81f947c0af024b1c803931da> <http://schema.org/longitude> "-88.2926"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://schema.org/addressLocality> "PULASKI" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/url> <http://www.pulaskiwihistory.com/> .
+<http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc61b1bd9c9f24c7caeabf52119d86b02> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N011c81322d384af893cfc2be9a405fdf> <http://schema.org/name> "PULASKI AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Na74fb1898d4f40bbb6fa48a547c40527> <http://schema.org/name> "us" .
+

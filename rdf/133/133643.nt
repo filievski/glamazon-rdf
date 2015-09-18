@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://schema.org/addressLocality> "NEW LONDON" .
+<http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://schema.org/streetAddress> "11 BLINMAN ST" .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/url> <http://www.newlondonhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> .
+<http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> <http://schema.org/id> "8400900118" .
+<http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N740157a5c0f442f9a96f23362800f928> <http://schema.org/value> "133643"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N740157a5c0f442f9a96f23362800f928> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/name> "NEW LONDON COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N740157a5c0f442f9a96f23362800f928> .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N18ff5b0a9f2a4e49a173779b6583f4b8> .
+<http://lodlaundromat.org/.well-known/genid/N18ff5b0a9f2a4e49a173779b6583f4b8> <http://schema.org/longitude> "-72.0983"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18ff5b0a9f2a4e49a173779b6583f4b8> <http://schema.org/latitude> "41.3512"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N18ff5b0a9f2a4e49a173779b6583f4b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://schema.org/postalCode> "06320-5677" .
+<http://lodlaundromat.org/.well-known/genid/N1e578d0ef61341cd8ec4dd732c5e269c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd32a3868d7b74a919eec3f27d1ed84d8> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N740157a5c0f442f9a96f23362800f928> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fb641a1443c412cbbc9881748da5e43> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3512&mlon=-72.0983#map=15/41.3512/-72.0983> .
+

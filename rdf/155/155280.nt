@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/name> "CATHOLIC KOLPING SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> .
+<http://lodlaundromat.org/.well-known/genid/N4ba32c1198704d2caeef1f6101c36bb3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N4ba32c1198704d2caeef1f6101c36bb3> <http://schema.org/latitude> "40.1607"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4ba32c1198704d2caeef1f6101c36bb3> .
+<http://lodlaundromat.org/.well-known/genid/N4ba32c1198704d2caeef1f6101c36bb3> <http://schema.org/longitude> "-74.9649"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://schema.org/postalCode> "19053-2528" .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.1607&mlon=-74.9649#map=15/40.1607/-74.9649> .
+<http://lodlaundromat.org/.well-known/genid/N238d1f3bb13547bb8bc0eae49483cc8d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndbb3278e45fd407c90b2f7729564cb8b> .
+<http://lodlaundromat.org/.well-known/genid/Ndbb3278e45fd407c90b2f7729564cb8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndbb3278e45fd407c90b2f7729564cb8b> <http://schema.org/value> "155280"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://schema.org/addressLocality> "LANGHORNE" .
+<http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1fe8f529ac1341439d667dee34ee0c7a> <http://schema.org/id> "8404200474" .
+<http://lodlaundromat.org/.well-known/genid/Ndbb3278e45fd407c90b2f7729564cb8b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc661e71e00d54290876916ce5b55e3c1> <http://schema.org/streetAddress> "2304 BROWNSVILLE RD LOT 1232" .
+

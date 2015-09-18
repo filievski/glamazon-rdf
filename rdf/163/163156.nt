@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N239627ba696041c8a15571cabcd729bd> <http://schema.org/value> "163156"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N59890ff4c19e42f48a9500fa08ec15ea> .
+<http://lodlaundromat.org/.well-known/genid/N59890ff4c19e42f48a9500fa08ec15ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N59890ff4c19e42f48a9500fa08ec15ea> <http://schema.org/latitude> "42.6701"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://schema.org/addressLocality> "JANESVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> <http://schema.org/id> "8405500605" .
+<http://lodlaundromat.org/.well-known/genid/N59890ff4c19e42f48a9500fa08ec15ea> <http://schema.org/longitude> "-89.0048"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6701&mlon=-89.0048#map=15/42.6701/-89.0048> .
+<http://lodlaundromat.org/.well-known/genid/N239627ba696041c8a15571cabcd729bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/name> "ROTARY GARDENS INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N239627ba696041c8a15571cabcd729bd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N239627ba696041c8a15571cabcd729bd> .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://schema.org/streetAddress> "1455 PALMER DR" .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/url> <http://rotarybotanicalgardens.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd43489380c214315b43f3e6c3987d49d> <http://schema.org/postalCode> "53545-5215" .
+<http://lodlaundromat.org/.well-known/genid/Nda5a1949938c4bf28473f156e49c3f63> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf92e1fd995b5449e9c04b0e6e91b5522> .
+

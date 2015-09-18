@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/name> "Shire of Campaspe"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4f67c8dacd5045649f32b982e30b8f93> .
+<http://lodlaundromat.org/.well-known/genid/N4f67c8dacd5045649f32b982e30b8f93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> <http://schema.org/id> "shire-of-campaspe" .
+<http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf417a8335f594e46adca91f47e7184ad> .
+<http://lodlaundromat.org/.well-known/genid/Nf417a8335f594e46adca91f47e7184ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.1243&mlon=144.749#map=15/-36.1243/144.749> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> .
+<http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> <http://schema.org/url> <http://victoriancollections.net.au/organisations/shire-of-campaspe> .
+<http://lodlaundromat.org/.well-known/genid/N4f67c8dacd5045649f32b982e30b8f93> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f67c8dacd5045649f32b982e30b8f93> <http://schema.org/value> "164296"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na90f68e2d07944cb92a3cbc9f5ef0396> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na90f68e2d07944cb92a3cbc9f5ef0396> .
+<http://lodlaundromat.org/.well-known/genid/Na90f68e2d07944cb92a3cbc9f5ef0396> <http://schema.org/longitude> "144.749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na90f68e2d07944cb92a3cbc9f5ef0396> <http://schema.org/latitude> "-36.1243"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb5680e1baf6b4d78a2f6c1fa26f440a5> <http://schema.org/url> <http://www.campaspe.vic.gov.au/> .
+<http://lodlaundromat.org/.well-known/genid/N73834a9c5b4f40b0aa4f060a929ecc20> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf417a8335f594e46adca91f47e7184ad> <http://schema.org/addressCountry> "Australia" .
+

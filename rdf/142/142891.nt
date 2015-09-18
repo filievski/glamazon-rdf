@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7c8be45cc7264577926ed3b075624989> <http://schema.org/latitude> "42.5568"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> .
+<http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne2d09079e9344a43a95c90ffbc14b35b> .
+<http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7c8be45cc7264577926ed3b075624989> .
+<http://lodlaundromat.org/.well-known/genid/N7c8be45cc7264577926ed3b075624989> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7c8be45cc7264577926ed3b075624989> <http://schema.org/longitude> "-70.8917"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne2d09079e9344a43a95c90ffbc14b35b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne2d09079e9344a43a95c90ffbc14b35b> <http://schema.org/value> "142891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://schema.org/postalCode> "01915-2417" .
+<http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> <http://schema.org/id> "8402500521" .
+<http://lodlaundromat.org/.well-known/genid/Ne2d09079e9344a43a95c90ffbc14b35b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://schema.org/addressLocality> "BEVERLY" .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne7beebd5d71d4159aa106218affc9c3c> <http://schema.org/streetAddress> "6 ECHO AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5568&mlon=-70.8917#map=15/42.5568/-70.8917> .
+<http://lodlaundromat.org/.well-known/genid/N4cd18c89a3a04f01b526957085a78e1a> <http://schema.org/name> "WILLIAM B SWETT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N390da6b7041d48d5994557fb5241a78e> <http://schema.org/@Type> "Dataset" .
+

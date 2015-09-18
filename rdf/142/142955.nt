@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> .
+<http://lodlaundromat.org/.well-known/genid/N2c96010f90f7487a9f975032a88e96d1> <http://schema.org/longitude> "-71.0607"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://schema.org/streetAddress> "2 CENTER PLZ STE 4M" .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2c96010f90f7487a9f975032a88e96d1> .
+<http://lodlaundromat.org/.well-known/genid/N2c96010f90f7487a9f975032a88e96d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2c96010f90f7487a9f975032a88e96d1> <http://schema.org/latitude> "42.36"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://schema.org/addressLocality> "BOSTON" .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf3397520410742dbba75d9a501186b4a> .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/name> "MASSACHUSETTES FALLEN FIRE FIGHTERS MEMORIAL FUND INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf3397520410742dbba75d9a501186b4a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.36&mlon=-71.0607#map=15/42.36/-71.0607> .
+<http://lodlaundromat.org/.well-known/genid/Nf3397520410742dbba75d9a501186b4a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> <http://schema.org/id> "8402500585" .
+<http://lodlaundromat.org/.well-known/genid/Nf3397520410742dbba75d9a501186b4a> <http://schema.org/value> "142955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N21073ddad2d64affb56827e92f4226df> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1c7f8c81ec724a6ca9c5112a330afd0d> .
+<http://lodlaundromat.org/.well-known/genid/N5a61c19e85b14978b8d6fe00c9dbef5c> <http://schema.org/postalCode> "02108-1906" .
+

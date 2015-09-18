@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53bb97f9ab134c8ea97b55c2372c1295> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2785763b3de54d22ba0719f4f87272bf> <http://schema.org/latitude> "31.8267"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/telephone> "+1 (334) 566-3597" .
+<http://lodlaundromat.org/.well-known/genid/N2785763b3de54d22ba0719f4f87272bf> <http://schema.org/longitude> "-85.9946"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://schema.org/addressLocality> "TROY" .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.8267&mlon=-85.9946#map=15/31.8267/-85.9946> .
+<http://lodlaundromat.org/.well-known/genid/N53bb97f9ab134c8ea97b55c2372c1295> <http://schema.org/value> "128589"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> .
+<http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/url> <http://www.pioneer-museum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://schema.org/postalCode> "36081-2459" .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://schema.org/streetAddress> "248 HIGHWAY 231 N" .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N53bb97f9ab134c8ea97b55c2372c1295> .
+<http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N53bb97f9ab134c8ea97b55c2372c1295> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2785763b3de54d22ba0719f4f87272bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfacc2f9a22bb419587d7d030a29c5395> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2785763b3de54d22ba0719f4f87272bf> .
+<http://lodlaundromat.org/.well-known/genid/N73507dfc043c4ce388f2dc3a7fa3593e> <http://schema.org/id> "8400100119" .
+<http://lodlaundromat.org/.well-known/genid/N31e674bd78154efaa18c5cd47f310c01> <http://schema.org/name> "PIONEER MUSEUM OF ALABAMA ASSN"@en .
+

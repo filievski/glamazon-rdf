@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N522b99b3fcee4cc385f9323623c89fff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://schema.org/streetAddress> "139 SAINT-GAUDENS ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> .
+<http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://schema.org/postalCode> "03745" .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://schema.org/addressLocality> "CORNISH" .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N3e47380d0705499695312e204c71aaad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3e47380d0705499695312e204c71aaad> .
+<http://lodlaundromat.org/.well-known/genid/N522b99b3fcee4cc385f9323623c89fff> <http://schema.org/latitude> "43.5002"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> .
+<http://lodlaundromat.org/.well-known/genid/N3e47380d0705499695312e204c71aaad> <http://schema.org/value> "190045"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.5002&mlon=-72.3686#map=15/43.5002/-72.3686> .
+<http://lodlaundromat.org/.well-known/genid/N3e47380d0705499695312e204c71aaad> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N522b99b3fcee4cc385f9323623c89fff> <http://schema.org/longitude> "-72.3686"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/name> "SAINT-GAUDENS NATIONAL HISTORIC SITE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbcf2146a1b764d3384ef4e4a530f8e24> <http://schema.org/id> "8403300416" .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/telephone> "+1 (603) 675-2175" .
+<http://lodlaundromat.org/.well-known/genid/Nd004b84ae6a241e5af1ca394372463ed> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N522b99b3fcee4cc385f9323623c89fff> .
+<http://lodlaundromat.org/.well-known/genid/N37c83bfc337442b0931b2c2cfc59dc3e> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N6042cd39fc334be3bba463a5c4c19bbb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfbcdfb4d90544161ae1f4547d68ed661> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfbcdfb4d90544161ae1f4547d68ed661> .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://schema.org/addressLocality> "MEXICO" .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/name> "AUDRAIN COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfbcdfb4d90544161ae1f4547d68ed661> <http://schema.org/longitude> "-91.8886"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/url> <http://audrain.org/> .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> <http://schema.org/id> "8402900310" .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfbcdfb4d90544161ae1f4547d68ed661> <http://schema.org/latitude> "39.1681"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/telephone> "+1 (573) 581-3910" .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6042cd39fc334be3bba463a5c4c19bbb> .
+<http://lodlaundromat.org/.well-known/genid/N6042cd39fc334be3bba463a5c4c19bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41d5dd1999cb4028b07f810f706aef14> .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://schema.org/postalCode> "65265-2082" .
+<http://lodlaundromat.org/.well-known/genid/N627c992f7f6240c7b337fe2143abe2a0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1681&mlon=-91.8886#map=15/39.1681/-91.8886> .
+<http://lodlaundromat.org/.well-known/genid/N8fd6f190f3394d82aaa241fa8c858018> <http://schema.org/streetAddress> "501 S MULDROW ST" .
+<http://lodlaundromat.org/.well-known/genid/N6042cd39fc334be3bba463a5c4c19bbb> <http://schema.org/value> "145881"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

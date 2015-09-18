@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> <http://schema.org/streetAddress> "Piazza Basilica, 30" .
+<http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/url> <http://museotirano@provincia.so.it/> .
+<http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/name> "Museo etnografico tiranese"@it .
+<http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> <http://schema.org/addressLocality> "Tirano" .
+<http://lodlaundromat.org/.well-known/genid/Nc40a51d5fe16465783352f5a14a611f8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> <http://schema.org/id> "103797" .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/telephone> "+39 0342701181" .
+<http://lodlaundromat.org/.well-known/genid/Nc40a51d5fe16465783352f5a14a611f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc40a51d5fe16465783352f5a14a611f8> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.2178&mlon=10.1554#map=15/46.2178/10.1554> .
+<http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N2642c4215438402aa7b334d19ea5e610> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> .
+<http://lodlaundromat.org/.well-known/genid/N2642c4215438402aa7b334d19ea5e610> <http://schema.org/contentUrl> <http://images.museums.io/Vozg0und4qplpnaSKJ2ormt51f4=/1000x1000/museums/logos/000/187/175/original/54862cf871461c90ab1392ba6d92fce66563e35.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nd30eb51a0a624822a1710ad4ea7303ac> <http://schema.org/latitude> "46.2178"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd30eb51a0a624822a1710ad4ea7303ac> .
+<http://lodlaundromat.org/.well-known/genid/Nc40a51d5fe16465783352f5a14a611f8> <http://schema.org/value> "187175"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd30eb51a0a624822a1710ad4ea7303ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6964908fdeb94abc88ae10143daf2abc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2642c4215438402aa7b334d19ea5e610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nd0949d86cdda4d599298ed7997e074cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd30eb51a0a624822a1710ad4ea7303ac> <http://schema.org/longitude> "10.1554"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49cb59c34b17464e9de3f2aead0d524a> <http://schema.org/addressRegion> "Lombardia" .
+

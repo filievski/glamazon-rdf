@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ncfa9ac8dd105411ba86fc841c88311f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> <http://schema.org/id> "8400200105" .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncfa9ac8dd105411ba86fc841c88311f1> .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://schema.org/addressRegion> "AK" .
+<http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/name> "CLAUSEN MEMORIAL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncfa9ac8dd105411ba86fc841c88311f1> <http://schema.org/latitude> "56.8518"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> .
+<http://lodlaundromat.org/.well-known/genid/Nd7a3721756cd46c591242628d5190f8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd7a3721756cd46c591242628d5190f8e> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=56.8518&mlon=-133.132#map=15/56.8518/-133.132> .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://schema.org/addressLocality> "PETERSBURG" .
+<http://lodlaundromat.org/.well-known/genid/Nd7a3721756cd46c591242628d5190f8e> <http://schema.org/value> "129034"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd7a3721756cd46c591242628d5190f8e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf2b8ae3832f41e68d068fad98589aad> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncfa9ac8dd105411ba86fc841c88311f1> <http://schema.org/longitude> "-133.132"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://schema.org/streetAddress> "PO BOX 708" .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/url> <http://www.clausenmuseum.net/> .
+<http://lodlaundromat.org/.well-known/genid/Ne5f7dca781a44ee49464cab0bc411604> <http://schema.org/telephone> "+1 (907) 772-3598" .
+<http://lodlaundromat.org/.well-known/genid/N9cd561d2c40a4522a058e6a1f5470ac3> <http://schema.org/postalCode> "99833-0708" .
+

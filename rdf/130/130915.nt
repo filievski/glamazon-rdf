@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd611ec28361247e3a3f9953f78bca6e8> .
+<http://lodlaundromat.org/.well-known/genid/Nd611ec28361247e3a3f9953f78bca6e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbc1c2cdeff8a41b8bba9adb8e38bbe76> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://schema.org/postalCode> "90036-2763" .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/name> "ART CENTER LOS ANGELES"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd611ec28361247e3a3f9953f78bca6e8> <http://schema.org/latitude> "34.0761"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> <http://schema.org/id> "8400601041" .
+<http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc1c2cdeff8a41b8bba9adb8e38bbe76> .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0761&mlon=-118.353#map=15/34.0761/-118.353> .
+<http://lodlaundromat.org/.well-known/genid/Nbc1c2cdeff8a41b8bba9adb8e38bbe76> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbc1c2cdeff8a41b8bba9adb8e38bbe76> <http://schema.org/value> "130915"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc51c7e5ada7645cf84e96a75489118bb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://schema.org/addressLocality> "LOS ANGELES" .
+<http://lodlaundromat.org/.well-known/genid/N33fc33e570a34ec9b2c304d880e40d30> <http://schema.org/streetAddress> "7466 BEVERLY BLVD SUITE105" .
+<http://lodlaundromat.org/.well-known/genid/Nd611ec28361247e3a3f9953f78bca6e8> <http://schema.org/longitude> "-118.353"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e298f5d9d834bfdb5c2790e6fc3d061> <http://schema.org/url> <http://www.imls.gov/> .
+

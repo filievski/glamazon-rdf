@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N34fe9a87ba9b444d81e6ad7055a2bfec> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N59d3ad4bd91440eb806574e0840c40d4> <http://schema.org/url> <http://www.museums.io/en/museums/182926> .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://schema.org/streetAddress> "Bahnhofstra\u00DFe 7" .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/url> <http://www.gemeindeb%C3%BCcherei-hurlach.de/> .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N34fe9a87ba9b444d81e6ad7055a2bfec> .
+<http://lodlaundromat.org/.well-known/genid/N6c289b2acd7d437fac7bd1defde06eb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c289b2acd7d437fac7bd1defde06eb8> <http://schema.org/longitude> "10.8174"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N59d3ad4bd91440eb806574e0840c40d4> .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N59d3ad4bd91440eb806574e0840c40d4> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N34fe9a87ba9b444d81e6ad7055a2bfec> <http://schema.org/value> "182926"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://schema.org/addressLocality> "Hurlach" .
+<http://lodlaundromat.org/.well-known/genid/N6c289b2acd7d437fac7bd1defde06eb8> <http://schema.org/latitude> "48.1202"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N34fe9a87ba9b444d81e6ad7055a2bfec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N59d3ad4bd91440eb806574e0840c40d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://schema.org/postalCode> "86857" .
+<http://lodlaundromat.org/.well-known/genid/N59d3ad4bd91440eb806574e0840c40d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/telephone> "08248/968052" .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/name> "Gemeindemuseum Hurlach"@en .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1202&mlon=10.8174#map=15/48.1202/10.8174> .
+<http://lodlaundromat.org/.well-known/genid/N108cc8da74854b8183b0500ac791fabb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N045a4dac5d9d4e85b79a579a73619dab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6c289b2acd7d437fac7bd1defde06eb8> .
+

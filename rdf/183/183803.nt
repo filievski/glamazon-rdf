@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/telephone> "0941/40839" .
+<http://lodlaundromat.org/.well-known/genid/N17fbdacdd71d43148b8bdac48a18df89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc4a13ff9d3794e579c826b7bdc9dfa5f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N17fbdacdd71d43148b8bdac48a18df89> <http://schema.org/latitude> "49.6244"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0897e6e6d2774e52ab765c8001c252a0> <http://schema.org/value> "183803"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> .
+<http://lodlaundromat.org/.well-known/genid/N17fbdacdd71d43148b8bdac48a18df89> <http://schema.org/longitude> "12.3424"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/name> "F\u00E4rbermuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://schema.org/postalCode> "92648" .
+<http://lodlaundromat.org/.well-known/genid/Nc4a13ff9d3794e579c826b7bdc9dfa5f> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6244&mlon=12.3424#map=15/49.6244/12.3424> .
+<http://lodlaundromat.org/.well-known/genid/N0897e6e6d2774e52ab765c8001c252a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0897e6e6d2774e52ab765c8001c252a0> .
+<http://lodlaundromat.org/.well-known/genid/Nc4a13ff9d3794e579c826b7bdc9dfa5f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://schema.org/addressLocality> "Vohenstrau\u00DF" .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://schema.org/streetAddress> "Pleysteiner Stra\u00DFe 5" .
+<http://lodlaundromat.org/.well-known/genid/N0897e6e6d2774e52ab765c8001c252a0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N17fbdacdd71d43148b8bdac48a18df89> .
+<http://lodlaundromat.org/.well-known/genid/N2b74265766ce494c853545ae99138325> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc4a13ff9d3794e579c826b7bdc9dfa5f> .
+<http://lodlaundromat.org/.well-known/genid/Nc4a13ff9d3794e579c826b7bdc9dfa5f> <http://schema.org/url> <http://www.museums.io/en/museums/183803> .
+<http://lodlaundromat.org/.well-known/genid/N86dd6960cfb948f28c599c5a080bde64> <http://schema.org/addressRegion> "Oberpfalz" .
+

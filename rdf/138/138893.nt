@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5af0993596764c7792f9925a6f93d5bb> .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> .
+<http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5af0993596764c7792f9925a6f93d5bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://schema.org/streetAddress> "POST OFFICE BOX 8" .
+<http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2187f8262ba1474ebce8e4a78ee125e8> .
+<http://lodlaundromat.org/.well-known/genid/N2187f8262ba1474ebce8e4a78ee125e8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5af0993596764c7792f9925a6f93d5bb> <http://schema.org/longitude> "-85.2771"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2187f8262ba1474ebce8e4a78ee125e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6ed87034a3a944b39a8ded080614aa55> <http://schema.org/id> "8401800679" .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://schema.org/postalCode> "47359-0008" .
+<http://lodlaundromat.org/.well-known/genid/N5af0993596764c7792f9925a6f93d5bb> <http://schema.org/latitude> "40.5552"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5552&mlon=-85.2771#map=15/40.5552/-85.2771> .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://schema.org/addressLocality> "MONTPELIER" .
+<http://lodlaundromat.org/.well-known/genid/N223436da3a4e46889f6e34c3d29ee505> <http://schema.org/name> "MONTPELIER HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N715fcea4bd5b4d7f8c07dda2e73de622> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2187f8262ba1474ebce8e4a78ee125e8> <http://schema.org/value> "138893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf609b0ebde9844da9d4aababfb784deb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne5610146779840dd9ae3ced9e183d2aa> <http://schema.org/latitude> "42.9323"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne5610146779840dd9ae3ced9e183d2aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9323&mlon=-78.877#map=15/42.9323/-78.877> .
+<http://lodlaundromat.org/.well-known/genid/Nf609b0ebde9844da9d4aababfb784deb> <http://schema.org/value> "150294"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://schema.org/addressLocality> "BUFFALO" .
+<http://lodlaundromat.org/.well-known/genid/Nf609b0ebde9844da9d4aababfb784deb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf609b0ebde9844da9d4aababfb784deb> .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/name> "BURCHFIELD-PENNEY ART CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> <http://schema.org/id> "8403601588" .
+<http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://schema.org/streetAddress> "1300 ELMWOOD AVE" .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne5610146779840dd9ae3ced9e183d2aa> .
+<http://lodlaundromat.org/.well-known/genid/N4abc4a4814cd41a5b5399db4783c5191> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> .
+<http://lodlaundromat.org/.well-known/genid/Ne5610146779840dd9ae3ced9e183d2aa> <http://schema.org/longitude> "-78.877"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e58e5f11654625b07059aa7cd083ac> <http://schema.org/postalCode> "14222-1004" .
+<http://lodlaundromat.org/.well-known/genid/N0fca4fc01b744334b6deba0a87613681> <http://schema.org/@Type> "Dataset" .
+

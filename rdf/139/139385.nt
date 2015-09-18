@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N469fccca81f748f880bfbf4ba96ad246> .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N469fccca81f748f880bfbf4ba96ad246> <http://schema.org/latitude> "42.8955"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> .
+<http://lodlaundromat.org/.well-known/genid/N469fccca81f748f880bfbf4ba96ad246> <http://schema.org/longitude> "-92.8019"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N469fccca81f748f880bfbf4ba96ad246> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://schema.org/postalCode> "50636" .
+<http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> <http://schema.org/id> "8401900422" .
+<http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://schema.org/streetAddress> "C/O LLOYD STAUFFER" .
+<http://lodlaundromat.org/.well-known/genid/N4e773d360a1f4dd1a52aaae165e99338> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4e773d360a1f4dd1a52aaae165e99338> .
+<http://lodlaundromat.org/.well-known/genid/N4e773d360a1f4dd1a52aaae165e99338> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://schema.org/addressLocality> "GREENE" .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8955&mlon=-92.8019#map=15/42.8955/-92.8019> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nea33a323de5b4ef0ba7e289d8ff33d6c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N929d7c06d7d547ac89b6165de180ddc8> <http://schema.org/name> "GREENE HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4e773d360a1f4dd1a52aaae165e99338> <http://schema.org/value> "139385"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N25a920ccd4c64cf1976fcc60a88cece0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

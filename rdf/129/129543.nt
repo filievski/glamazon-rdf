@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/url> <http://www.uafoundation.org/> .
+<http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> <http://schema.org/addressLocality> "TUCSON" .
+<http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/name> "UNIVERSITY OF ARIZONA FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7dd3a5827c51485a90f49dc54c85dfcc> <http://schema.org/latitude> "32.2367"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.2367&mlon=-110.948#map=15/32.2367/-110.948> .
+<http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N104af675647943ef95093a1fe7b8a3a0> <http://schema.org/value> "129543"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> .
+<http://lodlaundromat.org/.well-known/genid/N7dd3a5827c51485a90f49dc54c85dfcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88cdd1e800174cc7aefdb55f24aac86b> <http://schema.org/id> "8400400445" .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N104af675647943ef95093a1fe7b8a3a0> .
+<http://lodlaundromat.org/.well-known/genid/N104af675647943ef95093a1fe7b8a3a0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N57b822cb00dd41f1aeb43e2eb5052926> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7dd3a5827c51485a90f49dc54c85dfcc> .
+<http://lodlaundromat.org/.well-known/genid/N7dd3a5827c51485a90f49dc54c85dfcc> <http://schema.org/longitude> "-110.948"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N26bf8845d7ef4b66bb81429949c2163e> <http://schema.org/postalCode> "85721-0111" .
+<http://lodlaundromat.org/.well-known/genid/N104af675647943ef95093a1fe7b8a3a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

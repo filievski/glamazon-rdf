@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/name> "TURNER HALL OF MONROE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd1503418f61343629f7dea16c4ef67aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Ncebeee7857044362aa3169652d0a487f> <http://schema.org/latitude> "42.5997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncebeee7857044362aa3169652d0a487f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd1503418f61343629f7dea16c4ef67aa> <http://schema.org/value> "163014"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://schema.org/streetAddress> "1217 17TH AVE" .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncebeee7857044362aa3169652d0a487f> .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://schema.org/postalCode> "53566-2050" .
+<http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> <http://schema.org/id> "8405500463" .
+<http://lodlaundromat.org/.well-known/genid/Ncebeee7857044362aa3169652d0a487f> <http://schema.org/longitude> "-89.6385"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://schema.org/addressLocality> "MONROE" .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd1503418f61343629f7dea16c4ef67aa> .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> .
+<http://lodlaundromat.org/.well-known/genid/Nd1503418f61343629f7dea16c4ef67aa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N99cf98e058744cbe89307f9f2fff6f3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N21ff6762991f45c8b049ea8356952260> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5997&mlon=-89.6385#map=15/42.5997/-89.6385> .
+<http://lodlaundromat.org/.well-known/genid/N9139c9e0718b44828ec027b14f9ce57c> <http://schema.org/@Type> "Dataset" .
+

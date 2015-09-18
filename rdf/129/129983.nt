@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N34ca81a135484cf48df55ef438756c20> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/name> "SHASTA LAKE HERITAGE AND HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> <http://schema.org/id> "8400600109" .
+<http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N66001fcfb164404b8bcaae6c8300e2d8> <http://schema.org/latitude> "40.6585"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/telephone> "+1 (530) 275-3995" .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N66001fcfb164404b8bcaae6c8300e2d8> .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://schema.org/addressLocality> "SHASTA LAKE" .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://schema.org/streetAddress> "3400 SHASTA GATEWAY DR" .
+<http://lodlaundromat.org/.well-known/genid/N4544e9c0c838470089c547d65427b6d4> <http://schema.org/postalCode> "96019" .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6585&mlon=-122.388#map=15/40.6585/-122.388> .
+<http://lodlaundromat.org/.well-known/genid/N66001fcfb164404b8bcaae6c8300e2d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> .
+<http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N34ca81a135484cf48df55ef438756c20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N34ca81a135484cf48df55ef438756c20> <http://schema.org/value> "129983"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N34ca81a135484cf48df55ef438756c20> .
+<http://lodlaundromat.org/.well-known/genid/N66001fcfb164404b8bcaae6c8300e2d8> <http://schema.org/longitude> "-122.388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5ad8c589fb6247748828dce00aba3dc7> <http://schema.org/url> <http://www.shastalake.com/history> .
+<http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb444be65d3f64884ab7de77c4b79f17a> <http://schema.org/name> "us" .
+

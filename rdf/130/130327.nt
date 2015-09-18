@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nec41ab446c5f4d15a29fadcc92c7fbdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://schema.org/addressLocality> "GLENDORA" .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/name> "GLENDORA HISTORICAL SOCIETY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N39ba1c01509d4bd5b9d8d3489166f563> <http://schema.org/value> "130327"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N39ba1c01509d4bd5b9d8d3489166f563> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N39ba1c01509d4bd5b9d8d3489166f563> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> <http://schema.org/id> "8400600453" .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://schema.org/streetAddress> "314 N GLENDORA AVE" .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nec41ab446c5f4d15a29fadcc92c7fbdf> .
+<http://lodlaundromat.org/.well-known/genid/Nec41ab446c5f4d15a29fadcc92c7fbdf> <http://schema.org/longitude> "-117.865"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39ba1c01509d4bd5b9d8d3489166f563> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/url> <http://www.glendorahistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1402&mlon=-117.865#map=15/34.1402/-117.865> .
+<http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N24b8bf013c4b4412bdba0e16baae5bfb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nec41ab446c5f4d15a29fadcc92c7fbdf> <http://schema.org/latitude> "34.1402"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://schema.org/postalCode> "91741" .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> .
+<http://lodlaundromat.org/.well-known/genid/Naa64b381472f4d97b79a9e0ac7d3981b> <http://schema.org/telephone> "+1 (626) 963-0419" .
+<http://lodlaundromat.org/.well-known/genid/N407e77b305ce4b10940edbdf7908a2d0> <http://schema.org/addressRegion> "CA" .
+

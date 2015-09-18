@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://schema.org/addressLocality> "BATTLE CREEK" .
+<http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/name> "HISTORICAL SOCIETY OF BATTLE CREEK"@en .
+<http://lodlaundromat.org/.well-known/genid/N109c4c96ce0b42a3b87b6c3038ee344a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N29a47204b02a4aaaae151482cf40d4e3> <http://schema.org/longitude> "-85.1827"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29a47204b02a4aaaae151482cf40d4e3> .
+<http://lodlaundromat.org/.well-known/genid/N29a47204b02a4aaaae151482cf40d4e3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N109c4c96ce0b42a3b87b6c3038ee344a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N109c4c96ce0b42a3b87b6c3038ee344a> .
+<http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N29a47204b02a4aaaae151482cf40d4e3> <http://schema.org/latitude> "42.3194"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://schema.org/postalCode> "49017" .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3194&mlon=-85.1827#map=15/42.3194/-85.1827> .
+<http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://schema.org/streetAddress> "1 W. MICHIGAN AVE., SUITE 607" .
+<http://lodlaundromat.org/.well-known/genid/N634eaad4bce24e54b752af7781cac10d> <http://schema.org/id> "8402600127" .
+<http://lodlaundromat.org/.well-known/genid/N109c4c96ce0b42a3b87b6c3038ee344a> <http://schema.org/value> "143590"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N57371229142c49369e7d11d51090dc83> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> .
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N95c73888978b47479efdee52985ebd36> <http://schema.org/addressCountry> "United States" .
+

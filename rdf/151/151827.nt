@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/url> <http://linemanmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Naca84a0fff60426d8fd4afc660776223> <http://schema.org/value> "151827"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.2564&mlon=-81.5664#map=15/35.2564/-81.5664> .
+<http://lodlaundromat.org/.well-known/genid/N702294db1bb6448488e2b689f1e0cb0e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> .
+<http://lodlaundromat.org/.well-known/genid/N702294db1bb6448488e2b689f1e0cb0e> <http://schema.org/latitude> "35.2564"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naca84a0fff60426d8fd4afc660776223> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://schema.org/postalCode> "28151" .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N702294db1bb6448488e2b689f1e0cb0e> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/name> "INTERNATIONAL LINEMANS MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://schema.org/addressLocality> "SHELBY" .
+<http://lodlaundromat.org/.well-known/genid/N8fde4ac81e5b4036a2046e07fa8c10a5> <http://schema.org/streetAddress> "PO BOX 481" .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Naca84a0fff60426d8fd4afc660776223> .
+<http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> <http://schema.org/id> "8403700698" .
+<http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfbfa563522ef4bafa322dc66b2809d49> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N702294db1bb6448488e2b689f1e0cb0e> <http://schema.org/longitude> "-81.5664"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naca84a0fff60426d8fd4afc660776223> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfa89884145e44a8192925bab2b57fc43> <http://schema.org/telephone> "+1 (704) 482-7638" .
+

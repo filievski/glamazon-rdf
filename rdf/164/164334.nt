@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/N490d0df715f64dc2a8e6305f519eb084> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> .
+<http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N490d0df715f64dc2a8e6305f519eb084> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88a893f4e0c842639868aeb2940dab02> .
+<http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> <http://schema.org/url> <http://victoriancollections.net.au/organisations/sunshine-rsl> .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/name> "Sunshine RSL Sub Branch"@en .
+<http://lodlaundromat.org/.well-known/genid/N5d0d014fba7343a6bab4423c4931c124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N490d0df715f64dc2a8e6305f519eb084> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N490d0df715f64dc2a8e6305f519eb084> .
+<http://lodlaundromat.org/.well-known/genid/N88a893f4e0c842639868aeb2940dab02> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N615fdf7c7a84424590acf5bf397d42cd> <http://schema.org/id> "sunshine-rsl" .
+<http://lodlaundromat.org/.well-known/genid/N5d0d014fba7343a6bab4423c4931c124> <http://schema.org/value> "164334"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3c019eb490284409a1d2f44f90fc2046> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5d0d014fba7343a6bab4423c4931c124> .
+<http://lodlaundromat.org/.well-known/genid/N88a893f4e0c842639868aeb2940dab02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5d0d014fba7343a6bab4423c4931c124> <http://schema.org/name> "id" .
+

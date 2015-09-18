@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52013758c6dd47b3b70020c3fcb364d1> .
+<http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> <http://schema.org/streetAddress> "Via Garibaldi, 63" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/name> "Museo archeologico Eno Bellis"@it .
+<http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N52013758c6dd47b3b70020c3fcb364d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N52013758c6dd47b3b70020c3fcb364d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5ff00a4d7d3242a499754804d1767647> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> <http://schema.org/id> "100979" .
+<http://lodlaundromat.org/.well-known/genid/N5ff00a4d7d3242a499754804d1767647> <http://schema.org/latitude> "45.7787"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N5ff00a4d7d3242a499754804d1767647> <http://schema.org/longitude> "12.4911"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> .
+<http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N377d71950a7844658ed718262d6edba7> <http://schema.org/contentUrl> <http://images.museums.io/PlJf7oMeVsnlOXNFLAJk7WyursU=/1000x1000/museums/logos/000/189/474/original/45925b3862b9ca352a3f5aebc5848805c278e8.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/telephone> "+39 0422713333" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.7787&mlon=12.4911#map=15/45.7787/12.4911> .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N377d71950a7844658ed718262d6edba7> .
+<http://lodlaundromat.org/.well-known/genid/N22a4c71ffee049ea9eab59645701f987> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nbb88b5333d6a4f1da455a88248a96ad6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5ff00a4d7d3242a499754804d1767647> .
+<http://lodlaundromat.org/.well-known/genid/N52013758c6dd47b3b70020c3fcb364d1> <http://schema.org/value> "189474"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N377d71950a7844658ed718262d6edba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Na71cf6d51afb475697d6b032011d7120> <http://schema.org/addressLocality> "Oderzo" .
+

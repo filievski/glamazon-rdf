@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N12ae4b848be64b91946378f065d37b7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2aef98a48a50493f94051ef7db6bed28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N12ae4b848be64b91946378f065d37b7c> <http://schema.org/latitude> "37.5149"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2aef98a48a50493f94051ef7db6bed28> <http://schema.org/value> "132322"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://schema.org/postalCode> "94002-1908" .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://schema.org/streetAddress> "1500 RALSTON AVE" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.5149&mlon=-122.285#map=15/37.5149/-122.285> .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/telephone> "+1 (415) 508-3722" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N12ae4b848be64b91946378f065d37b7c> .
+<http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> <http://schema.org/id> "8400602448" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2aef98a48a50493f94051ef7db6bed28> .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> .
+<http://lodlaundromat.org/.well-known/genid/N12ae4b848be64b91946378f065d37b7c> <http://schema.org/longitude> "-122.285"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2aef98a48a50493f94051ef7db6bed28> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N864c1fd08f1a47eb997cff808d924c59> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5c93d2ef094245508f59bc60c40d85ab> <http://schema.org/addressLocality> "BELMONT" .
+<http://lodlaundromat.org/.well-known/genid/N99ba896b10714473af5780140f3ed5b3> <http://schema.org/name> "RALSTON HALL"@en .
+

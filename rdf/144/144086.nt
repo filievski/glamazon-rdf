@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://schema.org/streetAddress> "PO BOX 68" .
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://schema.org/addressLocality> "ROCKWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N23d0dc07e3044f4ab9dc09ba467af48b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23d0dc07e3044f4ab9dc09ba467af48b> .
+<http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> <http://schema.org/id> "8402600623" .
+<http://lodlaundromat.org/.well-known/genid/Nd3fbe4ef72d240b0984bdddc881e1c09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> .
+<http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd3fbe4ef72d240b0984bdddc881e1c09> .
+<http://lodlaundromat.org/.well-known/genid/Nd3fbe4ef72d240b0984bdddc881e1c09> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23d0dc07e3044f4ab9dc09ba467af48b> <http://schema.org/longitude> "-83.2182"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23d0dc07e3044f4ab9dc09ba467af48b> <http://schema.org/latitude> "42.0811"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/name> "ROCKWOOD AREA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N26c1dde97bb64088a270569f04a6b437> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://schema.org/postalCode> "48173-0068" .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0811&mlon=-83.2182#map=15/42.0811/-83.2182> .
+<http://lodlaundromat.org/.well-known/genid/Nd3fbe4ef72d240b0984bdddc881e1c09> <http://schema.org/value> "144086"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N61404eb8fbfa4822874853205a38e568> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc08c3ce21912400a90a98d5b8efce79e> .
+

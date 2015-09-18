@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N789b153600c5442d9c55cfd9a9e371ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/url> <http://www.co.douglas.or.us/museum> .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N8dd5c1d1db344f079d015b14a1885e65> <http://schema.org/value> "154583"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8dd5c1d1db344f079d015b14a1885e65> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> <http://schema.org/id> "8404100376" .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1943&mlon=-123.361#map=15/43.1943/-123.361> .
+<http://lodlaundromat.org/.well-known/genid/N8dd5c1d1db344f079d015b14a1885e65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://schema.org/postalCode> "97471-9747" .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://schema.org/addressLocality> "ROSEBURG" .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://schema.org/streetAddress> "123 MUSEUM DR" .
+<http://lodlaundromat.org/.well-known/genid/Nba77e2fef6454473b29ae936427e7d8c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N789b153600c5442d9c55cfd9a9e371ac> <http://schema.org/longitude> "-123.361"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a2fac7e4e3944128a826969b55a22e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N789b153600c5442d9c55cfd9a9e371ac> <http://schema.org/latitude> "43.1943"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N789b153600c5442d9c55cfd9a9e371ac> .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/name> "DOUGLAS COUNTY MUSEUM FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N3da0ffff30cd4edd9522133354c85f6e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8dd5c1d1db344f079d015b14a1885e65> .
+

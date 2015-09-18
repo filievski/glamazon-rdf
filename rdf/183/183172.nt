@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N279b022196fd43a78d5a24f988f86db0> <http://schema.org/latitude> "47.7657"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd9985d53d3944bea9cf329d478b8a53c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N279b022196fd43a78d5a24f988f86db0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/telephone> "08052/956640" .
+<http://lodlaundromat.org/.well-known/genid/Nd0bb99babac3495ca7eba0c95395149a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/url> <http://www.aschau.de/de/schloss-hohenaschau-und-prientalmuseum> .
+<http://lodlaundromat.org/.well-known/genid/Nd0bb99babac3495ca7eba0c95395149a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd9985d53d3944bea9cf329d478b8a53c> <http://schema.org/url> <http://www.museums.io/en/museums/183172> .
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://schema.org/addressLocality> "Aschau" .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/name> "Prientalmuseum und Schloss Hohenaschau"@en .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.7657&mlon=12.3222#map=15/47.7657/12.3222> .
+<http://lodlaundromat.org/.well-known/genid/N279b022196fd43a78d5a24f988f86db0> <http://schema.org/longitude> "12.3222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N279b022196fd43a78d5a24f988f86db0> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd9985d53d3944bea9cf329d478b8a53c> .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd9985d53d3944bea9cf329d478b8a53c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Nd9985d53d3944bea9cf329d478b8a53c> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N93ca60e6c8f14e83815748dfea2bbb04> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0bb99babac3495ca7eba0c95395149a> .
+<http://lodlaundromat.org/.well-known/genid/Nd0bb99babac3495ca7eba0c95395149a> <http://schema.org/value> "183172"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://schema.org/streetAddress> "Schloss Hohenaschau" .
+<http://lodlaundromat.org/.well-known/genid/N82e8461b1ff24fa091078acafce8a277> <http://schema.org/postalCode> "83229" .
+

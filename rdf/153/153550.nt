@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> .
+<http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc17e94c44f4421abeaeba52de478c77> <http://schema.org/latitude> "41.5868"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5868&mlon=-83.49#map=15/41.5868/-83.49> .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbc17e94c44f4421abeaeba52de478c77> <http://schema.org/longitude> "-83.49"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb27418112823412d99626cd47cc55a82> <http://schema.org/value> "153550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb27418112823412d99626cd47cc55a82> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb27418112823412d99626cd47cc55a82> .
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://schema.org/streetAddress> "214 WILBER ST" .
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://schema.org/addressLocality> "WALBRIDGE" .
+<http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> <http://schema.org/postalCode> "43465-0576" .
+<http://lodlaundromat.org/.well-known/genid/Nb27418112823412d99626cd47cc55a82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/name> "WALBRIDGE CENTENNIAL COMMITTEE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbc17e94c44f4421abeaeba52de478c77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc82d771b7ca44be69903b87d8258f53a> <http://schema.org/id> "8403901328" .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbc17e94c44f4421abeaeba52de478c77> .
+<http://lodlaundromat.org/.well-known/genid/N2eb92333031c42999156213cc358e047> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N06e13a5115f34935b0a155e1b175d000> .
+

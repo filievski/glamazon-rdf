@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb39dc08e8f4247ae8c7795f1f361bb30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9814&mlon=-76.333#map=15/42.9814/-76.333> .
+<http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> .
+<http://lodlaundromat.org/.well-known/genid/Nb39dc08e8f4247ae8c7795f1f361bb30> <http://schema.org/latitude> "42.9814"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://schema.org/postalCode> "13108" .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> <http://schema.org/id> "8403601329" .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://schema.org/addressLocality> "MARCELLUS" .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndc939fc5d17046ffa292c8f256775454> .
+<http://lodlaundromat.org/.well-known/genid/Nb39dc08e8f4247ae8c7795f1f361bb30> <http://schema.org/longitude> "-76.333"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb39dc08e8f4247ae8c7795f1f361bb30> .
+<http://lodlaundromat.org/.well-known/genid/Ndc939fc5d17046ffa292c8f256775454> <http://schema.org/value> "150035"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://schema.org/streetAddress> "BOX 133" .
+<http://lodlaundromat.org/.well-known/genid/N55f377dfeeea489f8e0d8d9dfb2341eb> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/name> "CENTERS FOR NATURE EDUCATION, INC."@en .
+<http://lodlaundromat.org/.well-known/genid/Ndc939fc5d17046ffa292c8f256775454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndc939fc5d17046ffa292c8f256775454> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N731c8e415a1a405590a8927f02366d12> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> .
+<http://lodlaundromat.org/.well-known/genid/N57d77c993544498d841eaf81076665b9> <http://schema.org/name> "us" .
+

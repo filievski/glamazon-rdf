@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nb30a3c66ae14471e912d58bc9ac8105c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb30a3c66ae14471e912d58bc9ac8105c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> <http://schema.org/id> "8400602973" .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N65a2e168bd7c42cdac4fa5ba3edddde9> .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/name> "MOJAVE NATIONAL PRESERVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N65a2e168bd7c42cdac4fa5ba3edddde9> <http://schema.org/longitude> "-117.021"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/telephone> "+1 (760) 252-6100" .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://schema.org/addressLocality> "BARSTOW" .
+<http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb30a3c66ae14471e912d58bc9ac8105c> .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.8711&mlon=-117.021#map=15/34.8711/-117.021> .
+<http://lodlaundromat.org/.well-known/genid/N7961ddf906774a1dab8c1a25bbd90b02> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf430d6ebaa424efd84b4a198bd300c43> .
+<http://lodlaundromat.org/.well-known/genid/Nb30a3c66ae14471e912d58bc9ac8105c> <http://schema.org/value> "189655"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N65a2e168bd7c42cdac4fa5ba3edddde9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://schema.org/streetAddress> "2701 BARSTOW ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N65a2e168bd7c42cdac4fa5ba3edddde9> <http://schema.org/latitude> "34.8711"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N682519238b9343d09113292f2d5ffb8d> <http://schema.org/postalCode> "92311" .
+

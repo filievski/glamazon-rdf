@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N974a41fa55a448f8990baba561935610> <http://schema.org/latitude> "42.0589"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://schema.org/addressLocality> "WYOMING" .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0589&mlon=-91.0063#map=15/42.0589/-91.0063> .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://schema.org/postalCode> "52362" .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://schema.org/streetAddress> "121 W MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N974a41fa55a448f8990baba561935610> .
+<http://lodlaundromat.org/.well-known/genid/N22fd4b7c6ab94706b169eeeca8d2012f> <http://schema.org/value> "138978"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N974a41fa55a448f8990baba561935610> <http://schema.org/longitude> "-91.0063"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N974a41fa55a448f8990baba561935610> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> .
+<http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> <http://schema.org/id> "8401900015" .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N22fd4b7c6ab94706b169eeeca8d2012f> .
+<http://lodlaundromat.org/.well-known/genid/N22fd4b7c6ab94706b169eeeca8d2012f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N22fd4b7c6ab94706b169eeeca8d2012f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/telephone> "+1 (563) 488-3198" .
+<http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N56fbc4f3d07a4aa9a32627fe58f6fde3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb8cb3429d1cf4496b1d8d044c9817668> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N85d9521fc50a41538df0e9c2f92a3533> <http://schema.org/name> "WYOMING HISTORICAL MUSEUM"@en .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N87c7afba24b145dc9af28187b516679c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87c7afba24b145dc9af28187b516679c> .
+<http://lodlaundromat.org/.well-known/genid/N87320ceb427847bc921856c3dcef1052> <http://schema.org/latitude> "41.5563"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N87320ceb427847bc921856c3dcef1052> .
+<http://lodlaundromat.org/.well-known/genid/N87c7afba24b145dc9af28187b516679c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://schema.org/streetAddress> "606 SOM CENTER ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N87320ceb427847bc921856c3dcef1052> <http://schema.org/longitude> "-81.488"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N87c7afba24b145dc9af28187b516679c> <http://schema.org/value> "153154"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://schema.org/addressLocality> "MAYFIELD VILLAGE" .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://schema.org/postalCode> "44143" .
+<http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/telephone> "+1 (440) 461-0055" .
+<http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> <http://schema.org/id> "8403900932" .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/name> "MAYFIELD TOWNSHIP HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88eabf1b2486475b8258b11305ad2051> .
+<http://lodlaundromat.org/.well-known/genid/Nec7ca3c9d8a84b1d97a5bed5b24d90e4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5563&mlon=-81.488#map=15/41.5563/-81.488> .
+<http://lodlaundromat.org/.well-known/genid/N87320ceb427847bc921856c3dcef1052> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8e30a694516b4dd493057d9c00256141> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

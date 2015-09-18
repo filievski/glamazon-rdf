@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4b693033399144c5a961a72e1574d6e3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/url> <http://www.bbmuseum.de/> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.2001&mlon=11.347#map=15/50.2001/11.347> .
+<http://lodlaundromat.org/.well-known/genid/N3c36796cd5114898aa79f4e3e1a8c6c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4b693033399144c5a961a72e1574d6e3> .
+<http://lodlaundromat.org/.well-known/genid/Nb51bead7978641358ada47ed7067d002> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c36796cd5114898aa79f4e3e1a8c6c5> <http://schema.org/value> "183852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4b693033399144c5a961a72e1574d6e3> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3c36796cd5114898aa79f4e3e1a8c6c5> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb51bead7978641358ada47ed7067d002> .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://schema.org/addressLocality> "Wei\u00DFenbrunn" .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nb51bead7978641358ada47ed7067d002> <http://schema.org/latitude> "50.2001"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4b693033399144c5a961a72e1574d6e3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/telephone> "09261/40431" .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://schema.org/streetAddress> "Braustra\u00DFe 5" .
+<http://lodlaundromat.org/.well-known/genid/N4b693033399144c5a961a72e1574d6e3> <http://schema.org/url> <http://www.museums.io/en/museums/183852> .
+<http://lodlaundromat.org/.well-known/genid/N3c36796cd5114898aa79f4e3e1a8c6c5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N0aa99adb1b8849e3bd6f5ec124c818c4> <http://schema.org/postalCode> "96369" .
+<http://lodlaundromat.org/.well-known/genid/Nb51bead7978641358ada47ed7067d002> <http://schema.org/longitude> "11.347"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35b82640b8f6498086b6a79a78b7635f> <http://schema.org/name> "Brauer- und B\u00FCttnermuseum"@en .
+

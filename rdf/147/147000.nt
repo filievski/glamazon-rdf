@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6993&mlon=-99.0748#map=15/40.6993/-99.0748> .
+<http://lodlaundromat.org/.well-known/genid/Nc818538f08814cddbef5bd0b9be17996> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc818538f08814cddbef5bd0b9be17996> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N42117df6d76940cd97f4e2998f2e55ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> <http://schema.org/id> "8403100339" .
+<http://lodlaundromat.org/.well-known/genid/N42117df6d76940cd97f4e2998f2e55ca> <http://schema.org/longitude> "-99.0748"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N42117df6d76940cd97f4e2998f2e55ca> <http://schema.org/latitude> "40.6993"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://schema.org/streetAddress> "PO BOX 523" .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> .
+<http://lodlaundromat.org/.well-known/genid/Nc818538f08814cddbef5bd0b9be17996> <http://schema.org/value> "147000"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> .
+<http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://schema.org/addressRegion> "NE" .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/name> "BUFFALO COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e870689d8674ac69085376e057dd0bd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://schema.org/addressLocality> "KEARNEY" .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc818538f08814cddbef5bd0b9be17996> .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N42117df6d76940cd97f4e2998f2e55ca> .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://schema.org/postalCode> "68848-0523" .
+<http://lodlaundromat.org/.well-known/genid/N77d801ea3f4f42b09f5555964babaaea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nefbb6a65aff240f3acf0992faa8beded> <http://schema.org/addressCountry> "United States" .
+

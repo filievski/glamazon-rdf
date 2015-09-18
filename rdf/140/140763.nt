@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.4115&mlon=-91.1879#map=15/30.4115/-91.1879> .
+<http://lodlaundromat.org/.well-known/genid/Nc3949d13cea9478394658e8965e681a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> .
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://schema.org/addressLocality> "BATON ROUGE" .
+<http://lodlaundromat.org/.well-known/genid/Nc3949d13cea9478394658e8965e681a1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/telephone> "+1 (504) 388-6884" .
+<http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/Na4bf47af20af4ee482da3c9e638a60c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na4bf47af20af4ee482da3c9e638a60c0> <http://schema.org/latitude> "30.4115"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> .
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/name> "MUSEUM OF NATURAL SCIENCE"@en .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na4bf47af20af4ee482da3c9e638a60c0> .
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://schema.org/postalCode> "70803" .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc3949d13cea9478394658e8965e681a1> .
+<http://lodlaundromat.org/.well-known/genid/Na4bf47af20af4ee482da3c9e638a60c0> <http://schema.org/longitude> "-91.1879"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8f445c522f6a47abb6da65f59480e9fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc3949d13cea9478394658e8965e681a1> <http://schema.org/value> "140763"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1ad7265426814d74bde50a02d01d5fda> <http://schema.org/streetAddress> "LOUISIANA STATE UNIVERSITY" .
+<http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> <http://schema.org/id> "8402200045" .
+<http://lodlaundromat.org/.well-known/genid/Na0043f385a8a473fb9a3ebd273334c12> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

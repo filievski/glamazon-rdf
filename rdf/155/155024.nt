@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0e554c90e9df40b8adee2403bf522980> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://schema.org/addressLocality> "ERIE" .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://schema.org/postalCode> "16507" .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.1328&mlon=-80.0875#map=15/42.1328/-80.0875> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> <http://schema.org/id> "8404200218" .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0e554c90e9df40b8adee2403bf522980> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0e554c90e9df40b8adee2403bf522980> <http://schema.org/longitude> "-80.0875"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0e554c90e9df40b8adee2403bf522980> <http://schema.org/latitude> "42.1328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/name> "ERIE MARITIME MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbd93b573cdf4bb08e12b257ae550efb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N107d919eec5742ac81d814d7e685bf99> .
+<http://lodlaundromat.org/.well-known/genid/N107d919eec5742ac81d814d7e685bf99> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncf5e70f1babc49769ef06c219013e35b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N107d919eec5742ac81d814d7e685bf99> <http://schema.org/value> "155024"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N107d919eec5742ac81d814d7e685bf99> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2c103f6d976448fe9c9b8311be647750> <http://schema.org/streetAddress> "150 EAST FRONT ST., STE. 100" .
+

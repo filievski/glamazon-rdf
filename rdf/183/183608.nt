@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N6767c6adeceb49c99420b9508ad274fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> <http://schema.org/streetAddress> "Bacherwinkl 5" .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/name> "Schnauferlstall"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N6767c6adeceb49c99420b9508ad274fc> <http://schema.org/value> "183608"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N825c3a6fdb974febb845bf348e6ca824> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> <http://schema.org/postalCode> "83324" .
+<http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N825c3a6fdb974febb845bf348e6ca824> .
+<http://lodlaundromat.org/.well-known/genid/N7701b578d2184c47a773bfa0b6ce527c> <http://schema.org/url> <http://www.museums.io/en/museums/183608> .
+<http://lodlaundromat.org/.well-known/genid/N7701b578d2184c47a773bfa0b6ce527c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6767c6adeceb49c99420b9508ad274fc> .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> .
+<http://lodlaundromat.org/.well-known/genid/Nfa9ad91f38c74b8eacc63d8f2f6283b5> <http://schema.org/addressLocality> "Ruhpolding" .
+<http://lodlaundromat.org/.well-known/genid/N825c3a6fdb974febb845bf348e6ca824> <http://schema.org/longitude> "12.623"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7701b578d2184c47a773bfa0b6ce527c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N825c3a6fdb974febb845bf348e6ca824> <http://schema.org/latitude> "47.759"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7701b578d2184c47a773bfa0b6ce527c> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.759&mlon=12.623#map=15/47.759/12.623> .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/telephone> "08663/9948" .
+<http://lodlaundromat.org/.well-known/genid/N6d0c5fcc8bfc4361a21043708ec03aaf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7701b578d2184c47a773bfa0b6ce527c> .
+<http://lodlaundromat.org/.well-known/genid/N6767c6adeceb49c99420b9508ad274fc> <http://schema.org/name> "id" .
+

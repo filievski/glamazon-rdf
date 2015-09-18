@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N339b056cb04b44da8e54552be3e05064> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6e46188efe284d2883672c91b18e6de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6e46188efe284d2883672c91b18e6de4> <http://schema.org/latitude> "25.7855"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N339b056cb04b44da8e54552be3e05064> .
+<http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> <http://schema.org/id> "8401200384" .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6e46188efe284d2883672c91b18e6de4> .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://schema.org/addressLocality> "MIAMI" .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://schema.org/streetAddress> "11200 S.W. 8TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.7855&mlon=-80.1364#map=15/25.7855/-80.1364> .
+<http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N339b056cb04b44da8e54552be3e05064> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/name> "FLORIDA INTERNATIONAL UNIVERSITY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N339b056cb04b44da8e54552be3e05064> <http://schema.org/value> "134830"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5141741574114c29b1369ce103fdddf5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> .
+<http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4c85b4c4de1a4e8bb223debdaf6952ea> <http://schema.org/postalCode> "33139" .
+<http://lodlaundromat.org/.well-known/genid/N335a57857b214189ae9a9d5c627753ff> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e46188efe284d2883672c91b18e6de4> <http://schema.org/longitude> "-80.1364"^^<http://www.w3.org/2001/XMLSchema#double> .
+

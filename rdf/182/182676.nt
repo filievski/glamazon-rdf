@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://schema.org/streetAddress> "Feuerhausgasse 1" .
+<http://lodlaundromat.org/.well-known/genid/N74db018c1eaa48b7b13450c5b1a593ff> <http://schema.org/value> "182676"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N261d5c6f216b4654a5bd56754718a395> <http://schema.org/longitude> "12.7644"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> .
+<http://lodlaundromat.org/.well-known/genid/Ne04ddef794394fe08577f85b184e7053> <http://schema.org/url> <http://www.museums.io/en/museums/182676> .
+<http://lodlaundromat.org/.well-known/genid/N261d5c6f216b4654a5bd56754718a395> <http://schema.org/latitude> "48.4036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne04ddef794394fe08577f85b184e7053> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N74db018c1eaa48b7b13450c5b1a593ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://schema.org/addressLocality> "Eggenfelden" .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N261d5c6f216b4654a5bd56754718a395> .
+<http://lodlaundromat.org/.well-known/genid/N261d5c6f216b4654a5bd56754718a395> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N74db018c1eaa48b7b13450c5b1a593ff> .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://schema.org/postalCode> "84307" .
+<http://lodlaundromat.org/.well-known/genid/Ne04ddef794394fe08577f85b184e7053> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/name> "Feuerwehrmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.4036&mlon=12.7644#map=15/48.4036/12.7644> .
+<http://lodlaundromat.org/.well-known/genid/Ne04ddef794394fe08577f85b184e7053> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N74db018c1eaa48b7b13450c5b1a593ff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1f79dd795b614c5b8f1481a95e4ed0de> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/telephone> "08721/8844" .
+<http://lodlaundromat.org/.well-known/genid/N242bccb92d934cc8a476e868a81e937d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne04ddef794394fe08577f85b184e7053> .
+

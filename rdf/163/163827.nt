@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N30754fdb69094977b74111d2c8873383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/telephone> "(03) 9244 5344" .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/name> "Deakin University Art Collection"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/url> <http://www.deakin.edu.au/art-collection/> .
+<http://lodlaundromat.org/.well-known/genid/Nf5b001b20db44c9f8d29834159b5d4dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/openingHours> "Tuesday-Friday 10-4 pm\r\nSaturday 1-5 pm\r\nClosed on public holidays"@en .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8495&mlon=145.113#map=15/-37.8495/145.113> .
+<http://lodlaundromat.org/.well-known/genid/N30754fdb69094977b74111d2c8873383> <http://schema.org/value> "163827"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N30754fdb69094977b74111d2c8873383> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2d3d079d0d9f4e31b2e572d2ccec9ddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2d3d079d0d9f4e31b2e572d2ccec9ddf> .
+<http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> <http://schema.org/url> <http://victoriancollections.net.au/organisations/deakin-university-art-collection> .
+<http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf5b001b20db44c9f8d29834159b5d4dc> .
+<http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> <http://schema.org/id> "deakin-university-art-collection" .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30754fdb69094977b74111d2c8873383> .
+<http://lodlaundromat.org/.well-known/genid/N2d3d079d0d9f4e31b2e572d2ccec9ddf> <http://schema.org/longitude> "145.113"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5b001b20db44c9f8d29834159b5d4dc> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2d3d079d0d9f4e31b2e572d2ccec9ddf> <http://schema.org/latitude> "-37.8495"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c739ab552cb4f499af77ee1e1e9fc29> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd652ab5118ad4abcba29e80072b8c818> .
+

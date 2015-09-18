@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/name> "IRVING FIRE & POLICE MUSEUM FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47b678bfd205491f8d969cc59c1da030> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> .
+<http://lodlaundromat.org/.well-known/genid/Nbfeb53bb1dc64412a9b2d8c257e48c25> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> <http://schema.org/id> "8404801753" .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.8036&mlon=-96.9564#map=15/32.8036/-96.9564> .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://schema.org/addressLocality> "IRVING" .
+<http://lodlaundromat.org/.well-known/genid/Nbfeb53bb1dc64412a9b2d8c257e48c25> <http://schema.org/latitude> "32.8036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://schema.org/postalCode> "75060" .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://schema.org/streetAddress> "137 E 2ND AT" .
+<http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47b678bfd205491f8d969cc59c1da030> .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> .
+<http://lodlaundromat.org/.well-known/genid/Nbfeb53bb1dc64412a9b2d8c257e48c25> <http://schema.org/longitude> "-96.9564"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fa8a58dd96e48179a15ae757b9b935f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N586cd20e867542f0948d6c1c86135160> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbfeb53bb1dc64412a9b2d8c257e48c25> .
+<http://lodlaundromat.org/.well-known/genid/N47b678bfd205491f8d969cc59c1da030> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7fa70666485846808a1de13e93811e95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N47b678bfd205491f8d969cc59c1da030> <http://schema.org/value> "159653"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

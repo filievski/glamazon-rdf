@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6c11c9bfd4984817a05f21c3f8ec5c6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> .
+<http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c11c9bfd4984817a05f21c3f8ec5c6e> .
+<http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.258&mlon=-95.8512#map=15/41.258/-95.8512> .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://schema.org/streetAddress> "209 PEARL ST" .
+<http://lodlaundromat.org/.well-known/genid/N6c11c9bfd4984817a05f21c3f8ec5c6e> <http://schema.org/value> "139587"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6c11c9bfd4984817a05f21c3f8ec5c6e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/name> "COUNCIL BLUFFS, CITY OF"@en .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://schema.org/postalCode> "51503" .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> <http://schema.org/id> "8401900624" .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> .
+<http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8ef08ab7c4a44ffc9a800f34b5f666bb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://schema.org/addressLocality> "COUNCIL BLUFF" .
+<http://lodlaundromat.org/.well-known/genid/Nce0f89ce810c4c028def9caf55de8b79> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Ncbc1663bdb584c52950101d736e9d25a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncbc1663bdb584c52950101d736e9d25a> <http://schema.org/latitude> "41.258"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e1f584bc1784a50862109146d23df21> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncbc1663bdb584c52950101d736e9d25a> .
+<http://lodlaundromat.org/.well-known/genid/Ncbc1663bdb584c52950101d736e9d25a> <http://schema.org/longitude> "-95.8512"^^<http://www.w3.org/2001/XMLSchema#double> .
+

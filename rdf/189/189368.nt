@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N9dc021e800ab404b8b05866c7fbed58e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N605188a38af64dc4b1a4c2157d6d9015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> <http://schema.org/streetAddress> "Vico Catina, 4" .
+<http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/telephone> "+39 0744434202" .
+<http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N605188a38af64dc4b1a4c2157d6d9015> .
+<http://lodlaundromat.org/.well-known/genid/N605188a38af64dc4b1a4c2157d6d9015> <http://schema.org/value> "189368"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5651&mlon=12.6502#map=15/42.5651/12.6502> .
+<http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> .
+<http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N9dc021e800ab404b8b05866c7fbed58e> <http://schema.org/latitude> "42.5651"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> <http://schema.org/id> "100801" .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N61cceda1e4ee4e6499804971e883bcce> .
+<http://lodlaundromat.org/.well-known/genid/N816aee4b79654a409556e72f6d577e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N605188a38af64dc4b1a4c2157d6d9015> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N816aee4b79654a409556e72f6d577e34> .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9dc021e800ab404b8b05866c7fbed58e> .
+<http://lodlaundromat.org/.well-known/genid/N04f2366573ce4011942da39f760c3317> <http://schema.org/name> "Mostra permanente di paleontologia"@it .
+<http://lodlaundromat.org/.well-known/genid/N9dc021e800ab404b8b05866c7fbed58e> <http://schema.org/longitude> "12.6502"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N816aee4b79654a409556e72f6d577e34> <http://schema.org/contentUrl> <http://images.museums.io/5DlW1UZEoGneKdOwX7C7KoqdkTc=/1000x1000/museums/logos/000/189/368/original/4565359379fc8e55407893e3f0966bcd5112b3e9.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N5d9b76e6870f43088cc65d0929648aa5> <http://schema.org/addressLocality> "Terni" .
+

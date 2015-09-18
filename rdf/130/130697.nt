@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N01acbab96cae4a8cb506fe333075820e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N01acbab96cae4a8cb506fe333075820e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N91383cebe4104e31b685c0bfc45e5839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/name> "WHEATLAND HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N01acbab96cae4a8cb506fe333075820e> <http://schema.org/value> "130697"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/url> <http://www.wheatlandhistoricalsociet/> .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2613&mlon=-120.93#map=15/39.2613/-120.93> .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://schema.org/streetAddress> "14818 BANNER QUAKER HILL RD" .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N01acbab96cae4a8cb506fe333075820e> .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://schema.org/postalCode> "95959" .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> .
+<http://lodlaundromat.org/.well-known/genid/N91383cebe4104e31b685c0bfc45e5839> <http://schema.org/longitude> "-120.93"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N91383cebe4104e31b685c0bfc45e5839> .
+<http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> <http://schema.org/id> "8400600823" .
+<http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N02a4231fab1f4c78a09f7305cfbe9a1e> <http://schema.org/addressLocality> "NEVADA CITY" .
+<http://lodlaundromat.org/.well-known/genid/N88d8fd694f764c79a9d5bbf7052ece2c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> .
+<http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1fb3bb7d721b48fa8fff0ef0f1185479> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N91383cebe4104e31b685c0bfc45e5839> <http://schema.org/latitude> "39.2613"^^<http://www.w3.org/2001/XMLSchema#double> .
+

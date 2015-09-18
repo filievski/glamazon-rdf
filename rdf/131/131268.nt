@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/name> "HERD FAMILY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf6d1ce6dffb944e6a3a20c798f6ad1c7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf6d1ce6dffb944e6a3a20c798f6ad1c7> .
+<http://lodlaundromat.org/.well-known/genid/Ne7c313f1eb1a4a008e0597bdd4e1d313> <http://schema.org/latitude> "37.9188"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne7c313f1eb1a4a008e0597bdd4e1d313> <http://schema.org/longitude> "-122.504"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://schema.org/streetAddress> "17 MARINER GREEN DR" .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9188&mlon=-122.504#map=15/37.9188/-122.504> .
+<http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://schema.org/postalCode> "94925-2043" .
+<http://lodlaundromat.org/.well-known/genid/Ne7c313f1eb1a4a008e0597bdd4e1d313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf6d1ce6dffb944e6a3a20c798f6ad1c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf6d1ce6dffb944e6a3a20c798f6ad1c7> <http://schema.org/value> "131268"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://schema.org/addressLocality> "CORTE MADERA" .
+<http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N990d0e774f2d4368a14d7e9c3748b429> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> .
+<http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> <http://schema.org/id> "8400601394" .
+<http://lodlaundromat.org/.well-known/genid/N2f31349701e949778ca3bf3f47df4275> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3c208f7567c14282a6895e46f8266ff8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne7c313f1eb1a4a008e0597bdd4e1d313> .
+

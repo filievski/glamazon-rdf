@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/name> "AEROSPACE RESOURCE CENTER INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://schema.org/addressLocality> "MILLVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N950382fea1fe41dc9808a0c7fec43c80> <http://schema.org/value> "148028"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N950382fea1fe41dc9808a0c7fec43c80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N950382fea1fe41dc9808a0c7fec43c80> .
+<http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3742&mlon=-75.0683#map=15/39.3742/-75.0683> .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> .
+<http://lodlaundromat.org/.well-known/genid/N950382fea1fe41dc9808a0c7fec43c80> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd02fe9bf6afe44fc920460d880a0ad66> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne1b90e84599945729d93cb91da5faabe> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b90e84599945729d93cb91da5faabe> <http://schema.org/latitude> "39.3742"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://schema.org/streetAddress> "1 LEDDON STREET" .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne62ceffb7b8a48af996b7b91be8abd4a> <http://schema.org/id> "8403400396" .
+<http://lodlaundromat.org/.well-known/genid/N9f31ea2b1a884654b598fd085bfc5da0> <http://schema.org/postalCode> "08332" .
+<http://lodlaundromat.org/.well-known/genid/Ne1b90e84599945729d93cb91da5faabe> <http://schema.org/longitude> "-75.0683"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne1b90e84599945729d93cb91da5faabe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

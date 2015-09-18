@@ -1,0 +1,35 @@
+<http://lodlaundromat.org/.well-known/genid/N5e6eec1781754d768dd31ada7d0a049d> <http://schema.org/url> <https://twitter.com/ComputerHistory> .
+<http://lodlaundromat.org/.well-known/genid/N126e9f4db63646bab084f55ce084234c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://schema.org/streetAddress> "1401 N SHORELINE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5e6eec1781754d768dd31ada7d0a049d> <http://schema.org/contactType> "Twitter" .
+<http://lodlaundromat.org/.well-known/genid/N126e9f4db63646bab084f55ce084234c> <http://schema.org/value> "131907"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84951937122941938c3677b3525e3bd6> <http://schema.org/longitude> "-122.078"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/url> <http://www.computerhistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://schema.org/addressLocality> "MOUNTAIN VIEW" .
+<http://lodlaundromat.org/.well-known/genid/N126e9f4db63646bab084f55ce084234c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nc545f40f41cd4d5485d73a3a0027dbce> .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N84951937122941938c3677b3525e3bd6> .
+<http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> .
+<http://lodlaundromat.org/.well-known/genid/Nc545f40f41cd4d5485d73a3a0027dbce> <http://schema.org/contactType> "Facebook" .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://schema.org/postalCode> "94043-1311" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/name> "COMPUTER HISTORY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N84951937122941938c3677b3525e3bd6> <http://schema.org/latitude> "37.4145"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc545f40f41cd4d5485d73a3a0027dbce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N84951937122941938c3677b3525e3bd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5e6eec1781754d768dd31ada7d0a049d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/N5e6eec1781754d768dd31ada7d0a049d> .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.4145&mlon=-122.078#map=15/37.4145/-122.078> .
+<http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc545f40f41cd4d5485d73a3a0027dbce> <http://schema.org/url> <https://www.facebook.com/computerhistory> .
+<http://lodlaundromat.org/.well-known/genid/N3d34af736d7143f281aca9ffcc5748be> <http://schema.org/id> "8400602033" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/telephone> "+1 (650) 810-1010" .
+<http://lodlaundromat.org/.well-known/genid/N27d467e2b44349218b8a3905e3466107> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N126e9f4db63646bab084f55ce084234c> .
+<http://lodlaundromat.org/.well-known/genid/N847613dd93c04eb1a87ddd9fce49df64> <http://schema.org/addressRegion> "CA" .
+

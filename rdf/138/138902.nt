@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N30e2891eddc841fb8c737a22c1ef0e8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://schema.org/streetAddress> "2 WEST MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N952a56e5daef41898133d13c87faf1fe> <http://schema.org/latitude> "37.9453"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N30e2891eddc841fb8c737a22c1ef0e8d> <http://schema.org/value> "138902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N30e2891eddc841fb8c737a22c1ef0e8d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> <http://schema.org/id> "8401800688" .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://schema.org/addressLocality> "NEWBURGH" .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/name> "NEWBURGH MUSEUM FOUNDATION CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N952a56e5daef41898133d13c87faf1fe> .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> .
+<http://lodlaundromat.org/.well-known/genid/N952a56e5daef41898133d13c87faf1fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30e2891eddc841fb8c737a22c1ef0e8d> .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://schema.org/postalCode> "47630-1214" .
+<http://lodlaundromat.org/.well-known/genid/N696a9b973b154398bc94a30b3513f77c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N952a56e5daef41898133d13c87faf1fe> <http://schema.org/longitude> "-87.4052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10e341f79b664e0bafad40eb63447f5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9453&mlon=-87.4052#map=15/37.9453/-87.4052> .
+<http://lodlaundromat.org/.well-known/genid/Neb4f277ee9d74ca09006cde94f976f26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

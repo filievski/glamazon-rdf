@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N28f52f00c4a24283b8c6fb9ef43f770e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N28f52f00c4a24283b8c6fb9ef43f770e> <http://schema.org/latitude> "-37.815"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5a78c950cf1d45b792574f799b77bec6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5a78c950cf1d45b792574f799b77bec6> <http://schema.org/value> "163808"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> <http://schema.org/url> <http://victoriancollections.net.au/organisations/cooks-cottage> .
+<http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> <http://schema.org/id> "cooks-cottage" .
+<http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N98af522246484968a601da4c94705b47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N28f52f00c4a24283b8c6fb9ef43f770e> <http://schema.org/longitude> "144.98"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N28f52f00c4a24283b8c6fb9ef43f770e> .
+<http://lodlaundromat.org/.well-known/genid/N5a78c950cf1d45b792574f799b77bec6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.815&mlon=144.98#map=15/-37.815/144.98> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/telephone> "(03) 9419 4677" .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ebe79edfaef4942a17cd5b31e65c347> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98af522246484968a601da4c94705b47> .
+<http://lodlaundromat.org/.well-known/genid/N98af522246484968a601da4c94705b47> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5a78c950cf1d45b792574f799b77bec6> .
+<http://lodlaundromat.org/.well-known/genid/N9765a5bb10034b93962a31c3f731098f> <http://schema.org/name> "Cook's Cottage"@en .
+

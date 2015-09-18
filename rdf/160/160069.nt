@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/name> "ARNOLD FRIBERG FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://schema.org/postalCode> "84093-6333" .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N173e24a2050741c38c4c8d47c282a1d2> .
+<http://lodlaundromat.org/.well-known/genid/N253d87f0bd8d48039a2a0135ef7fe315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> .
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N253d87f0bd8d48039a2a0135ef7fe315> .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> .
+<http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> <http://schema.org/id> "8404900135" .
+<http://lodlaundromat.org/.well-known/genid/N253d87f0bd8d48039a2a0135ef7fe315> <http://schema.org/latitude> "40.6447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N173e24a2050741c38c4c8d47c282a1d2> <http://schema.org/value> "160069"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N173e24a2050741c38c4c8d47c282a1d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N72ed732ec9ef487ea748d7a1c94cbee7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6447&mlon=-111.808#map=15/40.6447/-111.808> .
+<http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N253d87f0bd8d48039a2a0135ef7fe315> <http://schema.org/longitude> "-111.808"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://schema.org/addressLocality> "SALT LAKE CITY" .
+<http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N173e24a2050741c38c4c8d47c282a1d2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7d9e101423994739b13d94ed15c8a5f6> <http://schema.org/streetAddress> "5867 TOLCATE LANE" .
+<http://lodlaundromat.org/.well-known/genid/N1ece10a39253443abf64d001d3102b63> <http://schema.org/@Type> "Dataset" .
+

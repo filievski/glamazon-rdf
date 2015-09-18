@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7575dac1c67843d1939e628a3eb3a90b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/name> "RIVERBANKS ZOOLOGICAL PARK AND BOTANICAL GARDEN"@en .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7575dac1c67843d1939e628a3eb3a90b> .
+<http://lodlaundromat.org/.well-known/genid/N71290d3e14804ac4a3cca559f703b7df> <http://schema.org/latitude> "34.0111"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N71290d3e14804ac4a3cca559f703b7df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://schema.org/streetAddress> "PO BOX 1060" .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://schema.org/postalCode> "29202-1060" .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0111&mlon=-81.0747#map=15/34.0111/-81.0747> .
+<http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N71290d3e14804ac4a3cca559f703b7df> .
+<http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> <http://schema.org/id> "8404500296" .
+<http://lodlaundromat.org/.well-known/genid/N7575dac1c67843d1939e628a3eb3a90b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N71290d3e14804ac4a3cca559f703b7df> <http://schema.org/longitude> "-81.0747"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8b5d7a75d90549a4abc40e38f1ee1654> .
+<http://lodlaundromat.org/.well-known/genid/N6417a409fa15407eb6320623b6c2a009> <http://schema.org/url> <http://www.riverbanks.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7575dac1c67843d1939e628a3eb3a90b> <http://schema.org/value> "157001"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4ed99f4d85f243ad85c1de13026c25d1> <http://schema.org/addressLocality> "COLUMBIA" .
+

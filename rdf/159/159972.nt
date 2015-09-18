@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N002a5776ec764632b979e70c97a140fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/url> <http://mpc.byu.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb130d4ea120042828a8995c7e16ebf69> .
+<http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://schema.org/addressLocality> "PROVO" .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/Nb130d4ea120042828a8995c7e16ebf69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N002a5776ec764632b979e70c97a140fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> .
+<http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> <http://schema.org/id> "8404900038" .
+<http://lodlaundromat.org/.well-known/genid/Na0fd54f2cef14e23b5804de4500e1cbb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/telephone> "+1 (801) 422-0020" .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/name> "MUSEUM OF PEOPLES AND CULTURES"@en .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.235&mlon=-111.647#map=15/40.235/-111.647> .
+<http://lodlaundromat.org/.well-known/genid/Nb130d4ea120042828a8995c7e16ebf69> <http://schema.org/longitude> "-111.647"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://schema.org/postalCode> "84602" .
+<http://lodlaundromat.org/.well-known/genid/N002a5776ec764632b979e70c97a140fc> <http://schema.org/value> "159972"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27c872d097234813bd7b3be0287b6f4f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N002a5776ec764632b979e70c97a140fc> .
+<http://lodlaundromat.org/.well-known/genid/Nb130d4ea120042828a8995c7e16ebf69> <http://schema.org/latitude> "40.235"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://schema.org/streetAddress> "100 E 700 N" .
+<http://lodlaundromat.org/.well-known/genid/N51b273a3a68f4c6da3ba4984d97554b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

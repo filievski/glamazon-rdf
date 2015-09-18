@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> .
+<http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbca2f81e47274cb28525250d1d77c543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbca2f81e47274cb28525250d1d77c543> <http://schema.org/latitude> "39.0671"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9af2692a7a8406a9822b0bae3acaafc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb9af2692a7a8406a9822b0bae3acaafc> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/name> "LURAY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> <http://schema.org/id> "8402000566" .
+<http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb9af2692a7a8406a9822b0bae3acaafc> <http://schema.org/value> "140240"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbca2f81e47274cb28525250d1d77c543> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://schema.org/postalCode> "67649-9211" .
+<http://lodlaundromat.org/.well-known/genid/Nb9af2692a7a8406a9822b0bae3acaafc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9d0335277adb433490baec9c845083fd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/Nbca2f81e47274cb28525250d1d77c543> <http://schema.org/longitude> "-98.7053"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N97f21af8cb094b068d79e64afbd894a5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0671&mlon=-98.7053#map=15/39.0671/-98.7053> .
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://schema.org/addressLocality> "LURAY" .
+<http://lodlaundromat.org/.well-known/genid/N1c42581bf05b4b6dbdad2381a24b96a6> <http://schema.org/streetAddress> "19480 BEATTY LN" .
+

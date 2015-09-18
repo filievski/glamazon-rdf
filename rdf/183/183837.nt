@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68007a1ff7d84f2d90898fd514596c32> .
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://schema.org/streetAddress> "Luitpoldstra\u00DFe 25" .
+<http://lodlaundromat.org/.well-known/genid/N34c0c87e61864ce2a628110f10227ee2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N68007a1ff7d84f2d90898fd514596c32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N68007a1ff7d84f2d90898fd514596c32> <http://schema.org/latitude> "49.6783"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N286ed9b0b024403e81a0051ad489c71a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N34c0c87e61864ce2a628110f10227ee2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6783&mlon=12.1637#map=15/49.6783/12.1637> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/url> <http://die-neue-sammlung.de/weiden/> .
+<http://lodlaundromat.org/.well-known/genid/N286ed9b0b024403e81a0051ad489c71a> <http://schema.org/url> <http://www.museums.io/en/museums/183837> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/telephone> "0961/32030" .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N286ed9b0b024403e81a0051ad489c71a> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/name> "Internationales Keramik-Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nad74d661df334113bf2b820dc61901c4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N34c0c87e61864ce2a628110f10227ee2> .
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N68007a1ff7d84f2d90898fd514596c32> <http://schema.org/longitude> "12.1637"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://schema.org/postalCode> "92637" .
+<http://lodlaundromat.org/.well-known/genid/N286ed9b0b024403e81a0051ad489c71a> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N286ed9b0b024403e81a0051ad489c71a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N34c0c87e61864ce2a628110f10227ee2> <http://schema.org/value> "183837"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N85ab97b905814fa999e28778d334d0d5> <http://schema.org/addressLocality> "Weiden" .
+

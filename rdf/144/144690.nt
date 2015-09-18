@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2c5d3d3171a4f08ba0272f186e4fe33> .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://schema.org/streetAddress> "BOX 643" .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://schema.org/addressLocality> "NEW ULM" .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> .
+<http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfaf5b71b3ea44ecdac5ed01a6a52a8cb> .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb2c5d3d3171a4f08ba0272f186e4fe33> <http://schema.org/latitude> "44.3083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3083&mlon=-94.4799#map=15/44.3083/-94.4799> .
+<http://lodlaundromat.org/.well-known/genid/N1efcd7acea4948a997e8ec1aa5dca387> <http://schema.org/name> "THE HERMANN MONUMENT SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb2c5d3d3171a4f08ba0272f186e4fe33> <http://schema.org/longitude> "-94.4799"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb2c5d3d3171a4f08ba0272f186e4fe33> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> <http://schema.org/id> "8402700130" .
+<http://lodlaundromat.org/.well-known/genid/Nb85267081dd247bbb8beeaee8dc2d527> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfaf5b71b3ea44ecdac5ed01a6a52a8cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfaf5b71b3ea44ecdac5ed01a6a52a8cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfaf5b71b3ea44ecdac5ed01a6a52a8cb> <http://schema.org/value> "144690"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48f32d88f6364a35b1d4d72dde0d9655> <http://schema.org/postalCode> "56073-0643" .
+

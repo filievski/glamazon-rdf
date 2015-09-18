@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N70f09d1bc00c4326bc1a7264e3257a4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9cb90b66efb5403fb0fcaa77e794c47b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/name> "WINGTIP-TO-WINGTIP ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9cb90b66efb5403fb0fcaa77e794c47b> <http://schema.org/longitude> "-97.0866"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9cb90b66efb5403fb0fcaa77e794c47b> .
+<http://lodlaundromat.org/.well-known/genid/N70f09d1bc00c4326bc1a7264e3257a4f> <http://schema.org/value> "158552"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N70f09d1bc00c4326bc1a7264e3257a4f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N70f09d1bc00c4326bc1a7264e3257a4f> .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> .
+<http://lodlaundromat.org/.well-known/genid/N9cb90b66efb5403fb0fcaa77e794c47b> <http://schema.org/latitude> "33.2585"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.2585&mlon=-97.0866#map=15/33.2585/-97.0866> .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> .
+<http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://schema.org/addressLocality> "DENTON" .
+<http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> <http://schema.org/id> "8404800652" .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N77b2ac874dd247d4a2076ce779278f15> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://schema.org/postalCode> "76208-3588" .
+<http://lodlaundromat.org/.well-known/genid/Ncf1b7806668142969f77a26d8b055b89> <http://schema.org/streetAddress> "5063 FARRIS ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nbfafcfdb77a74d0c93d00e25558236e4> <http://schema.org/url> <http://www.wtwa.org/> .
+

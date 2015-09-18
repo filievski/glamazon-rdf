@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N853944ab9dbf4a219d8a160129b3f540> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://schema.org/addressLocality> "WEST LAFAYETTE" .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na909dafac8f5455d83cf5b4f77f390e1> .
+<http://lodlaundromat.org/.well-known/genid/Na909dafac8f5455d83cf5b4f77f390e1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://schema.org/postalCode> "47906" .
+<http://lodlaundromat.org/.well-known/genid/Na909dafac8f5455d83cf5b4f77f390e1> <http://schema.org/value> "138316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N853944ab9dbf4a219d8a160129b3f540> <http://schema.org/latitude> "40.4074"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/name> "FORT OUIATENON"@en .
+<http://lodlaundromat.org/.well-known/genid/N853944ab9dbf4a219d8a160129b3f540> <http://schema.org/longitude> "-86.9649"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.4074&mlon=-86.9649#map=15/40.4074/-86.9649> .
+<http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://schema.org/streetAddress> "3129 S RIVER RD" .
+<http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> <http://schema.org/id> "8401800102" .
+<http://lodlaundromat.org/.well-known/genid/Na909dafac8f5455d83cf5b4f77f390e1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N513d3c03262d48eb81b366290d520d4b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/telephone> "+1 (765) 743-3921" .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N853944ab9dbf4a219d8a160129b3f540> .
+<http://lodlaundromat.org/.well-known/genid/N1c49121b53ed45efba2c3e0c0025221b> <http://schema.org/url> <http://www.tcha.mus.in.us/ouiatenon.htm> .
+<http://lodlaundromat.org/.well-known/genid/N418f9a3ee5194b87a06374fee351369d> <http://schema.org/addressCountry> "United States" .
+

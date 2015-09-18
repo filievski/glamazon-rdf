@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N218bb273e1f646d79a140476298adbd3> <http://schema.org/url> <http://www.museums.io/en/museums/183632> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/url> <http://www.schloss-schillingsfuerst.de/Museum/> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbc234156a42d4711b222d64914f0e4f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncfd0131381e44a0dbbf0067f3822332e> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbc234156a42d4711b222d64914f0e4f1> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd0131381e44a0dbbf0067f3822332e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N218bb273e1f646d79a140476298adbd3> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nbc234156a42d4711b222d64914f0e4f1> <http://schema.org/latitude> "49.29"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/telephone> "09868/201" .
+<http://lodlaundromat.org/.well-known/genid/N218bb273e1f646d79a140476298adbd3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.29&mlon=10.2569#map=15/49.29/10.2569> .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://schema.org/addressLocality> "Schillingsf\u00FCrst" .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://schema.org/streetAddress> "Am Wall 14" .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://schema.org/postalCode> "91583" .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N218bb273e1f646d79a140476298adbd3> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd0131381e44a0dbbf0067f3822332e> <http://schema.org/value> "183632"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncfd0131381e44a0dbbf0067f3822332e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/name> "Schlossmuseum Hohenlohe-Schillingsf\u00FCrst"@en .
+<http://lodlaundromat.org/.well-known/genid/N218bb273e1f646d79a140476298adbd3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbc234156a42d4711b222d64914f0e4f1> <http://schema.org/longitude> "10.2569"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N742973d849af4efbb3807a2aeecd6a5e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> .
+<http://lodlaundromat.org/.well-known/genid/N9eac4f9a974d4594bac3dd74a5b86b9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

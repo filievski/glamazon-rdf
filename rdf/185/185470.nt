@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N3f533884471141ae8bd7f7b70921919f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf8eb54aa44b34bc29d29a079e8fe715e> <http://schema.org/url> <http://www.museums.io/en/museums/185470> .
+<http://lodlaundromat.org/.well-known/genid/Nf8eb54aa44b34bc29d29a079e8fe715e> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N3f533884471141ae8bd7f7b70921919f> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N7994e4ff35d94c4da49de1542bb6575a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7994e4ff35d94c4da49de1542bb6575a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3f533884471141ae8bd7f7b70921919f> .
+<http://lodlaundromat.org/.well-known/genid/N7994e4ff35d94c4da49de1542bb6575a> <http://schema.org/value> "185470"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf8eb54aa44b34bc29d29a079e8fe715e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://schema.org/url> <http://www.keikyankotiseutumuseo.net/> .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://schema.org/name> "Keiky\u00E4 Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf8eb54aa44b34bc29d29a079e8fe715e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf8eb54aa44b34bc29d29a079e8fe715e> .
+<http://lodlaundromat.org/.well-known/genid/N7a8c04bde449485a8ddb8b20af20857c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7994e4ff35d94c4da49de1542bb6575a> .
+

@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N45d9a717b4f848bebc3c77e0e8979cc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/name> "Old Melbourne Gaol, National Trust of Australia (Victoria)"@en .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N45d9a717b4f848bebc3c77e0e8979cc9> .
+<http://lodlaundromat.org/.well-known/genid/N86d82384acde4af89560dbf3cba76c60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> <http://schema.org/url> <http://victoriancollections.net.au/organisations/old-melbourne-gaol-> .
+<http://lodlaundromat.org/.well-known/genid/N103fb81c67e94446a8c56a4a0c726a2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/url> <http://www.oldmelbournegaol.com.au/> .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N86d82384acde4af89560dbf3cba76c60> .
+<http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N86d82384acde4af89560dbf3cba76c60> <http://schema.org/latitude> "-37.8125"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N103fb81c67e94446a8c56a4a0c726a2c> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8125&mlon=144.968#map=15/-37.8125/144.968> .
+<http://lodlaundromat.org/.well-known/genid/N45d9a717b4f848bebc3c77e0e8979cc9> <http://schema.org/value> "164173"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N103fb81c67e94446a8c56a4a0c726a2c> .
+<http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> <http://schema.org/id> "old-melbourne-gaol-" .
+<http://lodlaundromat.org/.well-known/genid/N86d82384acde4af89560dbf3cba76c60> <http://schema.org/longitude> "144.968"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N45d9a717b4f848bebc3c77e0e8979cc9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N59037e83d15c4fe09f04b3988af73a5b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48b100d3fcb64fc7b1530a1981d466f3> .
+

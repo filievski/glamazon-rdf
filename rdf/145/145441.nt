@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0c301fb4b7d6452fa99611d604e96e72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.2942&mlon=-90.1833#map=15/32.2942/-90.1833> .
+<http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0c301fb4b7d6452fa99611d604e96e72> <http://schema.org/latitude> "32.2942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://schema.org/postalCode> "39205-0577" .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> .
+<http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> <http://schema.org/id> "8402800148" .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/url> <http://www.mississippiheritage.com/> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c301fb4b7d6452fa99611d604e96e72> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ce0b6e69cf24d0cafe1a7e944b6d075> .
+<http://lodlaundromat.org/.well-known/genid/N3ce0b6e69cf24d0cafe1a7e944b6d075> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://schema.org/addressLocality> "JACKSON" .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/telephone> "+1 (601) 354-0200" .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://schema.org/streetAddress> "PO BOX 577" .
+<http://lodlaundromat.org/.well-known/genid/N3ce0b6e69cf24d0cafe1a7e944b6d075> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc2970fb932bb4e15b06e776ad813ca8b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4a5ccd7e3e0d485596a4bbd6a31a960c> <http://schema.org/name> "MISSISSIPPI HERITAGE TRUST"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c301fb4b7d6452fa99611d604e96e72> <http://schema.org/longitude> "-90.1833"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ce0b6e69cf24d0cafe1a7e944b6d075> <http://schema.org/value> "145441"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N18f8b288a8a54daaa812980ee26d482b> <http://schema.org/addressRegion> "MS" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc22ef9a945d44102923ee899236b9caf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/name> "BOSTON BRAVES HISTORICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/url> <http://boston-braves.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N88d1c487745047bcb1df732b6681b4b7> .
+<http://lodlaundromat.org/.well-known/genid/Nc22ef9a945d44102923ee899236b9caf> <http://schema.org/value> "143340"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://schema.org/postalCode> "02467-2467" .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc22ef9a945d44102923ee899236b9caf> .
+<http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> <http://schema.org/id> "8402500970" .
+<http://lodlaundromat.org/.well-known/genid/N88d1c487745047bcb1df732b6681b4b7> <http://schema.org/latitude> "42.3267"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88d1c487745047bcb1df732b6681b4b7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88d1c487745047bcb1df732b6681b4b7> <http://schema.org/longitude> "-71.1505"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.3267&mlon=-71.1505#map=15/42.3267/-71.1505> .
+<http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://schema.org/addressLocality> "CHESTNUT HILL" .
+<http://lodlaundromat.org/.well-known/genid/Nad987a72158847d0a81689e7003ebcb0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8a7da53ef1e14c1a8d29be34db9ed1f3> .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://schema.org/streetAddress> "PO BOX 67195" .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nc22ef9a945d44102923ee899236b9caf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc0198ba7949944b3a514105830f95cc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

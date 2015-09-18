@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne34bad11983d4e94b6cf306672e30c87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na84238aab1664b0c9ecc4673cc2f2baf> <http://schema.org/value> "148403"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na84238aab1664b0c9ecc4673cc2f2baf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na84238aab1664b0c9ecc4673cc2f2baf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/name> "RALSTON CIDER MILL A NJ NONPROFIT CORPORATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne34bad11983d4e94b6cf306672e30c87> .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> .
+<http://lodlaundromat.org/.well-known/genid/Ne34bad11983d4e94b6cf306672e30c87> <http://schema.org/latitude> "40.7718"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne34bad11983d4e94b6cf306672e30c87> <http://schema.org/longitude> "-74.6202"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://schema.org/postalCode> "07945-3059" .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na84238aab1664b0c9ecc4673cc2f2baf> .
+<http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> <http://schema.org/id> "8403400771" .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> .
+<http://lodlaundromat.org/.well-known/genid/N184d94df614e497caed5aca23671912a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7718&mlon=-74.6202#map=15/40.7718/-74.6202> .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://schema.org/addressLocality> "MENDHAM" .
+<http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N39e347b2bbe44d8abdc65cc3ff87dceb> <http://schema.org/streetAddress> "303C MENDHAM RD W" .
+<http://lodlaundromat.org/.well-known/genid/N9fa089506fc34700800bdc9b4e485e6b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

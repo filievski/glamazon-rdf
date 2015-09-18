@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N02db7485db5d467fbd08fbf6fd572ecb> <http://schema.org/longitude> "-94.0431"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02db7485db5d467fbd08fbf6fd572ecb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N02db7485db5d467fbd08fbf6fd572ecb> .
+<http://lodlaundromat.org/.well-known/genid/N02db7485db5d467fbd08fbf6fd572ecb> <http://schema.org/latitude> "33.4222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9127e516246c4ea3a8ab1f50ae8fd889> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9127e516246c4ea3a8ab1f50ae8fd889> .
+<http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/telephone> "+1 (903) 793-4831" .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://schema.org/addressLocality> "TEXARKANA" .
+<http://lodlaundromat.org/.well-known/genid/N9127e516246c4ea3a8ab1f50ae8fd889> <http://schema.org/value> "159342"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9127e516246c4ea3a8ab1f50ae8fd889> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://schema.org/streetAddress> "PO BOX 2343" .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://schema.org/postalCode> "75504-2343" .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.4222&mlon=-94.0431#map=15/33.4222/-94.0431> .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/name> "TEXARKANA HISTORICAL SOCIETY AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> <http://schema.org/id> "8404801442" .
+<http://lodlaundromat.org/.well-known/genid/N7b9535ab163446a8b8e1a3ee76cb5efc> <http://schema.org/url> <http://www.texarkanamuseums.org/> .
+<http://lodlaundromat.org/.well-known/genid/N77fe6898353a4181b9bdfab1da32d973> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N5212b18098aa4c2aa9e0e72334f46552> <http://schema.org/url> <http://www.imls.gov/> .
+

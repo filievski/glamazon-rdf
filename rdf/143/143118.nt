@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://schema.org/streetAddress> "PO BOX 9139" .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> .
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne208d5351a9648aca57f34de61e6c95b> .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0632&mlon=-71.2448#map=15/42.0632/-71.2448> .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/name> "FRIENDS OF CAMP ST AUGUSTINE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> <http://schema.org/id> "8402500748" .
+<http://lodlaundromat.org/.well-known/genid/N3129a816af3a4597a1207b22d4bf0a47> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3129a816af3a4597a1207b22d4bf0a47> .
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://schema.org/postalCode> "02035-9139" .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> .
+<http://lodlaundromat.org/.well-known/genid/N3129a816af3a4597a1207b22d4bf0a47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1a9ac811b9d2494ca8f20c119dc183d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne208d5351a9648aca57f34de61e6c95b> <http://schema.org/longitude> "-71.2448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10eac292ba6747fd96d7d2303631105d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne208d5351a9648aca57f34de61e6c95b> <http://schema.org/latitude> "42.0632"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3129a816af3a4597a1207b22d4bf0a47> <http://schema.org/value> "143118"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne208d5351a9648aca57f34de61e6c95b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N511a880fbfc249fc92a6b84c5a30355f> <http://schema.org/addressLocality> "FOXBORO" .
+

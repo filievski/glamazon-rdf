@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> <http://schema.org/id> "8403901293" .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://schema.org/postalCode> "44288" .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> .
+<http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2374&mlon=-81.0489#map=15/41.2374/-81.0489> .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://schema.org/streetAddress> "9612 PARKMAN RD" .
+<http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://schema.org/addressLocality> "WINDHAM" .
+<http://lodlaundromat.org/.well-known/genid/N5ffc5e8f0666426f979da59ee208b7df> <http://schema.org/latitude> "41.2374"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/url> <http://www.portagecountyhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5b6dc21d1ad44963a93cde8bd6940f46> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5b6dc21d1ad44963a93cde8bd6940f46> .
+<http://lodlaundromat.org/.well-known/genid/N05abd59b4e494fdda1c6b9d418be51e5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5ffc5e8f0666426f979da59ee208b7df> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5b6dc21d1ad44963a93cde8bd6940f46> <http://schema.org/value> "153515"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ffc5e8f0666426f979da59ee208b7df> <http://schema.org/longitude> "-81.0489"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5ffc5e8f0666426f979da59ee208b7df> .
+<http://lodlaundromat.org/.well-known/genid/N5b6dc21d1ad44963a93cde8bd6940f46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1be0124c1c5f4a1ebd2863e27abe03f2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c96d493b9ec431e95237a883aa0ba53> <http://schema.org/name> "WINDHAM HISTORICAL SOCIETY"@en .
+

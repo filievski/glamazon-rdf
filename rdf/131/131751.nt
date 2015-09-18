@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> .
+<http://lodlaundromat.org/.well-known/genid/Nee2cef8e8ad343ccb4f8fcff725a2b34> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6aa2556688ef491aa46628499b128d6d> <http://schema.org/longitude> "-119.68"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> .
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://schema.org/addressLocality> "SANTA BARBARA" .
+<http://lodlaundromat.org/.well-known/genid/N6aa2556688ef491aa46628499b128d6d> <http://schema.org/latitude> "34.428"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee2cef8e8ad343ccb4f8fcff725a2b34> .
+<http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> <http://schema.org/id> "8400601877" .
+<http://lodlaundromat.org/.well-known/genid/Nee2cef8e8ad343ccb4f8fcff725a2b34> <http://schema.org/value> "131751"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.428&mlon=-119.68#map=15/34.428/-119.68> .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/name> "COASTAL BAND OF THE CHUMASH NATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0acffaca9cf142eeb9c870b8a81621f5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6aa2556688ef491aa46628499b128d6d> .
+<http://lodlaundromat.org/.well-known/genid/Nee2cef8e8ad343ccb4f8fcff725a2b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://schema.org/streetAddress> "315 N SOLEDAD ST" .
+<http://lodlaundromat.org/.well-known/genid/N6aa2556688ef491aa46628499b128d6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1f94e54e15f44897ba063ee95c03fa5b> <http://schema.org/postalCode> "93140-4464" .
+<http://lodlaundromat.org/.well-known/genid/Na22dc40350704a0fbeedfe505572f199> <http://schema.org/@Type> "Dataset" .
+

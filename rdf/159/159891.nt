@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://schema.org/addressLocality> "AMARILLO" .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N72a5c3b2d7784d4aa64ecb0235bf070e> <http://schema.org/value> "159891"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> <http://schema.org/id> "8404801991" .
+<http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> .
+<http://lodlaundromat.org/.well-known/genid/N72a5c3b2d7784d4aa64ecb0235bf070e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N15531c6a671b4f288c871d36d631cc18> <http://schema.org/longitude> "-101.832"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N72a5c3b2d7784d4aa64ecb0235bf070e> .
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.2039&mlon=-101.832#map=15/35.2039/-101.832> .
+<http://lodlaundromat.org/.well-known/genid/N15531c6a671b4f288c871d36d631cc18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://schema.org/streetAddress> "PO BOX 1971" .
+<http://lodlaundromat.org/.well-known/genid/N15531c6a671b4f288c871d36d631cc18> <http://schema.org/latitude> "35.2039"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/name> "AMARILLO ZOOLOGICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://schema.org/postalCode> "79105-1971" .
+<http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N72a5c3b2d7784d4aa64ecb0235bf070e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N11448ad68a3a47de81da7c23070fbb4f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N15531c6a671b4f288c871d36d631cc18> .
+<http://lodlaundromat.org/.well-known/genid/N1105b61d3b854963b3b9fba9826013f1> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N8222a00b57364a419dd8b11da2f018fe> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

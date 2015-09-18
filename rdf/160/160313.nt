@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N52c27c474ada4fda9125f751f2cfacc4> .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/name> "VERMONT ENTOMOLOGICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd723ce697e784d46a08c6b9770e25b41> <http://schema.org/value> "160313"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> <http://schema.org/id> "8405000119" .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd723ce697e784d46a08c6b9770e25b41> .
+<http://lodlaundromat.org/.well-known/genid/N52c27c474ada4fda9125f751f2cfacc4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://schema.org/streetAddress> "630 BEAVER MEADOW RD" .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://schema.org/postalCode> "05658-7146" .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/Nd723ce697e784d46a08c6b9770e25b41> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd723ce697e784d46a08c6b9770e25b41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> .
+<http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N07ce4358d9a743ce8cfeae79de34e0a7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/url> <http://www.vermontinsects.org/> .
+<http://lodlaundromat.org/.well-known/genid/N52c27c474ada4fda9125f751f2cfacc4> <http://schema.org/latitude> "44.3339"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25dd587dd2ef452baad6af5894c52de5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3339&mlon=-72.3883#map=15/44.3339/-72.3883> .
+<http://lodlaundromat.org/.well-known/genid/N52c27c474ada4fda9125f751f2cfacc4> <http://schema.org/longitude> "-72.3883"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naa91de1d11e14e7e9c92a16cdc97a3c2> <http://schema.org/addressLocality> "MARSHFIELD" .
+

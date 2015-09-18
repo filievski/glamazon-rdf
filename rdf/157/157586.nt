@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N98ea483c5b04464d845036b8d7ba4ba2> <http://schema.org/latitude> "35.1217"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N98ea483c5b04464d845036b8d7ba4ba2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://schema.org/streetAddress> "88 CLEAR CREEK RD" .
+<http://lodlaundromat.org/.well-known/genid/N98ea483c5b04464d845036b8d7ba4ba2> <http://schema.org/longitude> "-87.2223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://schema.org/postalCode> "38468-5401" .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N48f65336c3104df2b30a48007922e859> .
+<http://lodlaundromat.org/.well-known/genid/N48f65336c3104df2b30a48007922e859> <http://schema.org/value> "157586"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://schema.org/addressLocality> "LEOMA" .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N98ea483c5b04464d845036b8d7ba4ba2> .
+<http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> <http://schema.org/id> "8404700257" .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.1217&mlon=-87.2223#map=15/35.1217/-87.2223> .
+<http://lodlaundromat.org/.well-known/genid/N48f65336c3104df2b30a48007922e859> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N542b213047c84aa6ab662fadfc185976> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N47e812afdb744ecd9511bb4671274305> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N48f65336c3104df2b30a48007922e859> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb1fa12a9e4174547ab34aba7ed94f728> <http://schema.org/name> "FALL RIVER MILL ASSOCIATION"@en .
+

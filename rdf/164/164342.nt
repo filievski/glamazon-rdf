@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1e5e90be89d846a28dc558fac16a3c8b> .
+<http://lodlaundromat.org/.well-known/genid/N1e5e90be89d846a28dc558fac16a3c8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.1707&mlon=143.701#map=15/-37.1707/143.701> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6ca7a903742146239516881bc8d5d6c1> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc2602c6771af43e289ca82aef0d59e29> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/name> "Talbot Arts & Historical Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> <http://schema.org/url> <http://victoriancollections.net.au/organisations/talbot-arts-historical-museum> .
+<http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1e5e90be89d846a28dc558fac16a3c8b> <http://schema.org/value> "164342"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6ca7a903742146239516881bc8d5d6c1> <http://schema.org/latitude> "-37.1707"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> <http://schema.org/id> "talbot-arts-historical-museum" .
+<http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1e5e90be89d846a28dc558fac16a3c8b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nc2602c6771af43e289ca82aef0d59e29> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e41db39c1af4ea3bcb94b72088d19de> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nec6628142481414394228569249e2eed> .
+<http://lodlaundromat.org/.well-known/genid/N6ca7a903742146239516881bc8d5d6c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6ca7a903742146239516881bc8d5d6c1> <http://schema.org/longitude> "143.701"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2602c6771af43e289ca82aef0d59e29> <http://schema.org/addressCountry> "Australia" .
+

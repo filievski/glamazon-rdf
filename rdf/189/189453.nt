@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81fe502e37b240f9b5832d8b69642586> <http://schema.org/value> "189453"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2ee65456b9594282b72b750f6724df2e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/name> "Museo civico d'arte contemporanea Umbro Apollonio"@it .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> .
+<http://lodlaundromat.org/.well-known/genid/Nd829ba5abd7e4ed796c591ef573c5b3f> <http://schema.org/contentUrl> <http://images.museums.io/YGW9BkTQikIm-_erM1oG9RTqF0s=/1000x1000/museums/logos/000/189/453/original/556c44bf1f4f8ad73fe84549dbc9c1209c8e3539.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nd829ba5abd7e4ed796c591ef573c5b3f> .
+<http://lodlaundromat.org/.well-known/genid/N81fe502e37b240f9b5832d8b69642586> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> .
+<http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N81fe502e37b240f9b5832d8b69642586> .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/telephone> "+39 0499460408" .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ee65456b9594282b72b750f6724df2e> .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ee65456b9594282b72b750f6724df2e> <http://schema.org/longitude> "11.8548"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81fe502e37b240f9b5832d8b69642586> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> <http://schema.org/addressLocality> "San Martino di Lupari" .
+<http://lodlaundromat.org/.well-known/genid/N7266c1709dd24279bdf0188a804d2c2a> <http://schema.org/id> "100943" .
+<http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N3d4824e4b89542da86c1b189846673da> <http://schema.org/streetAddress> "Viale Europa, 5" .
+<http://lodlaundromat.org/.well-known/genid/N8c7503378b0b4495a8e5000c8bad44ed> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.6481&mlon=11.8548#map=15/45.6481/11.8548> .
+<http://lodlaundromat.org/.well-known/genid/Nd829ba5abd7e4ed796c591ef573c5b3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N2ee65456b9594282b72b750f6724df2e> <http://schema.org/latitude> "45.6481"^^<http://www.w3.org/2001/XMLSchema#double> .
+

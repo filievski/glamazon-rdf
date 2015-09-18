@@ -1,0 +1,30 @@
+<http://lodlaundromat.org/.well-known/genid/Nb80def12c15b46d4b890ec6253c1bf16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5ce9aefc47484b2b9e6132d7e24e386d> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb80def12c15b46d4b890ec6253c1bf16> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc686fb5438094ed19312827c8f128bbd> .
+<http://lodlaundromat.org/.well-known/genid/Nc686fb5438094ed19312827c8f128bbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://schema.org/streetAddress> "431 FIRST ST., SE" .
+<http://lodlaundromat.org/.well-known/genid/N5ce9aefc47484b2b9e6132d7e24e386d> <http://schema.org/license> <https://creativecommons.org/licenses/by/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5ce9aefc47484b2b9e6132d7e24e386d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.151&mlon=-93.1931#map=15/43.151/-93.1931> .
+<http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb80def12c15b46d4b890ec6253c1bf16> <http://schema.org/longitude> "-93.1931"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb80def12c15b46d4b890ec6253c1bf16> <http://schema.org/latitude> "43.151"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> <http://schema.org/id> "8401900079" .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc686fb5438094ed19312827c8f128bbd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5ce9aefc47484b2b9e6132d7e24e386d> <http://schema.org/contentUrl> <http://images.museums.io/EEddsoS_83RgDYiXSDEM5rF2Hf0=/1000x1000/museums/logos/000/139/042/original/G_C_Stockman_House_Front-Left.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://schema.org/postalCode> "50401" .
+<http://lodlaundromat.org/.well-known/genid/Nc686fb5438094ed19312827c8f128bbd> <http://schema.org/value> "139042"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N023c8077bb49448da2dad5446954e245> <http://schema.org/addressLocality> "MASON CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nf8cfa496be5347bfb573db07360d7d03> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5ce9aefc47484b2b9e6132d7e24e386d> <http://schema.org/creator> "'G C Stockman House Front-Left' by Flickr:PamelaVWhite" .
+<http://lodlaundromat.org/.well-known/genid/Nb879f0e05a5348098745dcf3789095b9> <http://schema.org/name> "FRANK LLOYD WRIGHT STOCKMAN HOUSE"@en .
+

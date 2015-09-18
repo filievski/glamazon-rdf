@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0f3e7524d1514d7f92fb8b7ae623e07f> .
+<http://lodlaundromat.org/.well-known/genid/N64c5063056c14a7589a13925e12d3087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N64c5063056c14a7589a13925e12d3087> .
+<http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> <http://schema.org/addressLocality> "Bolzano/Bozen" .
+<http://lodlaundromat.org/.well-known/genid/N8e58b3abfc2c47c0bacc04d3812e1ff4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.503&mlon=11.3287#map=15/46.503/11.3287> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> .
+<http://lodlaundromat.org/.well-known/genid/N0f3e7524d1514d7f92fb8b7ae623e07f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8e58b3abfc2c47c0bacc04d3812e1ff4> .
+<http://lodlaundromat.org/.well-known/genid/N64c5063056c14a7589a13925e12d3087> <http://schema.org/contentUrl> <http://images.museums.io/vZD3p0UtNcmrHhY00NwxqxsfOXY=/1000x1000/museums/logos/000/189/056/original/bbc0b7a9f9328713146762281ef1d99bf591bc4f.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N8e58b3abfc2c47c0bacc04d3812e1ff4> <http://schema.org/latitude> "46.503"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f3e7524d1514d7f92fb8b7ae623e07f> <http://schema.org/value> "189056"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> .
+<http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> <http://schema.org/addressRegion> "Trentino-Alto Adige" .
+<http://lodlaundromat.org/.well-known/genid/N3d5b2a55749842fab6b527a5652dfce0> <http://schema.org/streetAddress> "Via Vittorio Veneto, 26" .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/telephone> "+39 0471261592" .
+<http://lodlaundromat.org/.well-known/genid/N27eefc15efc14fd4b719d707c4155581> <http://schema.org/name> "Memorie della Grande Guerra"@it .
+<http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f3e7524d1514d7f92fb8b7ae623e07f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6e5ad36698b54892a418ca6b5130c2b5> <http://schema.org/id> "100515" .
+<http://lodlaundromat.org/.well-known/genid/N8e58b3abfc2c47c0bacc04d3812e1ff4> <http://schema.org/longitude> "11.3287"^^<http://www.w3.org/2001/XMLSchema#double> .
+

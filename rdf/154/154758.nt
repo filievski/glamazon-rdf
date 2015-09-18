@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/telephone> "+1 (541) 883-4208" .
+<http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://schema.org/streetAddress> "1451 MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.2283&mlon=-121.775#map=15/42.2283/-121.775> .
+<http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://schema.org/addressLocality> "KLAMATH FALLS" .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N388ed31186ad41008cf3a7b090031b60> <http://schema.org/latitude> "42.2283"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbbc3da9e1e214e1db40c31e6f9aaa790> .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N388ed31186ad41008cf3a7b090031b60> .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/name> "KLAMATH COUNTY MUSEUMS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbc3da9e1e214e1db40c31e6f9aaa790> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://schema.org/postalCode> "97601" .
+<http://lodlaundromat.org/.well-known/genid/N388ed31186ad41008cf3a7b090031b60> <http://schema.org/longitude> "-121.775"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N388ed31186ad41008cf3a7b090031b60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N20325bebbc3349e3b6a90f3f96d1c3e2> <http://schema.org/url> <http://www.co.klamath.or.us/museum/index.htm> .
+<http://lodlaundromat.org/.well-known/genid/Nd69386b14a7348ce822f656a41973d6c> <http://schema.org/id> "8404100551" .
+<http://lodlaundromat.org/.well-known/genid/Nbbc3da9e1e214e1db40c31e6f9aaa790> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbbc3da9e1e214e1db40c31e6f9aaa790> <http://schema.org/value> "154758"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N260d71ec70894112bb6446b71b952087> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

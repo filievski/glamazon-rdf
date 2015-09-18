@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> <http://schema.org/id> "8405300393" .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/telephone> "+1 (206) 382-2628" .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/url> <http://www.cwb.org/> .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7bf5a2dcb1844ed1b9f155212f6f1914> .
+<http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7bf5a2dcb1844ed1b9f155212f6f1914> <http://schema.org/value> "161944"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7bf5a2dcb1844ed1b9f155212f6f1914> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7bf5a2dcb1844ed1b9f155212f6f1914> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/name> "CENTER FOR WOODEN BOATS"@en .
+<http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ab8f5c38ba54f02b77b31e1b1ea979c> .
+<http://lodlaundromat.org/.well-known/genid/N3bd78b2e93ee4ee8a74d23a91d85a097> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.6258&mlon=-122.337#map=15/47.6258/-122.337> .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://schema.org/postalCode> "98109-4444" .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N861569ef159e431b8b2a86dc9f542668> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3bd78b2e93ee4ee8a74d23a91d85a097> .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://schema.org/addressLocality> "SEATTLE" .
+<http://lodlaundromat.org/.well-known/genid/N3bd78b2e93ee4ee8a74d23a91d85a097> <http://schema.org/latitude> "47.6258"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2291207199ed4428b5c231c7e0063839> <http://schema.org/streetAddress> "1010 VALLEY ST" .
+<http://lodlaundromat.org/.well-known/genid/N3bd78b2e93ee4ee8a74d23a91d85a097> <http://schema.org/longitude> "-122.337"^^<http://www.w3.org/2001/XMLSchema#double> .
+

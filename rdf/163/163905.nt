@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/telephone> "(03) 5598 8237 " .
+<http://lodlaundromat.org/.well-known/genid/Necae0456134c4b6b8f85e68826fe2c06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Necae0456134c4b6b8f85e68826fe2c06> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N3990c2fc75cf4fa19339dd874e538cfb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/name> "Glenample Homestead"@en .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Necae0456134c4b6b8f85e68826fe2c06> .
+<http://lodlaundromat.org/.well-known/genid/N9542d3ef5268403e9c446d439b6c44d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3990c2fc75cf4fa19339dd874e538cfb> .
+<http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> <http://schema.org/id> "glenample-homestead" .
+<http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> <http://schema.org/url> <http://victoriancollections.net.au/organisations/glenample-homestead> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> .
+<http://lodlaundromat.org/.well-known/genid/N9542d3ef5268403e9c446d439b6c44d4> <http://schema.org/longitude> "143.114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfedd3176f75a463783723ac1746a0944> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N3990c2fc75cf4fa19339dd874e538cfb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3990c2fc75cf4fa19339dd874e538cfb> <http://schema.org/value> "163905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.6679&mlon=143.114#map=15/-38.6679/143.114> .
+<http://lodlaundromat.org/.well-known/genid/N9542d3ef5268403e9c446d439b6c44d4> <http://schema.org/latitude> "-38.6679"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9542d3ef5268403e9c446d439b6c44d4> .
+<http://lodlaundromat.org/.well-known/genid/N6b48ce893bae490194a747245d4ba54b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

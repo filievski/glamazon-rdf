@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://schema.org/addressLocality> "KATONAH" .
+<http://lodlaundromat.org/.well-known/genid/Ne0c49970c6f8419dbe03453370697a6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne0c49970c6f8419dbe03453370697a6e> .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/name> "KATONAH MUSEUM OF ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2626&mlon=-73.6738#map=15/41.2626/-73.6738> .
+<http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> <http://schema.org/id> "8403601022" .
+<http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://schema.org/streetAddress> "134 JAY ST" .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfe1be6fbf8004ceda4cf8ff9f28aaffa> .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfe1be6fbf8004ceda4cf8ff9f28aaffa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfe1be6fbf8004ceda4cf8ff9f28aaffa> <http://schema.org/value> "149728"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://schema.org/postalCode> "10536-3736" .
+<http://lodlaundromat.org/.well-known/genid/Nfe1be6fbf8004ceda4cf8ff9f28aaffa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne0c49970c6f8419dbe03453370697a6e> <http://schema.org/latitude> "41.2626"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/url> <http://www.katonahmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> .
+<http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf2aa5bb763004174ad3338719e9a54fb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nded1c8fa1e284660b689d7ff8a600b84> .
+<http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne0c49970c6f8419dbe03453370697a6e> <http://schema.org/longitude> "-73.6738"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd8b2bad7ed4345ee949dfe01ac775821> <http://schema.org/@Type> "Dataset" .
+

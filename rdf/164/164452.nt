@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/name> "Warrandyte Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb06e757a91ec4ef3ae38345574235d06> .
+<http://lodlaundromat.org/.well-known/genid/Nb06e757a91ec4ef3ae38345574235d06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2fdf761c797c4211b8865531dccda543> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> <http://schema.org/id> "warrandyte-historical-society" .
+<http://lodlaundromat.org/.well-known/genid/N2fdf761c797c4211b8865531dccda543> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na6c65b30112341d983144bded6abdfdc> .
+<http://lodlaundromat.org/.well-known/genid/Na6c65b30112341d983144bded6abdfdc> <http://schema.org/longitude> "145.218"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7385&mlon=145.218#map=15/-37.7385/145.218> .
+<http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> <http://schema.org/url> <http://victoriancollections.net.au/organisations/warrandyte-historical-society> .
+<http://lodlaundromat.org/.well-known/genid/N89ba42f98d9f4e6cbd5633669bf3625e> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na6c65b30112341d983144bded6abdfdc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na6c65b30112341d983144bded6abdfdc> <http://schema.org/latitude> "-37.7385"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb06e757a91ec4ef3ae38345574235d06> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Nb2edc0113f634ed08ad40f984581a2ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2fdf761c797c4211b8865531dccda543> .
+<http://lodlaundromat.org/.well-known/genid/N2fdf761c797c4211b8865531dccda543> <http://schema.org/value> "164452"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://schema.org/addressLocality> "LITTLE CANADA" .
+<http://lodlaundromat.org/.well-known/genid/N022c811993274fd98498067b98a52091> <http://schema.org/value> "145107"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/telephone> "+1 (651) 766-4029" .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> .
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://schema.org/postalCode> "55117-1633" .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N022c811993274fd98498067b98a52091> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/name> "LITTLE CANADA HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N6392a7c2774041bbadfc65201b861b5d> <http://schema.org/latitude> "45.0208"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6392a7c2774041bbadfc65201b861b5d> <http://schema.org/longitude> "-93.0793"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6392a7c2774041bbadfc65201b861b5d> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://schema.org/streetAddress> "515 E LITTLE CANADA RD" .
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N022c811993274fd98498067b98a52091> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4d6fc41a48ef43f9bb4c05d89d020027> <http://schema.org/id> "8402700547" .
+<http://lodlaundromat.org/.well-known/genid/N022c811993274fd98498067b98a52091> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/url> <http://www.ci.little-canada.mn.us/> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0208&mlon=-93.0793#map=15/45.0208/-93.0793> .
+<http://lodlaundromat.org/.well-known/genid/N758794759ba44bcdb5c4d6d0315e1615> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N53725ef9f810452791c0919cbcdda387> .
+<http://lodlaundromat.org/.well-known/genid/N6392a7c2774041bbadfc65201b861b5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

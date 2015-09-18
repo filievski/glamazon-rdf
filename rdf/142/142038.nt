@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5674&mlon=-76.9786#map=15/39.5674/-76.9786> .
+<http://lodlaundromat.org/.well-known/genid/N6db5467f78ed49b1a2a0cb7801e0ceea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> .
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://schema.org/addressLocality> "WESTMINSTER" .
+<http://lodlaundromat.org/.well-known/genid/Nf85273d9122b4e029e0171195e601e34> <http://schema.org/value> "142038"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> <http://schema.org/id> "8402400331" .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> .
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://schema.org/streetAddress> "526 BALTIMORE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://schema.org/postalCode> "21157" .
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf85273d9122b4e029e0171195e601e34> .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf85273d9122b4e029e0171195e601e34> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf7d9caf9ea7a40e4b8ec661b657665d7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6db5467f78ed49b1a2a0cb7801e0ceea> .
+<http://lodlaundromat.org/.well-known/genid/Ne54955cfc28b45df843c64727daf3f42> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/name> "HISTORIC UNIONTOWN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/telephone> "+1 (443) 929-0042" .
+<http://lodlaundromat.org/.well-known/genid/Nf85273d9122b4e029e0171195e601e34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c0704ee0d8140b0acc28c3601b44eb9> <http://schema.org/url> <http://www.historicuniontown.org/> .
+<http://lodlaundromat.org/.well-known/genid/N6db5467f78ed49b1a2a0cb7801e0ceea> <http://schema.org/longitude> "-76.9786"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6db5467f78ed49b1a2a0cb7801e0ceea> <http://schema.org/latitude> "39.5674"^^<http://www.w3.org/2001/XMLSchema#double> .
+

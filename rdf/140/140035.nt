@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N09600873cf92455f998962ac227d9f3f> <http://schema.org/value> "140035"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09600873cf92455f998962ac227d9f3f> .
+<http://lodlaundromat.org/.well-known/genid/N09600873cf92455f998962ac227d9f3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf582b6d86e494b61a96b4ec0c357db67> .
+<http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> <http://schema.org/id> "8402000361" .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/name> "ELLINWOOD COMMUNITY HISTORICAL SOCIETY & ADVISORY COMMISSION"@en .
+<http://lodlaundromat.org/.well-known/genid/N09600873cf92455f998962ac227d9f3f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.3556&mlon=-98.5741#map=15/38.3556/-98.5741> .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://schema.org/streetAddress> "PO BOX 111" .
+<http://lodlaundromat.org/.well-known/genid/Nf582b6d86e494b61a96b4ec0c357db67> <http://schema.org/latitude> "38.3556"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na5614a9c5549498492459a121b6f32c4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://schema.org/addressLocality> "ELLINWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N47936176699b4182b2fb94a8748000dd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf582b6d86e494b61a96b4ec0c357db67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3eee461d0e5d452189d077d380e4098c> <http://schema.org/postalCode> "67526" .
+<http://lodlaundromat.org/.well-known/genid/Nf582b6d86e494b61a96b4ec0c357db67> <http://schema.org/longitude> "-98.5741"^^<http://www.w3.org/2001/XMLSchema#double> .
+

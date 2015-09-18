@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf9197bb3705f47529699834025a73e23> <http://schema.org/longitude> "-86.586"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9197bb3705f47529699834025a73e23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc787c716bf1e4d4894f3656f0badfe9d> .
+<http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> <http://schema.org/id> "8400100116" .
+<http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.7265&mlon=-86.586#map=15/34.7265/-86.586> .
+<http://lodlaundromat.org/.well-known/genid/N4385303a416f47fdb52dba2b50b7868b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://schema.org/addressLocality> "HUNTSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://schema.org/postalCode> "35801-6012" .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://schema.org/streetAddress> "303 WILLIAMS AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nc787c716bf1e4d4894f3656f0badfe9d> <http://schema.org/value> "128586"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> .
+<http://lodlaundromat.org/.well-known/genid/Nc787c716bf1e4d4894f3656f0badfe9d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc787c716bf1e4d4894f3656f0badfe9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N83223fba40a04defbad5a438a2963e55> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/Nf9197bb3705f47529699834025a73e23> <http://schema.org/latitude> "34.7265"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf9197bb3705f47529699834025a73e23> .
+<http://lodlaundromat.org/.well-known/genid/N967e409a67304caeaa3dca832337052f> <http://schema.org/name> "AERODROME FOUNDATION"@en .
+

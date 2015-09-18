@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://schema.org/streetAddress> "328 CATERPILLAR HILL ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://schema.org/addressLocality> "SEDGWICK" .
+<http://lodlaundromat.org/.well-known/genid/N8d22cadf4db04e258694d5cd534f461b> <http://schema.org/longitude> "-68.676"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d22cadf4db04e258694d5cd534f461b> <http://schema.org/latitude> "44.3237"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8d22cadf4db04e258694d5cd534f461b> .
+<http://lodlaundromat.org/.well-known/genid/N8d22cadf4db04e258694d5cd534f461b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9e03ef9af21741bf8b9f41d0eeee5eda> .
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9e03ef9af21741bf8b9f41d0eeee5eda> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://schema.org/postalCode> "04676-2601" .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.3237&mlon=-68.676#map=15/44.3237/-68.676> .
+<http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N9e03ef9af21741bf8b9f41d0eeee5eda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> <http://schema.org/id> "8402300514" .
+<http://lodlaundromat.org/.well-known/genid/N9e03ef9af21741bf8b9f41d0eeee5eda> <http://schema.org/value> "141665"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/name> "CATERPILLAR HILL INITIATIVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7a7b802bad814fe59edc7091ef8d0713> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N202f002a78d3433ab31f5d1ab2bd6e02> .
+<http://lodlaundromat.org/.well-known/genid/N27b50e4404e94ac2b7867e2829e766a7> <http://schema.org/name> "us" .
+

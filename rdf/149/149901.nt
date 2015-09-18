@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8350672c0721461b8cc0c1ff03bfa2f3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://schema.org/addressLocality> "WOODSTOCK" .
+<http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8350672c0721461b8cc0c1ff03bfa2f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4de250802ad1458c8de1feab92452905> .
+<http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4de250802ad1458c8de1feab92452905> <http://schema.org/longitude> "-74.1086"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8350672c0721461b8cc0c1ff03bfa2f3> .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0387&mlon=-74.1086#map=15/42.0387/-74.1086> .
+<http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> <http://schema.org/id> "8403601195" .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/name> "WOODSTOCK MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://schema.org/postalCode> "12498-0073" .
+<http://lodlaundromat.org/.well-known/genid/N3e4ba48f2d5c42cda2c11109ce8c4bbb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> .
+<http://lodlaundromat.org/.well-known/genid/N4de250802ad1458c8de1feab92452905> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbcb791eb3c1947918ddecc65cbe92b22> <http://schema.org/streetAddress> "PO BOX 73" .
+<http://lodlaundromat.org/.well-known/genid/N4de250802ad1458c8de1feab92452905> <http://schema.org/latitude> "42.0387"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9daae35f87d48e8bebc56d45a5cd089> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8350672c0721461b8cc0c1ff03bfa2f3> <http://schema.org/value> "149901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

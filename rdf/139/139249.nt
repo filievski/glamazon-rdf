@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N27f26e1b2be6431d8ab9be9375b17ec0> <http://schema.org/latitude> "42.5214"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> <http://schema.org/id> "8401900286" .
+<http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> .
+<http://lodlaundromat.org/.well-known/genid/N27f26e1b2be6431d8ab9be9375b17ec0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N27f26e1b2be6431d8ab9be9375b17ec0> <http://schema.org/longitude> "-92.456"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5139831714df4da3a7f24a493fd8da15> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> .
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://schema.org/streetAddress> "PO BOX 547" .
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://schema.org/postalCode> "50613-0027" .
+<http://lodlaundromat.org/.well-known/genid/N5139831714df4da3a7f24a493fd8da15> <http://schema.org/value> "139249"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5139831714df4da3a7f24a493fd8da15> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/name> "CEDAR VALLEY CIVIL RIGHTS PEACE WALK INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5214&mlon=-92.456#map=15/42.5214/-92.456> .
+<http://lodlaundromat.org/.well-known/genid/N886f6187d6bd4b08b27857959bbd3a19> <http://schema.org/addressLocality> "CEDAR FALLS" .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N27f26e1b2be6431d8ab9be9375b17ec0> .
+<http://lodlaundromat.org/.well-known/genid/N802af16233c84b4dac2b45455f366852> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5139831714df4da3a7f24a493fd8da15> .
+<http://lodlaundromat.org/.well-known/genid/N2e969275c1b54c689312d19b79a27a59> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

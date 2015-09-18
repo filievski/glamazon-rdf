@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/url> <http://www.cmp.ucr.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/name> "UNIVERSITY OF CALIFORNIA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf44d4bc28d6d45e985e32b8da3f5bd0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf44d4bc28d6d45e985e32b8da3f5bd0f> .
+<http://lodlaundromat.org/.well-known/genid/Nf44d4bc28d6d45e985e32b8da3f5bd0f> <http://schema.org/latitude> "33.9758"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf44d4bc28d6d45e985e32b8da3f5bd0f> <http://schema.org/longitude> "-117.331"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb217bc2a6b0a404fad7f04e3a62e03f8> .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> .
+<http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> <http://schema.org/postalCode> "92521-0001" .
+<http://lodlaundromat.org/.well-known/genid/Nb217bc2a6b0a404fad7f04e3a62e03f8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> .
+<http://lodlaundromat.org/.well-known/genid/Nb217bc2a6b0a404fad7f04e3a62e03f8> <http://schema.org/value> "132777"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N160daafe6ecb4a838b25f161fae212dd> <http://schema.org/id> "8400602903" .
+<http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> <http://schema.org/addressLocality> "RIVERSIDE" .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4682d66d5a6d4095a2a31e135bf003ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.9758&mlon=-117.331#map=15/33.9758/-117.331> .
+<http://lodlaundromat.org/.well-known/genid/Nb217bc2a6b0a404fad7f04e3a62e03f8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6186872b04c14a689c84af3d494d98a9> <http://schema.org/addressCountry> "United States" .
+

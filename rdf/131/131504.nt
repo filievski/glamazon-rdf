@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N98a33f653a604484bef55982b1191b93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N98a33f653a604484bef55982b1191b93> .
+<http://lodlaundromat.org/.well-known/genid/Nb5d07e6bf20c4cf09c168f643052d8c3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> .
+<http://lodlaundromat.org/.well-known/genid/Nb5d07e6bf20c4cf09c168f643052d8c3> <http://schema.org/value> "131504"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb5d07e6bf20c4cf09c168f643052d8c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://schema.org/addressLocality> "CAMARILLO" .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> <http://schema.org/id> "8400601630" .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/name> "PASTEL SOCIETY OF THE GOLD COAST"@en .
+<http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Na595fc9e90ad4afb868c284dce39b49e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.2223&mlon=-119.042#map=15/34.2223/-119.042> .
+<http://lodlaundromat.org/.well-known/genid/N98a33f653a604484bef55982b1191b93> <http://schema.org/latitude> "34.2223"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://schema.org/streetAddress> "PO BOX 3452" .
+<http://lodlaundromat.org/.well-known/genid/N98a33f653a604484bef55982b1191b93> <http://schema.org/longitude> "-119.042"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb9867e381c394eedbc4d2a56f1d2db95> <http://schema.org/postalCode> "93011-3452" .
+<http://lodlaundromat.org/.well-known/genid/N7a33e35edd094e67987618dae0c85339> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb5d07e6bf20c4cf09c168f643052d8c3> .
+

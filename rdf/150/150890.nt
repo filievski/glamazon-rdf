@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N12c5d716ab0448debd3f0e534afb4a72> <http://schema.org/latitude> "40.9903"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12c5d716ab0448debd3f0e534afb4a72> <http://schema.org/longitude> "-73.7974"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> .
+<http://lodlaundromat.org/.well-known/genid/N12c5d716ab0448debd3f0e534afb4a72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://schema.org/postalCode> "10583-0413" .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N455999a288fd40ecb3ff44c45a49589a> .
+<http://lodlaundromat.org/.well-known/genid/N455999a288fd40ecb3ff44c45a49589a> <http://schema.org/value> "150890"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/url> <http://platformtennishalloffame.org/> .
+<http://lodlaundromat.org/.well-known/genid/N455999a288fd40ecb3ff44c45a49589a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N12c5d716ab0448debd3f0e534afb4a72> .
+<http://lodlaundromat.org/.well-known/genid/N455999a288fd40ecb3ff44c45a49589a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> <http://schema.org/id> "8403602184" .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://schema.org/streetAddress> "PO BOX 413" .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9903&mlon=-73.7974#map=15/40.9903/-73.7974> .
+<http://lodlaundromat.org/.well-known/genid/N6be1919b09904fd4a4e9885df6797a7d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1ffc98e7b9334a24a535fcf36011af5e> <http://schema.org/addressLocality> "SCARSDALE" .
+<http://lodlaundromat.org/.well-known/genid/N1175156186f540bd8f6c648aa3f1afbe> <http://schema.org/name> "PLATFORM TENNIS MUSEUM AND HALL OF FAME FOUNDATION"@en .
+

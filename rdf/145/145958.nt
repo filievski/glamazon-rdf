@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb2c2a0f0b0f249e6af10cabcb07a5b3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.536&mlon=-91.0234#map=15/38.536/-91.0234> .
+<http://lodlaundromat.org/.well-known/genid/N7bc40554a24d4faf824bbef850b51bdb> <http://schema.org/value> "145958"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb2c2a0f0b0f249e6af10cabcb07a5b3c> <http://schema.org/latitude> "38.536"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://schema.org/addressRegion> "MO" .
+<http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://schema.org/streetAddress> "PO BOX 146" .
+<http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/name> "WASHINGTON HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> .
+<http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7bc40554a24d4faf824bbef850b51bdb> .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2c2a0f0b0f249e6af10cabcb07a5b3c> .
+<http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> <http://schema.org/id> "8402900387" .
+<http://lodlaundromat.org/.well-known/genid/N26dce20b58c54dd9989251ba557faa92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7bc40554a24d4faf824bbef850b51bdb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7bc40554a24d4faf824bbef850b51bdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://schema.org/addressLocality> "WASHINGTON" .
+<http://lodlaundromat.org/.well-known/genid/Nb2c2a0f0b0f249e6af10cabcb07a5b3c> <http://schema.org/longitude> "-91.0234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N157a3599163d4edd96a5b2892d589a4e> <http://schema.org/postalCode> "63090-0146" .
+<http://lodlaundromat.org/.well-known/genid/Ne96bafa54d1d47348825d215b3cd071b> <http://schema.org/@Type> "Dataset" .
+

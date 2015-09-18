@@ -1,0 +1,35 @@
+<http://lodlaundromat.org/.well-known/genid/N9ab7f25f2bde4851ac83ec5401798a98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/N9ab7f25f2bde4851ac83ec5401798a98> .
+<http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/telephone> "+1 (405) 236-3100" .
+<http://lodlaundromat.org/.well-known/genid/Nc7283cc46e52465bb79c6f86894219db> <http://schema.org/latitude> "35.4694"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9ab7f25f2bde4851ac83ec5401798a98> <http://schema.org/url> <https://www.facebook.com/OKCMOA> .
+<http://lodlaundromat.org/.well-known/genid/Nc7283cc46e52465bb79c6f86894219db> <http://schema.org/longitude> "-97.5198"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N64d8104973b54cefa922c5eb6a30ba18> .
+<http://lodlaundromat.org/.well-known/genid/N64d8104973b54cefa922c5eb6a30ba18> <http://schema.org/value> "153929"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/contactPoint> <http://lodlaundromat.org/.well-known/genid/Nb22253ef7cb0478787044ed86d474b7d> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/name> "OKLAHOMA CITY MUSEUM OF ART"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb22253ef7cb0478787044ed86d474b7d> <http://schema.org/contactType> "Twitter" .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/url> <http://www.okcmoa.com/> .
+<http://lodlaundromat.org/.well-known/genid/N9ab7f25f2bde4851ac83ec5401798a98> <http://schema.org/contactType> "Facebook" .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://schema.org/streetAddress> "415 COUCH DR" .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://schema.org/addressLocality> "OKLAHOMA CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nc7283cc46e52465bb79c6f86894219db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://schema.org/postalCode> "73102-2214" .
+<http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> <http://schema.org/id> "8404000283" .
+<http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc7283cc46e52465bb79c6f86894219db> .
+<http://lodlaundromat.org/.well-known/genid/N64d8104973b54cefa922c5eb6a30ba18> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb22253ef7cb0478787044ed86d474b7d> <http://schema.org/url> <https://twitter.com/OKCMOA> .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4694&mlon=-97.5198#map=15/35.4694/-97.5198> .
+<http://lodlaundromat.org/.well-known/genid/Nb22253ef7cb0478787044ed86d474b7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ContactPoint> .
+<http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N64d8104973b54cefa922c5eb6a30ba18> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N53590573fd9841f488d1e92971312e86> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N49469af294e74f339c75f98ffd1727fc> .
+<http://lodlaundromat.org/.well-known/genid/N1b371104e96b4b39956ad78e8ba06dbd> <http://schema.org/url> <http://www.imls.gov/> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://schema.org/streetAddress> "PO BOX 126" .
+<http://lodlaundromat.org/.well-known/genid/N53334b75931349e3bfcf1495f56e2cb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53334b75931349e3bfcf1495f56e2cb9> <http://schema.org/latitude> "40.5593"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/telephone> "+1 (330) 674-0022" .
+<http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5593&mlon=-81.9182#map=15/40.5593/-81.9182> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/name> "HISTORICAL SOCIETY HOLMES COUNTY"@en .
+<http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> <http://schema.org/id> "8403900315" .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N53334b75931349e3bfcf1495f56e2cb9> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N82a81939f93e492889c04974ff490a79> .
+<http://lodlaundromat.org/.well-known/genid/N53334b75931349e3bfcf1495f56e2cb9> <http://schema.org/longitude> "-81.9182"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N82a81939f93e492889c04974ff490a79> <http://schema.org/value> "152538"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/url> <http://www.holmeshistory.com/> .
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N50c0ebcc1e7c49329a0b7caa768a7170> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> .
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N82a81939f93e492889c04974ff490a79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://schema.org/addressLocality> "MILLERSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N2df5bb78467c47699ba6e4ee9a0339e6> <http://schema.org/postalCode> "44654-0126" .
+<http://lodlaundromat.org/.well-known/genid/N82a81939f93e492889c04974ff490a79> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naa859aaa7f0d4975859ccd3aabfa7451> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

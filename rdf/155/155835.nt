@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0157&mlon=-79.5889#map=15/40.0157/-79.5889> .
+<http://lodlaundromat.org/.well-known/genid/Nd6b1d8978ab54d4886cdfdebc62f8e68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd6b1d8978ab54d4886cdfdebc62f8e68> <http://schema.org/longitude> "-79.5889"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca1dbd0e284191b20a26be85649abb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca1dbd0e284191b20a26be85649abb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd6b1d8978ab54d4886cdfdebc62f8e68> .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na3ca1dbd0e284191b20a26be85649abb> .
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na3ca1dbd0e284191b20a26be85649abb> <http://schema.org/value> "155835"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> <http://schema.org/id> "8404201029" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> .
+<http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/name> "CONNELLSVILLE AREA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://schema.org/addressLocality> "CONNELLSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://schema.org/streetAddress> "299 SOUTH PITTSBURGH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/telephone> "+1 (724) 628-5640" .
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://schema.org/postalCode> "15425" .
+<http://lodlaundromat.org/.well-known/genid/N8ac8205fab4b42ba88c1dd4b0b3a0645> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> .
+<http://lodlaundromat.org/.well-known/genid/N4182617bfe674296b885fe97b6cd88cc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27c9b52e5bcd44ef89ef652bc5c25e24> <http://schema.org/url> <http://www.connellsvillehistoricalsociety.c/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6b1d8978ab54d4886cdfdebc62f8e68> <http://schema.org/latitude> "40.0157"^^<http://www.w3.org/2001/XMLSchema#double> .
+

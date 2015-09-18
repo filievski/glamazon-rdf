@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://schema.org/streetAddress> "PO BOX 1765" .
+<http://lodlaundromat.org/.well-known/genid/Nb77553a32da6460e8eaaa8436434dc8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/Nb77553a32da6460e8eaaa8436434dc8d> <http://schema.org/value> "162042"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> <http://schema.org/id> "8405300491" .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb77553a32da6460e8eaaa8436434dc8d> .
+<http://lodlaundromat.org/.well-known/genid/Na8f8a8a8ee9d416f821eeedd2665b98f> <http://schema.org/longitude> "-122.608"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/name> "KITSAP LIVE STEAMERS"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb77553a32da6460e8eaaa8436434dc8d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://schema.org/postalCode> "98366-0197" .
+<http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5316&mlon=-122.608#map=15/47.5316/-122.608> .
+<http://lodlaundromat.org/.well-known/genid/Na8f8a8a8ee9d416f821eeedd2665b98f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5208723969834964b813b7385567afdd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na8f8a8a8ee9d416f821eeedd2665b98f> .
+<http://lodlaundromat.org/.well-known/genid/N0259f41bf3cf40d2b3b2d3c8df3d2c04> <http://schema.org/addressLocality> "PORT ORCHARD" .
+<http://lodlaundromat.org/.well-known/genid/Na8f8a8a8ee9d416f821eeedd2665b98f> <http://schema.org/latitude> "47.5316"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9ce927bee4ea4058b447f8e5e8c1e920> <http://schema.org/name> "us" .
+

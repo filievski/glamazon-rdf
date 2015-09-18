@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> <http://schema.org/id> "8401200062" .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/name> "OLD SAINT AUGUSTINE VILLAGE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N3964e79484624f7d84fc87af12d025e4> <http://schema.org/value> "134508"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://schema.org/streetAddress> "246 SAINT GEORGE ST" .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N3964e79484624f7d84fc87af12d025e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3964e79484624f7d84fc87af12d025e4> .
+<http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.8899&mlon=-81.3121#map=15/29.8899/-81.3121> .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf03921013c7b4bc39b59f66e6afcabc9> .
+<http://lodlaundromat.org/.well-known/genid/Nf03921013c7b4bc39b59f66e6afcabc9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf03921013c7b4bc39b59f66e6afcabc9> <http://schema.org/longitude> "-81.3121"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf03921013c7b4bc39b59f66e6afcabc9> <http://schema.org/latitude> "29.8899"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/telephone> "+1 (904) 823-9722" .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://schema.org/addressLocality> "SAINT AUGUSTINE" .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0050260f16dd43a8a8515a60424b3ad6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> <http://schema.org/postalCode> "32084" .
+<http://lodlaundromat.org/.well-known/genid/N21cd209018dd4572b8fd348cf489da49> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne6fd779885f24b5ba2b4101b1f6ffd85> .
+<http://lodlaundromat.org/.well-known/genid/N3964e79484624f7d84fc87af12d025e4> <http://schema.org/name> "id" .
+

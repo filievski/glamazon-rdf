@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/name> "PEROT MUSEUM OF NATURE AND SCIENCE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> <http://schema.org/id> "8404801860" .
+<http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://schema.org/postalCode> "75201-1704" .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> .
+<http://lodlaundromat.org/.well-known/genid/N4f7170d99afc4269ad1fcf9bfafba056> <http://schema.org/latitude> "32.7873"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc610060a57b43dbbd293e2f5916b776> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncc610060a57b43dbbd293e2f5916b776> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://schema.org/addressLocality> "DALLAS" .
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://schema.org/streetAddress> "2201 N FIELD ST" .
+<http://lodlaundromat.org/.well-known/genid/Ncc610060a57b43dbbd293e2f5916b776> <http://schema.org/value> "159760"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7873&mlon=-96.8059#map=15/32.7873/-96.8059> .
+<http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndb6ca6d97811435baaf0b757c5f66c64> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nca6d2ba337ab4182a764e7b4dbb1fa88> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/telephone> "+1 (214) 428-5555" .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f7170d99afc4269ad1fcf9bfafba056> .
+<http://lodlaundromat.org/.well-known/genid/N619b320ec3c04bceae9aa46ea142c012> <http://schema.org/url> <http://www.perotmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N4f7170d99afc4269ad1fcf9bfafba056> <http://schema.org/longitude> "-96.8059"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4f7170d99afc4269ad1fcf9bfafba056> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc610060a57b43dbbd293e2f5916b776> <http://schema.org/name> "id" .
+

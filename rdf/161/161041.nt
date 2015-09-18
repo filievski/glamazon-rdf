@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6f057f4233c54908a8866b8f47a16144> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6f057f4233c54908a8866b8f47a16144> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N2352821ba8594362a7fb419bdce37501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2352821ba8594362a7fb419bdce37501> .
+<http://lodlaundromat.org/.well-known/genid/N2352821ba8594362a7fb419bdce37501> <http://schema.org/longitude> "-77.5126"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> <http://schema.org/id> "8405100547" .
+<http://lodlaundromat.org/.well-known/genid/N6f057f4233c54908a8866b8f47a16144> <http://schema.org/value> "161041"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2352821ba8594362a7fb419bdce37501> <http://schema.org/latitude> "37.6303"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/name> "HENRICO COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8f03282e8ac04e6c8772af46a37c8def> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://schema.org/postalCode> "23273-2327" .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6303&mlon=-77.5126#map=15/37.6303/-77.5126> .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://schema.org/streetAddress> "PO BOX 90775" .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N643d17879d974759b4225d0a7543c632> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6f057f4233c54908a8866b8f47a16144> .
+<http://lodlaundromat.org/.well-known/genid/Na6b95ff451934b02ab0f9c78e6de7715> <http://schema.org/addressLocality> "HENRICO" .
+

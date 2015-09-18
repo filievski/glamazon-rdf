@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7395&mlon=-90.4782#map=15/42.7395/-90.4782> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://schema.org/addressLocality> "PLATTEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N138b2b5f8eb14fc0bfa18a841616e77b> <http://schema.org/latitude> "42.7395"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N138b2b5f8eb14fc0bfa18a841616e77b> .
+<http://lodlaundromat.org/.well-known/genid/N1b83611fedf145818707292381b2b8e7> <http://schema.org/value> "162719"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> .
+<http://lodlaundromat.org/.well-known/genid/N1b83611fedf145818707292381b2b8e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/name> "PLATTEVILLE COMMUNITY ARBORETUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://schema.org/streetAddress> "PO BOX 302" .
+<http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://schema.org/postalCode> "53818-0302" .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/url> <http://www.plattevillearboretum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> <http://schema.org/id> "8405500168" .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/telephone> "+1 (608) 732-4271" .
+<http://lodlaundromat.org/.well-known/genid/N1b83611fedf145818707292381b2b8e7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N138b2b5f8eb14fc0bfa18a841616e77b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4cc57d2159544fcf9560c404c9d52448> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1b83611fedf145818707292381b2b8e7> .
+<http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf46cf2d59ca04a11918e7c67f0f3dd63> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc7c7660db02a41cfa08d5a57e01f6a38> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N138b2b5f8eb14fc0bfa18a841616e77b> <http://schema.org/longitude> "-90.4782"^^<http://www.w3.org/2001/XMLSchema#double> .
+

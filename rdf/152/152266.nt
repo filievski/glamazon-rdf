@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N24454103d8394cc0ad1a171f4acc9d0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N26778b780112427aa94e76f6557d6da5> .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N24454103d8394cc0ad1a171f4acc9d0c> <http://schema.org/longitude> "-83.8404"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N26778b780112427aa94e76f6557d6da5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7156&mlon=-83.8404#map=15/41.7156/-83.8404> .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://schema.org/streetAddress> "ROUTE 1" .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/name> "SECOR METROPARK"@en .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N24454103d8394cc0ad1a171f4acc9d0c> .
+<http://lodlaundromat.org/.well-known/genid/N24454103d8394cc0ad1a171f4acc9d0c> <http://schema.org/latitude> "41.7156"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://schema.org/addressLocality> "BERKEY" .
+<http://lodlaundromat.org/.well-known/genid/N26778b780112427aa94e76f6557d6da5> <http://schema.org/value> "152266"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf53d52c2a9864bf589582e4a205a81ca> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> .
+<http://lodlaundromat.org/.well-known/genid/N26778b780112427aa94e76f6557d6da5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nde9613e044574551a53643b8a6e3d49d> <http://schema.org/postalCode> "43504" .
+<http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> <http://schema.org/id> "8403900043" .
+<http://lodlaundromat.org/.well-known/genid/N0f275220e5af4b79804b81cd6aa5b940> <http://schema.org/url> <http://www.imls.gov/> .
+

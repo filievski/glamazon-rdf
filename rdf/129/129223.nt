@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N61025c1c6dc14d54b2144feb9112f565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3f8709547e594730a8f7f7d27758d78e> .
+<http://lodlaundromat.org/.well-known/genid/N61025c1c6dc14d54b2144feb9112f565> <http://schema.org/latitude> "32.2651"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N61025c1c6dc14d54b2144feb9112f565> .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://schema.org/postalCode> "85712-1106" .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> .
+<http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61025c1c6dc14d54b2144feb9112f565> <http://schema.org/longitude> "-110.897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://schema.org/addressLocality> "TUCSON" .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://schema.org/streetAddress> "4491 E FORT LOWELL RD" .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> .
+<http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3f8709547e594730a8f7f7d27758d78e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6e9a02afc6554a53953f55c14686b63d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.2651&mlon=-110.897#map=15/32.2651/-110.897> .
+<http://lodlaundromat.org/.well-known/genid/N3f8709547e594730a8f7f7d27758d78e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1db56db873a74942af3b622d5a41a453> <http://schema.org/name> "MINI-TIME MACHINE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N77ac350c64ee4347902ef1ef5eb25c58> <http://schema.org/id> "8400400125" .
+<http://lodlaundromat.org/.well-known/genid/N3f8709547e594730a8f7f7d27758d78e> <http://schema.org/value> "129223"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

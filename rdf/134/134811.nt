@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> .
+<http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb732f57d3be24a189e39d34debd82ae1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b20aa27325845059767dccc78bfc78b> <http://schema.org/latitude> "27.335"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b20aa27325845059767dccc78bfc78b> <http://schema.org/longitude> "-82.5373"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/name> "SYRACUSE AUTOMOTIVE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N9b20aa27325845059767dccc78bfc78b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb732f57d3be24a189e39d34debd82ae1> .
+<http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9b20aa27325845059767dccc78bfc78b> .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.335&mlon=-82.5373#map=15/27.335/-82.5373> .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://schema.org/postalCode> "34230-0186" .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb732f57d3be24a189e39d34debd82ae1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> .
+<http://lodlaundromat.org/.well-known/genid/Nae6acf29fa05446a9383536f89518193> <http://schema.org/id> "8401200365" .
+<http://lodlaundromat.org/.well-known/genid/Nb732f57d3be24a189e39d34debd82ae1> <http://schema.org/value> "134811"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://schema.org/addressLocality> "SARASOTA" .
+<http://lodlaundromat.org/.well-known/genid/N22d434b8b9bb4bd98940b03042d71f7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8f9aca3ff4ce427fa54c222540a234fd> <http://schema.org/streetAddress> "PO BOX 186" .
+

@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N79fbd37830824301be13fe78228ea693> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndf952202513f47088d68ba35c153763b> .
+<http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> <http://schema.org/id> "croydon-historical-museum" .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/openingHours> "Museum open Wednesday afternoons and Saturdays 10am to 4pm"@en .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/name> "Croydon Historical Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N419c198aaf2c42f0a629202023671a75> <http://schema.org/longitude> "145.282"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf952202513f47088d68ba35c153763b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> <http://schema.org/url> <http://victoriancollections.net.au/organisations/croydon-historical-museum> .
+<http://lodlaundromat.org/.well-known/genid/N419c198aaf2c42f0a629202023671a75> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N79fbd37830824301be13fe78228ea693> .
+<http://lodlaundromat.org/.well-known/genid/N419c198aaf2c42f0a629202023671a75> <http://schema.org/latitude> "-37.8003"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8003&mlon=145.282#map=15/-37.8003/145.282> .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N419c198aaf2c42f0a629202023671a75> .
+<http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N79fbd37830824301be13fe78228ea693> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N79fbd37830824301be13fe78228ea693> <http://schema.org/value> "163817"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/telephone> "(03) 9294 5648" .
+<http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N3b9a662b0e804432baca6c660fd3ddf5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N66c9ddfcacb447b89411d654bbc61d78> .
+<http://lodlaundromat.org/.well-known/genid/Ndf952202513f47088d68ba35c153763b> <http://schema.org/addressCountry> "Australia" .
+

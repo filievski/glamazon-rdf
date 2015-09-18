@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/Neb53527271dc4707b73abde0ad663e09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a442c6d3544c4fbef7e66e65ced8f6> <http://schema.org/longitude> "8.95447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Neb53527271dc4707b73abde0ad663e09> <http://schema.org/value> "187103"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.3522&mlon=8.95447#map=15/45.3522/8.95447> .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> .
+<http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> <http://schema.org/addressLocality> "Morimondo" .
+<http://lodlaundromat.org/.well-known/genid/Nc8a442c6d3544c4fbef7e66e65ced8f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc8a442c6d3544c4fbef7e66e65ced8f6> .
+<http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Neb53527271dc4707b73abde0ad663e09> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/url> <http://www.comune.morimondo.mi.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/name> "Museo civico Angelo Comolli"@it .
+<http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> <http://schema.org/id> "106831" .
+<http://lodlaundromat.org/.well-known/genid/N844a33af3354491ea6387d40526b0063> <http://schema.org/streetAddress> "Piazza Municipio, 1" .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/telephone> "+39 02 94961919" .
+<http://lodlaundromat.org/.well-known/genid/Nd09fc69b9ee5431a835aaa5df9e1f3ca> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nda032a52d1924ccbadbddc249fe5c63c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Neb53527271dc4707b73abde0ad663e09> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a442c6d3544c4fbef7e66e65ced8f6> <http://schema.org/latitude> "45.3522"^^<http://www.w3.org/2001/XMLSchema#double> .
+

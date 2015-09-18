@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N3fc3ff19e9da4a55945d11417708f10e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/telephone> "+39 0376638062" .
+<http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> <http://schema.org/id> "103738" .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.3906&mlon=10.4872#map=15/45.3906/10.4872> .
+<http://lodlaundromat.org/.well-known/genid/N2318a02277b64bd39c68a14ada1a1714> <http://schema.org/value> "187016"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> .
+<http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> <http://schema.org/streetAddress> "Via Perati, 8" .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3fc3ff19e9da4a55945d11417708f10e> .
+<http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nfb985f2c085d4880bdada0a829eb2789> .
+<http://lodlaundromat.org/.well-known/genid/Nfb985f2c085d4880bdada0a829eb2789> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> <http://schema.org/addressLocality> "Castiglione delle Stiviere" .
+<http://lodlaundromat.org/.well-known/genid/N87e78b3240884b5f8401b4dd0a353748> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/name> "Museo storico aloisiano"@it .
+<http://lodlaundromat.org/.well-known/genid/Nfb985f2c085d4880bdada0a829eb2789> <http://schema.org/contentUrl> <http://images.museums.io/N9qqVjxBWt7VHbWeHpKco26rdEg=/1000x1000/museums/logos/000/187/016/original/37193f1b3c027f661b7c0a040d4db1e1be7b81.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2318a02277b64bd39c68a14ada1a1714> .
+<http://lodlaundromat.org/.well-known/genid/N2318a02277b64bd39c68a14ada1a1714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3fc3ff19e9da4a55945d11417708f10e> <http://schema.org/longitude> "10.4872"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2318a02277b64bd39c68a14ada1a1714> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80850d05f73d40dcbb1a1909904e0d5d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> .
+<http://lodlaundromat.org/.well-known/genid/N3fc3ff19e9da4a55945d11417708f10e> <http://schema.org/latitude> "45.3906"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98da7257b0cc44de87e5dcd4e76fb42d> <http://schema.org/addressRegion> "Lombardia" .
+

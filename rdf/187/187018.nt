@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> <http://schema.org/streetAddress> "Via Guglielmo Marconi, 126" .
+<http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6bb51b5543c54a3aa5ee82b03d76e8e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> <http://schema.org/addressLocality> "Gazoldo degli Ippoliti" .
+<http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/url> <http://www.postumia-mam.it/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.1994&mlon=10.5804#map=15/45.1994/10.5804> .
+<http://lodlaundromat.org/.well-known/genid/N833b79a025184d5ea5f7f0707d7e8e9a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/name> "Museo di arte moderna e contemporanea di Gazoldo degli Ippoliti"@it .
+<http://lodlaundromat.org/.well-known/genid/Nfe3370b2ecb842529d163e405cabc0e2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6bb51b5543c54a3aa5ee82b03d76e8e2> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nfe3370b2ecb842529d163e405cabc0e2> .
+<http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nfe3370b2ecb842529d163e405cabc0e2> <http://schema.org/contentUrl> <http://images.museums.io/LpUSLyaFaF4dUyYUOuEvFQPV2-o=/1000x1000/museums/logos/000/187/018/original/995390e95ab39023c8cae7a6fd864a84a5d3421.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N833b79a025184d5ea5f7f0707d7e8e9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6bb51b5543c54a3aa5ee82b03d76e8e2> <http://schema.org/latitude> "45.1994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4a28c24017c04b6c9c6387ac48b2e915> <http://schema.org/addressRegion> "Lombardia" .
+<http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N833b79a025184d5ea5f7f0707d7e8e9a> <http://schema.org/value> "187018"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6bb51b5543c54a3aa5ee82b03d76e8e2> <http://schema.org/longitude> "10.5804"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N833b79a025184d5ea5f7f0707d7e8e9a> .
+<http://lodlaundromat.org/.well-known/genid/Ncc0e78633390446abf09a7b6fa36726b> <http://schema.org/telephone> "+39 0376657952" .
+<http://lodlaundromat.org/.well-known/genid/N6f9786917abc4771ab88fa6a541b5b69> <http://schema.org/id> "103741" .
+

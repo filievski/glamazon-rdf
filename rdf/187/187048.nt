@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> <http://schema.org/id> "106876" .
+<http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/url> <http://www.acquariocivicomilano.eu/> .
+<http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Ndd3c69064b154586a329fa41fb8900f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23e4234c0b364e17a53e14286567b744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndd3c69064b154586a329fa41fb8900f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> <http://schema.org/addressLocality> "Milano" .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndd3c69064b154586a329fa41fb8900f0> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/telephone> "+39 02 88465750" .
+<http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> <http://schema.org/streetAddress> "Viale Gadio, 2" .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/name> "Acquario e civica stazione idrobiologica"@it .
+<http://lodlaundromat.org/.well-known/genid/N184f9262b4324780b92d25fea625891d> <http://schema.org/contentUrl> <http://images.museums.io/yb0RKgAOt_q2VWO_cWByugBuVJQ=/1000x1000/museums/logos/000/187/048/original/bac74e684baa7422115e4566219d3590bdb5c68.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N23e4234c0b364e17a53e14286567b744> <http://schema.org/latitude> "45.472"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N184f9262b4324780b92d25fea625891d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N184f9262b4324780b92d25fea625891d> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.472&mlon=9.17874#map=15/45.472/9.17874> .
+<http://lodlaundromat.org/.well-known/genid/N4817d990b197426c8e9f73c2566931b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23e4234c0b364e17a53e14286567b744> .
+<http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N26188c132d714e3f9daf3084686f1992> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndd3c69064b154586a329fa41fb8900f0> <http://schema.org/value> "187048"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23e4234c0b364e17a53e14286567b744> <http://schema.org/longitude> "9.17874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfe91a9b41b164d598684bc99eb1a688e> <http://schema.org/addressRegion> "Lombardia" .
+

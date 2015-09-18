@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N31a7ff0ba23248a4b1434f4bc5e79277> <http://schema.org/latitude> "41.6732"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/name> "DUTCHESS COUNTY FIREFIGHTING MUSEUM AND EDUCATION CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://schema.org/streetAddress> "PO BOX 2435" .
+<http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> .
+<http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> <http://schema.org/id> "8403602161" .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://schema.org/addressLocality> "POUGHKEEPSIE" .
+<http://lodlaundromat.org/.well-known/genid/N31a7ff0ba23248a4b1434f4bc5e79277> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6732&mlon=-73.8858#map=15/41.6732/-73.8858> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/url> <http://www.dutchesscountyfirefightingmuseum.org/webmaster.htm> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6d14b88fcc3443b09bf39039f4bcff69> .
+<http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4bd931caef5b4e95a16eade3bdfc6b2a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N31a7ff0ba23248a4b1434f4bc5e79277> .
+<http://lodlaundromat.org/.well-known/genid/N31a7ff0ba23248a4b1434f4bc5e79277> <http://schema.org/longitude> "-73.8858"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab0bbf677fdc44eebda5a42a72c650ae> <http://schema.org/postalCode> "12603-8435" .
+<http://lodlaundromat.org/.well-known/genid/N6d14b88fcc3443b09bf39039f4bcff69> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6d14b88fcc3443b09bf39039f4bcff69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6d14b88fcc3443b09bf39039f4bcff69> <http://schema.org/value> "150867"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb737bad5179b40d7b5e16d06b2fc1701> <http://schema.org/@Type> "Dataset" .
+

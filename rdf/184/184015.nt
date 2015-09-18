@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N826432064a3a4a16a35da83925512d66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://schema.org/streetAddress> "Klosterm\u00FChle 1" .
+<http://lodlaundromat.org/.well-known/genid/Nb89a7fb0b91f4cdd8d6405e157c1fe71> <http://schema.org/longitude> "11.4158"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N826432064a3a4a16a35da83925512d66> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N02b3093f412d461ea0f6d58bc6f9885a> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/name> "Klosterm\u00FChlenmuseum Gnadenberg"@en .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/telephone> "09189/9457" .
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://schema.org/addressRegion> "Oberpfalz" .
+<http://lodlaundromat.org/.well-known/genid/N02b3093f412d461ea0f6d58bc6f9885a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N826432064a3a4a16a35da83925512d66> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb89a7fb0b91f4cdd8d6405e157c1fe71> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/url> <http://www.klostermuehle-gnadenberg.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nb89a7fb0b91f4cdd8d6405e157c1fe71> <http://schema.org/latitude> "49.3652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N02b3093f412d461ea0f6d58bc6f9885a> .
+<http://lodlaundromat.org/.well-known/genid/N02b3093f412d461ea0f6d58bc6f9885a> <http://schema.org/url> <http://www.museums.io/en/museums/184015> .
+<http://lodlaundromat.org/.well-known/genid/N9bd9600f6cee4eb988f6e941fa5df8fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.3652&mlon=11.4158#map=15/49.3652/11.4158> .
+<http://lodlaundromat.org/.well-known/genid/N826432064a3a4a16a35da83925512d66> <http://schema.org/value> "184015"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://schema.org/postalCode> "92348" .
+<http://lodlaundromat.org/.well-known/genid/Nb89a7fb0b91f4cdd8d6405e157c1fe71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N02b3093f412d461ea0f6d58bc6f9885a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b9c8bdb85e946bfb5d8118c70147b01> <http://schema.org/addressLocality> "Berg" .
+

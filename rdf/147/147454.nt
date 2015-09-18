@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9314&mlon=-70.823#map=15/42.9314/-70.823> .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2800f75f205d4977991688f08edf8b96> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N809d205bb1cc45429cad2e52b2b4a970> <http://schema.org/latitude> "42.9314"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> .
+<http://lodlaundromat.org/.well-known/genid/N809d205bb1cc45429cad2e52b2b4a970> <http://schema.org/longitude> "-70.823"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2800f75f205d4977991688f08edf8b96> .
+<http://lodlaundromat.org/.well-known/genid/N2800f75f205d4977991688f08edf8b96> <http://schema.org/value> "147454"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N809d205bb1cc45429cad2e52b2b4a970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://schema.org/addressLocality> "HAMPTON" .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N809d205bb1cc45429cad2e52b2b4a970> .
+<http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> <http://schema.org/id> "8403300229" .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> .
+<http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2800f75f205d4977991688f08edf8b96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N755f4831a95543a697a4b4fdcd8a0c01> <http://schema.org/name> "PISCATAQUA PIONEERS"@en .
+<http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://schema.org/postalCode> "03842-2736" .
+<http://lodlaundromat.org/.well-known/genid/N4bcbe64758aa40fa94db50439209777c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5a684b6aae104d0482e7cd9ad2915e52> <http://schema.org/streetAddress> "318 WINNACUNNET ROAD" .
+

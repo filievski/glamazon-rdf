@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> <http://schema.org/id> "8403601530" .
+<http://lodlaundromat.org/.well-known/genid/N0dfb2f892f3a4810b05b829fa7a6c2c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://schema.org/addressLocality> "RICHFIELD SPRINGS" .
+<http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8529&mlon=-74.994#map=15/42.8529/-74.994> .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8bdc9edc9a9046c884ed764296e8126e> .
+<http://lodlaundromat.org/.well-known/genid/N8bdc9edc9a9046c884ed764296e8126e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0dfb2f892f3a4810b05b829fa7a6c2c2> <http://schema.org/latitude> "42.8529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bdc9edc9a9046c884ed764296e8126e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0dfb2f892f3a4810b05b829fa7a6c2c2> <http://schema.org/longitude> "-74.994"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/name> "RICHFIELD SPRINGS HISTORIC ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0dfb2f892f3a4810b05b829fa7a6c2c2> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://schema.org/streetAddress> "PO BOX 374" .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://schema.org/postalCode> "13439-0374" .
+<http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf093b985e0274757920a8e3d7ff26233> .
+<http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8bdc9edc9a9046c884ed764296e8126e> <http://schema.org/value> "150236"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9cb4dcad8c294fe9b99c05bda394b3bd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0d5e3528bca24868a73c9b5e4c4289be> .
+

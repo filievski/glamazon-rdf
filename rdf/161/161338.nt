@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> <http://schema.org/id> "8405100844" .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> .
+<http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://schema.org/addressLocality> "WINCHESTER" .
+<http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://schema.org/postalCode> "22601-4718" .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1854&mlon=-78.1651#map=15/39.1854/-78.1651> .
+<http://lodlaundromat.org/.well-known/genid/Na670207f0e804f5d8ec9ede6f4fd121c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na670207f0e804f5d8ec9ede6f4fd121c> .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8171f56edd2740a8a69125821ab92cd1> .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8171f56edd2740a8a69125821ab92cd1> <http://schema.org/value> "161338"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f2f792e0e6e4c04ac8a4ded1d6c60c4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://schema.org/streetAddress> "134 N LOUDOUN ST" .
+<http://lodlaundromat.org/.well-known/genid/N8171f56edd2740a8a69125821ab92cd1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8171f56edd2740a8a69125821ab92cd1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na670207f0e804f5d8ec9ede6f4fd121c> <http://schema.org/latitude> "39.1854"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na670207f0e804f5d8ec9ede6f4fd121c> <http://schema.org/longitude> "-78.1651"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21ea073aaa2740cabb5a0f6e143d003c> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N77410336301a44df86c65b3a83fe90c8> <http://schema.org/name> "CELEBRATING PATSY CLINE"@en .
+

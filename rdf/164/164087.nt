@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/name> "Mission to Seafarers Victoria"@en .
+<http://lodlaundromat.org/.well-known/genid/Nee7e09c869e94057a6781e9329dcfe93> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5bc7a938ff79412ebc6cab26a4fad71a> .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/url> <http://www.missiontoseafarers.com.au/> .
+<http://lodlaundromat.org/.well-known/genid/N5bc7a938ff79412ebc6cab26a4fad71a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8225&mlon=144.951#map=15/-37.8225/144.951> .
+<http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> <http://schema.org/url> <http://victoriancollections.net.au/organisations/mission-to-seafarers-victoria> .
+<http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> .
+<http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee7e09c869e94057a6781e9329dcfe93> .
+<http://lodlaundromat.org/.well-known/genid/Nee7e09c869e94057a6781e9329dcfe93> <http://schema.org/value> "164087"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/openingHours> "9am-10pm"@en .
+<http://lodlaundromat.org/.well-known/genid/Nee7e09c869e94057a6781e9329dcfe93> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc43200a68790439b84a82615ca13249d> <http://schema.org/id> "mission-to-seafarers-victoria" .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/telephone> "96297083" .
+<http://lodlaundromat.org/.well-known/genid/N81bc1542da0e44d8a568985d1359a923> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncd840fc2b0a14e76ad40ea1fbcad9982> .
+<http://lodlaundromat.org/.well-known/genid/Ncd840fc2b0a14e76ad40ea1fbcad9982> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N5bc7a938ff79412ebc6cab26a4fad71a> <http://schema.org/longitude> "144.951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncd840fc2b0a14e76ad40ea1fbcad9982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5bc7a938ff79412ebc6cab26a4fad71a> <http://schema.org/latitude> "-37.8225"^^<http://www.w3.org/2001/XMLSchema#double> .
+

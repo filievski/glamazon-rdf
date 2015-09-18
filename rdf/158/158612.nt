@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> .
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N99c3e55aa5cc434c8762d261da37f962> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> .
+<http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> <http://schema.org/id> "8404800712" .
+<http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nc57dfdf336734e14a2bd43d0bb2aa91e> <http://schema.org/longitude> "-94.7423"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc57dfdf336734e14a2bd43d0bb2aa91e> .
+<http://lodlaundromat.org/.well-known/genid/Nc57dfdf336734e14a2bd43d0bb2aa91e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc57dfdf336734e14a2bd43d0bb2aa91e> <http://schema.org/latitude> "31.3091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://schema.org/addressLocality> "LUFKIN" .
+<http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N99c3e55aa5cc434c8762d261da37f962> .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.3091&mlon=-94.7423#map=15/31.3091/-94.7423> .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N99c3e55aa5cc434c8762d261da37f962> <http://schema.org/value> "158612"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N99c3e55aa5cc434c8762d261da37f962> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://schema.org/postalCode> "75902-1743" .
+<http://lodlaundromat.org/.well-known/genid/N82b021f2cf904014aa02d3edd51e2036> <http://schema.org/streetAddress> "PO BOX 1743" .
+<http://lodlaundromat.org/.well-known/genid/Na9c231ffed374ae481ecf0326c47a83c> <http://schema.org/name> "DR NEAL AND MARY ANN NARANJO CHARITABLE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5140bc880bb94448b7cd61e5f3e36dc3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

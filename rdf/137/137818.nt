@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5a4c136a834f405a88307d36eb8a9ee4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/url> <http://www.ahmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> .
+<http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5a4c136a834f405a88307d36eb8a9ee4> <http://schema.org/latitude> "42.0874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/name> "ARLINGTON HEIGHTS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/telephone> "+1 (708) 255-1225" .
+<http://lodlaundromat.org/.well-known/genid/N518eb53582b7487cb712307783b53b22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N518eb53582b7487cb712307783b53b22> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://schema.org/streetAddress> "110 W FREMONT ST" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0874&mlon=-87.9843#map=15/42.0874/-87.9843> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N518eb53582b7487cb712307783b53b22> .
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a4c136a834f405a88307d36eb8a9ee4> <http://schema.org/longitude> "-87.9843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N518eb53582b7487cb712307783b53b22> <http://schema.org/value> "137818"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://schema.org/addressLocality> "ARLINGTON HTS" .
+<http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> <http://schema.org/id> "8401700963" .
+<http://lodlaundromat.org/.well-known/genid/Nbce6b9f6830e494d80f80fcd916a16d4> <http://schema.org/postalCode> "60004-5912" .
+<http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5a4c136a834f405a88307d36eb8a9ee4> .
+<http://lodlaundromat.org/.well-known/genid/Nb1e280ad912243939c281f18b9f83de4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N292c6884c2844b20a6d2b5bda188cade> <http://schema.org/name> "us" .
+

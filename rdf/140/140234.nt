@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.1663&mlon=-96.6266#map=15/39.1663/-96.6266> .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3493057a50d047e98dff8e04b2fd925c> .
+<http://lodlaundromat.org/.well-known/genid/N64ebc452a1ee4b9e83cb235bb98082e4> <http://schema.org/value> "140234"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/name> "INTERNATIONAL ORGANIZATION OF LACE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3493057a50d047e98dff8e04b2fd925c> <http://schema.org/longitude> "-96.6266"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> .
+<http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://schema.org/streetAddress> "1212 SOUTH MILL CIRCLE" .
+<http://lodlaundromat.org/.well-known/genid/N64ebc452a1ee4b9e83cb235bb98082e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3493057a50d047e98dff8e04b2fd925c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3493057a50d047e98dff8e04b2fd925c> <http://schema.org/latitude> "39.1663"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> <http://schema.org/id> "8402000560" .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N64ebc452a1ee4b9e83cb235bb98082e4> .
+<http://lodlaundromat.org/.well-known/genid/N11b63a0bc7764eda91b3d1a5b908ded4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://schema.org/addressLocality> "MANHATTAN" .
+<http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64ebc452a1ee4b9e83cb235bb98082e4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4b5dce6d463448a9a3d08749a1189ebd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3a8751fe9ebf47098ef7066b2c3e1293> <http://schema.org/postalCode> "66503" .
+

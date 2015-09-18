@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5f5a39f769744b4e94463961d3164582> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5f5a39f769744b4e94463961d3164582> .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://schema.org/postalCode> "86641" .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://schema.org/addressLocality> "Rain" .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/url> <http://www.rain.de/kultur/museum/lachner.htm> .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.6907&mlon=10.9165#map=15/48.6907/10.9165> .
+<http://lodlaundromat.org/.well-known/genid/N5f5a39f769744b4e94463961d3164582> <http://schema.org/latitude> "48.6907"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> .
+<http://lodlaundromat.org/.well-known/genid/Nd72a4ee721e94d73943ca459952b2db0> <http://schema.org/url> <http://www.museums.io/en/museums/183528> .
+<http://lodlaundromat.org/.well-known/genid/Nd72a4ee721e94d73943ca459952b2db0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/name> "Gebr\u00FCder-Lachner-Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N87ac280a69374f149ac877c09cd113a1> <http://schema.org/value> "183528"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd72a4ee721e94d73943ca459952b2db0> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N87ac280a69374f149ac877c09cd113a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5f5a39f769744b4e94463961d3164582> <http://schema.org/longitude> "10.9165"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd72a4ee721e94d73943ca459952b2db0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/telephone> "09090/703-0" .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87ac280a69374f149ac877c09cd113a1> .
+<http://lodlaundromat.org/.well-known/genid/Ne251daafc70044f4acd3f7c8fcce3e22> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd72a4ee721e94d73943ca459952b2db0> .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://schema.org/streetAddress> "Kirchplatz 7" .
+<http://lodlaundromat.org/.well-known/genid/N82a88c20ffd649539ef09497a949c956> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/N87ac280a69374f149ac877c09cd113a1> <http://schema.org/name> "id" .
+

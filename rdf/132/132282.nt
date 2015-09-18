@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf549f2002aae4dd7af4b6cfb505f4234> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.5181&mlon=-122.277#map=15/37.5181/-122.277> .
+<http://lodlaundromat.org/.well-known/genid/N2754a8f28cbc4c57a73b12bc2ffeb1ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf549f2002aae4dd7af4b6cfb505f4234> <http://schema.org/value> "132282"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> .
+<http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://schema.org/streetAddress> "30 TWIN PINES LANES" .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2754a8f28cbc4c57a73b12bc2ffeb1ad> .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf549f2002aae4dd7af4b6cfb505f4234> .
+<http://lodlaundromat.org/.well-known/genid/Nf549f2002aae4dd7af4b6cfb505f4234> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nad42bb733e274bf290b9ff38c3da2c51> <http://schema.org/id> "8400602408" .
+<http://lodlaundromat.org/.well-known/genid/N2754a8f28cbc4c57a73b12bc2ffeb1ad> <http://schema.org/latitude> "37.5181"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://schema.org/postalCode> "94002" .
+<http://lodlaundromat.org/.well-known/genid/N2754a8f28cbc4c57a73b12bc2ffeb1ad> <http://schema.org/longitude> "-122.277"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb787424bfb134e9ba6c5e1e9ef0f546a> <http://schema.org/addressLocality> "BELMONT" .
+<http://lodlaundromat.org/.well-known/genid/Ndd306ecc566a4687a321845d94d9194b> <http://schema.org/name> "BELMONT HISTORICAL SOCIETY"@en .
+

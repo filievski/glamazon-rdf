@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> <http://schema.org/id> "8401701254" .
+<http://lodlaundromat.org/.well-known/genid/N72f8ec97d4284317bbda0b4090ec52c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://schema.org/postalCode> "60647-1920" .
+<http://lodlaundromat.org/.well-known/genid/Na50acb7140df4cc7a5c93de8a9e4af4e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N72f8ec97d4284317bbda0b4090ec52c2> .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na50acb7140df4cc7a5c93de8a9e4af4e> .
+<http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9276&mlon=-87.6902#map=15/41.9276/-87.6902> .
+<http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na50acb7140df4cc7a5c93de8a9e4af4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://schema.org/streetAddress> "2529 N CAMPBELL AVE" .
+<http://lodlaundromat.org/.well-known/genid/N72f8ec97d4284317bbda0b4090ec52c2> <http://schema.org/latitude> "41.9276"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncaa2f6b0913b4af786edcc0046a7ff8e> .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/name> "SNAPSHOT NATION NFP"@en .
+<http://lodlaundromat.org/.well-known/genid/N753b34fbeba1449785768c52b68c02cc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> .
+<http://lodlaundromat.org/.well-known/genid/N72f8ec97d4284317bbda0b4090ec52c2> <http://schema.org/longitude> "-87.6902"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na50acb7140df4cc7a5c93de8a9e4af4e> <http://schema.org/value> "138109"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N162069783dde481183aae93a11cc90ed> <http://schema.org/addressLocality> "CHICAGO" .
+

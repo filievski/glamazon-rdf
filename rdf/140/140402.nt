@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N61c801924f674f988e8458a8ded2e865> <http://schema.org/value> "140402"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2c93e69fa763447c83bae731e1fc822e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2c93e69fa763447c83bae731e1fc822e> <http://schema.org/latitude> "37.8762"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://schema.org/addressLocality> "NICHOLASVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N61c801924f674f988e8458a8ded2e865> .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2c93e69fa763447c83bae731e1fc822e> .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://schema.org/postalCode> "40340-0554" .
+<http://lodlaundromat.org/.well-known/genid/N61c801924f674f988e8458a8ded2e865> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2c93e69fa763447c83bae731e1fc822e> <http://schema.org/longitude> "-84.5746"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.8762&mlon=-84.5746#map=15/37.8762/-84.5746> .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> .
+<http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> <http://schema.org/id> "8402100159" .
+<http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N61c801924f674f988e8458a8ded2e865> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N31871db9cf974f5097aa53c93bfd73ee> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N13bb2bcba48b4390be74391ba0880263> <http://schema.org/streetAddress> "PO BOX 554" .
+<http://lodlaundromat.org/.well-known/genid/N9c0b1a0eff604cd4ad0cf83ae5705baf> <http://schema.org/name> "KENTUCKY PRO FOOTBALL HALL OF FAME FACILITY BOARD INC"@en .
+

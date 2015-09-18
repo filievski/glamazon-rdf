@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8a4e8ad42059426aa2d309870fb72b72> <http://schema.org/value> "182905"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://schema.org/addressRegion> "Schwaben" .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.4748&mlon=10.4083#map=15/47.4748/10.4083> .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/name> "Kutschenmuseum Hinterstein"@en .
+<http://lodlaundromat.org/.well-known/genid/N5427ee07f1c9413a82188b04fc0ee378> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5427ee07f1c9413a82188b04fc0ee378> .
+<http://lodlaundromat.org/.well-known/genid/N545fc372f32f4c81b4034095d31d445a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8a4e8ad42059426aa2d309870fb72b72> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N545fc372f32f4c81b4034095d31d445a> <http://schema.org/latitude> "47.4748"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://schema.org/addressLocality> "Bad Hindelang" .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://schema.org/streetAddress> "Haidachringweg 1" .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> .
+<http://lodlaundromat.org/.well-known/genid/N5427ee07f1c9413a82188b04fc0ee378> <http://schema.org/url> <http://www.museums.io/en/museums/182905> .
+<http://lodlaundromat.org/.well-known/genid/N545fc372f32f4c81b4034095d31d445a> <http://schema.org/longitude> "10.4083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N5427ee07f1c9413a82188b04fc0ee378> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf629cb961094488b9dbb04123d44c992> <http://schema.org/postalCode> "87541" .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/telephone> "08321/9607" .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a4e8ad42059426aa2d309870fb72b72> .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N545fc372f32f4c81b4034095d31d445a> .
+<http://lodlaundromat.org/.well-known/genid/N8a4e8ad42059426aa2d309870fb72b72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9fb691edeeea427e8b8cfdac13cf9e98> <http://schema.org/url> <http://www.allgaeuseiten.de/kutschenmuseum_hinterstein.htm> .
+<http://lodlaundromat.org/.well-known/genid/N5427ee07f1c9413a82188b04fc0ee378> <http://schema.org/@Type> "Dataset" .
+

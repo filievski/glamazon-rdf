@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://schema.org/postalCode> "11426" .
+<http://lodlaundromat.org/.well-known/genid/N21bdb1c7d6e3454ea0b3d7246f2e6981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N21bdb1c7d6e3454ea0b3d7246f2e6981> .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> .
+<http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N33d5d2eaae7a4aa986d2316bdf85f752> <http://schema.org/latitude> "40.73"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N33d5d2eaae7a4aa986d2316bdf85f752> <http://schema.org/longitude> "-73.7207"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21bdb1c7d6e3454ea0b3d7246f2e6981> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.73&mlon=-73.7207#map=15/40.73/-73.7207> .
+<http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N33d5d2eaae7a4aa986d2316bdf85f752> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://schema.org/streetAddress> "246 03 86 ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N33d5d2eaae7a4aa986d2316bdf85f752> .
+<http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> <http://schema.org/id> "8403600630" .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N2ef574cde8704918807b2dbb145d6e79> <http://schema.org/addressLocality> "JAMAICA" .
+<http://lodlaundromat.org/.well-known/genid/Nc9b33a91f94c41d4ac8a085665b3ad80> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N21bdb1c7d6e3454ea0b3d7246f2e6981> <http://schema.org/value> "149336"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8ebaf7a0463d40d79853c80ec216addf> <http://schema.org/name> "ASSOC FOR THE HISTORIC RESTORATION AND THE PRESERVATION OF L"@en .
+

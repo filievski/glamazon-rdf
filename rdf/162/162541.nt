@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1f6730ad2b6f48548b8fb9bf865f720e> <http://schema.org/latitude> "39.4566"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1f6730ad2b6f48548b8fb9bf865f720e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1f6730ad2b6f48548b8fb9bf865f720e> .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/telephone> "+1 (304) 267-4434" .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/name> "GENERAL ADAM STEPHEN MEM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> <http://schema.org/id> "8405400254" .
+<http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N345ee19ed1e6492db94da6d41b2bde24> <http://schema.org/value> "162541"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://schema.org/addressRegion> "WV" .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.4566&mlon=-77.9658#map=15/39.4566/-77.9658> .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N345ee19ed1e6492db94da6d41b2bde24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://schema.org/addressLocality> "MARTINSBURG" .
+<http://lodlaundromat.org/.well-known/genid/N4412cae9ec594a23ac96a5bfc34e81a1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N345ee19ed1e6492db94da6d41b2bde24> .
+<http://lodlaundromat.org/.well-known/genid/N345ee19ed1e6492db94da6d41b2bde24> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf0f70d200df14b76a374ead24d56a879> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://schema.org/postalCode> "25402-1496" .
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6be9dfb361054a1da28dec701872adbe> <http://schema.org/streetAddress> "PO BOX 1496" .
+<http://lodlaundromat.org/.well-known/genid/N1f6730ad2b6f48548b8fb9bf865f720e> <http://schema.org/longitude> "-77.9658"^^<http://www.w3.org/2001/XMLSchema#double> .
+

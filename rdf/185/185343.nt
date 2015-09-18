@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://schema.org/name> "Helsinki Art Museum, Kluuvi Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf9f4a26514f042bda9b5c5cdc65043c9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf9f4a26514f042bda9b5c5cdc65043c9> <http://schema.org/url> <http://www.museums.io/en/museums/185343> .
+<http://lodlaundromat.org/.well-known/genid/N4cf7858377d84142bc9cc0d3d19aad23> <http://schema.org/value> "185343"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf9f4a26514f042bda9b5c5cdc65043c9> .
+<http://lodlaundromat.org/.well-known/genid/Nf9f4a26514f042bda9b5c5cdc65043c9> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N534f5d2b0e514d86941a6556be887129> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://schema.org/url> <http://www.taidemuseo.fi/> .
+<http://lodlaundromat.org/.well-known/genid/N4cf7858377d84142bc9cc0d3d19aad23> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4cf7858377d84142bc9cc0d3d19aad23> .
+<http://lodlaundromat.org/.well-known/genid/N4cf7858377d84142bc9cc0d3d19aad23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne995b074d97d49d0b0bd93ae366dbfd7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N534f5d2b0e514d86941a6556be887129> .
+<http://lodlaundromat.org/.well-known/genid/N534f5d2b0e514d86941a6556be887129> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Nf9f4a26514f042bda9b5c5cdc65043c9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

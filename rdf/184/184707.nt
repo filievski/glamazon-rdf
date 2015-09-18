@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://schema.org/name> "Anton van Wouw House, Univ. Pretoria"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9f7cfe1370b8468fb268f95041a33b41> <http://schema.org/value> "184707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d01d46f73a4b7dbf949d3ae59f6f0e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9f7cfe1370b8468fb268f95041a33b41> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> <http://schema.org/streetAddress> "c/o UP Museums, 299 Clark Street, Brooklyn, Pretoria" .
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> .
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://schema.org/telephone> "012 420 7422" .
+<http://lodlaundromat.org/.well-known/genid/N9f7cfe1370b8468fb268f95041a33b41> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc7d01d46f73a4b7dbf949d3ae59f6f0e> .
+<http://lodlaundromat.org/.well-known/genid/Nb2fd3c9e043748c7b990cb5c57b5fe31> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9f7cfe1370b8468fb268f95041a33b41> .
+<http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> <http://schema.org/addressRegion> "Gauteng" .
+<http://lodlaundromat.org/.well-known/genid/N1b3da8bb862d43d6949287190626aebd> <http://schema.org/addressLocality> "Pretoria" .
+<http://lodlaundromat.org/.well-known/genid/Nc7d01d46f73a4b7dbf949d3ae59f6f0e> <http://schema.org/url> <http://www.museums.io/en/museums/184707> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d01d46f73a4b7dbf949d3ae59f6f0e> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Nc7d01d46f73a4b7dbf949d3ae59f6f0e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

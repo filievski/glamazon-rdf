@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N84bb456660574f30b04468d953a5b22b> <http://schema.org/latitude> "46.5101"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://schema.org/postalCode> "59870" .
+<http://lodlaundromat.org/.well-known/genid/N84bb456660574f30b04468d953a5b22b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.5101&mlon=-114.081#map=15/46.5101/-114.081> .
+<http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9e81a4caa6fc401b85c273fbed7ba6ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e81a4caa6fc401b85c273fbed7ba6ff> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://schema.org/addressLocality> "STEVENSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> .
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://schema.org/streetAddress> "PO BOX 221" .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> .
+<http://lodlaundromat.org/.well-known/genid/N84bb456660574f30b04468d953a5b22b> <http://schema.org/longitude> "-114.081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/name> "STEVENSVILLE HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb287d038fe5b4828affb8b0dafe2ddff> <http://schema.org/id> "8403000093" .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9e81a4caa6fc401b85c273fbed7ba6ff> .
+<http://lodlaundromat.org/.well-known/genid/N57adf21d05cf4c9fa6c1f71c146a445e> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N9e81a4caa6fc401b85c273fbed7ba6ff> <http://schema.org/value> "146450"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N741099fc20bc40c18bf906b244893fc8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N84bb456660574f30b04468d953a5b22b> .
+

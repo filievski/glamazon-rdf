@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N27c08d56c4b94866bbe821d6609b6d16> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9925&mlon=-122.114#map=15/37.9925/-122.114> .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://schema.org/postalCode> "94553-0001" .
+<http://lodlaundromat.org/.well-known/genid/N888baa7d99004c768d83db11a9129f97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N888baa7d99004c768d83db11a9129f97> .
+<http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N27c08d56c4b94866bbe821d6609b6d16> <http://schema.org/value> "132136"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> .
+<http://lodlaundromat.org/.well-known/genid/N888baa7d99004c768d83db11a9129f97> <http://schema.org/longitude> "-122.114"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://schema.org/addressLocality> "MARTINEZ" .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/name> "MARTINEZ HISTORY SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> .
+<http://lodlaundromat.org/.well-known/genid/N5e36a8c1340d41b4b69538a0338df8e5> <http://schema.org/id> "8400602262" .
+<http://lodlaundromat.org/.well-known/genid/N27c08d56c4b94866bbe821d6609b6d16> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c36958088fd43608ac6ab56b848ffdb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N27c08d56c4b94866bbe821d6609b6d16> .
+<http://lodlaundromat.org/.well-known/genid/N75841746fbc0474590e16fb5faaf1c94> <http://schema.org/streetAddress> "PO BOX 14" .
+<http://lodlaundromat.org/.well-known/genid/N888baa7d99004c768d83db11a9129f97> <http://schema.org/latitude> "37.9925"^^<http://www.w3.org/2001/XMLSchema#double> .
+

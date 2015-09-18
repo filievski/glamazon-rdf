@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N491ca1cd5c0040cb8a297123a8f01195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N491ca1cd5c0040cb8a297123a8f01195> .
+<http://lodlaundromat.org/.well-known/genid/N5058c83a6c884e93829afb035452a743> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://schema.org/postalCode> "51101-1634" .
+<http://lodlaundromat.org/.well-known/genid/N5058c83a6c884e93829afb035452a743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N491ca1cd5c0040cb8a297123a8f01195> <http://schema.org/longitude> "-96.4041"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://schema.org/addressLocality> "SIOUX CITY" .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/telephone> "+1 (712) 279-6174" .
+<http://lodlaundromat.org/.well-known/genid/N491ca1cd5c0040cb8a297123a8f01195> <http://schema.org/latitude> "42.4942"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> <http://schema.org/id> "8401900317" .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/url> <http://www.siouxcitymuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/name> "SIOUX CITY MUSEUM & HISTORICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5058c83a6c884e93829afb035452a743> .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8d5814abdc5444d0bd9f189a93a60339> .
+<http://lodlaundromat.org/.well-known/genid/N5058c83a6c884e93829afb035452a743> <http://schema.org/value> "139280"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N7d918a7189104463bc78ebfd46610c2b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4942&mlon=-96.4041#map=15/42.4942/-96.4041> .
+<http://lodlaundromat.org/.well-known/genid/Na839b5abed2342bf8a8fee7fbcf9ef92> <http://schema.org/streetAddress> "607 4TH STREET" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> .
+<http://lodlaundromat.org/.well-known/genid/Nbb1b91b4c7d64dc2b2b3a1c3c1fbadea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/telephone> "+1 (814) 893-6322" .
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://schema.org/postalCode> "15560" .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbb1b91b4c7d64dc2b2b3a1c3c1fbadea> .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na54d70df0f354cb09740b21eb45b7474> .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Na54d70df0f354cb09740b21eb45b7474> <http://schema.org/value> "190323"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://schema.org/addressLocality> "SHANKSVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na54d70df0f354cb09740b21eb45b7474> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na54d70df0f354cb09740b21eb45b7474> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0165&mlon=-78.905#map=15/40.0165/-78.905> .
+<http://lodlaundromat.org/.well-known/genid/N8ed5d9bde2514861956bea0d45077d9d> <http://schema.org/streetAddress> "273 PARK HEADQUARTERS ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nbb1b91b4c7d64dc2b2b3a1c3c1fbadea> <http://schema.org/latitude> "40.0165"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbb1b91b4c7d64dc2b2b3a1c3c1fbadea> <http://schema.org/longitude> "-78.905"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N663ed67069a84e449aeada4cee0adee4> <http://schema.org/name> "FLIGHT 93 NATIONAL MEMORIAL"@en .
+<http://lodlaundromat.org/.well-known/genid/N949361a1d7504cae98c1a38e4407315d> <http://schema.org/id> "8404201731" .
+

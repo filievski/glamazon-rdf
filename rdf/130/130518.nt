@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3c323b8fc47340e2aead95165b6a1a6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3c323b8fc47340e2aead95165b6a1a6f> .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://schema.org/addressLocality> "LOS ANGELES" .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> .
+<http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> <http://schema.org/id> "8400600644" .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf8cdf4f78b9045a4ad32c82625c51182> .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Los_Angeles_High_School> .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.978&mlon=-118.371#map=15/33.978/-118.371> .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://schema.org/streetAddress> "6709 LA TIJERA BLVD STE 514" .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://schema.org/name> "LOS ANGELES HIGH SCHOOL HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf8cdf4f78b9045a4ad32c82625c51182> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://schema.org/postalCode> "90045-2017" .
+<http://lodlaundromat.org/.well-known/genid/Nf8cdf4f78b9045a4ad32c82625c51182> <http://schema.org/value> "130518"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N374bc38452f64639831ef9f81bbbecba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndc1579f470d042379ca803c0e826cb58> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf8cdf4f78b9045a4ad32c82625c51182> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3c323b8fc47340e2aead95165b6a1a6f> <http://schema.org/longitude> "-118.371"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3c323b8fc47340e2aead95165b6a1a6f> <http://schema.org/latitude> "33.978"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N461785fa52ef42cc9fa267e7b0a96292> <http://schema.org/@Type> "Dataset" .
+

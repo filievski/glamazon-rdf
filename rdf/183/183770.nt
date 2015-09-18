@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7fe80f57a0c49128629fca98299b9e1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N97aa7c1837824d639e791570a2ac127b> <http://schema.org/longitude> "10.5941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/name> "Hans-B\u00F6ckler-Geburtshaus"@en .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> .
+<http://lodlaundromat.org/.well-known/genid/Nb7fe80f57a0c49128629fca98299b9e1> <http://schema.org/url> <http://www.museums.io/en/museums/183770> .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb7fe80f57a0c49128629fca98299b9e1> .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9eadfa07451a432b9eb1ac167d212a26> <http://schema.org/value> "183770"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://schema.org/postalCode> "90619" .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://schema.org/addressLocality> "Trautskirchen" .
+<http://lodlaundromat.org/.well-known/genid/Nb7fe80f57a0c49128629fca98299b9e1> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9eadfa07451a432b9eb1ac167d212a26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://schema.org/streetAddress> "Hans-B\u00F6ckler-Stra\u00DFe 14" .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.4559&mlon=10.5941#map=15/49.4559/10.5941> .
+<http://lodlaundromat.org/.well-known/genid/N97aa7c1837824d639e791570a2ac127b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N97aa7c1837824d639e791570a2ac127b> <http://schema.org/latitude> "49.4559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb7fe80f57a0c49128629fca98299b9e1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbeb6ccb530604170aa97ce2118a2326a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/telephone> "09107/255" .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N97aa7c1837824d639e791570a2ac127b> .
+<http://lodlaundromat.org/.well-known/genid/N7eac97095bef4552a1902724e4c42d70> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9eadfa07451a432b9eb1ac167d212a26> .
+<http://lodlaundromat.org/.well-known/genid/N9eadfa07451a432b9eb1ac167d212a26> <http://schema.org/name> "id" .
+

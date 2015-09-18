@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://schema.org/streetAddress> "PO BOX 1173" .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.5248&mlon=-122.039#map=15/47.5248/-122.039> .
+<http://lodlaundromat.org/.well-known/genid/N8e93f29f356a480ba3d4440f783b048b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> .
+<http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8e93f29f356a480ba3d4440f783b048b> .
+<http://lodlaundromat.org/.well-known/genid/N8e93f29f356a480ba3d4440f783b048b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23337b9ccd6d409899f37408153c071a> <http://schema.org/latitude> "47.5248"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N23337b9ccd6d409899f37408153c071a> <http://schema.org/longitude> "-122.039"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> .
+<http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> <http://schema.org/id> "8405300522" .
+<http://lodlaundromat.org/.well-known/genid/N8e93f29f356a480ba3d4440f783b048b> <http://schema.org/value> "162073"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://schema.org/postalCode> "98027-0044" .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/name> "SAMMAMISH SYMPHONY ORCHESTRA ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23337b9ccd6d409899f37408153c071a> .
+<http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/telephone> "+1 (206) 517-7777" .
+<http://lodlaundromat.org/.well-known/genid/Nf15d37eeff214affb4d5ad8333347ec6> <http://schema.org/url> <http://www.sammamishsymphony.org/index.php> .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N23337b9ccd6d409899f37408153c071a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na7ecb7a113a546d39d87967bb1209810> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb5a206ada41b4b559bb10922d546ce48> <http://schema.org/addressLocality> "ISSAQUAH" .
+

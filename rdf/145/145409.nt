@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N03939bea74ae436f949f2c73d97ec922> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://schema.org/streetAddress> "PO BOX 7220" .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://schema.org/addressLocality> "MCCOMB" .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N03939bea74ae436f949f2c73d97ec922> .
+<http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> .
+<http://lodlaundromat.org/.well-known/genid/N81e49b8240c547af87d8083f1268099d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N81e49b8240c547af87d8083f1268099d> .
+<http://lodlaundromat.org/.well-known/genid/N81e49b8240c547af87d8083f1268099d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N81e49b8240c547af87d8083f1268099d> <http://schema.org/value> "145409"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N03939bea74ae436f949f2c73d97ec922> <http://schema.org/longitude> "-90.4566"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> <http://schema.org/postalCode> "39649-7220" .
+<http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/name> "MCCOMB CITY RAILROAD DEPOT MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N35286371f06f4f8a98fb09a400cd9104> .
+<http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> <http://schema.org/id> "8402800116" .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=31.2451&mlon=-90.4566#map=15/31.2451/-90.4566> .
+<http://lodlaundromat.org/.well-known/genid/N03939bea74ae436f949f2c73d97ec922> <http://schema.org/latitude> "31.2451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fd929ecc7e1473aad55fed5e7279d07> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf737cae762f74e20b4faaeb9c211db0c> <http://schema.org/@Type> "Dataset" .
+

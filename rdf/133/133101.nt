@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/telephone> "+1 (303) 449-4924" .
+<http://lodlaundromat.org/.well-known/genid/N54ec97f8d69546ffae6dc212a296d307> <http://schema.org/latitude> "40.0018"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N54ec97f8d69546ffae6dc212a296d307> <http://schema.org/longitude> "-105.252"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N54ec97f8d69546ffae6dc212a296d307> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N54ec97f8d69546ffae6dc212a296d307> .
+<http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> <http://schema.org/id> "8400800277" .
+<http://lodlaundromat.org/.well-known/genid/N08508435347d4d808bdb7cd6ee594ed9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/name> "SCIENTIFIC FOUNDATION FOR PREHISTORIC ROCK ART"@en .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N08508435347d4d808bdb7cd6ee594ed9> .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://schema.org/addressLocality> "BOULDER" .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0018&mlon=-105.252#map=15/40.0018/-105.252> .
+<http://lodlaundromat.org/.well-known/genid/N08508435347d4d808bdb7cd6ee594ed9> <http://schema.org/value> "133101"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N08508435347d4d808bdb7cd6ee594ed9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> .
+<http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://schema.org/streetAddress> "770 31ST STREET" .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3fcff4d828b9448e956efd69920997d5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3913c5660bec445b9cf4912e5fb851d0> .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://schema.org/postalCode> "80303-8030" .
+<http://lodlaundromat.org/.well-known/genid/N2ee3cf3ea7b044938a2fa0d0cfa84a71> <http://schema.org/addressCountry> "United States" .
+

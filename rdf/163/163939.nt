@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N4ef3753d4e7d4577aee94e0738c64b9c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc31cbb8599144050984725bcf24a60d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/name> "Healesville Sanctuary History Archives"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc31cbb8599144050984725bcf24a60d4> <http://schema.org/latitude> "-37.6652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ef3753d4e7d4577aee94e0738c64b9c> <http://schema.org/value> "163939"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23832cb0686b44589cfeb8a03742ee6a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4ef3753d4e7d4577aee94e0738c64b9c> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4ef3753d4e7d4577aee94e0738c64b9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N23832cb0686b44589cfeb8a03742ee6a> .
+<http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> <http://schema.org/url> <http://victoriancollections.net.au/organisations/healesville-sanctuary-archives> .
+<http://lodlaundromat.org/.well-known/genid/N23832cb0686b44589cfeb8a03742ee6a> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.6652&mlon=145.527#map=15/-37.6652/145.527> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc31cbb8599144050984725bcf24a60d4> .
+<http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc31cbb8599144050984725bcf24a60d4> <http://schema.org/longitude> "145.527"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62c2042a8bcd4b108d4f62e68f0a5d2f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> .
+<http://lodlaundromat.org/.well-known/genid/Nf7cea7a04470493ea14f2034bbb86773> <http://schema.org/id> "healesville-sanctuary-archives" .
+

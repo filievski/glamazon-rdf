@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> <http://schema.org/id> "8404200915" .
+<http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/name> "ST CLAIR COMMUNITY & HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://schema.org/postalCode> "17970-0187" .
+<http://lodlaundromat.org/.well-known/genid/N53928ee89f1a4c369a4c8b97cb7a35a3> <http://schema.org/longitude> "-76.1919"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53928ee89f1a4c369a4c8b97cb7a35a3> <http://schema.org/latitude> "40.7189"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53928ee89f1a4c369a4c8b97cb7a35a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N72e0c6c9879249a6b2bdea851630ad78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7189&mlon=-76.1919#map=15/40.7189/-76.1919> .
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://schema.org/streetAddress> "PO BOX 187" .
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> .
+<http://lodlaundromat.org/.well-known/genid/N412d354c4e214bcf9188d48c9f963e9a> <http://schema.org/addressLocality> "SAINT CLAIR" .
+<http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N72e0c6c9879249a6b2bdea851630ad78> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N53928ee89f1a4c369a4c8b97cb7a35a3> .
+<http://lodlaundromat.org/.well-known/genid/N72e0c6c9879249a6b2bdea851630ad78> <http://schema.org/value> "155721"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd1e81d6f995c43d3bbdb46c782bcf74e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N72e0c6c9879249a6b2bdea851630ad78> .
+<http://lodlaundromat.org/.well-known/genid/N47b7cbc53be64f26ad71b2eb37c0c705> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb7cc630c2fbb40eabeaa919c5e4071f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://schema.org/streetAddress> "1300 S BROADWAY ST" .
+<http://lodlaundromat.org/.well-known/genid/Nb7cc630c2fbb40eabeaa919c5e4071f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> .
+<http://lodlaundromat.org/.well-known/genid/Nb7cc630c2fbb40eabeaa919c5e4071f0> <http://schema.org/value> "140025"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd97566db47c144a08ef7755e008087e9> <http://schema.org/latitude> "37.6693"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd97566db47c144a08ef7755e008087e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd97566db47c144a08ef7755e008087e9> <http://schema.org/longitude> "-97.3355"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd97566db47c144a08ef7755e008087e9> .
+<http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> <http://schema.org/id> "8402000351" .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> .
+<http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://schema.org/postalCode> "67211-3126" .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6ba8e18c4d6b434cb2b9c0df3369abac> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N62d0a1e67cbd48f8a240d47dd7b79038> <http://schema.org/addressLocality> "WICHITA" .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6693&mlon=-97.3355#map=15/37.6693/-97.3355> .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb7cc630c2fbb40eabeaa919c5e4071f0> .
+<http://lodlaundromat.org/.well-known/genid/N06582fac32844406822c5f71d26d8495> <http://schema.org/name> "KANSAS FIREFIGHTERS MUSEUM INC"@en .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://schema.org/streetAddress> "200 ARCH ST E" .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/name> "MOUNT AIRY RESIDENT COUNCIL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://schema.org/addressLocality> "SAINT PAUL" .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N861fd2737f544f35af97ef4886743a3a> .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3d83850ca2d948109079983b7c7090e5> .
+<http://lodlaundromat.org/.well-known/genid/N861fd2737f544f35af97ef4886743a3a> <http://schema.org/latitude> "44.9609"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3d83850ca2d948109079983b7c7090e5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d83850ca2d948109079983b7c7090e5> <http://schema.org/value> "144802"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> <http://schema.org/id> "8402700242" .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> .
+<http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> .
+<http://lodlaundromat.org/.well-known/genid/N65d8b5e99ced45e09876672845973ecf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9609&mlon=-93.0929#map=15/44.9609/-93.0929> .
+<http://lodlaundromat.org/.well-known/genid/N3d83850ca2d948109079983b7c7090e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5193cd7a660f4c9fbe8f914ae17ba31b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N861fd2737f544f35af97ef4886743a3a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://schema.org/postalCode> "55130-4347" .
+<http://lodlaundromat.org/.well-known/genid/Nbe7bf69724344d2483fe205bf2bd0c34> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N861fd2737f544f35af97ef4886743a3a> <http://schema.org/longitude> "-93.0929"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Na5d6d726957d4e0e97548eb06e3bcb50> <http://schema.org/latitude> "40.9859"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na5d6d726957d4e0e97548eb06e3bcb50> <http://schema.org/longitude> "-102.263"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> <http://schema.org/id> "8400800048" .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://schema.org/streetAddress> "201 W 1ST ST" .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://schema.org/addressLocality> "JULESBURG" .
+<http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> <http://schema.org/postalCode> "80737" .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/name> "MUSEUM DEPOT"@en .
+<http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e2a53e5be1f4e9c8e4fa4bb0b9c544d> .
+<http://lodlaundromat.org/.well-known/genid/Nd83cdd445b4a423e91b8f77c108b44db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd83cdd445b4a423e91b8f77c108b44db> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na5d6d726957d4e0e97548eb06e3bcb50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd83cdd445b4a423e91b8f77c108b44db> <http://schema.org/value> "132872"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd83cdd445b4a423e91b8f77c108b44db> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1125239fde1040f6987ad4eb52bbf03a> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/telephone> "+1 (970) 474-2264" .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na5d6d726957d4e0e97548eb06e3bcb50> .
+<http://lodlaundromat.org/.well-known/genid/N256372327e124e61bf753111aeacf6ba> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9859&mlon=-102.263#map=15/40.9859/-102.263> .
+

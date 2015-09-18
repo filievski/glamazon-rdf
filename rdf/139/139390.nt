@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/name> "ELGIN HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N38c871552a434d478dc4ce5ca8b8200c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N38c871552a434d478dc4ce5ca8b8200c> <http://schema.org/latitude> "42.9573"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N38c871552a434d478dc4ce5ca8b8200c> <http://schema.org/longitude> "-91.6296"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://schema.org/addressLocality> "ELGIN" .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N38c871552a434d478dc4ce5ca8b8200c> .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> .
+<http://lodlaundromat.org/.well-known/genid/N232358cf90fc4280b8f71d81fa6a1138> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N232358cf90fc4280b8f71d81fa6a1138> .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://schema.org/postalCode> "52141" .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9573&mlon=-91.6296#map=15/42.9573/-91.6296> .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://schema.org/streetAddress> "231 CENTER STREET" .
+<http://lodlaundromat.org/.well-known/genid/N3ffe9763e0334b8a92aecc26d48fa177> <http://schema.org/id> "8401900427" .
+<http://lodlaundromat.org/.well-known/genid/Nc9579c28cb2147cab7d81c27a3f5c538> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N232358cf90fc4280b8f71d81fa6a1138> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N22e42e58a03d41fba6ed6dbcd11b7252> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N232358cf90fc4280b8f71d81fa6a1138> <http://schema.org/value> "139390"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

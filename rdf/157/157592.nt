@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9529022a2f624b1a928fb3ca5e3191a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32e0e005cb7944779049df890d526fae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> .
+<http://lodlaundromat.org/.well-known/genid/N32e0e005cb7944779049df890d526fae> <http://schema.org/value> "157592"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9529022a2f624b1a928fb3ca5e3191a3> .
+<http://lodlaundromat.org/.well-known/genid/N9529022a2f624b1a928fb3ca5e3191a3> <http://schema.org/longitude> "-84.4985"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9529022a2f624b1a928fb3ca5e3191a3> <http://schema.org/latitude> "35.8437"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> .
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://schema.org/streetAddress> "PO BOX 738" .
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://schema.org/postalCode> "37763-0738" .
+<http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> <http://schema.org/id> "8404700263" .
+<http://lodlaundromat.org/.well-known/genid/N32e0e005cb7944779049df890d526fae> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N32e0e005cb7944779049df890d526fae> .
+<http://lodlaundromat.org/.well-known/genid/Nfa320f446df5462381c722e83ff08171> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://schema.org/addressLocality> "KINGSTON" .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.8437&mlon=-84.4985#map=15/35.8437/-84.4985> .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e0d5ee7d38e42fb91247350108bc7bc> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/Nf9e1c726e9b84303a163aaf35374b698> <http://schema.org/name> "ROANE COUNTY HERITAGE COMMISSION"@en .
+

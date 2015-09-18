@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N47fa8dd88c9a4551a279f0661f2336b5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N47fa8dd88c9a4551a279f0661f2336b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47fa8dd88c9a4551a279f0661f2336b5> .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0a5190bf6b3d45238e268fa8510244d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> <http://schema.org/id> "8402600369" .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/name> "LAKE COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N0a5190bf6b3d45238e268fa8510244d1> <http://schema.org/longitude> "-85.8576"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0a5190bf6b3d45238e268fa8510244d1> <http://schema.org/latitude> "43.8934"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://schema.org/postalCode> "49304" .
+<http://lodlaundromat.org/.well-known/genid/N47fa8dd88c9a4551a279f0661f2336b5> <http://schema.org/value> "143832"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2cc92f2e21464ec2b296dc013c7e2c3a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://schema.org/addressLocality> "BALDWIN" .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.8934&mlon=-85.8576#map=15/43.8934/-85.8576> .
+<http://lodlaundromat.org/.well-known/genid/N2b7ca8753e484a46b20b530562a95ae5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0a5190bf6b3d45238e268fa8510244d1> .
+<http://lodlaundromat.org/.well-known/genid/N8deb7f18b72c4821b3253babdc9d0621> <http://schema.org/streetAddress> "PO BOX 774" .
+

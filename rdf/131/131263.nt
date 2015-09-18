@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.8168&mlon=-117.889#map=15/33.8168/-117.889> .
+<http://lodlaundromat.org/.well-known/genid/N4a2868ced1b24d14a728849939ff577b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5c5f4621b6744c4ab2487f84ad1258d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5c5f4621b6744c4ab2487f84ad1258d1> .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4a2868ced1b24d14a728849939ff577b> <http://schema.org/value> "131263"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5c5f4621b6744c4ab2487f84ad1258d1> <http://schema.org/longitude> "-117.889"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://schema.org/postalCode> "92806-5160" .
+<http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a2868ced1b24d14a728849939ff577b> .
+<http://lodlaundromat.org/.well-known/genid/N5c5f4621b6744c4ab2487f84ad1258d1> <http://schema.org/latitude> "33.8168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://schema.org/streetAddress> "1240 S STATE COLLEGE BLVD STE 120" .
+<http://lodlaundromat.org/.well-known/genid/N4a2868ced1b24d14a728849939ff577b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> <http://schema.org/addressLocality> "ANAHEIM" .
+<http://lodlaundromat.org/.well-known/genid/N8105f10d6b82488f9e33fd516b179be4> <http://schema.org/id> "8400601389" .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N49e33249af2d415bab936731ddd32cfe> .
+<http://lodlaundromat.org/.well-known/genid/N0a6f4bff7e254206943a90cff6f51d63> <http://schema.org/name> "ACADEMIA FOUNDATION"@en .
+

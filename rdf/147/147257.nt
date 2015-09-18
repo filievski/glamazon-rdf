@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N25827ce885b644c182be4235153df733> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://schema.org/addressLocality> "PORTSMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://schema.org/streetAddress> "154 MARKET STREET" .
+<http://lodlaundromat.org/.well-known/genid/N1408a72b44554f6baa178ed8dda1029a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N25827ce885b644c182be4235153df733> .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://schema.org/addressRegion> "NH" .
+<http://lodlaundromat.org/.well-known/genid/N25827ce885b644c182be4235153df733> <http://schema.org/longitude> "-70.7587"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/name> "MOFFATT-LADD HOUSE AND GARDEN"@en .
+<http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N25827ce885b644c182be4235153df733> <http://schema.org/latitude> "43.0792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0792&mlon=-70.7587#map=15/43.0792/-70.7587> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1408a72b44554f6baa178ed8dda1029a> .
+<http://lodlaundromat.org/.well-known/genid/N1408a72b44554f6baa178ed8dda1029a> <http://schema.org/value> "147257"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> .
+<http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> <http://schema.org/id> "8403300032" .
+<http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1408a72b44554f6baa178ed8dda1029a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N547286cca8c040989e6014a5ad998e64> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> .
+<http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3e89dea61504415f8a77dd3424608d4e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf0071d7ea7384743ae23fd75df2b1383> <http://schema.org/postalCode> "03801-3730" .
+

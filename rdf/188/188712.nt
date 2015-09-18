@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4f8a5c689c45e88dce685973b1c45e> <http://schema.org/longitude> "11.2345"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N23c134c79c8a4ff0b86b5af8106bbb5d> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4f8a5c689c45e88dce685973b1c45e> <http://schema.org/latitude> "43.5355"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/telephone> "+39 0558072338" .
+<http://lodlaundromat.org/.well-known/genid/N23c134c79c8a4ff0b86b5af8106bbb5d> <http://schema.org/value> "188712"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/name> "Museo Emilio Ferrari di cultura contadina"@it .
+<http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> <http://schema.org/id> "103974" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> <http://schema.org/streetAddress> "del Giglio, 47" .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfa4f8a5c689c45e88dce685973b1c45e> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/N58fe89563e094dbe9172d78f5af43a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nfa4f8a5c689c45e88dce685973b1c45e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N58fe89563e094dbe9172d78f5af43a7e> <http://schema.org/contentUrl> <http://images.museums.io/Upr-tRRyurIMTUF-Wi7Dqv3kVGg=/1000x1000/museums/logos/000/188/712/original/337e3384d6c8324d2f491b281d0a7aad95a420.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/url> <http://www.sandonatoinpoggio.it/> .
+<http://lodlaundromat.org/.well-known/genid/N23c134c79c8a4ff0b86b5af8106bbb5d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.5355&mlon=11.2345#map=15/43.5355/11.2345> .
+<http://lodlaundromat.org/.well-known/genid/N23c134c79c8a4ff0b86b5af8106bbb5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> <http://schema.org/addressLocality> "Tavarnelle Val di Pesa" .
+<http://lodlaundromat.org/.well-known/genid/Ncf6b00ec8c444628bccd17b9ec9d3364> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> .
+<http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N16d5ccc4c977469abbb57a7fccb5ee3d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N58fe89563e094dbe9172d78f5af43a7e> .
+<http://lodlaundromat.org/.well-known/genid/N6a68fb1554284c6d92ef4cebce5963e2> <http://schema.org/@Type> "Dataset" .
+

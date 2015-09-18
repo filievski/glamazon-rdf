@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://schema.org/postalCode> "82110" .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8dfb989cbda34c628ce6359ad991a510> .
+<http://lodlaundromat.org/.well-known/genid/N8dfb989cbda34c628ce6359ad991a510> <http://schema.org/longitude> "11.3629"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7e732f90d54c469caea680f7c53f932a> .
+<http://lodlaundromat.org/.well-known/genid/N7e732f90d54c469caea680f7c53f932a> <http://schema.org/value> "182796"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> .
+<http://lodlaundromat.org/.well-known/genid/Naa246b13e3964d8b8a69e170b715c920> <http://schema.org/url> <http://www.museums.io/en/museums/182796> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1342&mlon=11.3629#map=15/48.1342/11.3629> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naa246b13e3964d8b8a69e170b715c920> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://schema.org/streetAddress> "Domonter Stra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/Naa246b13e3964d8b8a69e170b715c920> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Naa246b13e3964d8b8a69e170b715c920> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/url> <http://www.germering.de/stadtmuseum/> .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/telephone> "089/89419191" .
+<http://lodlaundromat.org/.well-known/genid/N2fbacdae7b67461f95cd3eb7cd825324> <http://schema.org/name> "Museum Zeit+Raum"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N8dfb989cbda34c628ce6359ad991a510> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7e732f90d54c469caea680f7c53f932a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7e732f90d54c469caea680f7c53f932a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://schema.org/addressLocality> "Germering" .
+<http://lodlaundromat.org/.well-known/genid/Naa246b13e3964d8b8a69e170b715c920> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne7f2033ec8fc4f13b9ef2549e5a8e9bc> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N8dfb989cbda34c628ce6359ad991a510> <http://schema.org/latitude> "48.1342"^^<http://www.w3.org/2001/XMLSchema#double> .
+

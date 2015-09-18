@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N43b0e1a9702b4cc19406f11eb8fe692b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://schema.org/addressLocality> "PHILADELPHIA" .
+<http://lodlaundromat.org/.well-known/genid/N894f8c4727fe4b6dbf5214fe43db9778> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> <http://schema.org/id> "8404201046" .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/name> "JOHN BARTRAM ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/url> <http://www.bartramsgarden.org/> .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/telephone> "+1 (215) 729-5281" .
+<http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N43b0e1a9702b4cc19406f11eb8fe692b> <http://schema.org/latitude> "39.9438"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N894f8c4727fe4b6dbf5214fe43db9778> .
+<http://lodlaundromat.org/.well-known/genid/N43b0e1a9702b4cc19406f11eb8fe692b> <http://schema.org/longitude> "-75.2256"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N894f8c4727fe4b6dbf5214fe43db9778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://schema.org/streetAddress> "54TH & LINDBERGH BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N79b3bbbd73184d03b9433281abecd028> <http://schema.org/postalCode> "19143" .
+<http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N79293176e5a649ae93fc11575f5637b0> .
+<http://lodlaundromat.org/.well-known/genid/N894f8c4727fe4b6dbf5214fe43db9778> <http://schema.org/value> "155852"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9438&mlon=-75.2256#map=15/39.9438/-75.2256> .
+<http://lodlaundromat.org/.well-known/genid/N315fd9a19b7c4f90bc677334367240cd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N43b0e1a9702b4cc19406f11eb8fe692b> .
+

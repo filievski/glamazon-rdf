@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0281&mlon=-104.829#map=15/39.0281/-104.829> .
+<http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> .
+<http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndd1c12c1bcc7401a93ed90535407db1f> .
+<http://lodlaundromat.org/.well-known/genid/Neb800596bbb64589b7643597f7d45995> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb800596bbb64589b7643597f7d45995> <http://schema.org/latitude> "39.0281"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> .
+<http://lodlaundromat.org/.well-known/genid/Neb800596bbb64589b7643597f7d45995> <http://schema.org/longitude> "-104.829"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndd1c12c1bcc7401a93ed90535407db1f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> <http://schema.org/id> "8400800415" .
+<http://lodlaundromat.org/.well-known/genid/Ndd1c12c1bcc7401a93ed90535407db1f> <http://schema.org/value> "133239"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/name> "WESTERN MUSEUM OF MINING & INDUSTRY"@en .
+<http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Neb800596bbb64589b7643597f7d45995> .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://schema.org/streetAddress> "225 NORTH GATE BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndd1c12c1bcc7401a93ed90535407db1f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndd2534b913af484ba47e4ed24e20afde> <http://schema.org/url> <http://www.wmmi.org/> .
+<http://lodlaundromat.org/.well-known/genid/N62bb9912432f4cbdab90ecaf6dd2292b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://schema.org/postalCode> "80921-3002" .
+<http://lodlaundromat.org/.well-known/genid/N0e4dbd16878443d4b346608ff59bb187> <http://schema.org/addressLocality> "COLORADO SPRINGS" .
+

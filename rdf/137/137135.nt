@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2618ef17c457439da3425e99089d4e22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfb06d045aa96400ba26a15285d622b00> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8836&mlon=-87.6498#map=15/41.8836/-87.6498> .
+<http://lodlaundromat.org/.well-known/genid/Nfb06d045aa96400ba26a15285d622b00> <http://schema.org/latitude> "41.8836"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2618ef17c457439da3425e99089d4e22> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://schema.org/addressLocality> "CHICAGO" .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://schema.org/postalCode> "60607-2395" .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N2618ef17c457439da3425e99089d4e22> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2618ef17c457439da3425e99089d4e22> <http://schema.org/value> "137135"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfb06d045aa96400ba26a15285d622b00> .
+<http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/name> "THREEWALLS NFP"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/telephone> "+1 (312) 432-3972" .
+<http://lodlaundromat.org/.well-known/genid/Ncae9f654302a46f6bf0b295e4af65eaa> <http://schema.org/url> <http://www.three-walls.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb06d045aa96400ba26a15285d622b00> <http://schema.org/longitude> "-87.6498"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> <http://schema.org/id> "8401700280" .
+<http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7894e240df2d42c6957a6ecab1be2e84> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbf5dc8e0f0224a9dba25460b5acd9d1a> <http://schema.org/streetAddress> "119 N PEORIA ST STE 2D" .
+

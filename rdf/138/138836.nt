@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9dbf033d8498b9354093270748703> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncdf9dbf033d8498b9354093270748703> .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0961&mlon=-85.2672#map=15/39.0961/-85.2672> .
+<http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> <http://schema.org/id> "8401800622" .
+<http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://schema.org/postalCode> "47037-9398" .
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://schema.org/streetAddress> "1510 N HASMER HILL RD" .
+<http://lodlaundromat.org/.well-known/genid/N8c674031e1834f59aa5a96760d29acfc> <http://schema.org/value> "138836"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> .
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> <http://schema.org/addressLocality> "OSGOOD" .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncadbe96d7bda4726912222dd560befd6> .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9dbf033d8498b9354093270748703> <http://schema.org/longitude> "-85.2672"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/name> "RIPLEY COUNTY BASKETBALL HALL OF FAME"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncdf9dbf033d8498b9354093270748703> <http://schema.org/latitude> "39.0961"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8c674031e1834f59aa5a96760d29acfc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd81f97bd001a4ea38a4988be376e665e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c674031e1834f59aa5a96760d29acfc> .
+<http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9d2136bd95774ca6a1be93389dbfd280> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8c674031e1834f59aa5a96760d29acfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

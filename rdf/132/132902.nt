@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9942a9e0fdb44bc0988bf3d4b770a61c> .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/telephone> "+1 (970) 265-2591" .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N74ca46ee0f1f4d7b9e05262e33d67955> .
+<http://lodlaundromat.org/.well-known/genid/N9942a9e0fdb44bc0988bf3d4b770a61c> <http://schema.org/longitude> "-102.844"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74ca46ee0f1f4d7b9e05262e33d67955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N74ca46ee0f1f4d7b9e05262e33d67955> <http://schema.org/value> "132902"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://schema.org/postalCode> "80728" .
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://schema.org/addressLocality> "FLEMING" .
+<http://lodlaundromat.org/.well-known/genid/N9942a9e0fdb44bc0988bf3d4b770a61c> <http://schema.org/latitude> "40.6796"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9942a9e0fdb44bc0988bf3d4b770a61c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/name> "FLEMING MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> .
+<http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> <http://schema.org/id> "8400800078" .
+<http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N74ca46ee0f1f4d7b9e05262e33d67955> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N82de460906334e5a9c9fac8fdc9dbc57> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6796&mlon=-102.844#map=15/40.6796/-102.844> .
+<http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N640961860d5d421c90c4623ae7162aec> <http://schema.org/streetAddress> "400 W WESTON" .
+<http://lodlaundromat.org/.well-known/genid/Ndade26e03453441b8e9f39ef69b18019> <http://schema.org/name> "us" .
+

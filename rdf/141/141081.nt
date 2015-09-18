@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf89ceeaac67f45b39a8d41d9adc0c0ab> .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> .
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://schema.org/postalCode> "70652-5033" .
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://schema.org/addressLocality> "LONGVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.532&mlon=-93.2391#map=15/30.532/-93.2391> .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> .
+<http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf89ceeaac67f45b39a8d41d9adc0c0ab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf89ceeaac67f45b39a8d41d9adc0c0ab> <http://schema.org/value> "141081"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://schema.org/streetAddress> "377 BURNETT LOOP" .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/name> "RAGLEY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N041395a61d954e9ca12caa8d5fd94a51> <http://schema.org/latitude> "30.532"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44d7a70f0d4a496a8dfc6e2e31588b1a> <http://schema.org/id> "8402200364" .
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf89ceeaac67f45b39a8d41d9adc0c0ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6fca3cbef4354af99bf6cf88d9a194ad> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N041395a61d954e9ca12caa8d5fd94a51> .
+<http://lodlaundromat.org/.well-known/genid/N83588f49df3b4beba676f549d95e7c81> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N041395a61d954e9ca12caa8d5fd94a51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N041395a61d954e9ca12caa8d5fd94a51> <http://schema.org/longitude> "-93.2391"^^<http://www.w3.org/2001/XMLSchema#double> .
+

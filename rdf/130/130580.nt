@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N93a2f929affb469e8c4bffd06cf070e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> .
+<http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> <http://schema.org/id> "8400600706" .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N93a2f929affb469e8c4bffd06cf070e0> .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7889&mlon=-122.411#map=15/37.7889/-122.411> .
+<http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://schema.org/streetAddress> "640 SUTTER ST" .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N870b600b1fb14c71b1da685a3b4e626e> .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N870b600b1fb14c71b1da685a3b4e626e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> .
+<http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N93a2f929affb469e8c4bffd06cf070e0> <http://schema.org/longitude> "-122.411"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bc6c9e1a9994b64bb60bfe1163a9b26> <http://schema.org/name> "640 HERITAGE PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N93a2f929affb469e8c4bffd06cf070e0> <http://schema.org/latitude> "37.7889"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://schema.org/postalCode> "94102-1097" .
+<http://lodlaundromat.org/.well-known/genid/N870b600b1fb14c71b1da685a3b4e626e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N870b600b1fb14c71b1da685a3b4e626e> <http://schema.org/value> "130580"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4d1a823479774c838e0945dea7696734> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nd291dac2a1284f219a51bcc50d75b8d6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

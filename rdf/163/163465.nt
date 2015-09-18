@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb7834531d48b78f65e9f45997f2db> <http://schema.org/longitude> "-104.816"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb7834531d48b78f65e9f45997f2db> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd5d25e3af63446ae8a59f2363dba25bc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://schema.org/streetAddress> "205 W 17TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Nfbdb7834531d48b78f65e9f45997f2db> <http://schema.org/latitude> "41.1336"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfbdb7834531d48b78f65e9f45997f2db> .
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://schema.org/addressRegion> "WY" .
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://schema.org/addressLocality> "CHEYENNE" .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> .
+<http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N748918e9a4814d158981fd1c465e5f03> <http://schema.org/postalCode> "82001" .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> .
+<http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> <http://schema.org/id> "8405600045" .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd5d25e3af63446ae8a59f2363dba25bc> .
+<http://lodlaundromat.org/.well-known/genid/Nb8ecdaa384ff45d99aebba13231833b3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/name> "COWGIRLS OF WEST MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/url> <http://www.cowgirlsofthewestmuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nd5d25e3af63446ae8a59f2363dba25bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd5d25e3af63446ae8a59f2363dba25bc> <http://schema.org/value> "163465"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1336&mlon=-104.816#map=15/41.1336/-104.816> .
+<http://lodlaundromat.org/.well-known/genid/Nc621603b604c420dab1d51083169d5be> <http://schema.org/telephone> "+1 (307) 638-4994" .
+

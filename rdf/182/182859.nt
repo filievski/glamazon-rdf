@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N120b65161fb746d8ae65ee0591a41ffb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> .
+<http://lodlaundromat.org/.well-known/genid/N120b65161fb746d8ae65ee0591a41ffb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://schema.org/addressRegion> "Niederbayern" .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N09ac56e114ca4ae690c6e78d7d435e84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N120b65161fb746d8ae65ee0591a41ffb> <http://schema.org/url> <http://www.museums.io/en/museums/182859> .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/name> "Steinwelten im Granitzentrum Bayerischer Wald"@en .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N120b65161fb746d8ae65ee0591a41ffb> .
+<http://lodlaundromat.org/.well-known/genid/N09ac56e114ca4ae690c6e78d7d435e84> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/url> <http://www.stein-welten.de/> .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/telephone> "08586/2266" .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.6474&mlon=13.6205#map=15/48.6474/13.6205> .
+<http://lodlaundromat.org/.well-known/genid/N120b65161fb746d8ae65ee0591a41ffb> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://schema.org/postalCode> "94051" .
+<http://lodlaundromat.org/.well-known/genid/N82be547526c74fb9877bca0924325921> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N09ac56e114ca4ae690c6e78d7d435e84> <http://schema.org/value> "182859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N82be547526c74fb9877bca0924325921> <http://schema.org/latitude> "48.6474"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://schema.org/addressLocality> "Hauzenberg" .
+<http://lodlaundromat.org/.well-known/genid/N3e33765a5b24441ab7f8dae7aecff973> <http://schema.org/streetAddress> "Passauer Stra\u00DFe 11" .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N09ac56e114ca4ae690c6e78d7d435e84> .
+<http://lodlaundromat.org/.well-known/genid/N82be547526c74fb9877bca0924325921> <http://schema.org/longitude> "13.6205"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9dcb228c07694f50965a8f6273526100> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N82be547526c74fb9877bca0924325921> .
+

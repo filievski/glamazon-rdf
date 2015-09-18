@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0ff30642c5e048d0bfa378afb76074ee> <http://schema.org/latitude> "46.1445"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0ff30642c5e048d0bfa378afb76074ee> .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.1445&mlon=-122.909#map=15/46.1445/-122.909> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://schema.org/postalCode> "98626-4103" .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncdbd3fcba20e46348d5147f329119c47> .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncdbd3fcba20e46348d5147f329119c47> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/telephone> "3605773119\u00A0" .
+<http://lodlaundromat.org/.well-known/genid/N0ff30642c5e048d0bfa378afb76074ee> <http://schema.org/longitude> "-122.909"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> .
+<http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ff30642c5e048d0bfa378afb76074ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://schema.org/addressLocality> "KELSO" .
+<http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf954376e7f1c4867b35efe710a4975f6> <http://schema.org/streetAddress> "405 ALLEN ST" .
+<http://lodlaundromat.org/.well-known/genid/Ncdbd3fcba20e46348d5147f329119c47> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/name> "COWLITZ COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncdbd3fcba20e46348d5147f329119c47> <http://schema.org/value> "161741"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N76a4d956ea1e49f99469184aed3537ef> <http://schema.org/id> "8405300190" .
+<http://lodlaundromat.org/.well-known/genid/N770e64419ead418b94178540afe7996c> <http://schema.org/url> <http://www.co.cowlitz.wa.us/museum/> .
+

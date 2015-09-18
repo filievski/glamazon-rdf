@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N08bd7c060a064e7abc61df58367784af> <http://schema.org/latitude> "44.0162"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N08bd7c060a064e7abc61df58367784af> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> <http://schema.org/id> "110004" .
+<http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> <http://schema.org/addressRegion> "Toscana" .
+<http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> <http://schema.org/addressLocality> "Montignoso" .
+<http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> .
+<http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc714c195e5046549e257d8c5bb81db4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/telephone> "+39 0585827104" .
+<http://lodlaundromat.org/.well-known/genid/Ne888ca942b964199bf4e4dd1a0b2702a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne888ca942b964199bf4e4dd1a0b2702a> .
+<http://lodlaundromat.org/.well-known/genid/N35c92d749aa440e695732ea7acf94725> <http://schema.org/streetAddress> "Fondaccio, " .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N08bd7c060a064e7abc61df58367784af> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.0162&mlon=10.1719#map=15/44.0162/10.1719> .
+<http://lodlaundromat.org/.well-known/genid/N84a75d9993dd4d55b04cc14ddef040fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N84a75d9993dd4d55b04cc14ddef040fc> <http://schema.org/contentUrl> <http://images.museums.io/M8zj7GGlG0Swp9ch64qCHUnebyc=/1000x1000/museums/logos/000/188/862/original/10293fd6b0528db19bbeda5db2b6c89d8ab3d383.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ne888ca942b964199bf4e4dd1a0b2702a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/name> "Centro di documentazione sulla Linea Gotica"@it .
+<http://lodlaundromat.org/.well-known/genid/Ne888ca942b964199bf4e4dd1a0b2702a> <http://schema.org/value> "188862"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndf10ec35cd7b46d7a13c8f49dac97f5d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N84a75d9993dd4d55b04cc14ddef040fc> .
+<http://lodlaundromat.org/.well-known/genid/N08bd7c060a064e7abc61df58367784af> <http://schema.org/longitude> "10.1719"^^<http://www.w3.org/2001/XMLSchema#double> .
+

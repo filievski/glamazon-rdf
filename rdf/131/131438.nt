@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://schema.org/postalCode> "95629-0053" .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://schema.org/streetAddress> "PO BOX 53" .
+<http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32aef7d50ba64819be05ef113be55dbd> <http://schema.org/latitude> "38.497"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06a4363c992242beaeef5a51fb16682b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N32aef7d50ba64819be05ef113be55dbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N06a4363c992242beaeef5a51fb16682b> <http://schema.org/value> "131438"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N06a4363c992242beaeef5a51fb16682b> .
+<http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N06a4363c992242beaeef5a51fb16682b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/name> "FIDDLETOWN PRESERVATION SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1a75f2fcc88540e59a4cb95fa1c43890> <http://schema.org/addressLocality> "FIDDLETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.497&mlon=-120.732#map=15/38.497/-120.732> .
+<http://lodlaundromat.org/.well-known/genid/N6218297a43a24bd6ac4cfe4913a54348> <http://schema.org/id> "8400601564" .
+<http://lodlaundromat.org/.well-known/genid/N5f7fd6ca7ec242ccb829ddc945184bb0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N32aef7d50ba64819be05ef113be55dbd> .
+<http://lodlaundromat.org/.well-known/genid/N32aef7d50ba64819be05ef113be55dbd> <http://schema.org/longitude> "-120.732"^^<http://www.w3.org/2001/XMLSchema#double> .
+

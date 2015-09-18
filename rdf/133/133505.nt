@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/name> "ADAMS COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://schema.org/postalCode> "86001" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/url> <http://www.adamscountymuseum.com/> .
+<http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://schema.org/streetAddress> "9601 HENDERSON RD" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ncb79b609c28b4f49bee8868092a703dd> <http://schema.org/latitude> "39.9251"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N556244a5892849568fea955e889de9a9> .
+<http://lodlaundromat.org/.well-known/genid/N556244a5892849568fea955e889de9a9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9251&mlon=-104.879#map=15/39.9251/-104.879> .
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N556244a5892849568fea955e889de9a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncb79b609c28b4f49bee8868092a703dd> .
+<http://lodlaundromat.org/.well-known/genid/Nd414e3fd5e2849faaf630ec71407eb35> <http://schema.org/addressLocality> "BRIGHTON" .
+<http://lodlaundromat.org/.well-known/genid/Ncb79b609c28b4f49bee8868092a703dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3af3616d1c964666a6a6109f48f4023d> <http://schema.org/id> "8400800681" .
+<http://lodlaundromat.org/.well-known/genid/N1aa687a4e5bb43ac81e19e2337c4ebe9> <http://schema.org/telephone> "+1 (303) 659-7103" .
+<http://lodlaundromat.org/.well-known/genid/N556244a5892849568fea955e889de9a9> <http://schema.org/value> "133505"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncb79b609c28b4f49bee8868092a703dd> <http://schema.org/longitude> "-104.879"^^<http://www.w3.org/2001/XMLSchema#double> .
+

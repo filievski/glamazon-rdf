@@ -1,0 +1,31 @@
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfeaa1984ce84432bb9fd40db8fd85a4b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://schema.org/addressLocality> "ANTIOCH" .
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.0156&mlon=-121.825#map=15/38.0156/-121.825> .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfeaa1984ce84432bb9fd40db8fd85a4b> .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> .
+<http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> <http://schema.org/id> "8400601057" .
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://schema.org/postalCode> "94509-0125" .
+<http://lodlaundromat.org/.well-known/genid/Nfeaa1984ce84432bb9fd40db8fd85a4b> <http://schema.org/longitude> "-121.825"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/name> "FRIENDS OFROSWELL BUTLER HARD HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N922ba671ffa74983a3e505ae0d1b7792> .
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N0348c864981c42ee86528740c49371b4> .
+<http://lodlaundromat.org/.well-known/genid/Nfeaa1984ce84432bb9fd40db8fd85a4b> <http://schema.org/latitude> "38.0156"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N922ba671ffa74983a3e505ae0d1b7792> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0348c864981c42ee86528740c49371b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0348c864981c42ee86528740c49371b4> <http://schema.org/creator> "<a href=\"//commons.wikimedia.org/wiki/User:Sanfranman59\" title=\"User:Sanfranman59\">Sanfranman59</a>" .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Roswell_Butler_Hard_House> .
+<http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0348c864981c42ee86528740c49371b4> <http://schema.org/license> <https://creativecommons.org/licenses/by-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne14aaa622a764f7f9fd1030a78d31664> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N59b33208fe344672bbe03561ee8df136> .
+<http://lodlaundromat.org/.well-known/genid/N49c84c7d83bb4a0da812d900eb7969ca> <http://schema.org/streetAddress> "1500 WEST 4TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N0348c864981c42ee86528740c49371b4> <http://schema.org/contentUrl> <http://images.museums.io/iPCowP1ZoEc4ClpTknPBI4kzqPM=/1000x1000/museums/logos/000/130/931/original/Roswell_Butler_Hard_House__28Antioch_2C_CA_29.JPG> .
+<http://lodlaundromat.org/.well-known/genid/N922ba671ffa74983a3e505ae0d1b7792> <http://schema.org/value> "130931"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N922ba671ffa74983a3e505ae0d1b7792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

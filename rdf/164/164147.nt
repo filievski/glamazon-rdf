@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/name> "National Holden Motor Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N7f14906449b64084b38812631716749b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb828a5df8627456091dc740ac06c8aa8> .
+<http://lodlaundromat.org/.well-known/genid/N31f13464de034d38bd70947a40b9a6b8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb828a5df8627456091dc740ac06c8aa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> .
+<http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb828a5df8627456091dc740ac06c8aa8> <http://schema.org/latitude> "-36.1202"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> <http://schema.org/id> "national-holden-motor-museum" .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7f14906449b64084b38812631716749b> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7f14906449b64084b38812631716749b> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/url> <http://www.holdenmuseum.com.au/> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.1202&mlon=144.745#map=15/-36.1202/144.745> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/telephone> "(03) 5480 2033" .
+<http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> <http://schema.org/url> <http://victoriancollections.net.au/organisations/national-holden-motor-museum> .
+<http://lodlaundromat.org/.well-known/genid/Nb828a5df8627456091dc740ac06c8aa8> <http://schema.org/longitude> "144.745"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N31f13464de034d38bd70947a40b9a6b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N182bf9ef2d8e44bd92948f7a2524f5f4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N31f13464de034d38bd70947a40b9a6b8> .
+<http://lodlaundromat.org/.well-known/genid/N1150dd97ca9242d3b395feb6128db0b6> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N31f13464de034d38bd70947a40b9a6b8> <http://schema.org/value> "164147"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

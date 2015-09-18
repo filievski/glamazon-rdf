@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N741dd4d80dd8450bbbbdf8bba25db0a8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N85d658c9024449b7b2682faf495ea95d> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> <http://schema.org/url> <http://victoriancollections.net.au/organisations/champs-museum> .
+<http://lodlaundromat.org/.well-known/genid/Ne0687c50062b48a99e6e11d43d742958> <http://schema.org/value> "163769"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne0687c50062b48a99e6e11d43d742958> .
+<http://lodlaundromat.org/.well-known/genid/N741dd4d80dd8450bbbbdf8bba25db0a8> <http://schema.org/longitude> "144.159"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N741dd4d80dd8450bbbbdf8bba25db0a8> .
+<http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Ne0687c50062b48a99e6e11d43d742958> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.8098&mlon=144.159#map=15/-36.8098/144.159> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> .
+<http://lodlaundromat.org/.well-known/genid/Ne0687c50062b48a99e6e11d43d742958> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N741dd4d80dd8450bbbbdf8bba25db0a8> <http://schema.org/latitude> "-36.8098"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N85d658c9024449b7b2682faf495ea95d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> <http://schema.org/id> "champs-museum" .
+<http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/telephone> "(03) 5435 3880" .
+<http://lodlaundromat.org/.well-known/genid/N6f0854a4225542c1b029d343054224f0> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N85d658c9024449b7b2682faf495ea95d> .
+<http://lodlaundromat.org/.well-known/genid/Na2602905fce14fafa74bf4e0d003f283> <http://schema.org/name> "Champs Museum"@en .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> .
+<http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> <http://schema.org/addressRegion> "Liguria" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> .
+<http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/name> "Museo civico di Diano Marina"@it .
+<http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N6759f3faa15d45fdae808f59a3c3516d> <http://schema.org/longitude> "8.08019"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> <http://schema.org/streetAddress> "Corso Garibaldi, 60" .
+<http://lodlaundromat.org/.well-known/genid/N6759f3faa15d45fdae808f59a3c3516d> <http://schema.org/latitude> "43.9072"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/telephone> "+39 0183497621" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.9072&mlon=8.08019#map=15/43.9072/8.08019> .
+<http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N8d87c936bdbc4f00acff6fdd873b46b9> <http://schema.org/value> "186739"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8d87c936bdbc4f00acff6fdd873b46b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6759f3faa15d45fdae808f59a3c3516d> .
+<http://lodlaundromat.org/.well-known/genid/N6759f3faa15d45fdae808f59a3c3516d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> <http://schema.org/id> "100412" .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d87c936bdbc4f00acff6fdd873b46b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8d87c936bdbc4f00acff6fdd873b46b9> .
+<http://lodlaundromat.org/.well-known/genid/N81e9953f0bf3401e92e9704b12e94ab5> <http://schema.org/addressLocality> "Diano Marina" .
+<http://lodlaundromat.org/.well-known/genid/Na2c91f14c8564ae79390783b2bbcc19d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N2ae4e258af6143e4bd7c5b4d34d5474c> <http://schema.org/url> <http://www.palazzodelparco.it/> .
+

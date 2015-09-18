@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/telephone> "+39 015 63665 - 015.63119 (Comune)" .
+<http://lodlaundromat.org/.well-known/genid/N98de553f29fb4980ab3d4946e9b0850a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> <http://schema.org/addressLocality> "Graglia" .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/name> "Museo di scienze naturali di Graglia"@it .
+<http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/url> <http://www.comune.graglia.bi.it/> .
+<http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne2c60d5eb2634596a04e006aa678a47d> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.558&mlon=7.98167#map=15/45.558/7.98167> .
+<http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N98de553f29fb4980ab3d4946e9b0850a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98de553f29fb4980ab3d4946e9b0850a> <http://schema.org/value> "187629"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> <http://schema.org/id> "106663" .
+<http://lodlaundromat.org/.well-known/genid/N4d15cd7c7a574908bfa229beb26785e8> <http://schema.org/streetAddress> "Piazza Crida, " .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> .
+<http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne2c60d5eb2634596a04e006aa678a47d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N4da79d813e4e496cb228aaa77487102b> .
+<http://lodlaundromat.org/.well-known/genid/N4da79d813e4e496cb228aaa77487102b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nb32ccd29af5c4b9db8988ec01a776450> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N4da79d813e4e496cb228aaa77487102b> <http://schema.org/contentUrl> <http://images.museums.io/HhvhlozY5jUwy_jiuwL-Vy02tJA=/1000x1000/museums/logos/000/187/629/original/dc1dc3533bc525798eb263c5f987e4e88613ed4.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ne2c60d5eb2634596a04e006aa678a47d> <http://schema.org/latitude> "45.558"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8210f3ee75334abe91389f6f82e5286e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N98de553f29fb4980ab3d4946e9b0850a> .
+<http://lodlaundromat.org/.well-known/genid/Ne2c60d5eb2634596a04e006aa678a47d> <http://schema.org/longitude> "7.98167"^^<http://www.w3.org/2001/XMLSchema#double> .
+

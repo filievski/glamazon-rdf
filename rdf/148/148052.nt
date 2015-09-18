@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> <http://schema.org/id> "8403400420" .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://schema.org/addressLocality> "HAMMONTON" .
+<http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3a5bb9b8c0e44b1aa5513dbe0cd3ab19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3a5bb9b8c0e44b1aa5513dbe0cd3ab19> <http://schema.org/value> "148052"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3a5bb9b8c0e44b1aa5513dbe0cd3ab19> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6322&mlon=-74.6602#map=15/39.6322/-74.6602> .
+<http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N76434288bc9742729095cd3b84b10da6> .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a5bb9b8c0e44b1aa5513dbe0cd3ab19> .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://schema.org/streetAddress> "4400 PLEASANT MILLS ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N7af32617a9f14dc182dec70e7c195f97> <http://schema.org/latitude> "39.6322"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/name> "NEW JERSEY CIVIL WAR HISTORY ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N5b24046fed4d4857aa476599e89aec90> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7af32617a9f14dc182dec70e7c195f97> .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N7af32617a9f14dc182dec70e7c195f97> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd8be93febb2c40aa9cd55988b728f8f7> <http://schema.org/postalCode> "08037-3900" .
+<http://lodlaundromat.org/.well-known/genid/N7af32617a9f14dc182dec70e7c195f97> <http://schema.org/longitude> "-74.6602"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/telephone> "+1 (918) 687-1450" .
+<http://lodlaundromat.org/.well-known/genid/N3ad45d9b79f44256a1c8ad2da5ae3a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.7493&mlon=-95.3739#map=15/35.7493/-95.3739> .
+<http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> <http://schema.org/postalCode> "74402" .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ad45d9b79f44256a1c8ad2da5ae3a7e> .
+<http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> <http://schema.org/addressLocality> "MUSKOGEE" .
+<http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> <http://schema.org/addressRegion> "OK" .
+<http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> <http://schema.org/id> "8404000061" .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> .
+<http://lodlaundromat.org/.well-known/genid/Ned4e78153f664753b526ca2238e74d82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4f96b716e7ba426d92fb39f0b907633d> .
+<http://lodlaundromat.org/.well-known/genid/N3ad45d9b79f44256a1c8ad2da5ae3a7e> <http://schema.org/value> "153707"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4f96b716e7ba426d92fb39f0b907633d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4f96b716e7ba426d92fb39f0b907633d> <http://schema.org/longitude> "-95.3739"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3ad45d9b79f44256a1c8ad2da5ae3a7e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9890d2bda203458f9ddc6d82938ba910> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4f96b716e7ba426d92fb39f0b907633d> <http://schema.org/latitude> "35.7493"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5dc6673258294410bff4d2bbc734c76d> <http://schema.org/name> "MUSKOGEE WAR MEMORIAL PARK AUTHORITY"@en .
+

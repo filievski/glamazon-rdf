@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndc2677ae6d6d4fa0af1bc5d0b4c32113> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndc2677ae6d6d4fa0af1bc5d0b4c32113> <http://schema.org/value> "143387"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://schema.org/addressLocality> "CHARLEMONT" .
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://schema.org/postalCode> "01339-0839" .
+<http://lodlaundromat.org/.well-known/genid/N8cd0d610baf2468d9dd12ed0e8c8a12f> <http://schema.org/latitude> "42.6462"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndc2677ae6d6d4fa0af1bc5d0b4c32113> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8cd0d610baf2468d9dd12ed0e8c8a12f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8cd0d610baf2468d9dd12ed0e8c8a12f> <http://schema.org/longitude> "-72.8698"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://schema.org/streetAddress> "PO BOX 839" .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6462&mlon=-72.8698#map=15/42.6462/-72.8698> .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndc2677ae6d6d4fa0af1bc5d0b4c32113> .
+<http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8cd0d610baf2468d9dd12ed0e8c8a12f> .
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> <http://schema.org/id> "8402501017" .
+<http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/name> "CHARLEMONT HISTORICAL PRESERVATION SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N45ec9cd17a2f41c094cf6b127cec41a1> .
+<http://lodlaundromat.org/.well-known/genid/N0bafbcf19ed04c9a8eebf9296e86a053> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6bd69d65647140f3acc5e425d2abb0c2> .
+

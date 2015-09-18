@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N87aae031b0814feaa6232d5405b7f116> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> <http://schema.org/streetAddress> "Borgo Castello, 13" .
+<http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N87aae031b0814feaa6232d5405b7f116> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> <http://schema.org/id> "100179" .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N2ab5f8a9793f4d1cb80660887fb1df0b> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> .
+<http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> <http://schema.org/addressRegion> "Friuli-Venezia Giulia" .
+<http://lodlaundromat.org/.well-known/genid/N2ab5f8a9793f4d1cb80660887fb1df0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N87aae031b0814feaa6232d5405b7f116> .
+<http://lodlaundromat.org/.well-known/genid/N87aae031b0814feaa6232d5405b7f116> <http://schema.org/value> "186231"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.9428&mlon=13.6281#map=15/45.9428/13.6281> .
+<http://lodlaundromat.org/.well-known/genid/N176cfdd3fc854424bb1a87bda43477be> <http://schema.org/latitude> "45.9428"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e2e373aeab74e419c58ef321ea2d13a> <http://schema.org/addressLocality> "Gorizia" .
+<http://lodlaundromat.org/.well-known/genid/N176cfdd3fc854424bb1a87bda43477be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/name> "Museo della Grande Guerra di Gorizia"@it .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N176cfdd3fc854424bb1a87bda43477be> .
+<http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N640db9babcc040c5bc63fd24ba8ecd8d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N2ab5f8a9793f4d1cb80660887fb1df0b> <http://schema.org/contentUrl> <http://images.museums.io/mPayMbGJ_oOVxuyZNEp23_IP_Pc=/1000x1000/museums/logos/000/186/231/original/119b7487ed84a3ec14b87f3b4731eb8c3fdaf6.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N176cfdd3fc854424bb1a87bda43477be> <http://schema.org/longitude> "13.6281"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N325d225e87be435081007eda8b2c565c> <http://schema.org/telephone> "+39 0481533926" .
+

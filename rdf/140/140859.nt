@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://schema.org/streetAddress> "1240 HARMONY STREET" .
+<http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> <http://schema.org/id> "8402200141" .
+<http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://schema.org/addressLocality> "NEW ORLEANS" .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1d98418c810b482b83d3643057692d3f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://schema.org/postalCode> "70115-3423" .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/name> "CLASSICAL INSTITUTE OF THE SOUTH INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.9257&mlon=-90.0874#map=15/29.9257/-90.0874> .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N563b999e5d8b48799306d94f5d513c36> .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1d98418c810b482b83d3643057692d3f> .
+<http://lodlaundromat.org/.well-known/genid/N563b999e5d8b48799306d94f5d513c36> <http://schema.org/latitude> "29.9257"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d98418c810b482b83d3643057692d3f> <http://schema.org/value> "140859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1cc02d77313a481488823dce0468cc56> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> .
+<http://lodlaundromat.org/.well-known/genid/N563b999e5d8b48799306d94f5d513c36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N563b999e5d8b48799306d94f5d513c36> <http://schema.org/longitude> "-90.0874"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1d98418c810b482b83d3643057692d3f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/Na8e2ae857f124f5c8b045949cbf48469> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nea23b292e753403b88e8a42b8725cc0d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

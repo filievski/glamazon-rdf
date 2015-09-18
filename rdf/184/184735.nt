@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://schema.org/telephone> "044 213 3414" .
+<http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> <http://schema.org/streetAddress> "Van Riebeeck Street, Calitzdorp" .
+<http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7d375e90b4524a529a171b59d7dddf19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> .
+<http://lodlaundromat.org/.well-known/genid/N7d375e90b4524a529a171b59d7dddf19> <http://schema.org/value> "184735"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> <http://schema.org/addressRegion> "Western Cape" .
+<http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd99559be40214a3ca8061a5fd7a9b8f1> .
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7d375e90b4524a529a171b59d7dddf19> .
+<http://lodlaundromat.org/.well-known/genid/N2cd9cf2f047946f9a6abfff7158dde79> <http://schema.org/addressLocality> "Calitzdorp" .
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://schema.org/name> "Calitzdorp Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd99559be40214a3ca8061a5fd7a9b8f1> <http://schema.org/url> <http://www.museums.io/en/museums/184735> .
+<http://lodlaundromat.org/.well-known/genid/Nd99559be40214a3ca8061a5fd7a9b8f1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd99559be40214a3ca8061a5fd7a9b8f1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6849c71dfd754164bb766c3a895deb8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd99559be40214a3ca8061a5fd7a9b8f1> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N7d375e90b4524a529a171b59d7dddf19> <http://schema.org/name> "id" .
+

@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N40a5703bd99645bd8e69faecc73e31ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N825756a6fc78428c8234789ed0475181> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5ba14a51cee94cf987e912b04446217e> .
+<http://lodlaundromat.org/.well-known/genid/N5ba14a51cee94cf987e912b04446217e> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N40a5703bd99645bd8e69faecc73e31ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N825756a6fc78428c8234789ed0475181> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N40a5703bd99645bd8e69faecc73e31ed> .
+<http://lodlaundromat.org/.well-known/genid/Ncd3f468b60e94b9c80186893cda1c7e5> <http://schema.org/url> <http://www.museums.io/en/museums/185454> .
+<http://lodlaundromat.org/.well-known/genid/Ncd3f468b60e94b9c80186893cda1c7e5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N825756a6fc78428c8234789ed0475181> <http://schema.org/name> "Museum Centre of Turku, Kyl\u00E4m\u00E4ki Village of Living History"@en .
+<http://lodlaundromat.org/.well-known/genid/N40a5703bd99645bd8e69faecc73e31ed> <http://schema.org/value> "185454"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ba14a51cee94cf987e912b04446217e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncd3f468b60e94b9c80186893cda1c7e5> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N825756a6fc78428c8234789ed0475181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N825756a6fc78428c8234789ed0475181> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncd3f468b60e94b9c80186893cda1c7e5> .
+<http://lodlaundromat.org/.well-known/genid/Ncd3f468b60e94b9c80186893cda1c7e5> <http://schema.org/@Type> "Dataset" .
+

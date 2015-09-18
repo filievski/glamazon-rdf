@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> <http://schema.org/id> "8403901203" .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://schema.org/addressLocality> "MASSILLON" .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/name> "CENTRAL HISTORICAL AREA RESIDENTS OF MASSILLON"@en .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd187d3c5dbf9448d977d5a37a9908e82> .
+<http://lodlaundromat.org/.well-known/genid/Nd187d3c5dbf9448d977d5a37a9908e82> <http://schema.org/longitude> "-81.5445"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7875&mlon=-81.5445#map=15/40.7875/-81.5445> .
+<http://lodlaundromat.org/.well-known/genid/Nd187d3c5dbf9448d977d5a37a9908e82> <http://schema.org/latitude> "40.7875"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://schema.org/postalCode> "44647" .
+<http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> .
+<http://lodlaundromat.org/.well-known/genid/Ndafc7a96c40f47e3928b97cbf518a153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd187d3c5dbf9448d977d5a37a9908e82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc4170a87def24200847fc747038d591a> <http://schema.org/streetAddress> "725 17TH STREET SW" .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6d85583472244611a5021fc1ef1c6505> .
+<http://lodlaundromat.org/.well-known/genid/Ndafc7a96c40f47e3928b97cbf518a153> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8c606ef0731b49baa4b251d3132b255d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndafc7a96c40f47e3928b97cbf518a153> .
+<http://lodlaundromat.org/.well-known/genid/Ndafc7a96c40f47e3928b97cbf518a153> <http://schema.org/value> "153425"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

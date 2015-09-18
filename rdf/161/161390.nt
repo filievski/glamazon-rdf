@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c909b61ca0d47158db7c271c0f593d6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.8418&mlon=-77.0883#map=15/38.8418/-77.0883> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N39c3e121d5e640c4b57f876651968090> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1c909b61ca0d47158db7c271c0f593d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://schema.org/postalCode> "22206-3402" .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1c909b61ca0d47158db7c271c0f593d6> .
+<http://lodlaundromat.org/.well-known/genid/N1c909b61ca0d47158db7c271c0f593d6> <http://schema.org/value> "161390"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://schema.org/streetAddress> "2776 S ARLINGTON MILL DRIVE 150" .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd24cc4e7224eacba342bb789ca2b8c> <http://schema.org/addressLocality> "ARLINGTON" .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/name> "FAIRLINGTON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b7ee989ec564a38be03bb40af28ca06> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N39c3e121d5e640c4b57f876651968090> .
+<http://lodlaundromat.org/.well-known/genid/N39c3e121d5e640c4b57f876651968090> <http://schema.org/longitude> "-77.0883"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N39c3e121d5e640c4b57f876651968090> <http://schema.org/latitude> "38.8418"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd7d7c342a8484433a70676c0b72320f5> <http://schema.org/id> "8405100896" .
+

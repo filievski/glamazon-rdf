@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N20d845aa2f01471d9eddf21943bace7c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne195dcb6579c4134bc0fa3192e5c07a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N20d845aa2f01471d9eddf21943bace7c> <http://schema.org/latitude> "41.1557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> <http://schema.org/id> "8403901071" .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne195dcb6579c4134bc0fa3192e5c07a7> .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/name> "GRANGER HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.1557&mlon=-81.7298#map=15/41.1557/-81.7298> .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N20d845aa2f01471d9eddf21943bace7c> .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://schema.org/postalCode> "44256-8478" .
+<http://lodlaundromat.org/.well-known/genid/Ne195dcb6579c4134bc0fa3192e5c07a7> <http://schema.org/value> "153293"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://schema.org/streetAddress> "1195 GRANGER ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://schema.org/addressLocality> "MEDINA" .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> .
+<http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N10e5373a373848c2a54abf27e9fa95ba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4a6ece6db65d45348658934c7acdaa00> .
+<http://lodlaundromat.org/.well-known/genid/N881b73e9dfb44a5895e934d612c5cf38> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/Ne195dcb6579c4134bc0fa3192e5c07a7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N20d845aa2f01471d9eddf21943bace7c> <http://schema.org/longitude> "-81.7298"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd6a598674a9b43028199b3d56ed4d024> <http://schema.org/url> <http://www.museums.io/en/museums/183901> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1f7ac1adb3c94116968824821c2216fc> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> .
+<http://lodlaundromat.org/.well-known/genid/Nd6a598674a9b43028199b3d56ed4d024> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1f7ac1adb3c94116968824821c2216fc> <http://schema.org/value> "183901"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nd6a598674a9b43028199b3d56ed4d024> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd6a598674a9b43028199b3d56ed4d024> .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://schema.org/streetAddress> " Am Hubland" .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://schema.org/addressLocality> "W\u00FCrzburg" .
+<http://lodlaundromat.org/.well-known/genid/Na5891f30d2a54341910ab8ec3eedf5b1> <http://schema.org/latitude> "49.7827"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na5891f30d2a54341910ab8ec3eedf5b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.7827&mlon=9.96864#map=15/49.7827/9.96864> .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/name> "Sammlungen des Instituts f\u00FCr Hochschulkunde an der Universit\u00E4t W\u00FCrzburg"@en .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na5891f30d2a54341910ab8ec3eedf5b1> .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nd6a598674a9b43028199b3d56ed4d024> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N1f7ac1adb3c94116968824821c2216fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1f7ac1adb3c94116968824821c2216fc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nced9d67935da4b4791b6b6f031c2e56c> <http://schema.org/telephone> "0931/3185982" .
+<http://lodlaundromat.org/.well-known/genid/Na5891f30d2a54341910ab8ec3eedf5b1> <http://schema.org/longitude> "9.96864"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc4b2ab1e9ddb4a118cc25774ac26521b> <http://schema.org/postalCode> "97074" .
+

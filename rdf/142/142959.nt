@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N330a0dd132ab4cdd9c0c5cc3d4fb5503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne4a96a7dd9334146a75b1bb430fdf3d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne4a96a7dd9334146a75b1bb430fdf3d1> .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://schema.org/addressLocality> "IPSWICH" .
+<http://lodlaundromat.org/.well-known/genid/N330a0dd132ab4cdd9c0c5cc3d4fb5503> <http://schema.org/latitude> "42.6691"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6691&mlon=-70.8288#map=15/42.6691/-70.8288> .
+<http://lodlaundromat.org/.well-known/genid/Ne4a96a7dd9334146a75b1bb430fdf3d1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://schema.org/streetAddress> "10 HEARTBREAK RD" .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/name> "MARY FERRELL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N330a0dd132ab4cdd9c0c5cc3d4fb5503> <http://schema.org/longitude> "-70.8288"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N330a0dd132ab4cdd9c0c5cc3d4fb5503> .
+<http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> <http://schema.org/id> "8402500589" .
+<http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne4a96a7dd9334146a75b1bb430fdf3d1> <http://schema.org/value> "142959"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N712b1757509646b99f97b95854b69def> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1e825ffd30bb42bebd566c3851c312fa> <http://schema.org/postalCode> "01938-2517" .
+<http://lodlaundromat.org/.well-known/genid/N3e7701f39ec04dad90ea24b0fa23cfd3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

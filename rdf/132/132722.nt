@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N18ca4d45d2284502b75fcd56191dc841> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.8009&mlon=-122.458#map=15/37.8009/-122.458> .
+<http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> .
+<http://lodlaundromat.org/.well-known/genid/N10f95a9828134d92812074776b98c56e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10f95a9828134d92812074776b98c56e> <http://schema.org/latitude> "37.8009"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/name> "WALT DISNEY FAMILY MUSEUM LLC"@en .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> .
+<http://lodlaundromat.org/.well-known/genid/N18ca4d45d2284502b75fcd56191dc841> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://schema.org/streetAddress> "104 MONTGOMERY ST" .
+<http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> <http://schema.org/id> "8400602848" .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/url> <http://waltdisney.org/> .
+<http://lodlaundromat.org/.well-known/genid/N10f95a9828134d92812074776b98c56e> <http://schema.org/longitude> "-122.458"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18ca4d45d2284502b75fcd56191dc841> <http://schema.org/value> "132722"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/telephone> "+1 (415) 345-6800" .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N10f95a9828134d92812074776b98c56e> .
+<http://lodlaundromat.org/.well-known/genid/N57e27c1f9e4f4aeb8b41fc22f71b0dfb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://schema.org/postalCode> "94129-1718" .
+<http://lodlaundromat.org/.well-known/genid/N0f3552d7b126489e81f74aa90191b8ba> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N90ddf1eb47cd4760b4664f464da8b525> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N18ca4d45d2284502b75fcd56191dc841> .
+

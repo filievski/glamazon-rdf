@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5e2b434356f24f10942c0e38f3467d64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://schema.org/addressLocality> "PETOSKEY" .
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://schema.org/streetAddress> "PO BOX 2054" .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> .
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> .
+<http://lodlaundromat.org/.well-known/genid/Ne733d2c535ac432cb091aa6f8e5aae96> <http://schema.org/value> "144494"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.3666&mlon=-84.9441#map=15/45.3666/-84.9441> .
+<http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne733d2c535ac432cb091aa6f8e5aae96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e2b434356f24f10942c0e38f3467d64> .
+<http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> <http://schema.org/id> "8402601031" .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/name> "US MILITARY HALL OF FAME INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2877f58f18864f8782e03b883c7469ec> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5e2b434356f24f10942c0e38f3467d64> <http://schema.org/latitude> "45.3666"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na69962605bf642278f7d15b8f083a974> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne733d2c535ac432cb091aa6f8e5aae96> .
+<http://lodlaundromat.org/.well-known/genid/N5e2b434356f24f10942c0e38f3467d64> <http://schema.org/longitude> "-84.9441"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne733d2c535ac432cb091aa6f8e5aae96> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N379edee1dbea4c3fb187881d61b8657c> <http://schema.org/postalCode> "49770-2054" .
+

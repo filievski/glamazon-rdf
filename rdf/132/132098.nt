@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1bfa23ba86a84d4cb140cb4ef410bea0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> <http://schema.org/id> "8400602224" .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1bfa23ba86a84d4cb140cb4ef410bea0> <http://schema.org/value> "132098"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N454c383b526f46918476b48aa185c993> <http://schema.org/latitude> "38.5743"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N454c383b526f46918476b48aa185c993> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://schema.org/streetAddress> "5380 ELVAS AVE" .
+<http://lodlaundromat.org/.well-known/genid/N454c383b526f46918476b48aa185c993> <http://schema.org/longitude> "-121.434"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/name> "S.S.V.M.S. MUSEUM OF MEDICAL HISTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1bfa23ba86a84d4cb140cb4ef410bea0> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://schema.org/addressLocality> "SACRAMENTO" .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5743&mlon=-121.434#map=15/38.5743/-121.434> .
+<http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/telephone> "+1 (916) 452-2671" .
+<http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6a4b55c8ad5d4e84b18f89a9e9bd414e> <http://schema.org/postalCode> "95819-2300" .
+<http://lodlaundromat.org/.well-known/genid/N454c383b526f46918476b48aa185c993> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9eda3011728b4cb79d7e226d7997a070> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c12954cc86e45eabc3bd9a10f827fd2> <http://schema.org/url> <http://ssvms.org/> .
+<http://lodlaundromat.org/.well-known/genid/N1bfa23ba86a84d4cb140cb4ef410bea0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

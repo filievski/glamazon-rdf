@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N232c00e7bd3746268b6a16f19c0c630e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> <http://schema.org/id> "8401700510" .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N232c00e7bd3746268b6a16f19c0c630e> <http://schema.org/latitude> "41.5897"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://schema.org/addressLocality> "PORT BYRON" .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.5897&mlon=-90.3358#map=15/41.5897/-90.3358> .
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://schema.org/streetAddress> "2140 S HIGH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://schema.org/postalCode> "61275" .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N16c55bdbdeda4b5d9193f850c425cd40> .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> .
+<http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N232c00e7bd3746268b6a16f19c0c630e> .
+<http://lodlaundromat.org/.well-known/genid/N232c00e7bd3746268b6a16f19c0c630e> <http://schema.org/longitude> "-90.3358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/name> "PORT BYRON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N16c55bdbdeda4b5d9193f850c425cd40> <http://schema.org/value> "137365"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6a8e55b286f3453a831e0d98f6174429> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N16c55bdbdeda4b5d9193f850c425cd40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3fa7193ea67e41859e17cc3ead39556b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd1d4ead90cf24ae6adb1899c693d1844> .
+<http://lodlaundromat.org/.well-known/genid/N16c55bdbdeda4b5d9193f850c425cd40> <http://schema.org/name> "id" .
+

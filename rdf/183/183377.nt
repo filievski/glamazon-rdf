@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3a22444b576445b3b3916d15eb1c4ecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4004631364e34dde9d217284bbd8d485> .
+<http://lodlaundromat.org/.well-known/genid/N3a22444b576445b3b3916d15eb1c4ecf> <http://schema.org/longitude> "11.0635"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/name> "Krankenhausmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/telephone> "0911/3982-550" .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://schema.org/postalCode> "90419" .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.4631&mlon=11.0635#map=15/49.4631/11.0635> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3a22444b576445b3b3916d15eb1c4ecf> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfeb32d365b4d41e1b2c371c244a76118> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nfeb32d365b4d41e1b2c371c244a76118> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://schema.org/url> <http://www.klinikum-nuernberg.de/DE/ueber_uns/projekte_initiativen/kh_museum1/kh_museum.html> .
+<http://lodlaundromat.org/.well-known/genid/N4004631364e34dde9d217284bbd8d485> <http://schema.org/url> <http://www.museums.io/en/museums/183377> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nfeb32d365b4d41e1b2c371c244a76118> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfeb32d365b4d41e1b2c371c244a76118> <http://schema.org/value> "183377"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3a22444b576445b3b3916d15eb1c4ecf> <http://schema.org/latitude> "49.4631"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://schema.org/streetAddress> "Prof.-Ernst-Nathan-Stra\u00DFe 1" .
+<http://lodlaundromat.org/.well-known/genid/N4004631364e34dde9d217284bbd8d485> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4004631364e34dde9d217284bbd8d485> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nb400aea042ac4c529d0dbe0051294936> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4004631364e34dde9d217284bbd8d485> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9457709f5f4721a877035d5c86b385> <http://schema.org/addressLocality> "N\u00FCrnberg" .
+

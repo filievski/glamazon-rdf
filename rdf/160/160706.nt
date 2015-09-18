@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://schema.org/streetAddress> "2455 SYCAMORE AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N28f5e35dd93a404bae696ef8e991588d> .
+<http://lodlaundromat.org/.well-known/genid/N28f5e35dd93a404bae696ef8e991588d> <http://schema.org/latitude> "37.739"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N28f5e35dd93a404bae696ef8e991588d> <http://schema.org/longitude> "-79.3536"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/name> "BUENA VISTA COLORED SCHOOL HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N30d6e1d768354e47ba3d76d23b1aaecf> .
+<http://lodlaundromat.org/.well-known/genid/N30d6e1d768354e47ba3d76d23b1aaecf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N30d6e1d768354e47ba3d76d23b1aaecf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30d6e1d768354e47ba3d76d23b1aaecf> <http://schema.org/value> "160706"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://schema.org/postalCode> "24416" .
+<http://lodlaundromat.org/.well-known/genid/N0720625f5f6640539fa693f20915d4f4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.739&mlon=-79.3536#map=15/37.739/-79.3536> .
+<http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> <http://schema.org/id> "8405100212" .
+<http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N638d83d7a7874f1582bc15de8b8b35d4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N28f5e35dd93a404bae696ef8e991588d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N626a29c814d44731b5ad8b5fe72db99d> <http://schema.org/addressLocality> "BUENA VISTA" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.7956&mlon=-81.5222#map=15/40.7956/-81.5222> .
+<http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc07340336f6841289c5cecf83b6a1eb1> .
+<http://lodlaundromat.org/.well-known/genid/Nc07340336f6841289c5cecf83b6a1eb1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8981d4b5bea24eab8cae3ad9c7e19826> <http://schema.org/longitude> "-81.5222"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://schema.org/postalCode> "44646" .
+<http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> <http://schema.org/id> "8403900044" .
+<http://lodlaundromat.org/.well-known/genid/N8981d4b5bea24eab8cae3ad9c7e19826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8981d4b5bea24eab8cae3ad9c7e19826> <http://schema.org/latitude> "40.7956"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8981d4b5bea24eab8cae3ad9c7e19826> .
+<http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc07340336f6841289c5cecf83b6a1eb1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://schema.org/addressLocality> "MASSILLON" .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/name> "THIRTEENTH FLOOR"@en .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/url> <http://www.13thfloorgallery.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nc07340336f6841289c5cecf83b6a1eb1> <http://schema.org/value> "152267"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> .
+<http://lodlaundromat.org/.well-known/genid/N947b30ecb9aa4b669174e48dc0928fea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> .
+<http://lodlaundromat.org/.well-known/genid/N7554234c126c4aebacffdc9fadf8eb4e> <http://schema.org/streetAddress> "28 CHARLES AVE SE" .
+<http://lodlaundromat.org/.well-known/genid/N3b454ff1d2cb4866985792741328f901> <http://schema.org/url> <http://www.imls.gov/> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N5ef3065c9e964f079648d1abc724955e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://schema.org/addressLocality> "PLYMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na948bfb00c264f5da1133f90468b4c9c> .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/url> <http://www.plimoth.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/name> "PLIMOTH PLANTATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> <http://schema.org/id> "8402500297" .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5ef3065c9e964f079648d1abc724955e> .
+<http://lodlaundromat.org/.well-known/genid/N5ef3065c9e964f079648d1abc724955e> <http://schema.org/longitude> "-70.623"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na948bfb00c264f5da1133f90468b4c9c> <http://schema.org/value> "142667"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ef3065c9e964f079648d1abc724955e> <http://schema.org/latitude> "41.9422"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://schema.org/streetAddress> "137 WARREN AVE" .
+<http://lodlaundromat.org/.well-known/genid/Na948bfb00c264f5da1133f90468b4c9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na948bfb00c264f5da1133f90468b4c9c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne92b114670c34422a59b9af6a7d1dc48> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9422&mlon=-70.623#map=15/41.9422/-70.623> .
+<http://lodlaundromat.org/.well-known/genid/N8096d28abdd74af993abe51a52e55ac9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N37c2c25f047444a2ae4c9a4c54ef623c> <http://schema.org/postalCode> "02360-2429" .
+

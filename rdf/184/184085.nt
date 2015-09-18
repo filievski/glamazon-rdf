@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/name> "Wilhelm Wagenfeld House"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc2a2fe52a8da43e3ad011ce9278fe0a3> <http://schema.org/url> <http://www.museums.io/en/museums/184085> .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/telephone> "+49 (0) 421 3388116" .
+<http://lodlaundromat.org/.well-known/genid/Nc2a2fe52a8da43e3ad011ce9278fe0a3> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N947874d0285d432e98a0624a9e5a0978> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N88d7ad67248b4f1f881d4254c57b642c> <http://schema.org/value> "184085"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a2fe52a8da43e3ad011ce9278fe0a3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2a2fe52a8da43e3ad011ce9278fe0a3> .
+<http://lodlaundromat.org/.well-known/genid/N947874d0285d432e98a0624a9e5a0978> <http://schema.org/longitude> "8.81478"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd9240d3688b44d129843aabb67a12d2a> .
+<http://lodlaundromat.org/.well-known/genid/N88d7ad67248b4f1f881d4254c57b642c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N88d7ad67248b4f1f881d4254c57b642c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N88d7ad67248b4f1f881d4254c57b642c> .
+<http://lodlaundromat.org/.well-known/genid/Nd9240d3688b44d129843aabb67a12d2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd9240d3688b44d129843aabb67a12d2a> <http://schema.org/email> "mailto:info@wwh-bremen.de" .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N947874d0285d432e98a0624a9e5a0978> .
+<http://lodlaundromat.org/.well-known/genid/Nc2a2fe52a8da43e3ad011ce9278fe0a3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N947874d0285d432e98a0624a9e5a0978> <http://schema.org/latitude> "53.0729"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd9240d3688b44d129843aabb67a12d2a> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nec04245ae32d44eca5b649a1365927fa> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0729&mlon=8.81478#map=15/53.0729/8.81478> .
+

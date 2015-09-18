@@ -1,0 +1,16 @@
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://schema.org/name> "Lapua Cartridge Factory Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Na01dabf1ff9e490e8589156e4d9bd66a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd15c8e06440042fea44cc78f97305d61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://schema.org/url> <http://www.lapua.fi/web/?c=548&nv=13> .
+<http://lodlaundromat.org/.well-known/genid/Na01dabf1ff9e490e8589156e4d9bd66a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nd15c8e06440042fea44cc78f97305d61> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd15c8e06440042fea44cc78f97305d61> .
+<http://lodlaundromat.org/.well-known/genid/Nc92f7f13dc54416cbd5b9ecee4a587ed> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc92f7f13dc54416cbd5b9ecee4a587ed> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na01dabf1ff9e490e8589156e4d9bd66a> .
+<http://lodlaundromat.org/.well-known/genid/Nc92f7f13dc54416cbd5b9ecee4a587ed> <http://schema.org/url> <http://www.museums.io/en/museums/185411> .
+<http://lodlaundromat.org/.well-known/genid/Na01dabf1ff9e490e8589156e4d9bd66a> <http://schema.org/value> "185411"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc92f7f13dc54416cbd5b9ecee4a587ed> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N9b1b9a3eb2d0452b988e55be1f323fc6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc92f7f13dc54416cbd5b9ecee4a587ed> .
+

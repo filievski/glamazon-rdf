@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N2015b623b94c4daf9660c86ca66065a0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2015b623b94c4daf9660c86ca66065a0> .
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://schema.org/streetAddress> "C/O H SHELTON - 1721 MCKINLEY AVE" .
+<http://lodlaundromat.org/.well-known/genid/N2015b623b94c4daf9660c86ca66065a0> <http://schema.org/longitude> "-74.4358"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://schema.org/postalCode> "8401" .
+<http://lodlaundromat.org/.well-known/genid/N2015b623b94c4daf9660c86ca66065a0> <http://schema.org/latitude> "39.3617"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/name> "CHICKEN BONE BEACH HISTORICAL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc8935eaedfc14faf82a404dc9d6c8c96> .
+<http://lodlaundromat.org/.well-known/genid/Nc8935eaedfc14faf82a404dc9d6c8c96> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc8935eaedfc14faf82a404dc9d6c8c96> <http://schema.org/value> "148104"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3617&mlon=-74.4358#map=15/39.3617/-74.4358> .
+<http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> .
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://schema.org/addressLocality> "ATLANTIC CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> <http://schema.org/id> "8403400472" .
+<http://lodlaundromat.org/.well-known/genid/Nc8935eaedfc14faf82a404dc9d6c8c96> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nae46c2221c2341629d202bd2862fdb28> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N386a362f37ef4d8ba96f95e1aaaabfbc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e0eee5f148145e9aaef3af92680ba96> .
+

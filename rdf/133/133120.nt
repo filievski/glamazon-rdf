@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.3689&mlon=-104.836#map=15/39.3689/-104.836> .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://schema.org/addressLocality> "CASTLE ROCK" .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://schema.org/streetAddress> "PO BOX 2101" .
+<http://lodlaundromat.org/.well-known/genid/Nd0f6e77117bd4ebcb2a1df953fe5d2eb> <http://schema.org/value> "133120"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1181d5fd2a44f068dba05ca83424dab> <http://schema.org/latitude> "39.3689"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb1181d5fd2a44f068dba05ca83424dab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> <http://schema.org/id> "8400800296" .
+<http://lodlaundromat.org/.well-known/genid/Nb823d2142ded4c02bff8220cf04eaf6e> <http://schema.org/postalCode> "80104-1510" .
+<http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb1181d5fd2a44f068dba05ca83424dab> .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/name> "CASTLE ROCK CIVIL WAR UNIT"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0f6e77117bd4ebcb2a1df953fe5d2eb> .
+<http://lodlaundromat.org/.well-known/genid/Nd0f6e77117bd4ebcb2a1df953fe5d2eb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb1181d5fd2a44f068dba05ca83424dab> <http://schema.org/longitude> "-104.836"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd0f6e77117bd4ebcb2a1df953fe5d2eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5e465a90479b4677a0eb8382adcccb32> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N14fc60d51e8a4552a7002a7bb40a5324> .
+

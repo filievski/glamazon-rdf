@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://schema.org/addressLocality> "LOS ANGELES" .
+<http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> <http://schema.org/id> "8400600757" .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncda063294e0f4bd69564256d4b0fbefd> .
+<http://lodlaundromat.org/.well-known/genid/Nf9c29ff6c98c4e95a154911185fc024e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncda063294e0f4bd69564256d4b0fbefd> <http://schema.org/latitude> "34.0617"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf9c29ff6c98c4e95a154911185fc024e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf9c29ff6c98c4e95a154911185fc024e> .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/name> "HISTORICAL JUSTICE NOW INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://schema.org/postalCode> "90010" .
+<http://lodlaundromat.org/.well-known/genid/Ncda063294e0f4bd69564256d4b0fbefd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf9c29ff6c98c4e95a154911185fc024e> <http://schema.org/value> "130631"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41007bd2c07948aab949bc1663eee1c8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> .
+<http://lodlaundromat.org/.well-known/genid/Ncda063294e0f4bd69564256d4b0fbefd> <http://schema.org/longitude> "-118.307"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://schema.org/streetAddress> "3700 WILSHIRE BLVD APT 490" .
+<http://lodlaundromat.org/.well-known/genid/N4a16c9584f924cfeb04016eb59d3f270> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0617&mlon=-118.307#map=15/34.0617/-118.307> .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N3b696c49c3b94efb90f05950a8382273> <http://schema.org/addressCountry> "United States" .
+

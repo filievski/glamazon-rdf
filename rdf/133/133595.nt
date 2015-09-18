@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://schema.org/addressLocality> "GUILFORD" .
+<http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> <http://schema.org/id> "8400900070" .
+<http://lodlaundromat.org/.well-known/genid/Nccf6cc7c47c94555a44d637107500a67> <http://schema.org/latitude> "41.2841"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3a942a5081214ce680a4573a2233f0dc> <http://schema.org/value> "133595"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/telephone> "+1 (203) 453-3176" .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a942a5081214ce680a4573a2233f0dc> .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> .
+<http://lodlaundromat.org/.well-known/genid/Nccf6cc7c47c94555a44d637107500a67> <http://schema.org/longitude> "-72.6744"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nccf6cc7c47c94555a44d637107500a67> .
+<http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2841&mlon=-72.6744#map=15/41.2841/-72.6744> .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/url> <http://www.guilfordkeepingsociety.com/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://schema.org/name> "GRISWOLD THOMAS HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://schema.org/streetAddress> "171 BOSTON ST" .
+<http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3a942a5081214ce680a4573a2233f0dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nccf6cc7c47c94555a44d637107500a67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbb806d0701f04a828496e9a2ae2dc2f2> <http://schema.org/postalCode> "06437" .
+<http://lodlaundromat.org/.well-known/genid/N3a942a5081214ce680a4573a2233f0dc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N60b0244881fe48f4a544f6879cedadd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N447cb161c31043efb3959364785cb8a8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

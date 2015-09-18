@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd3c9d12e69514165854caac834cc512b> <http://schema.org/longitude> "-88.0286"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd3c9d12e69514165854caac834cc512b> <http://schema.org/latitude> "42.9305"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> <http://schema.org/id> "8405500633" .
+<http://lodlaundromat.org/.well-known/genid/Nd3c9d12e69514165854caac834cc512b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N68a00545a3c04330a828e81028194d1e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://schema.org/addressLocality> "FRANKLIN" .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/url> <http://www.friendsofwehr.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> .
+<http://lodlaundromat.org/.well-known/genid/N68a00545a3c04330a828e81028194d1e> <http://schema.org/value> "163184"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N10b7e0e004a74336bbfc0930ec9825e4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N68a00545a3c04330a828e81028194d1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/name> "WEHR NATURE CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/telephone> "+1 (414) 425-8550" .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd3c9d12e69514165854caac834cc512b> .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9305&mlon=-88.0286#map=15/42.9305/-88.0286> .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://schema.org/streetAddress> "9701 W COLLEGE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N762fb855c9c04cd78bb37a4deaa712fe> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N68a00545a3c04330a828e81028194d1e> .
+<http://lodlaundromat.org/.well-known/genid/Ndb90717009f94160a81578dd4e63e2fc> <http://schema.org/postalCode> "53132-2529" .
+

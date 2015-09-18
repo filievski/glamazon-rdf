@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5e42bfe92f2544e0b9feb57d6be5de1b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N5e42bfe92f2544e0b9feb57d6be5de1b> <http://schema.org/latitude> "39.6252"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e42bfe92f2544e0b9feb57d6be5de1b> .
+<http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N00a8650dfb984f1580239586d5110e8e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> <http://schema.org/id> "8402400238" .
+<http://lodlaundromat.org/.well-known/genid/N5e42bfe92f2544e0b9feb57d6be5de1b> <http://schema.org/longitude> "-78.7679"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N00a8650dfb984f1580239586d5110e8e> .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.6252&mlon=-78.7679#map=15/39.6252/-78.7679> .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://schema.org/postalCode> "21502-4753" .
+<http://lodlaundromat.org/.well-known/genid/N00a8650dfb984f1580239586d5110e8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N685456a0b5a44257b9d8b4b77b14ae1e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://schema.org/addressLocality> "CUMBERLAND" .
+<http://lodlaundromat.org/.well-known/genid/N00a8650dfb984f1580239586d5110e8e> <http://schema.org/value> "141945"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://schema.org/streetAddress> "27 POTOMAC ST" .
+<http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/name> "GULF WAR MEMORIAL"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf5d6e68da3d7452bbde2f0e9bfefc991> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4e333b4ce1ab4d2fb1859ea597a5524c> .
+

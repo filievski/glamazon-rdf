@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N089524e3f2774821bdb20b904b295fcb> <http://schema.org/value> "137664"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://schema.org/postalCode> "61031" .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8fa5d60f4f654aaeb74f06ae42edd765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8fa5d60f4f654aaeb74f06ae42edd765> <http://schema.org/latitude> "41.8408"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> <http://schema.org/id> "8401700809" .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://schema.org/addressLocality> "FRANKLIN GROVE" .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://schema.org/streetAddress> "136 N ELM ST" .
+<http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N089524e3f2774821bdb20b904b295fcb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N43cc07d60fc14733b31edefeca2bd2e9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N089524e3f2774821bdb20b904b295fcb> .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.8408&mlon=-89.2995#map=15/41.8408/-89.2995> .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/name> "FARMING HERITAGE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8fa5d60f4f654aaeb74f06ae42edd765> .
+<http://lodlaundromat.org/.well-known/genid/Nbca592bafc5b4f11a70c9b051c064414> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> .
+<http://lodlaundromat.org/.well-known/genid/N9f67ca1490414fd0bee1cb9e16fc63c3> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N089524e3f2774821bdb20b904b295fcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8fa5d60f4f654aaeb74f06ae42edd765> <http://schema.org/longitude> "-89.2995"^^<http://www.w3.org/2001/XMLSchema#double> .
+

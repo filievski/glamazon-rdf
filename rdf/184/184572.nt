@@ -1,0 +1,20 @@
+<http://lodlaundromat.org/.well-known/genid/N4364216d2d814d86b27d34f1f2611c3e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4364216d2d814d86b27d34f1f2611c3e> .
+<http://lodlaundromat.org/.well-known/genid/N577b24c8c13141dca025a087ed4359e2> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N95bed6755aed4ceab00ede57f1b88e49> .
+<http://lodlaundromat.org/.well-known/genid/N577b24c8c13141dca025a087ed4359e2> <http://schema.org/url> <http://www.museums.io/en/museums/184572> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N577b24c8c13141dca025a087ed4359e2> .
+<http://lodlaundromat.org/.well-known/genid/N577b24c8c13141dca025a087ed4359e2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N577b24c8c13141dca025a087ed4359e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N04bd675ffa6944bf839f0164b42c3f5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04bd675ffa6944bf839f0164b42c3f5c> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N95bed6755aed4ceab00ede57f1b88e49> <http://schema.org/value> "184572"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-34.028&mlon=18.4233#map=15/-34.028/18.4233> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/name> "Groot Constantia - Iziko"@en .
+<http://lodlaundromat.org/.well-known/genid/N95bed6755aed4ceab00ede57f1b88e49> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N250d942f94bb4fb0b217e416b634a732> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N04bd675ffa6944bf839f0164b42c3f5c> .
+<http://lodlaundromat.org/.well-known/genid/N4364216d2d814d86b27d34f1f2611c3e> <http://schema.org/longitude> "18.4233"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N95bed6755aed4ceab00ede57f1b88e49> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4364216d2d814d86b27d34f1f2611c3e> <http://schema.org/latitude> "-34.028"^^<http://www.w3.org/2001/XMLSchema#double> .
+

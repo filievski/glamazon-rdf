@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na74e04b872034e0293409de770d0f37d> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N4be93c35e90a40d6bb2a73f38fb72983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N4be93c35e90a40d6bb2a73f38fb72983> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N96ce3acc1b864e91b812193bc4bd93d7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na74e04b872034e0293409de770d0f37d> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/telephone> "+61 3 9685 9468" .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N96ce3acc1b864e91b812193bc4bd93d7> .
+<http://lodlaundromat.org/.well-known/genid/Na74e04b872034e0293409de770d0f37d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> <http://schema.org/url> <http://victoriancollections.net.au/organisations/victorian-college-arts-gallery> .
+<http://lodlaundromat.org/.well-known/genid/N4be93c35e90a40d6bb2a73f38fb72983> <http://schema.org/value> "164430"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4be93c35e90a40d6bb2a73f38fb72983> .
+<http://lodlaundromat.org/.well-known/genid/N96ce3acc1b864e91b812193bc4bd93d7> <http://schema.org/latitude> "-37.8245"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.8245&mlon=144.969#map=15/-37.8245/144.969> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/url> <http://vca.unimelb.edu.au/gallery> .
+<http://lodlaundromat.org/.well-known/genid/N99cc85061dff4dd88b68f7119dd90437> <http://schema.org/name> "Victorian College of the Arts Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N96ce3acc1b864e91b812193bc4bd93d7> <http://schema.org/longitude> "144.969"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> <http://schema.org/id> "victorian-college-arts-gallery" .
+<http://lodlaundromat.org/.well-known/genid/N18005beecf354d218e37e45803eab3fe> <http://schema.org/@Type> "Dataset" .
+

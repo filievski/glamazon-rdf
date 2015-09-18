@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nbb70fa02185540dabe54cacacd27fa0a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8529f91be0d14046af024f13b91563c6> <http://schema.org/url> <http://www.museums.io/en/museums/182825> .
+<http://lodlaundromat.org/.well-known/genid/N8529f91be0d14046af024f13b91563c6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://schema.org/streetAddress> "Marktplatz 1" .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/telephone> "06026/998499" .
+<http://lodlaundromat.org/.well-known/genid/Nbb70fa02185540dabe54cacacd27fa0a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N8529f91be0d14046af024f13b91563c6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/name> "Bachgau-Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://schema.org/addressLocality> "Gro\u00DFostheim" .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://schema.org/postalCode> "63762" .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3b4bb0d9cc0247288307c725da346fa8> .
+<http://lodlaundromat.org/.well-known/genid/N7b55a963155540f28646a3a152190b34> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N3b4bb0d9cc0247288307c725da346fa8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.918&mlon=9.07864#map=15/49.918/9.07864> .
+<http://lodlaundromat.org/.well-known/genid/N3b4bb0d9cc0247288307c725da346fa8> <http://schema.org/latitude> "49.918"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b4bb0d9cc0247288307c725da346fa8> <http://schema.org/longitude> "9.07864"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbb70fa02185540dabe54cacacd27fa0a> .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/url> <http://www.grossostheim.de/KulturFreiz/sehenswuerdigk/index.html?news_id=9963> .
+<http://lodlaundromat.org/.well-known/genid/N8529f91be0d14046af024f13b91563c6> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N6922bce14e9a467582b4dc299af48baf> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8529f91be0d14046af024f13b91563c6> .
+<http://lodlaundromat.org/.well-known/genid/Nbb70fa02185540dabe54cacacd27fa0a> <http://schema.org/value> "182825"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

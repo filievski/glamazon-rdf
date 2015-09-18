@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://schema.org/addressLocality> "HIAWATHA" .
+<http://lodlaundromat.org/.well-known/genid/Nad6d4796de464e8691e34a6b47a4505a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> <http://schema.org/id> "8402000464" .
+<http://lodlaundromat.org/.well-known/genid/Nad6d4796de464e8691e34a6b47a4505a> <http://schema.org/value> "140138"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N98512709b17e4208b6b51d710c71acda> .
+<http://lodlaundromat.org/.well-known/genid/N98512709b17e4208b6b51d710c71acda> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nad6d4796de464e8691e34a6b47a4505a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://schema.org/postalCode> "66434-2130" .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> .
+<http://lodlaundromat.org/.well-known/genid/N98512709b17e4208b6b51d710c71acda> <http://schema.org/latitude> "39.855"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nad6d4796de464e8691e34a6b47a4505a> .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.855&mlon=-95.5332#map=15/39.855/-95.5332> .
+<http://lodlaundromat.org/.well-known/genid/N98512709b17e4208b6b51d710c71acda> <http://schema.org/longitude> "-95.5332"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://schema.org/streetAddress> "410 SHAWNEE ST" .
+<http://lodlaundromat.org/.well-known/genid/N1e96f2a7ae4f4d67b92cb6421d34bdf2> <http://schema.org/name> "ROMA HOLLEY CONROY FOUNDATION FOR HISTORIC PRESERVATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N56d6a5b641d6491f8d93a543b1adae42> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6499595a629a4dd0ab74fba6d6b83890> <http://schema.org/addressCountry> "United States" .
+

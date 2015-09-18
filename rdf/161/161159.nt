@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://schema.org/addressLocality> "FOREST" .
+<http://lodlaundromat.org/.well-known/genid/N691cbbb9f0264302b64a7a257a792df9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne08c33980d6849a5a181d04950e5582c> .
+<http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne08c33980d6849a5a181d04950e5582c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N691cbbb9f0264302b64a7a257a792df9> <http://schema.org/latitude> "37.3548"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N691cbbb9f0264302b64a7a257a792df9> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/url> <http://www.poplarforest.org/> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://schema.org/streetAddress> "PO BOX 419" .
+<http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne08c33980d6849a5a181d04950e5582c> <http://schema.org/value> "161159"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Ne08c33980d6849a5a181d04950e5582c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3548&mlon=-79.2749#map=15/37.3548/-79.2749> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/name> "THE CORPORATION FOR JEFFERSONS POPLAR FOREST"@en .
+<http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N984294637c814e26bf09eb8019b3ae50> <http://schema.org/id> "8405100665" .
+<http://lodlaundromat.org/.well-known/genid/N691cbbb9f0264302b64a7a257a792df9> <http://schema.org/longitude> "-79.2749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N812d9e6e90ee43ecb7e50fc0a6f1dcdb> <http://schema.org/telephone> "+1 (434) 525-1806" .
+<http://lodlaundromat.org/.well-known/genid/N8e27ec8b773642e99efff2e80f9634d1> <http://schema.org/postalCode> "24551-0419" .
+

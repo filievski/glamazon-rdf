@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N9fe26cd80e024892951dd116d88ece38> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9fe26cd80e024892951dd116d88ece38> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncb0ae3825c9d44829f3213ed2e0148aa> .
+<http://lodlaundromat.org/.well-known/genid/Ncb0ae3825c9d44829f3213ed2e0148aa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9fe26cd80e024892951dd116d88ece38> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndb7f3aa0ea53493eb877d2d29ebcb35f> .
+<http://lodlaundromat.org/.well-known/genid/N185de1174a4940b090a763cc70837112> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncb0ae3825c9d44829f3213ed2e0148aa> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N185de1174a4940b090a763cc70837112> <http://schema.org/value> "185542"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N185de1174a4940b090a763cc70837112> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7f3aa0ea53493eb877d2d29ebcb35f> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N9fe26cd80e024892951dd116d88ece38> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N185de1174a4940b090a763cc70837112> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7f3aa0ea53493eb877d2d29ebcb35f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndb7f3aa0ea53493eb877d2d29ebcb35f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9fe26cd80e024892951dd116d88ece38> <http://schema.org/name> "Museum Militaria"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndb7f3aa0ea53493eb877d2d29ebcb35f> <http://schema.org/url> <http://www.museums.io/en/museums/185542> .
+

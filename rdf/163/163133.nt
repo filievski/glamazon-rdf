@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://schema.org/postalCode> "53103-0068" .
+<http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> <http://schema.org/id> "8405500582" .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf8da8b76535046a4bc2da4a036ace0c7> <http://schema.org/value> "163133"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41b942e3ad3747e9b565fefdef4a6d37> <http://schema.org/longitude> "-88.2047"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf8da8b76535046a4bc2da4a036ace0c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/name> "BIG BEND-VERNON HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N41b942e3ad3747e9b565fefdef4a6d37> .
+<http://lodlaundromat.org/.well-known/genid/N41b942e3ad3747e9b565fefdef4a6d37> <http://schema.org/latitude> "42.9024"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://schema.org/addressLocality> "BIG BEND" .
+<http://lodlaundromat.org/.well-known/genid/N41b942e3ad3747e9b565fefdef4a6d37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6ffc12609fe547688ba4520d32935355> <http://schema.org/streetAddress> "PO BOX 68" .
+<http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf8da8b76535046a4bc2da4a036ace0c7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6b4a07de8e444f939bb792595cce9fea> .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf8da8b76535046a4bc2da4a036ace0c7> .
+<http://lodlaundromat.org/.well-known/genid/N2a849af528984b4d8693924390bf7f8e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9024&mlon=-88.2047#map=15/42.9024/-88.2047> .
+

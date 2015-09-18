@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://schema.org/addressLocality> "MIAMI" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=25.8649&mlon=-80.1791#map=15/25.8649/-80.1791> .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/name> "LINKAGES AND LEGACIES INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Nb200064427564b8cbcc7596b0340dcf1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://schema.org/postalCode> "33138-2500" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> .
+<http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> <http://schema.org/id> "8401200418" .
+<http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbdba3a95cf314627a0888a7b9beed278> <http://schema.org/longitude> "-80.1791"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naf4197c2a1dd40adb84ebe9c25494e00> .
+<http://lodlaundromat.org/.well-known/genid/Nbdba3a95cf314627a0888a7b9beed278> <http://schema.org/latitude> "25.8649"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbdba3a95cf314627a0888a7b9beed278> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb200064427564b8cbcc7596b0340dcf1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb200064427564b8cbcc7596b0340dcf1> .
+<http://lodlaundromat.org/.well-known/genid/N2ed4b71f869c45149cbc7a3458eded62> <http://schema.org/streetAddress> "900 NE 97TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N0eba1d9f713f4de6855f73f9fbeeee9e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbdba3a95cf314627a0888a7b9beed278> .
+<http://lodlaundromat.org/.well-known/genid/Nb200064427564b8cbcc7596b0340dcf1> <http://schema.org/value> "134864"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

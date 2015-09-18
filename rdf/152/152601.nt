@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://schema.org/addressLocality> "CINCINNATI" .
+<http://lodlaundromat.org/.well-known/genid/Nc63a34b6a5914d169a83fbf74c395ba4> <http://schema.org/latitude> "39.0786"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N555f906ea0d64177b9b657b8ea7f8834> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N555f906ea0d64177b9b657b8ea7f8834> <http://schema.org/value> "152601"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> .
+<http://lodlaundromat.org/.well-known/genid/Nc63a34b6a5914d169a83fbf74c395ba4> <http://schema.org/longitude> "-84.375"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> <http://schema.org/id> "8403900378" .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/name> "SONS & DAUGHTERS OF PIONEER RIVERMEN"@en .
+<http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0786&mlon=-84.375#map=15/39.0786/-84.375> .
+<http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> .
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://schema.org/streetAddress> "1444 BURNEY LN" .
+<http://lodlaundromat.org/.well-known/genid/N555f906ea0d64177b9b657b8ea7f8834> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N555f906ea0d64177b9b657b8ea7f8834> .
+<http://lodlaundromat.org/.well-known/genid/N43f6c23def9e41adbef70e1e05b86306> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc63a34b6a5914d169a83fbf74c395ba4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N771b3a07e4f04517a02695f8e1c87398> <http://schema.org/postalCode> "45230-2930" .
+<http://lodlaundromat.org/.well-known/genid/N1ebb2cd87a344d4ca3c3de9508ef45bb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc63a34b6a5914d169a83fbf74c395ba4> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://schema.org/streetAddress> "341 DELAWARD AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3fe94c1a081849f08403c9ce62475757> .
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://schema.org/addressLocality> "BUFFALO" .
+<http://lodlaundromat.org/.well-known/genid/N3fe94c1a081849f08403c9ce62475757> <http://schema.org/value> "150067"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> .
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://schema.org/postalCode> "14202" .
+<http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> <http://schema.org/id> "8403601361" .
+<http://lodlaundromat.org/.well-known/genid/Na84f87685bd647fba93ecee1ff3828b2> <http://schema.org/latitude> "42.8938"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3fe94c1a081849f08403c9ce62475757> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N205d3282826b4bec949b9acd61d51218> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na84f87685bd647fba93ecee1ff3828b2> .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/name> "HALLWALLS, INC."@en .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na84f87685bd647fba93ecee1ff3828b2> <http://schema.org/longitude> "-78.8758"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N013fb4e28e1243acb08c56e28d445095> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.8938&mlon=-78.8758#map=15/42.8938/-78.8758> .
+<http://lodlaundromat.org/.well-known/genid/N3fe94c1a081849f08403c9ce62475757> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na84f87685bd647fba93ecee1ff3828b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6a02c026405f40ae9884df92818dc261> <http://schema.org/name> "us" .
+

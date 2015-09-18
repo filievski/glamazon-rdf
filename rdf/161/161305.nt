@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/name> "PAGE-NELSON SOCIETY OF VIRGINIA"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> .
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb1f5f6c0918148338d2360cae45068d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb1f5f6c0918148338d2360cae45068d9> .
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://schema.org/postalCode> "23089-6005" .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.3878&mlon=-76.909#map=15/37.3878/-76.909> .
+<http://lodlaundromat.org/.well-known/genid/Nb1f5f6c0918148338d2360cae45068d9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9efc2de697b64d9d9b88328b99725dae> .
+<http://lodlaundromat.org/.well-known/genid/N9efc2de697b64d9d9b88328b99725dae> <http://schema.org/latitude> "37.3878"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://schema.org/streetAddress> "313 COLONY TRL" .
+<http://lodlaundromat.org/.well-known/genid/Nb1f5f6c0918148338d2360cae45068d9> <http://schema.org/value> "161305"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9efc2de697b64d9d9b88328b99725dae> <http://schema.org/longitude> "-76.909"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N25346ffa7583432294286e8e461e7672> <http://schema.org/id> "8405100811" .
+<http://lodlaundromat.org/.well-known/genid/Nc256fc1e22fa4826b97fc8bba5e9782e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8e516ad1328045d5a6d500fa7e45d341> <http://schema.org/addressLocality> "LANEXA" .
+<http://lodlaundromat.org/.well-known/genid/N9efc2de697b64d9d9b88328b99725dae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

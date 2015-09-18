@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N23603cb68a9e448b8c1521009cef5f46> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne299211fffe54615b37ecc18ae4aba95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N23603cb68a9e448b8c1521009cef5f46> <http://schema.org/latitude> "40.0951"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> <http://schema.org/id> "8404200694" .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23603cb68a9e448b8c1521009cef5f46> .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/name> "AMOS HERR HOUSE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne299211fffe54615b37ecc18ae4aba95> <http://schema.org/value> "155500"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N23603cb68a9e448b8c1521009cef5f46> <http://schema.org/longitude> "-76.3977"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> .
+<http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0951&mlon=-76.3977#map=15/40.0951/-76.3977> .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8fb505ad656c4582adde98cfcaf4ea64> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne299211fffe54615b37ecc18ae4aba95> .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://schema.org/streetAddress> "1756 NISSLEY RD" .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://schema.org/postalCode> "17538-1360" .
+<http://lodlaundromat.org/.well-known/genid/Ne299211fffe54615b37ecc18ae4aba95> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://schema.org/addressLocality> "LANDISVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N08e2355e8d604e8ba2dae48909d5b21a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ncf437df950324120b9523686bee6674b> <http://schema.org/addressRegion> "PA" .
+

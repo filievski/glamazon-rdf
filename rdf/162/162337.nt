@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8dc82514fd7f47e19aefc4617132e99f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na70a9e76e9df4a94a936df5651f2993f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na70a9e76e9df4a94a936df5651f2993f> <http://schema.org/latitude> "37.6116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.6116&mlon=-81.0169#map=15/37.6116/-81.0169> .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> .
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://schema.org/postalCode> "25969-9511" .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na70a9e76e9df4a94a936df5651f2993f> .
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://schema.org/addressLocality> "JUMPING BRANCH" .
+<http://lodlaundromat.org/.well-known/genid/N8dc82514fd7f47e19aefc4617132e99f> <http://schema.org/value> "162337"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://schema.org/streetAddress> "HC 85 BOX 37B" .
+<http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> <http://schema.org/id> "8405400050" .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/name> "FRIENDS OF COOPERS MILL"@en .
+<http://lodlaundromat.org/.well-known/genid/N8dc82514fd7f47e19aefc4617132e99f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7f075f5a197b4738b0e4b9d03f9a1ee6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7de8df0db1745e4a0c95e0ecb6609b2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8dc82514fd7f47e19aefc4617132e99f> .
+<http://lodlaundromat.org/.well-known/genid/N9fcba34c4dee42fa99efd5800f7bd5fd> <http://schema.org/addressRegion> "WV" .
+<http://lodlaundromat.org/.well-known/genid/Na70a9e76e9df4a94a936df5651f2993f> <http://schema.org/longitude> "-81.0169"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://schema.org/addressRegion> "VT" .
+<http://lodlaundromat.org/.well-known/genid/Nce80126be29146eca03fb43fda8fbb78> <http://schema.org/value> "160384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nce80126be29146eca03fb43fda8fbb78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nce80126be29146eca03fb43fda8fbb78> .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/name> "SAXTONS RIVER HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nce80126be29146eca03fb43fda8fbb78> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> .
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://schema.org/streetAddress> "PO BOX 18" .
+<http://lodlaundromat.org/.well-known/genid/N78a96806a96f4a55ae9b6c775fc31d56> <http://schema.org/latitude> "43.1384"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N78a96806a96f4a55ae9b6c775fc31d56> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N78a96806a96f4a55ae9b6c775fc31d56> <http://schema.org/longitude> "-72.5119"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://schema.org/postalCode> "05154" .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N811b0ee68f474ad0843fcd0beca802a6> <http://schema.org/addressLocality> "SAXTONS RIVER" .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.1384&mlon=-72.5119#map=15/43.1384/-72.5119> .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78a96806a96f4a55ae9b6c775fc31d56> .
+<http://lodlaundromat.org/.well-known/genid/Nd9acec83501f48dcb3ab98c9b2aef2eb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> .
+<http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N55d184e8c22745f88799418bae8c3627> <http://schema.org/id> "8405000190" .
+

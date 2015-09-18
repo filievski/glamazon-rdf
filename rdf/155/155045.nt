@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://schema.org/postalCode> "15533" .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/name> "CRAWFORD'S MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> <http://schema.org/id> "8404200239" .
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfb5e5973a4b646cd908cfd729bf894fe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> .
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://schema.org/streetAddress> "16528 LINCOLN HWY" .
+<http://lodlaundromat.org/.well-known/genid/N0d772ae946d442ccbae1798f92fc7587> <http://schema.org/value> "155045"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0d772ae946d442ccbae1798f92fc7587> .
+<http://lodlaundromat.org/.well-known/genid/N0d772ae946d442ccbae1798f92fc7587> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1868289023444f689e5e2c10c7b9ffec> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9993&mlon=-78.236#map=15/39.9993/-78.236> .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/telephone> "+1 (814) 735-4366" .
+<http://lodlaundromat.org/.well-known/genid/N84a05b73d8bc423a8bc80f766f98d1ff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfb5e5973a4b646cd908cfd729bf894fe> .
+<http://lodlaundromat.org/.well-known/genid/N0d772ae946d442ccbae1798f92fc7587> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6d8b07b9eeb74297a23f6caf54bd7879> <http://schema.org/addressLocality> "BREEZEWOOD" .
+<http://lodlaundromat.org/.well-known/genid/Nfb5e5973a4b646cd908cfd729bf894fe> <http://schema.org/longitude> "-78.236"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfb5e5973a4b646cd908cfd729bf894fe> <http://schema.org/latitude> "39.9993"^^<http://www.w3.org/2001/XMLSchema#double> .
+

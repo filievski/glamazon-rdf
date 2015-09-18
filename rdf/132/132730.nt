@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://schema.org/streetAddress> "38300 SIERRA HWY" .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/name> "PALMDALE COMMUNITY FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb1209c65e2a44149aa661a9b776f7181> .
+<http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.5761&mlon=-118.116#map=15/34.5761/-118.116> .
+<http://lodlaundromat.org/.well-known/genid/Nb1209c65e2a44149aa661a9b776f7181> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N35755f522fff4c44b432a22fe6db6ccb> .
+<http://lodlaundromat.org/.well-known/genid/Nb1209c65e2a44149aa661a9b776f7181> <http://schema.org/longitude> "-118.116"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://schema.org/addressLocality> "PALMDALE" .
+<http://lodlaundromat.org/.well-known/genid/N35755f522fff4c44b432a22fe6db6ccb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> .
+<http://lodlaundromat.org/.well-known/genid/N4b47b397ed8d4d26bf33c92a98d07f30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb1209c65e2a44149aa661a9b776f7181> <http://schema.org/latitude> "34.5761"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> <http://schema.org/id> "8400602856" .
+<http://lodlaundromat.org/.well-known/genid/N35755f522fff4c44b432a22fe6db6ccb> <http://schema.org/value> "132730"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N35755f522fff4c44b432a22fe6db6ccb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N845a83ac46e64c95b321c576c6787a0b> <http://schema.org/postalCode> "93550-4611" .
+<http://lodlaundromat.org/.well-known/genid/N5a397ab670ee49b2a6b8357826e4669f> <http://schema.org/@Type> "Dataset" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N21c84734187141d3ac1a9856ba9b1c62> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6861835414bc408e834f26841496b826> .
+<http://lodlaundromat.org/.well-known/genid/N21c84734187141d3ac1a9856ba9b1c62> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://schema.org/postalCode> "70818-1103" .
+<http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N21c84734187141d3ac1a9856ba9b1c62> .
+<http://lodlaundromat.org/.well-known/genid/N21c84734187141d3ac1a9856ba9b1c62> <http://schema.org/value> "140930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6861835414bc408e834f26841496b826> <http://schema.org/longitude> "-91.0449"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/name> "VETERANS MUSEUM PLAZA AND CONVENTION CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> .
+<http://lodlaundromat.org/.well-known/genid/N6861835414bc408e834f26841496b826> <http://schema.org/latitude> "30.5829"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://schema.org/streetAddress> "12922 DENHAM RD" .
+<http://lodlaundromat.org/.well-known/genid/N6861835414bc408e834f26841496b826> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.5829&mlon=-91.0449#map=15/30.5829/-91.0449> .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9214b5cf42764beca82f9d6fc0314fd9> <http://schema.org/addressLocality> "BATON ROUGE" .
+<http://lodlaundromat.org/.well-known/genid/N190d079aebbb4e36995022f01434b430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N64c84f670d3c4b8f98c5ca01130e9f69> <http://schema.org/id> "8402200212" .
+

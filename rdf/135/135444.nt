@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4a01a79d9a6c4055b80818ab3f9bc855> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4a01a79d9a6c4055b80818ab3f9bc855> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf3a1bbbe3e814aff982b7551a90323ed> .
+<http://lodlaundromat.org/.well-known/genid/Nf3a1bbbe3e814aff982b7551a90323ed> <http://schema.org/latitude> "29.8859"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://schema.org/streetAddress> "81 LIGHTHOUSE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.8859&mlon=-81.2884#map=15/29.8859/-81.2884> .
+<http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> <http://schema.org/id> "8401200999" .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://schema.org/addressLocality> "ST AUGUSTINE" .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/name> "SAINT AUGUSTINE LIGHTHOUSE AND MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4a01a79d9a6c4055b80818ab3f9bc855> <http://schema.org/value> "135444"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4a01a79d9a6c4055b80818ab3f9bc855> .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> .
+<http://lodlaundromat.org/.well-known/genid/N4860a97bf35d4fd7b6a9e1f9f60cd801> <http://schema.org/postalCode> "32080-4650" .
+<http://lodlaundromat.org/.well-known/genid/N2a17ae4e349e4212ba00408318beb7be> <http://schema.org/url> <http://www.staugustinelighthouse.com/> .
+<http://lodlaundromat.org/.well-known/genid/N7182a878f7fa4e4bab721725b386cc0c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf3a1bbbe3e814aff982b7551a90323ed> <http://schema.org/longitude> "-81.2884"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf3a1bbbe3e814aff982b7551a90323ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

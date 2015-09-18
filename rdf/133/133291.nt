@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> <http://schema.org/id> "8400800467" .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0946&mlon=-104.797#map=15/40.0946/-104.797> .
+<http://lodlaundromat.org/.well-known/genid/N42a4991d0a0a4a6cac04a7d1d1c1d467> <http://schema.org/value> "133291"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N25cf48cb110e4db88049699f784c277e> <http://schema.org/latitude> "40.0946"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N42a4991d0a0a4a6cac04a7d1d1c1d467> .
+<http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N6563c71146fe43de929e7b3ea94b36cd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N42a4991d0a0a4a6cac04a7d1d1c1d467> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N25cf48cb110e4db88049699f784c277e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N25cf48cb110e4db88049699f784c277e> .
+<http://lodlaundromat.org/.well-known/genid/N25cf48cb110e4db88049699f784c277e> <http://schema.org/longitude> "-104.797"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> .
+<http://lodlaundromat.org/.well-known/genid/N42a4991d0a0a4a6cac04a7d1d1c1d467> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N44359a807f59473fb2634096146769ab> <http://schema.org/name> "LAFAYETTE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://schema.org/streetAddress> "7507 WCR 39" .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://schema.org/postalCode> "80621" .
+<http://lodlaundromat.org/.well-known/genid/Na53a445f45634011be23b0bdbb6f22f3> <http://schema.org/addressLocality> "FORT LUPTON" .
+

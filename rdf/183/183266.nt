@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N99eb423e5f3f4947b3e32ceb7fbed894> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N99eb423e5f3f4947b3e32ceb7fbed894> .
+<http://lodlaundromat.org/.well-known/genid/N90b8a158d2564186b753dde497744377> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb2f7e151533149b6a143bfd635823e84> .
+<http://lodlaundromat.org/.well-known/genid/N99eb423e5f3f4947b3e32ceb7fbed894> <http://schema.org/url> <http://www.museums.io/en/museums/183266> .
+<http://lodlaundromat.org/.well-known/genid/N99eb423e5f3f4947b3e32ceb7fbed894> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/name> "M\u00FCnchner Stadtmuseum"@en .
+<http://lodlaundromat.org/.well-known/genid/N90b8a158d2564186b753dde497744377> <http://schema.org/value> "183266"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/url> <http://www.muenchner-stadtmuseum.de/> .
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://schema.org/streetAddress> "St.-Jakobs-Platz 1" .
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://schema.org/postalCode> "80331" .
+<http://lodlaundromat.org/.well-known/genid/N99eb423e5f3f4947b3e32ceb7fbed894> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1351&mlon=11.5726#map=15/48.1351/11.5726> .
+<http://lodlaundromat.org/.well-known/genid/Nb2f7e151533149b6a143bfd635823e84> <http://schema.org/longitude> "11.5726"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb2f7e151533149b6a143bfd635823e84> <http://schema.org/latitude> "48.1351"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N90b8a158d2564186b753dde497744377> .
+<http://lodlaundromat.org/.well-known/genid/Ne07c255d452a4f82ae3887def691b6bc> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/Na56d2fcac10240e5a5dbfa99f7fc645a> <http://schema.org/telephone> "089/233-22370" .
+<http://lodlaundromat.org/.well-known/genid/N90b8a158d2564186b753dde497744377> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb2f7e151533149b6a143bfd635823e84> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

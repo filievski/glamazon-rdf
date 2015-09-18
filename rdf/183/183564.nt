@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ned832f900e66467db7f2c257edd518d1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/Nb6b60e3361f64880b7c3ac37638eb84d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://schema.org/streetAddress> "Maxplatz 7" .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.2485&mlon=12.0349#map=15/50.2485/12.0349> .
+<http://lodlaundromat.org/.well-known/genid/Ned832f900e66467db7f2c257edd518d1> <http://schema.org/url> <http://www.museums.io/en/museums/183564> .
+<http://lodlaundromat.org/.well-known/genid/Nb24291c4815c4e72bb1844040a1f9501> <http://schema.org/latitude> "50.2485"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb24291c4815c4e72bb1844040a1f9501> .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://schema.org/addressLocality> "Rehau" .
+<http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> <http://schema.org/postalCode> "95111" .
+<http://lodlaundromat.org/.well-known/genid/Ned832f900e66467db7f2c257edd518d1> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ned832f900e66467db7f2c257edd518d1> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/name> "Museum am Maxplatz"@en .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9c0f7867ad2249209f95202e49494561> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/url> <http://www.stadt-rehau.de/> .
+<http://lodlaundromat.org/.well-known/genid/Nb6b60e3361f64880b7c3ac37638eb84d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb24291c4815c4e72bb1844040a1f9501> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ned832f900e66467db7f2c257edd518d1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb6b60e3361f64880b7c3ac37638eb84d> <http://schema.org/value> "183564"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb6b60e3361f64880b7c3ac37638eb84d> .
+<http://lodlaundromat.org/.well-known/genid/Nb24291c4815c4e72bb1844040a1f9501> <http://schema.org/longitude> "12.0349"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N014b73ddacdd4118808c42906a73e160> <http://schema.org/telephone> "09283/898560" .
+

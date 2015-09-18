@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> .
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne6ff9b22dabd4d70aa32cd0a6e7c692d> <http://schema.org/latitude> "38.1986"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne6ff9b22dabd4d70aa32cd0a6e7c692d> <http://schema.org/longitude> "-84.8759"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://schema.org/postalCode> "40601-2803" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N63fd0d85856f4d7ca2cc0e0cf79c4b6f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/telephone> "+1 (502) 696-9127" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N63fd0d85856f4d7ca2cc0e0cf79c4b6f> .
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://schema.org/streetAddress> "325 ANN STREET" .
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://schema.org/addressLocality> "FRANKFORT" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/name> "MUSEUM OF THE CITY OF FRANKFORT INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne6ff9b22dabd4d70aa32cd0a6e7c692d> .
+<http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> <http://schema.org/id> "8402100116" .
+<http://lodlaundromat.org/.well-known/genid/N0c0b16a393374552b233cb0f3519b758> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N815751b09b834c63852442f5458c8189> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1986&mlon=-84.8759#map=15/38.1986/-84.8759> .
+<http://lodlaundromat.org/.well-known/genid/Ne6ff9b22dabd4d70aa32cd0a6e7c692d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N63fd0d85856f4d7ca2cc0e0cf79c4b6f> <http://schema.org/value> "140359"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0847dcd928ae41d4bc8fe6e02c0301be> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N63fd0d85856f4d7ca2cc0e0cf79c4b6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

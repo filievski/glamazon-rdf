@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55301a78244d4ef3a7f543707d3360f5> <http://schema.org/value> "145341"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N55301a78244d4ef3a7f543707d3360f5> .
+<http://lodlaundromat.org/.well-known/genid/N55301a78244d4ef3a7f543707d3360f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://schema.org/postalCode> "38655" .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/telephone> "+1 (662) 234-3284" .
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/name> "FAULKNER HOME"@en .
+<http://lodlaundromat.org/.well-known/genid/N8b96bcf6142942068ec66628a91474ba> <http://schema.org/latitude> "34.3551"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8b96bcf6142942068ec66628a91474ba> <http://schema.org/longitude> "-89.5328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55301a78244d4ef3a7f543707d3360f5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8b96bcf6142942068ec66628a91474ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://schema.org/addressLocality> "OXFORD" .
+<http://lodlaundromat.org/.well-known/genid/N68796c0e99fe46e39b864d1e3f8d9ffb> <http://schema.org/id> "8402800048" .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8b96bcf6142942068ec66628a91474ba> .
+<http://lodlaundromat.org/.well-known/genid/N63830c8aae924ca0a29956256feb6919> <http://schema.org/streetAddress> "OLD TAYLOR RD" .
+<http://lodlaundromat.org/.well-known/genid/Na81c953c2286424cb4b14894374bf2a1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.3551&mlon=-89.5328#map=15/34.3551/-89.5328> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N0f7b86310c6b44c68e8e06a96e434789> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0f7b86310c6b44c68e8e06a96e434789> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/name> "M\u00FCnchner K\u00FCnstlerhaus am Lenbachplatz"@en .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na04452db98ad4f99838eac0cb4d45a60> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na6deb7ff9a88407dba2425942d9c2264> .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/Na04452db98ad4f99838eac0cb4d45a60> <http://schema.org/latitude> "48.1401"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na04452db98ad4f99838eac0cb4d45a60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na04452db98ad4f99838eac0cb4d45a60> <http://schema.org/longitude> "11.5679"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na6deb7ff9a88407dba2425942d9c2264> <http://schema.org/value> "183263"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0f7b86310c6b44c68e8e06a96e434789> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/url> <http://www.kuenstlerhaus-muc.de/> .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1401&mlon=11.5679#map=15/48.1401/11.5679> .
+<http://lodlaundromat.org/.well-known/genid/Na6deb7ff9a88407dba2425942d9c2264> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://schema.org/streetAddress> "Lenbachplatz 8" .
+<http://lodlaundromat.org/.well-known/genid/Na6deb7ff9a88407dba2425942d9c2264> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N0f7b86310c6b44c68e8e06a96e434789> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N3f541e6b629d406a8ee8a6d190b07ffb> <http://schema.org/telephone> "089/599184-0" .
+<http://lodlaundromat.org/.well-known/genid/N0f7b86310c6b44c68e8e06a96e434789> <http://schema.org/url> <http://www.museums.io/en/museums/183263> .
+<http://lodlaundromat.org/.well-known/genid/N7bd4ee0e05ce44c3af2f3d69f39ce974> <http://schema.org/postalCode> "80333" .
+

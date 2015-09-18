@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://schema.org/streetAddress> "1230 BENNETT AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://schema.org/addressLocality> "PROSSER" .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na131f65531534a23aa7dac71c8efe19d> .
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N174a50430b6c453da7224b778970418f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N174a50430b6c453da7224b778970418f> <http://schema.org/value> "161822"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> <http://schema.org/id> "8405300271" .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/name> "ENHANCEMENT ASSOCIATION OF PROSSER"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> .
+<http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N174a50430b6c453da7224b778970418f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na131f65531534a23aa7dac71c8efe19d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.2063&mlon=-119.77#map=15/46.2063/-119.77> .
+<http://lodlaundromat.org/.well-known/genid/N22f090b9c0084cf6a3aa99d1513f01f7> <http://schema.org/postalCode> "99350-1479" .
+<http://lodlaundromat.org/.well-known/genid/Na131f65531534a23aa7dac71c8efe19d> <http://schema.org/longitude> "-119.77"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na131f65531534a23aa7dac71c8efe19d> <http://schema.org/latitude> "46.2063"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbfa58d89af7b4404a67b91235d30a7c1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N174a50430b6c453da7224b778970418f> .
+<http://lodlaundromat.org/.well-known/genid/Ne00d601b767743f9937ed00a7aac3386> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

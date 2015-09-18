@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://schema.org/addressLocality> "CHICO" .
+<http://lodlaundromat.org/.well-known/genid/N589acf74f0094eabb3e2351513ce0eaf> <http://schema.org/value> "131651"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb10e8e23e9e34fe4ad8f5430a4326e50> <http://schema.org/latitude> "39.7287"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb10e8e23e9e34fe4ad8f5430a4326e50> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> .
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://schema.org/streetAddress> "320 BROADWAY" .
+<http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> <http://schema.org/id> "8400601777" .
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://schema.org/postalCode> "95928-5322" .
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N589acf74f0094eabb3e2351513ce0eaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N589acf74f0094eabb3e2351513ce0eaf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N961479ab0e424254a06f563fa8ece632> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/name> "CHICO TOY MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd087bd5867904df5b9d9413c8421305f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7287&mlon=-121.84#map=15/39.7287/-121.84> .
+<http://lodlaundromat.org/.well-known/genid/Nb10e8e23e9e34fe4ad8f5430a4326e50> <http://schema.org/longitude> "-121.84"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N97c78ddff0a146509e25ede074399355> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N589acf74f0094eabb3e2351513ce0eaf> .
+<http://lodlaundromat.org/.well-known/genid/Nb10e8e23e9e34fe4ad8f5430a4326e50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

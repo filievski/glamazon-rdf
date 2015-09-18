@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/name> "Mostra archeologica permanente presso il Criptoportico romano di Porta Ascolana"@it .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9757c5668a4273aa44f3e1c2e0b48f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N420268cc93a54af1a6f107d28e0db9e0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/url> <http://www.artenorcia.net/> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nfb9757c5668a4273aa44f3e1c2e0b48f> .
+<http://lodlaundromat.org/.well-known/genid/N0ddccc2a6a9648e0b490f9f2a4e3cba7> <http://schema.org/latitude> "42.792"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> .
+<http://lodlaundromat.org/.well-known/genid/N0ddccc2a6a9648e0b490f9f2a4e3cba7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0ddccc2a6a9648e0b490f9f2a4e3cba7> .
+<http://lodlaundromat.org/.well-known/genid/N0ddccc2a6a9648e0b490f9f2a4e3cba7> <http://schema.org/longitude> "13.0947"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nfb9757c5668a4273aa44f3e1c2e0b48f> <http://schema.org/contentUrl> <http://images.museums.io/YEpdaZKc9GUWFhaWXR28UHHTlh0=/1000x1000/museums/logos/000/189/252/original/923298ab4976a2fa2ddf94a5e4091120bc36.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.792&mlon=13.0947#map=15/42.792/13.0947> .
+<http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> <http://schema.org/streetAddress> "Via Roma, 36" .
+<http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N420268cc93a54af1a6f107d28e0db9e0> <http://schema.org/value> "189252"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/telephone> "+39 0743817209" .
+<http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> <http://schema.org/addressLocality> "Norcia" .
+<http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> <http://schema.org/addressRegion> "Umbria" .
+<http://lodlaundromat.org/.well-known/genid/N420268cc93a54af1a6f107d28e0db9e0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfa17f161d3d544e79410f6532daeedc7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N420268cc93a54af1a6f107d28e0db9e0> .
+<http://lodlaundromat.org/.well-known/genid/N4ee85bd884c846019a73917f8cc36856> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N6616d07fb5c746f9bc9fabc8daa8f992> <http://schema.org/id> "100722" .
+

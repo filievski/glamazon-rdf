@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://schema.org/streetAddress> "119 2ND AVE" .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e090bac17bf4d42a582a6ab2affeb87> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8e090bac17bf4d42a582a6ab2affeb87> <http://schema.org/value> "147934"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> <http://schema.org/id> "8403400302" .
+<http://lodlaundromat.org/.well-known/genid/N29be35a8a07c499fa71d9eff6a323c7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N29be35a8a07c499fa71d9eff6a323c7a> <http://schema.org/latitude> "40.118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8e090bac17bf4d42a582a6ab2affeb87> .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/telephone> "+1 (609) 499-2379" .
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://schema.org/postalCode> "08554-1002" .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> .
+<http://lodlaundromat.org/.well-known/genid/N004ddce446574b89bb3140f2ae86707e> <http://schema.org/addressLocality> "ROEBLING" .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.118&mlon=-74.7732#map=15/40.118/-74.7732> .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/name> "ROEBLING HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1c0b2b18089544619f5aa2c3ba95d4da> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N29be35a8a07c499fa71d9eff6a323c7a> .
+<http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8e090bac17bf4d42a582a6ab2affeb87> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N29be35a8a07c499fa71d9eff6a323c7a> <http://schema.org/longitude> "-74.7732"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12c14fbd711b456a8020c4d0004f209f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

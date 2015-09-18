@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/name> "CENTRAL CITY OPERA HOUSE ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://schema.org/postalCode> "80246-1253" .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/url> <http://www.centralcityopera.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nca70629955b748f4b384aff0875ccf67> <http://schema.org/value> "133487"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> .
+<http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> <http://schema.org/id> "8400800663" .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://schema.org/streetAddress> "400 S COLORADO BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/telephone> "+1 (303) 292-6700" .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nca70629955b748f4b384aff0875ccf67> .
+<http://lodlaundromat.org/.well-known/genid/Nca70629955b748f4b384aff0875ccf67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neba7a2c624da48e9b612324d7d200e65> <http://schema.org/addressLocality> "GLENDALE" .
+<http://lodlaundromat.org/.well-known/genid/N654cbd1419794ebc925df50a6cb0296b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N654cbd1419794ebc925df50a6cb0296b> <http://schema.org/latitude> "39.7097"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.7097&mlon=-104.941#map=15/39.7097/-104.941> .
+<http://lodlaundromat.org/.well-known/genid/N29ef9015a9a14b98b1cf70c1f158a0f0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nca70629955b748f4b384aff0875ccf67> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N654cbd1419794ebc925df50a6cb0296b> <http://schema.org/longitude> "-104.941"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1c054cca3a614c2fbdb47f77337bb81a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N654cbd1419794ebc925df50a6cb0296b> .
+

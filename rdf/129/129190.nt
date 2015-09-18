@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9a9e6a6967a74d5bb2cc7db55ec72fcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/url> <http://www.fortapachearizona.org/> .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://schema.org/postalCode> "85926" .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N829f6542fb1e468ebac9d215aeeb76eb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N829f6542fb1e468ebac9d215aeeb76eb> .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://schema.org/streetAddress> "127 SCOUT ST" .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7893&mlon=-109.99#map=15/33.7893/-109.99> .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9a9e6a6967a74d5bb2cc7db55ec72fcc> .
+<http://lodlaundromat.org/.well-known/genid/N829f6542fb1e468ebac9d215aeeb76eb> <http://schema.org/longitude> "-109.99"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9a9e6a6967a74d5bb2cc7db55ec72fcc> <http://schema.org/value> "129190"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7b751fa3bd044943b7f67dcab517c7a3> <http://schema.org/id> "8400400092" .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9a9e6a6967a74d5bb2cc7db55ec72fcc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8fc9e8913efa4cc391f947103acfe8d5> <http://schema.org/name> "APACHE CULTURE CENTER MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N829f6542fb1e468ebac9d215aeeb76eb> <http://schema.org/latitude> "33.7893"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://schema.org/addressLocality> "FORT APACHE" .
+<http://lodlaundromat.org/.well-known/genid/N6876c7e75fee4d48a657d9b4268ef896> <http://schema.org/addressRegion> "AZ" .
+

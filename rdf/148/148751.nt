@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1ff9a6d84c7c4dd0a03deac07b92ef23> .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> .
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://schema.org/streetAddress> "2225 WASHINGTON AVE" .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9b382f054a3f47d88dd563e98be3963a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6674&mlon=-73.4847#map=15/40.6674/-73.4847> .
+<http://lodlaundromat.org/.well-known/genid/N1ff9a6d84c7c4dd0a03deac07b92ef23> <http://schema.org/latitude> "40.6674"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://schema.org/addressLocality> "SEAFORD" .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/telephone> "+1 (516) 571-7443" .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/name> "TACKAPAUSHA MUSEUM AND PRESERVE"@en .
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/url> <http://www.d-vista.com/libp/tacka.html> .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9b382f054a3f47d88dd563e98be3963a> .
+<http://lodlaundromat.org/.well-known/genid/N9b382f054a3f47d88dd563e98be3963a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b382f054a3f47d88dd563e98be3963a> <http://schema.org/value> "148751"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ba771e555474942925a590a59b24c05> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> .
+<http://lodlaundromat.org/.well-known/genid/N1ff9a6d84c7c4dd0a03deac07b92ef23> <http://schema.org/longitude> "-73.4847"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> <http://schema.org/id> "8403600045" .
+<http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://schema.org/postalCode> "11783" .
+<http://lodlaundromat.org/.well-known/genid/N1ff9a6d84c7c4dd0a03deac07b92ef23> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0c3aeb2b67984fe8834d14ef6c471aca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3fed0f0d17b0486794364a5fc2345479> <http://schema.org/addressCountry> "United States" .
+

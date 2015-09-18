@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://schema.org/streetAddress> "300 BRYANT DRIVE" .
+<http://lodlaundromat.org/.well-known/genid/N782d78d383ec482393cd6bff3f564211> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> .
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://schema.org/postalCode> "35487-0385" .
+<http://lodlaundromat.org/.well-known/genid/N782d78d383ec482393cd6bff3f564211> <http://schema.org/longitude> "-87.5397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0bf6239e02784ea29b5bf30537323876> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> <http://schema.org/id> "8400100020" .
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0bf6239e02784ea29b5bf30537323876> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N782d78d383ec482393cd6bff3f564211> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> .
+<http://lodlaundromat.org/.well-known/genid/N782d78d383ec482393cd6bff3f564211> <http://schema.org/latitude> "33.2059"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/name> "PAUL W. BRYANT MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0bf6239e02784ea29b5bf30537323876> <http://schema.org/value> "128490"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.2059&mlon=-87.5397#map=15/33.2059/-87.5397> .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0bf6239e02784ea29b5bf30537323876> .
+<http://lodlaundromat.org/.well-known/genid/N3db73e8100d940d7a2df14dfa240525c> <http://schema.org/addressLocality> "TUSCALOOSA" .
+<http://lodlaundromat.org/.well-known/genid/N9e1241479b6a48adb5dfc0095a0cda7d> <http://schema.org/telephone> "+1 (205) 348-9375" .
+<http://lodlaundromat.org/.well-known/genid/N89b3e2e4f0404564b574b1e781056010> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

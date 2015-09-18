@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://schema.org/streetAddress> "Festungsberg 26" .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://schema.org/postalCode> "95326" .
+<http://lodlaundromat.org/.well-known/genid/N9dd26109e18f42ada5301f55f15e3d6e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/name> "Plassenburg - Landschaftsmuseum Obermain"@en .
+<http://lodlaundromat.org/.well-known/genid/N448e00ccb903480aa15af22f93700422> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9a46bfc6dcc14b7abfff680742336c9e> .
+<http://lodlaundromat.org/.well-known/genid/N9a46bfc6dcc14b7abfff680742336c9e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/url> <http://www.plassenburg.de/> .
+<http://lodlaundromat.org/.well-known/genid/N9a46bfc6dcc14b7abfff680742336c9e> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/telephone> "09221/804-571" .
+<http://lodlaundromat.org/.well-known/genid/N9a46bfc6dcc14b7abfff680742336c9e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N448e00ccb903480aa15af22f93700422> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> .
+<http://lodlaundromat.org/.well-known/genid/N448e00ccb903480aa15af22f93700422> <http://schema.org/value> "183038"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N448e00ccb903480aa15af22f93700422> .
+<http://lodlaundromat.org/.well-known/genid/N9dd26109e18f42ada5301f55f15e3d6e> <http://schema.org/longitude> "11.4632"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9dd26109e18f42ada5301f55f15e3d6e> <http://schema.org/latitude> "50.1079"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.1079&mlon=11.4632#map=15/50.1079/11.4632> .
+<http://lodlaundromat.org/.well-known/genid/N9a46bfc6dcc14b7abfff680742336c9e> <http://schema.org/url> <http://www.museums.io/en/museums/183038> .
+<http://lodlaundromat.org/.well-known/genid/Nfdbbe222e0b449888d1230d1faff76c8> <http://schema.org/addressLocality> "Kulmbach" .
+<http://lodlaundromat.org/.well-known/genid/N73c84203e9fb469096003a1e1c5c709b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9dd26109e18f42ada5301f55f15e3d6e> .
+

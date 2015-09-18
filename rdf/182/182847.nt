@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na7b65e888f014158a24b582558f1c0e5> <http://schema.org/url> <http://www.museums.io/en/museums/182847> .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://schema.org/streetAddress> "Vockestra\u00DFe 76" .
+<http://lodlaundromat.org/.well-known/genid/N78dba115edf444339e3112528baf4d9e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78dba115edf444339e3112528baf4d9e> .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://schema.org/addressLocality> "Haar" .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/name> "Psychiatrie-Museum \u2013 Bezirkskrankenhaus Haar"@en .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> .
+<http://lodlaundromat.org/.well-known/genid/N57c643c75c4848ebb5d4c59c1b620148> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na7b65e888f014158a24b582558f1c0e5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na7b65e888f014158a24b582558f1c0e5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N57c643c75c4848ebb5d4c59c1b620148> .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N78dba115edf444339e3112528baf4d9e> <http://schema.org/latitude> "48.1181"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57c643c75c4848ebb5d4c59c1b620148> <http://schema.org/value> "182847"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N57c643c75c4848ebb5d4c59c1b620148> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na7b65e888f014158a24b582558f1c0e5> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://schema.org/postalCode> "85540" .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1181&mlon=11.7434#map=15/48.1181/11.7434> .
+<http://lodlaundromat.org/.well-known/genid/N28d92d54ffbf4a50b9fad0a38834ef8d> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na7b65e888f014158a24b582558f1c0e5> .
+<http://lodlaundromat.org/.well-known/genid/N801d9c43dfcd4f2da4e1782eea76294b> <http://schema.org/telephone> "089/4562-2821" .
+<http://lodlaundromat.org/.well-known/genid/N78dba115edf444339e3112528baf4d9e> <http://schema.org/longitude> "11.7434"^^<http://www.w3.org/2001/XMLSchema#double> .
+

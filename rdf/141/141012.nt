@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.4433&mlon=-93.7155#map=15/32.4433/-93.7155> .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/name> "KANSAS CITY SOUTHERN HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://schema.org/postalCode> "71135-5332" .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://schema.org/addressLocality> "SHREVEPORT" .
+<http://lodlaundromat.org/.well-known/genid/N9d4a56e7322741529c6bab5a2ff4a8e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9c43e9c22a2d4788809280bf7b9e4153> .
+<http://lodlaundromat.org/.well-known/genid/N9c43e9c22a2d4788809280bf7b9e4153> <http://schema.org/value> "141012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://schema.org/streetAddress> "PO BOX 5332" .
+<http://lodlaundromat.org/.well-known/genid/N9d4a56e7322741529c6bab5a2ff4a8e5> <http://schema.org/latitude> "32.4433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9c43e9c22a2d4788809280bf7b9e4153> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> <http://schema.org/id> "8402200295" .
+<http://lodlaundromat.org/.well-known/genid/N9c43e9c22a2d4788809280bf7b9e4153> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9d4a56e7322741529c6bab5a2ff4a8e5> .
+<http://lodlaundromat.org/.well-known/genid/N30a11d147d6d4a5898c447bfeb231038> <http://schema.org/addressRegion> "LA" .
+<http://lodlaundromat.org/.well-known/genid/N9d4a56e7322741529c6bab5a2ff4a8e5> <http://schema.org/longitude> "-93.7155"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N259a2041eaba4258a1e6a64a14c4816d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8c468d1c63ca478688a25c5d3009f785> .
+

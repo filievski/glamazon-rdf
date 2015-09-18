@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Ne5ce9c487f074a4aa7d7a596f1d857f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N94cfb93c3ff341509697c76eee128ccd> .
+<http://lodlaundromat.org/.well-known/genid/Nf5aaae01b5e944ff9a199250eafc6333> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N94cfb93c3ff341509697c76eee128ccd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N94cfb93c3ff341509697c76eee128ccd> <http://schema.org/longitude> "144.785"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.4713&mlon=144.785#map=15/-37.4713/144.785> .
+<http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> <http://schema.org/id> "aquinas-college-ringwood" .
+<http://lodlaundromat.org/.well-known/genid/Ne5ce9c487f074a4aa7d7a596f1d857f0> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> .
+<http://lodlaundromat.org/.well-known/genid/Nf8d2da6c539440149aa509cc06f87b2b> <http://schema.org/url> <http://victoriancollections.net.au/organisations/aquinas-college-ringwood> .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne5ce9c487f074a4aa7d7a596f1d857f0> .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/name> "Aquinas College Ringwood"@en .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf5aaae01b5e944ff9a199250eafc6333> .
+<http://lodlaundromat.org/.well-known/genid/Nf5aaae01b5e944ff9a199250eafc6333> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N94cfb93c3ff341509697c76eee128ccd> <http://schema.org/latitude> "-37.4713"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5110a16f494e423bbbf5e18e3b0ff9b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne5ce9c487f074a4aa7d7a596f1d857f0> <http://schema.org/value> "163627"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

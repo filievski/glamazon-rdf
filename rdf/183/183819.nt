@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N8945534fc6b74b8ab5aa41d8fc3c7aac> <http://schema.org/longitude> "12.4065"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0f4ede10e62e476f91d67e0274adef22> <http://schema.org/value> "183819"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0f4ede10e62e476f91d67e0274adef22> .
+<http://lodlaundromat.org/.well-known/genid/N0f4ede10e62e476f91d67e0274adef22> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/telephone> "08638/ 959308" .
+<http://lodlaundromat.org/.well-known/genid/N8945534fc6b74b8ab5aa41d8fc3c7aac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N57e08fab346d46afa5d913b3f2ad1294> <http://schema.org/url> <http://www.museums.io/en/museums/183819> .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://schema.org/postalCode> "84478" .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://schema.org/addressLocality> "Waldkraiburg" .
+<http://lodlaundromat.org/.well-known/genid/N57e08fab346d46afa5d913b3f2ad1294> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N57e08fab346d46afa5d913b3f2ad1294> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/name> "St\u00E4dtische Galerie Waldkraiburg"@en .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N57e08fab346d46afa5d913b3f2ad1294> .
+<http://lodlaundromat.org/.well-known/genid/N0f4ede10e62e476f91d67e0274adef22> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N57e08fab346d46afa5d913b3f2ad1294> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8945534fc6b74b8ab5aa41d8fc3c7aac> .
+<http://lodlaundromat.org/.well-known/genid/N8945534fc6b74b8ab5aa41d8fc3c7aac> <http://schema.org/latitude> "48.2077"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://schema.org/streetAddress> "Braunauer Stra\u00DFe 10" .
+<http://lodlaundromat.org/.well-known/genid/N5abe9bca107943cc8128f1a5e4795c9f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.2077&mlon=12.4065#map=15/48.2077/12.4065> .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/N02778f5c61b34e60ab4ac6b9b0c3bc6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

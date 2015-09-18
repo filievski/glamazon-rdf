@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7569&mlon=-92.7938#map=15/42.7569/-92.7938> .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7746ff227e414855b3d129d1b1c7476c> <http://schema.org/value> "139528"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7746ff227e414855b3d129d1b1c7476c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N26dd6cb6aeb843109be44d35e197dd50> <http://schema.org/longitude> "-92.7938"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> .
+<http://lodlaundromat.org/.well-known/genid/N26dd6cb6aeb843109be44d35e197dd50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/name> "BUTLER COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N26dd6cb6aeb843109be44d35e197dd50> <http://schema.org/latitude> "42.7569"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://schema.org/streetAddress> "714 ELM STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N26dd6cb6aeb843109be44d35e197dd50> .
+<http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> <http://schema.org/id> "8401900565" .
+<http://lodlaundromat.org/.well-known/genid/Nc32ddfd3657e48508daeb64bb5e5c698> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7746ff227e414855b3d129d1b1c7476c> .
+<http://lodlaundromat.org/.well-known/genid/N7746ff227e414855b3d129d1b1c7476c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://schema.org/addressLocality> "ALLISON" .
+<http://lodlaundromat.org/.well-known/genid/Nb12b1280819a4aea8df36c77169d66bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nad30822a0a344c6094b9f5a1761575b6> <http://schema.org/postalCode> "50602-9727" .
+

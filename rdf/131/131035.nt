@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N879084407f7a45b89a0848a44d6d3252> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nc826ecce2eae4199b1c06ea7549cbeb9> <http://schema.org/value> "131035"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N879084407f7a45b89a0848a44d6d3252> .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.9949&mlon=-117.091#map=15/32.9949/-117.091> .
+<http://lodlaundromat.org/.well-known/genid/N879084407f7a45b89a0848a44d6d3252> <http://schema.org/longitude> "-117.091"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc826ecce2eae4199b1c06ea7549cbeb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://schema.org/streetAddress> "11375 NAWA WAY" .
+<http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> <http://schema.org/id> "8400601161" .
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://schema.org/postalCode> "92129-1116" .
+<http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N879084407f7a45b89a0848a44d6d3252> <http://schema.org/latitude> "32.9949"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> .
+<http://lodlaundromat.org/.well-known/genid/N0dfaca3739cb4934802e6989f1b43d0e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc826ecce2eae4199b1c06ea7549cbeb9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1b62e5dd3b9746ed8949304bb569a3a1> <http://schema.org/addressLocality> "SAN DIEGO" .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc826ecce2eae4199b1c06ea7549cbeb9> .
+<http://lodlaundromat.org/.well-known/genid/N5d7e4b201b864adf957d83da69a808c5> <http://schema.org/name> "SAN DIEGO CIVIL WAR ROUND TABLE"@en .
+

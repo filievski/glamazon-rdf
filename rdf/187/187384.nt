@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N19ae293d88234142b59940ce489fa0cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/url> <http://www.montesangiusto.sinp.net/> .
+<http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N19ae293d88234142b59940ce489fa0cf> <http://schema.org/latitude> "43.2366"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N19ae293d88234142b59940ce489fa0cf> <http://schema.org/longitude> "13.5952"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> <http://schema.org/id> "104202" .
+<http://lodlaundromat.org/.well-known/genid/N90af99066ef54cfa9fce7e36ca406f50> <http://schema.org/contentUrl> <http://images.museums.io/Jauf-El6cEFAVsiYi2I3rQOm6CY=/1000x1000/museums/logos/000/187/384/original/b010a9aff7d422baac231567a43f28f9455edf.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> <http://schema.org/streetAddress> "Via Garibaldi, 1" .
+<http://lodlaundromat.org/.well-known/genid/N90af99066ef54cfa9fce7e36ca406f50> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/telephone> "+39 0733839000" .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N19ae293d88234142b59940ce489fa0cf> .
+<http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> <http://schema.org/addressLocality> "Monte San Giusto" .
+<http://lodlaundromat.org/.well-known/genid/N120751868b6a40eb848e948d760cb617> <http://schema.org/value> "187384"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N120751868b6a40eb848e948d760cb617> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N90af99066ef54cfa9fce7e36ca406f50> .
+<http://lodlaundromat.org/.well-known/genid/N120751868b6a40eb848e948d760cb617> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N12a9ab55fbbc4d3eb6eb47053d260599> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N120751868b6a40eb848e948d760cb617> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.2366&mlon=13.5952#map=15/43.2366/13.5952> .
+<http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N003092dd02784ac4b18a673bd7e722ae> .
+<http://lodlaundromat.org/.well-known/genid/N0d61dd0a49a34e79bc2dd0f64c4b414f> <http://schema.org/name> "Collezione \"A. Maggiori\": Disegni dal '500 al '700"@it .
+

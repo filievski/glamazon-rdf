@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/telephone> "+1 (850) 433-1559" .
+<http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://schema.org/streetAddress> "117 E GOVERNMENT ST" .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/url> <http://www.pensacolahistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://schema.org/postalCode> "32502-5801" .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc30a6b5fcfaa4154914de4fe6161b482> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc30a6b5fcfaa4154914de4fe6161b482> .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/name> "PENSACOLA HISTORICAL MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbe11768367414c1782c09c0b9b3d004b> .
+<http://lodlaundromat.org/.well-known/genid/Nbe11768367414c1782c09c0b9b3d004b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> <http://schema.org/id> "8401200666" .
+<http://lodlaundromat.org/.well-known/genid/N2764027da0064643bff19674b81970ff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.4095&mlon=-87.2132#map=15/30.4095/-87.2132> .
+<http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbe11768367414c1782c09c0b9b3d004b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc30a6b5fcfaa4154914de4fe6161b482> <http://schema.org/longitude> "-87.2132"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc30a6b5fcfaa4154914de4fe6161b482> <http://schema.org/latitude> "30.4095"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbe11768367414c1782c09c0b9b3d004b> <http://schema.org/value> "135111"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N73c930d998364daaa96ab4d5d8825218> <http://schema.org/addressLocality> "PENSACOLA" .
+<http://lodlaundromat.org/.well-known/genid/N5a68bbe25aef452cb7d906c7e4b7ddf8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://schema.org/postalCode> "90015-4201" .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfb8c754504ef47048baff2198fd99c69> .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/name> "PARENT REVOLUTION OF CALIFORNIA"@en .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/url> <http://parentrevolution.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://schema.org/addressLocality> "LOS ANGELES" .
+<http://lodlaundromat.org/.well-known/genid/Nfb8c754504ef47048baff2198fd99c69> <http://schema.org/value> "130617"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N6801ae60697f406e91a577e27bb0a9de> <http://schema.org/latitude> "34.0433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6801ae60697f406e91a577e27bb0a9de> .
+<http://lodlaundromat.org/.well-known/genid/N6801ae60697f406e91a577e27bb0a9de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://schema.org/streetAddress> "315 W 9TH ST STE 1000" .
+<http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/telephone> "+1 (213) 621-3052" .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0433&mlon=-118.258#map=15/34.0433/-118.258> .
+<http://lodlaundromat.org/.well-known/genid/Nfb8c754504ef47048baff2198fd99c69> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> .
+<http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbc734e8d6e3547e8ab6c75c2c0cc0dd6> <http://schema.org/id> "8400600743" .
+<http://lodlaundromat.org/.well-known/genid/N5c621b237fcd48e5870f1872133d64a3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nfb8c754504ef47048baff2198fd99c69> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6801ae60697f406e91a577e27bb0a9de> <http://schema.org/longitude> "-118.258"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfcd962cd6f034605ba7d5d0ba02d2daa> <http://schema.org/addressCountry> "United States" .
+

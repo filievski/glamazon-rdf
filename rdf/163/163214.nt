@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://schema.org/streetAddress> "313 PRICE PL STE 13" .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8bb9511000254066901e00d0ebbeaddf> .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8bb9511000254066901e00d0ebbeaddf> <http://schema.org/longitude> "-89.4525"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bb9511000254066901e00d0ebbeaddf> <http://schema.org/latitude> "43.0699"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://schema.org/postalCode> "53705-3262" .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> .
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://schema.org/addressLocality> "MADISON" .
+<http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne488fc9029c84bd38b1f0900a504c159> .
+<http://lodlaundromat.org/.well-known/genid/N2f37ac96cda643c9829e35a5c19395dc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne488fc9029c84bd38b1f0900a504c159> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8bb9511000254066901e00d0ebbeaddf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4308bdf78e4a409ea918d9009b2960e2> <http://schema.org/id> "8405500663" .
+<http://lodlaundromat.org/.well-known/genid/Ne488fc9029c84bd38b1f0900a504c159> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/name> "CENTER FOR RAILROAD PHOTOGRAPHY AND ART INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N208576b57d4e47d6810af55835471020> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.0699&mlon=-89.4525#map=15/43.0699/-89.4525> .
+<http://lodlaundromat.org/.well-known/genid/Ne488fc9029c84bd38b1f0900a504c159> <http://schema.org/value> "163214"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

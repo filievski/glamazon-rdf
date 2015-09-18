@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8e0713592c644503b72b4d2084a34981> <http://schema.org/longitude> "-70.6628"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8e0713592c644503b72b4d2084a34981> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8e0713592c644503b72b4d2084a34981> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na76e6d2239634d45ac1777353e7a24e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://schema.org/addressLocality> "PLYMOUTH" .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/name> "PILGRIM JOHN HOWLAND SOCIETY, INC."@en .
+<http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> <http://schema.org/id> "8402500265" .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> .
+<http://lodlaundromat.org/.well-known/genid/Na76e6d2239634d45ac1777353e7a24e9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9546&mlon=-70.6628#map=15/41.9546/-70.6628> .
+<http://lodlaundromat.org/.well-known/genid/N8e0713592c644503b72b4d2084a34981> <http://schema.org/latitude> "41.9546"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na76e6d2239634d45ac1777353e7a24e9> .
+<http://lodlaundromat.org/.well-known/genid/N8890eb0b078d4dfc87d410c3e669a76e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://schema.org/streetAddress> "33 SANDWICH ST." .
+<http://lodlaundromat.org/.well-known/genid/Ne8c63e073c0745d198969a366f1b93f0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nd2aff06b9500443eb7e1f8c4a32d609d> <http://schema.org/postalCode> "02060" .
+<http://lodlaundromat.org/.well-known/genid/Na76e6d2239634d45ac1777353e7a24e9> <http://schema.org/value> "142635"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

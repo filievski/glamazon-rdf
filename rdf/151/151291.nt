@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nde82aaa5485945229cd18bcf5ed57d60> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://schema.org/streetAddress> "PO BOX 2936" .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://schema.org/addressRegion> "NC" .
+<http://lodlaundromat.org/.well-known/genid/Nde82aaa5485945229cd18bcf5ed57d60> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nde82aaa5485945229cd18bcf5ed57d60> .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/url> <https://www.facebook.com/burkesunriserotary> .
+<http://lodlaundromat.org/.well-known/genid/Nf82813be25264f50902829a7b0cca06c> <http://schema.org/longitude> "-81.6447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf82813be25264f50902829a7b0cca06c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf82813be25264f50902829a7b0cca06c> .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://schema.org/addressLocality> "MORGANTON" .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/name> "BURKE SUNRISE INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.7323&mlon=-81.6447#map=15/35.7323/-81.6447> .
+<http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> <http://schema.org/id> "8403700162" .
+<http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf82813be25264f50902829a7b0cca06c> <http://schema.org/latitude> "35.7323"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf56fc157190e4d7fb95cbce832aa53d9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N60c5e61167d34a0b863ebc0388b31250> .
+<http://lodlaundromat.org/.well-known/genid/Nde82aaa5485945229cd18bcf5ed57d60> <http://schema.org/value> "151291"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://schema.org/postalCode> "28680-2936" .
+<http://lodlaundromat.org/.well-known/genid/N163d4ca23c764dbdbc5720d04c141f19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

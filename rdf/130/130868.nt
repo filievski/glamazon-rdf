@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0f7a989373e840ab87f4d27e7b6773be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0f7a989373e840ab87f4d27e7b6773be> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/name> "MARCHING THRU HISTORY EXPOSITION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N2a7dbb6b55f841168de593f810801d20> <http://schema.org/longitude> "-117.851"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a7dbb6b55f841168de593f810801d20> <http://schema.org/latitude> "33.7174"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2a7dbb6b55f841168de593f810801d20> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://schema.org/addressLocality> "SANTA ANA" .
+<http://lodlaundromat.org/.well-known/genid/N0f7a989373e840ab87f4d27e7b6773be> <http://schema.org/value> "130868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.7174&mlon=-117.851#map=15/33.7174/-117.851> .
+<http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://schema.org/streetAddress> "PO BOX 15923" .
+<http://lodlaundromat.org/.well-known/genid/N8f0129364c6843ddbfd1c831b80b9359> <http://schema.org/postalCode> "92735-0923" .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0f7a989373e840ab87f4d27e7b6773be> .
+<http://lodlaundromat.org/.well-known/genid/N3b9cd530518f4a6f90c5ce9e468f93ed> <http://schema.org/id> "8400600994" .
+<http://lodlaundromat.org/.well-known/genid/N447d3c5b1a7b42c0bbd0e1c933382792> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2a7dbb6b55f841168de593f810801d20> .
+

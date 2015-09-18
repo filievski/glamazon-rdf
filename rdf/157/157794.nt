@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndb631f5af4a94942907029332b1c6c21> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/name> "CHEATHAM COUNTY HISTORICAL AND GENEALOGICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N170925e7d1be4807a42d0347ff896c57> .
+<http://lodlaundromat.org/.well-known/genid/N170925e7d1be4807a42d0347ff896c57> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N170925e7d1be4807a42d0347ff896c57> <http://schema.org/latitude> "36.3029"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N170925e7d1be4807a42d0347ff896c57> <http://schema.org/longitude> "-87.0614"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndb631f5af4a94942907029332b1c6c21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndb631f5af4a94942907029332b1c6c21> <http://schema.org/value> "157794"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://schema.org/streetAddress> "PO BOX 703" .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndb631f5af4a94942907029332b1c6c21> .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://schema.org/addressLocality> "ASHLAND CITY" .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.3029&mlon=-87.0614#map=15/36.3029/-87.0614> .
+<http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7e83d2fe57a541e4b8cf8a8f25dd3c2a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/Nc52890bacb894912b3c5c14ea4abb00d> <http://schema.org/postalCode> "37015-0703" .
+<http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> <http://schema.org/id> "8404700465" .
+<http://lodlaundromat.org/.well-known/genid/N0109628bfd7a44ef84582827ac92e4ef> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0055fba817464d9686f740233ed4ac19> .
+<http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://schema.org/addressLocality> "CHARLESTON" .
+<http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> <http://schema.org/id> "8405400263" .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/name> "FRIENDS OF BLAIR MOUNTAIN"@en .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0055fba817464d9686f740233ed4ac19> <http://schema.org/value> "162550"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.4234&mlon=-82.4392#map=15/38.4234/-82.4392> .
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://schema.org/streetAddress> "ONE MORRIS STREET 404" .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> .
+<http://lodlaundromat.org/.well-known/genid/Ndda9e895b9524a488fa6015efff5ea51> <http://schema.org/longitude> "-82.4392"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndda9e895b9524a488fa6015efff5ea51> <http://schema.org/latitude> "38.4234"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> .
+<http://lodlaundromat.org/.well-known/genid/N0055fba817464d9686f740233ed4ac19> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0055fba817464d9686f740233ed4ac19> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2800f06f3193449080cb99034383c658> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndda9e895b9524a488fa6015efff5ea51> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc63066ad41f408fadc102150fa96370> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndda9e895b9524a488fa6015efff5ea51> .
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://schema.org/postalCode> "25707-0206" .
+<http://lodlaundromat.org/.well-known/genid/Ne11e2092d16a4bd7aa48d3891797d780> <http://schema.org/addressRegion> "WV" .
+

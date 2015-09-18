@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://schema.org/addressLocality> "WESTWOOD" .
+<http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://schema.org/streetAddress> "PO BOX 454" .
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://schema.org/postalCode> "07675" .
+<http://lodlaundromat.org/.well-known/genid/N20e893f8164e4e34951fb2151eff8f79> <http://schema.org/value> "148120"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N23ee3f6fb13e48fbaaa606266cdd6c88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N23ee3f6fb13e48fbaaa606266cdd6c88> <http://schema.org/latitude> "40.9959"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N23ee3f6fb13e48fbaaa606266cdd6c88> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/name> "BERGEN-ROCKLAND CHAPTER NATIONAL RAILWAY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N20e893f8164e4e34951fb2151eff8f79> .
+<http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/url> <http://www.nrhs.com/chapters/bergen-rockland> .
+<http://lodlaundromat.org/.well-known/genid/N23ee3f6fb13e48fbaaa606266cdd6c88> <http://schema.org/longitude> "-74.0164"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9959&mlon=-74.0164#map=15/40.9959/-74.0164> .
+<http://lodlaundromat.org/.well-known/genid/N04017bf504f34503b74ccf45f66f78e4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> .
+<http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N20e893f8164e4e34951fb2151eff8f79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6286056cb5e94cbe968cd94c615d587a> <http://schema.org/id> "8403400488" .
+<http://lodlaundromat.org/.well-known/genid/N20e893f8164e4e34951fb2151eff8f79> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://schema.org/addressRegion> "NJ" .
+<http://lodlaundromat.org/.well-known/genid/N10381c9b8bc7488cbf492546850849d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

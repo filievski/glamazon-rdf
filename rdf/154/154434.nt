@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://schema.org/postalCode> "97378-0443" .
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://schema.org/addressLocality> "SHERIDAN" .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfd8ae574f3624a9b8b0c991bce6f68f2> .
+<http://lodlaundromat.org/.well-known/genid/Nfd8ae574f3624a9b8b0c991bce6f68f2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://schema.org/streetAddress> "PO BOX 443" .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/name> "SHERIDAN MUSEUM OF HISTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> .
+<http://lodlaundromat.org/.well-known/genid/N1df38deb0f8b424a8892aa0e59630444> <http://schema.org/latitude> "45.0978"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1df38deb0f8b424a8892aa0e59630444> .
+<http://lodlaundromat.org/.well-known/genid/N1df38deb0f8b424a8892aa0e59630444> <http://schema.org/longitude> "-123.395"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.0978&mlon=-123.395#map=15/45.0978/-123.395> .
+<http://lodlaundromat.org/.well-known/genid/Nfd8ae574f3624a9b8b0c991bce6f68f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4f6175d1cd794e9b903868a67487641e> .
+<http://lodlaundromat.org/.well-known/genid/N1df38deb0f8b424a8892aa0e59630444> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N67c0c529e154480bae2fbda11ab096eb> <http://schema.org/id> "8404100227" .
+<http://lodlaundromat.org/.well-known/genid/Na92c2d732fea435e84cffefe14b19e2c> <http://schema.org/url> <http://www.cityofsheridanor.com/index.asp?type=b_basic&sec=%257bc42c5fd7-d2d5-446f-8316-e2241c4dc5f%257d> .
+<http://lodlaundromat.org/.well-known/genid/Nfd8ae574f3624a9b8b0c991bce6f68f2> <http://schema.org/value> "154434"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

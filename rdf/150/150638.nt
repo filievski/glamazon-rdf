@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na6a28b3247dd4127b51b0fe8a28177a1> <http://schema.org/latitude> "40.752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N660fe9d308be4a528a5d62059d3c7531> <http://schema.org/value> "150638"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na6a28b3247dd4127b51b0fe8a28177a1> <http://schema.org/longitude> "-73.9754"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N660fe9d308be4a528a5d62059d3c7531> .
+<http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.752&mlon=-73.9754#map=15/40.752/-73.9754> .
+<http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> <http://schema.org/id> "8403601932" .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> .
+<http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> <http://schema.org/addressLocality> "NEW YORK" .
+<http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> <http://schema.org/postalCode> "10170-0002" .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/name> "VERSAILLES FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N660fe9d308be4a528a5d62059d3c7531> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne9de4d2d4c9848208d4e9cfd54f66468> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nac2f0ee154c24a648468a099034968f6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na6a28b3247dd4127b51b0fe8a28177a1> .
+<http://lodlaundromat.org/.well-known/genid/Na6a28b3247dd4127b51b0fe8a28177a1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N660fe9d308be4a528a5d62059d3c7531> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0284dc06766341168b64904cc8ec00a4> <http://schema.org/name> "us" .
+

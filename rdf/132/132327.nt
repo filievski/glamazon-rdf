@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://schema.org/addressLocality> "MEADOW VISTA" .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1aa95eefe0d0401b8b6567357612c0bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> .
+<http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1aa95eefe0d0401b8b6567357612c0bd> .
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://schema.org/streetAddress> "PO BOX 576" .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/name> "CLAN MCCORD SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1aa95eefe0d0401b8b6567357612c0bd> <http://schema.org/longitude> "-121.022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1aa95eefe0d0401b8b6567357612c0bd> <http://schema.org/latitude> "39.0002"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N64c5d9caab9842c7b449189d0a5f7f65> <http://schema.org/value> "132327"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://schema.org/postalCode> "95722-0576" .
+<http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> <http://schema.org/id> "8400602453" .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N64c5d9caab9842c7b449189d0a5f7f65> .
+<http://lodlaundromat.org/.well-known/genid/N8ded4f02afd14cc6a261f14014fd77b6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N64c5d9caab9842c7b449189d0a5f7f65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Nedd098f1321f46148b529007c15c83c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.0002&mlon=-121.022#map=15/39.0002/-121.022> .
+<http://lodlaundromat.org/.well-known/genid/N76623b5105cb41da8f8fe0eb1f21085f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N64c5d9caab9842c7b449189d0a5f7f65> <http://schema.org/name> "id" .
+

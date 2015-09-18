@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N8df5ebc6387945dbaf33978872b68bbc> <http://schema.org/value> "182899"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://schema.org/postalCode> "91217" .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/telephone> "09151/862575" .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8df5ebc6387945dbaf33978872b68bbc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ndee04bf4945d4659b5e8393f7b424032> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/url> <http://www.kunstmuseum-hersbruck.de/> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/name> "Kunstmuseum Hersbruck"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndee04bf4945d4659b5e8393f7b424032> <http://schema.org/longitude> "11.4321"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b540c7fd04d6c97344533942035a9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8df5ebc6387945dbaf33978872b68bbc> .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b540c7fd04d6c97344533942035a9> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N8df5ebc6387945dbaf33978872b68bbc> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndd6b540c7fd04d6c97344533942035a9> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ndee04bf4945d4659b5e8393f7b424032> .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://schema.org/addressLocality> "Hersbruck" .
+<http://lodlaundromat.org/.well-known/genid/Ndee04bf4945d4659b5e8393f7b424032> <http://schema.org/latitude> "49.5092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b540c7fd04d6c97344533942035a9> <http://schema.org/url> <http://www.museums.io/en/museums/182899> .
+<http://lodlaundromat.org/.well-known/genid/N8c26366cf2af4dbba6349ac1df99a7fa> <http://schema.org/streetAddress> "Amberger Stra\u00DFe 2" .
+<http://lodlaundromat.org/.well-known/genid/Ndd6b540c7fd04d6c97344533942035a9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7dac296dd56b4b96ab41d6d6d4271a21> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.5092&mlon=11.4321#map=15/49.5092/11.4321> .
+

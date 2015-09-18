@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N118e19ef38424a1cbc0dbe5159db707b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://schema.org/addressLocality> "DAYTON" .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/name> "DAYTON DEPOT HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://schema.org/streetAddress> "222 E COMMERCIAL AVE" .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://schema.org/postalCode> "99328-1313" .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N118e19ef38424a1cbc0dbe5159db707b> .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> .
+<http://lodlaundromat.org/.well-known/genid/Ncf4a4b632c0e48bcabc566a734c89f70> <http://schema.org/latitude> "46.3204"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.3204&mlon=-117.982#map=15/46.3204/-117.982> .
+<http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ncf4a4b632c0e48bcabc566a734c89f70> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncf4a4b632c0e48bcabc566a734c89f70> .
+<http://lodlaundromat.org/.well-known/genid/Ncf4a4b632c0e48bcabc566a734c89f70> <http://schema.org/longitude> "-117.982"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> .
+<http://lodlaundromat.org/.well-known/genid/N9d520b223d334677a95f1636b117eef2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> <http://schema.org/id> "8405300308" .
+<http://lodlaundromat.org/.well-known/genid/N118e19ef38424a1cbc0dbe5159db707b> <http://schema.org/value> "161859"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N118e19ef38424a1cbc0dbe5159db707b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N836c93f94a1b427c923e8cc52dc222ee> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1035e67491b54799ae131cedf2515662> <http://schema.org/url> <http://www.daytonhistoricdepot.org/index.p> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23448a79efb24374bca2a91542e4f3cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd534b94837044a2c9cfc7db43b64df28> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N23448a79efb24374bca2a91542e4f3cd> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5989&mlon=-75.4898#map=15/40.5989/-75.4898> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> <http://schema.org/id> "8404201479" .
+<http://lodlaundromat.org/.well-known/genid/Nd534b94837044a2c9cfc7db43b64df28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbb0178bd7b014413b885109599d2333c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7f6af1cfcf074cf9bcb22933cb65f9a9> <http://schema.org/name> "MASONIC TEMPLE FOUNDATION OF ALLENTOWN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N23448a79efb24374bca2a91542e4f3cd> <http://schema.org/value> "156285"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nd534b94837044a2c9cfc7db43b64df28> <http://schema.org/longitude> "-75.4898"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd534b94837044a2c9cfc7db43b64df28> <http://schema.org/latitude> "40.5989"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://schema.org/addressLocality> "ALLENTOWN" .
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://schema.org/streetAddress> "1524 LINDEN ST" .
+<http://lodlaundromat.org/.well-known/genid/N23448a79efb24374bca2a91542e4f3cd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N86dfcb4fc5ec496b9aec5b5adf583675> <http://schema.org/postalCode> "18102-4285" .
+

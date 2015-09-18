@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N34ee6fc85f05413bb5affbaff02ae9b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2a8160b9494c4d8c8ee707a44837187a> .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://schema.org/addressLocality> "JEFFERSON" .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://schema.org/streetAddress> "2711 LANDER RD" .
+<http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://schema.org/addressRegion> "MD" .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N34ee6fc85f05413bb5affbaff02ae9b4> .
+<http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2a8160b9494c4d8c8ee707a44837187a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://schema.org/postalCode> "21755-7616" .
+<http://lodlaundromat.org/.well-known/genid/N34ee6fc85f05413bb5affbaff02ae9b4> <http://schema.org/longitude> "-77.5554"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N34ee6fc85f05413bb5affbaff02ae9b4> <http://schema.org/latitude> "39.306"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/name> "CATOCTIN AQUEDUCT RESTORATION FUND INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> <http://schema.org/id> "8402400177" .
+<http://lodlaundromat.org/.well-known/genid/N2a8160b9494c4d8c8ee707a44837187a> <http://schema.org/value> "141884"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a8160b9494c4d8c8ee707a44837187a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N30fb11b7d2824ab0a4fd5d003852b5bb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N40925cb1c99d486d851edebdbe09279e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.306&mlon=-77.5554#map=15/39.306/-77.5554> .
+<http://lodlaundromat.org/.well-known/genid/N06233af01ddf41dcbc2fab5ffc861c46> <http://schema.org/name> "us" .
+

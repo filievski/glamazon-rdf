@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://schema.org/addressLocality> "PORTLAND" .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/name> "PORTLAND PRESERVATION FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> <http://schema.org/id> "8404700256" .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> .
+<http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1298fcf32b3242e787d58481c864bf5c> <http://schema.org/longitude> "-86.5156"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2055c6bf80e24b3484c8331f63461e36> <http://schema.org/value> "157585"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1298fcf32b3242e787d58481c864bf5c> <http://schema.org/latitude> "36.5805"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=36.5805&mlon=-86.5156#map=15/36.5805/-86.5156> .
+<http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2055c6bf80e24b3484c8331f63461e36> .
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://schema.org/addressRegion> "TN" .
+<http://lodlaundromat.org/.well-known/genid/N1298fcf32b3242e787d58481c864bf5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1298fcf32b3242e787d58481c864bf5c> .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> .
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://schema.org/streetAddress> "103 MAIN STREET" .
+<http://lodlaundromat.org/.well-known/genid/N6dd3ffd7aefc4ce48f1dad8645a0daf2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na1200b14416944cd8c1bc6033ad5500c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2055c6bf80e24b3484c8331f63461e36> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2055c6bf80e24b3484c8331f63461e36> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N4c7842860c9e4fcab270ea4a5c181be3> <http://schema.org/postalCode> "37148-1217" .
+

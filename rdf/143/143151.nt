@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1b764e9daca24a0eb8d4fc4d8108b350> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9e42c96778054c9ba191a513860d84ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4899&mlon=-71.2714#map=15/42.4899/-71.2714> .
+<http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> <http://schema.org/id> "8402500781" .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://schema.org/addressLocality> "BEDFORD" .
+<http://lodlaundromat.org/.well-known/genid/N1b764e9daca24a0eb8d4fc4d8108b350> <http://schema.org/latitude> "42.4899"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> .
+<http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9e42c96778054c9ba191a513860d84ea> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/name> "MASSACHUSETTS AIR AND SPACE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9e42c96778054c9ba191a513860d84ea> .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9e42c96778054c9ba191a513860d84ea> <http://schema.org/value> "143151"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1b764e9daca24a0eb8d4fc4d8108b350> <http://schema.org/longitude> "-71.2714"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne240839f79094a0984506ce701aadd09> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1b764e9daca24a0eb8d4fc4d8108b350> .
+<http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://schema.org/streetAddress> "PO BOX 383" .
+<http://lodlaundromat.org/.well-known/genid/Nb48c7c241ca3433cb28653eea7299ee6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://schema.org/postalCode> "01730-0383" .
+<http://lodlaundromat.org/.well-known/genid/Nc5903cbc5d6a45d5a1d1dcaadb729e2d> <http://schema.org/addressCountry> "United States" .
+

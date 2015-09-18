@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2c93b914b4fc459db4559352e9779d3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> .
+<http://lodlaundromat.org/.well-known/genid/N2c93b914b4fc459db4559352e9779d3d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/telephone> "+1 (316) 265-6837" .
+<http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://schema.org/postalCode> "67203-6104" .
+<http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.684&mlon=-97.3485#map=15/37.684/-97.3485> .
+<http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2c93b914b4fc459db4559352e9779d3d> .
+<http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N47d728cd540048f195a579c969057281> <http://schema.org/longitude> "-97.3485"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47d728cd540048f195a579c969057281> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N47d728cd540048f195a579c969057281> <http://schema.org/latitude> "37.684"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2c93b914b4fc459db4559352e9779d3d> <http://schema.org/value> "140211"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N47d728cd540048f195a579c969057281> .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://schema.org/addressLocality> "FAYETTEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N369ec654a1374661af58573c979fce7a> <http://schema.org/id> "8402000537" .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/name> "AMERICAN OVERSEAS SCHOOLS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N6589aec1de8344ea8ddbc68b56ae43bc> <http://schema.org/streetAddress> "PO BOX 41035" .
+<http://lodlaundromat.org/.well-known/genid/N48ec9c780e384519be53432d4174bde5> <http://schema.org/url> <http://www.aoshs.org/> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N707687afbfc14c9aab496bbf19df0408> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/name> "CANEY VALLEY ANTIQUE POWER ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://schema.org/streetAddress> "2634 CR 3350" .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://schema.org/postalCode> "67301-7159" .
+<http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N707687afbfc14c9aab496bbf19df0408> <http://schema.org/latitude> "37.1001"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N707687afbfc14c9aab496bbf19df0408> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N707687afbfc14c9aab496bbf19df0408> <http://schema.org/longitude> "-95.7559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://schema.org/addressLocality> "INDEPENDENCE" .
+<http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> <http://schema.org/id> "8402000544" .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.1001&mlon=-95.7559#map=15/37.1001/-95.7559> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0c627533a3ea4d8e809f4b69102c49d9> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> .
+<http://lodlaundromat.org/.well-known/genid/N0c627533a3ea4d8e809f4b69102c49d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0c627533a3ea4d8e809f4b69102c49d9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N82b854ea303f49bdb4aadababbb82f8f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na221048d490240479898a36bf123160a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N88505b5061c142388d1e2a514c1184ef> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N0c627533a3ea4d8e809f4b69102c49d9> <http://schema.org/value> "140218"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

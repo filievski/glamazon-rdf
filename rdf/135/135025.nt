@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N53b83ba49381405d8fcf245c547caf0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N53b83ba49381405d8fcf245c547caf0b> <http://schema.org/latitude> "27.3389"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://schema.org/streetAddress> "1945 FRUITVILLE ROAD" .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://schema.org/addressLocality> "SARASOTA" .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> .
+<http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N53b83ba49381405d8fcf245c547caf0b> .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=27.3389&mlon=-82.5321#map=15/27.3389/-82.5321> .
+<http://lodlaundromat.org/.well-known/genid/N099b510836fb435ba1415b2cc0ef63b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N099b510836fb435ba1415b2cc0ef63b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> <http://schema.org/id> "8401200579" .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/name> "SUNCOAST AQUATIC NATURE CENTER ASSOCIATES INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndbbb23ebc62d40c9a25cf9e0596239ba> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N099b510836fb435ba1415b2cc0ef63b9> <http://schema.org/value> "135025"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na1dbe13e244d44528ec88fa6dbe937c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N099b510836fb435ba1415b2cc0ef63b9> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N53b83ba49381405d8fcf245c547caf0b> <http://schema.org/longitude> "-82.5321"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc8a165ca9de644939fc567b91d3e5a86> <http://schema.org/postalCode> "34236" .
+

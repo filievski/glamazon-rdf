@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7da4edd89f1a408da6401a03699279b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4ecddb72216d4978bf0b99ab2b0bc950> .
+<http://lodlaundromat.org/.well-known/genid/N4ecddb72216d4978bf0b99ab2b0bc950> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.1786&mlon=-84.3833#map=15/30.1786/-84.3833> .
+<http://lodlaundromat.org/.well-known/genid/N4ecddb72216d4978bf0b99ab2b0bc950> <http://schema.org/value> "135355"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://schema.org/addressLocality> "CRAWFORDVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N7da4edd89f1a408da6401a03699279b8> <http://schema.org/latitude> "30.1786"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://schema.org/streetAddress> "PO BOX 151" .
+<http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> <http://schema.org/id> "8401200910" .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://schema.org/postalCode> "32326-0151" .
+<http://lodlaundromat.org/.well-known/genid/Ndb5b4c4ef0524db4abfa9538e6b4df3c> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/name> "WAKULLA COUNTY HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N013e563c31cd4f51864227f91e77e406> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N7da4edd89f1a408da6401a03699279b8> <http://schema.org/longitude> "-84.3833"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4ecddb72216d4978bf0b99ab2b0bc950> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc3c60de1b7ba47dba3ad215e6a3f22a5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7da4edd89f1a408da6401a03699279b8> .
+

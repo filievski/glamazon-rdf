@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1f24016963b64362a947ba54fc39f609> .
+<http://lodlaundromat.org/.well-known/genid/N02e7f7861bac469b9b74a9d0731a1c1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> .
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/name> "ITALIAN AMERICAN HISTORICAL SOCIETY OF GREATER NEW HAVEN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://schema.org/addressLocality> "EAST HAVEN" .
+<http://lodlaundromat.org/.well-known/genid/N02e7f7861bac469b9b74a9d0731a1c1a> <http://schema.org/latitude> "41.2778"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N02e7f7861bac469b9b74a9d0731a1c1a> .
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://schema.org/postalCode> "06512" .
+<http://lodlaundromat.org/.well-known/genid/N1f24016963b64362a947ba54fc39f609> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2778&mlon=-72.8745#map=15/41.2778/-72.8745> .
+<http://lodlaundromat.org/.well-known/genid/N02e7f7861bac469b9b74a9d0731a1c1a> <http://schema.org/longitude> "-72.8745"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> .
+<http://lodlaundromat.org/.well-known/genid/N606883358e864050b3e0dbc09ec8b343> <http://schema.org/streetAddress> "PO BOX 120371" .
+<http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> <http://schema.org/id> "8400900177" .
+<http://lodlaundromat.org/.well-known/genid/N89d43214066246d99ccd387935cc529b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N26d74a6cf83d404fa2106500045a0ee5> <http://schema.org/url> <http://www.southernct.edu/about/ehc/italianam/index.html> .
+<http://lodlaundromat.org/.well-known/genid/N1f24016963b64362a947ba54fc39f609> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f24016963b64362a947ba54fc39f609> <http://schema.org/value> "133702"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

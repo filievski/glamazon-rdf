@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N6d13140f2de8476898cdbdac379b502f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N839e18f7b20d4414962164145e23c598> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/name> "Dolls at the Mount - Doll Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> .
+<http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7582&mlon=145.062#map=15/-37.7582/145.062> .
+<http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N1ab5883ddb53484789cceb6b71221954> <http://schema.org/value> "163836"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6d13140f2de8476898cdbdac379b502f> <http://schema.org/longitude> "145.062"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1ab5883ddb53484789cceb6b71221954> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1ab5883ddb53484789cceb6b71221954> .
+<http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> <http://schema.org/id> "dolls-at-mount-doll-museum" .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d13140f2de8476898cdbdac379b502f> .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N839e18f7b20d4414962164145e23c598> .
+<http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N839e18f7b20d4414962164145e23c598> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6d13140f2de8476898cdbdac379b502f> <http://schema.org/latitude> "-37.7582"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1ab5883ddb53484789cceb6b71221954> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Neb2cab3dea6448c2b0b841d087e6acc5> <http://schema.org/telephone> "(03) 9457 3356" .
+<http://lodlaundromat.org/.well-known/genid/Nd13a7afe265c4371ba408f7b70f4435d> <http://schema.org/url> <http://victoriancollections.net.au/organisations/dolls-at-mount-doll-museum> .
+

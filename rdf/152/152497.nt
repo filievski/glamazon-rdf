@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3ce3f8c0cf8d4c75a0c03f7f4bf8843f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/name> "JEFFERSON HISTORICAL SOCIETY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3999fb315f4d4a699cc6158b0df8cc6f> <http://schema.org/latitude> "41.7332"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://schema.org/streetAddress> "PO BOX 574" .
+<http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3ce3f8c0cf8d4c75a0c03f7f4bf8843f> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.7332&mlon=-80.7591#map=15/41.7332/-80.7591> .
+<http://lodlaundromat.org/.well-known/genid/N3999fb315f4d4a699cc6158b0df8cc6f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://schema.org/postalCode> "44047" .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/telephone> "+1 (440) 576-0030" .
+<http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://schema.org/addressLocality> "JEFFERSON" .
+<http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> <http://schema.org/id> "8403900274" .
+<http://lodlaundromat.org/.well-known/genid/N3999fb315f4d4a699cc6158b0df8cc6f> <http://schema.org/longitude> "-80.7591"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc3919cea38ab488ea2f60b0a4520898c> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N18da62cf3737415a8e9701a0fe9e5ce2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3999fb315f4d4a699cc6158b0df8cc6f> .
+<http://lodlaundromat.org/.well-known/genid/N642d25de718f41d699b07f025cb30514> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N3ce3f8c0cf8d4c75a0c03f7f4bf8843f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3ce3f8c0cf8d4c75a0c03f7f4bf8843f> <http://schema.org/value> "152497"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

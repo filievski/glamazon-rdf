@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N6ec76671cf8b42f5924986227ca6876a> <http://schema.org/longitude> "8.9353"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N8d2a433d346d40228fccf63aa46dc723> <http://schema.org/value> "184071"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8d2a433d346d40228fccf63aa46dc723> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6ec76671cf8b42f5924986227ca6876a> .
+<http://lodlaundromat.org/.well-known/genid/Nfbd8d1986bf0458d98f2164b8b61ff6a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6ec76671cf8b42f5924986227ca6876a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8d2a433d346d40228fccf63aa46dc723> .
+<http://lodlaundromat.org/.well-known/genid/N6ec76671cf8b42f5924986227ca6876a> <http://schema.org/latitude> "53.0651"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfbd8d1986bf0458d98f2164b8b61ff6a> .
+<http://lodlaundromat.org/.well-known/genid/N8d2a433d346d40228fccf63aa46dc723> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nfbd8d1986bf0458d98f2164b8b61ff6a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N43a43e19b2274be3a0dfc24c9b0d35ae> .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/telephone> "+49 421 4081757" .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0651&mlon=8.9353#map=15/53.0651/8.9353> .
+<http://lodlaundromat.org/.well-known/genid/N43a43e19b2274be3a0dfc24c9b0d35ae> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N43a43e19b2274be3a0dfc24c9b0d35ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nfbd8d1986bf0458d98f2164b8b61ff6a> <http://schema.org/url> <http://www.museums.io/en/museums/184071> .
+<http://lodlaundromat.org/.well-known/genid/N43a43e19b2274be3a0dfc24c9b0d35ae> <http://schema.org/email> "mailto:kultur@klinikum-bremen-ost.de" .
+<http://lodlaundromat.org/.well-known/genid/Nfbd8d1986bf0458d98f2164b8b61ff6a> <http://schema.org/name> "de_bremen" .
+<http://lodlaundromat.org/.well-known/genid/N8751e523a7a14fcf96dd3358edb154d2> <http://schema.org/name> "KulturAmbulanz Bremen - Hospital Museum"@en .
+

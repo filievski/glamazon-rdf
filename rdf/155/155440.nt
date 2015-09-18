@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne336db3a00b0445aa8ccab81ba0d8c8a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> .
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://schema.org/postalCode> "17108-0910" .
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://schema.org/streetAddress> "PO BOX 910" .
+<http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> <http://schema.org/id> "8404200634" .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.2619&mlon=-76.8821#map=15/40.2619/-76.8821> .
+<http://lodlaundromat.org/.well-known/genid/Ne336db3a00b0445aa8ccab81ba0d8c8a> <http://schema.org/value> "155440"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N49bde66d5e6a4910ad7e9bf4d177ad95> .
+<http://lodlaundromat.org/.well-known/genid/N49bde66d5e6a4910ad7e9bf4d177ad95> <http://schema.org/latitude> "40.2619"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N49bde66d5e6a4910ad7e9bf4d177ad95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne336db3a00b0445aa8ccab81ba0d8c8a> .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/name> "HARRISBURG AREA RIVERBOAT SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N738615393e1042558b3352984660d553> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndc0e6198a74b42539872d1f9d0f12979> .
+<http://lodlaundromat.org/.well-known/genid/N49bde66d5e6a4910ad7e9bf4d177ad95> <http://schema.org/longitude> "-76.8821"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://schema.org/addressLocality> "HARRISBURG" .
+<http://lodlaundromat.org/.well-known/genid/Ne336db3a00b0445aa8ccab81ba0d8c8a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc3a378c751da4f76a2341cd887c73289> <http://schema.org/addressCountry> "United States" .
+

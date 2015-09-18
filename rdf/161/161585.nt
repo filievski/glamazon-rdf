@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb493d2f1e7c049c196cab07f8f49138f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/telephone> "+1 (360) 875-5224" .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb493d2f1e7c049c196cab07f8f49138f> .
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://schema.org/streetAddress> "1008 W ROBERT BUSH DR" .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N208035c25ad74402a9b673276182c2ed> .
+<http://lodlaundromat.org/.well-known/genid/N208035c25ad74402a9b673276182c2ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> .
+<http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://schema.org/postalCode> "98586" .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/name> "PACIFIC COUNTY HISTORICAL SOCIETY AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/url> <http://www.pacificcohistory.org/> .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.6673&mlon=-123.813#map=15/46.6673/-123.813> .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> .
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://schema.org/addressLocality> "SOUTH BEND" .
+<http://lodlaundromat.org/.well-known/genid/N3cc18391bbf14e9e94e5d176a8c4bcae> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N208035c25ad74402a9b673276182c2ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N208035c25ad74402a9b673276182c2ed> <http://schema.org/value> "161585"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne422d48054674401ae2db6d2e3dd545b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Naf071a93961342b7b635af261b727121> <http://schema.org/id> "8405300034" .
+<http://lodlaundromat.org/.well-known/genid/Nb493d2f1e7c049c196cab07f8f49138f> <http://schema.org/longitude> "-123.813"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb493d2f1e7c049c196cab07f8f49138f> <http://schema.org/latitude> "46.6673"^^<http://www.w3.org/2001/XMLSchema#double> .
+

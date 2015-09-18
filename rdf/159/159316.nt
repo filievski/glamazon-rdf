@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nf6201e057a91426d8a2d614a8b2ae6cd> .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4762f37192804396af0c0a9e58cc8bcc> <http://schema.org/latitude> "32.7873"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4762f37192804396af0c0a9e58cc8bcc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4762f37192804396af0c0a9e58cc8bcc> .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> .
+<http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://schema.org/postalCode> "75201" .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://schema.org/streetAddress> "2201 N FIELD ST" .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://schema.org/addressLocality> "DALLAS" .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/name> "SCIENCE PLACE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> .
+<http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> <http://schema.org/id> "8404801416" .
+<http://lodlaundromat.org/.well-known/genid/N8220d916f1f34578bdc7e2c1c3e7155c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nf2942845464649b29dafd9de37a9c7f1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7873&mlon=-96.8059#map=15/32.7873/-96.8059> .
+<http://lodlaundromat.org/.well-known/genid/N4762f37192804396af0c0a9e58cc8bcc> <http://schema.org/longitude> "-96.8059"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf6201e057a91426d8a2d614a8b2ae6cd> <http://schema.org/value> "159316"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf6201e057a91426d8a2d614a8b2ae6cd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nf6201e057a91426d8a2d614a8b2ae6cd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5ab350bc5483427381968e2c2ca9f3ec> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8b325352e618452991e971bb35a4cef6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c86519baa2a41a59b961dbbabf2943f> <http://schema.org/longitude> "-79.9183"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://schema.org/addressLocality> "CHARLESTON" .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7407&mlon=-79.9183#map=15/32.7407/-79.9183> .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8b325352e618452991e971bb35a4cef6> .
+<http://lodlaundromat.org/.well-known/genid/N8b325352e618452991e971bb35a4cef6> <http://schema.org/value> "156820"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://schema.org/streetAddress> "845 FRED STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> <http://schema.org/id> "8404500115" .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/name> "AMERICAN MUSEUM FOR HISTORIC PRESERVATION AND EDUCATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8b325352e618452991e971bb35a4cef6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb64f1e4d72c74c6eb28420ed453ddd1a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0c86519baa2a41a59b961dbbabf2943f> .
+<http://lodlaundromat.org/.well-known/genid/N0c86519baa2a41a59b961dbbabf2943f> <http://schema.org/latitude> "32.7407"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nba356b6c211d49a38659a725ca3497a7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0c86519baa2a41a59b961dbbabf2943f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8a9a19a037b648f88d33bf11fed3dcb7> <http://schema.org/postalCode> "29412-5001" .
+

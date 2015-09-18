@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://schema.org/addressLocality> "MISSOULA" .
+<http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> <http://schema.org/id> "8403000286" .
+<http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3a021b55a36944b3bf1db5e662efec0b> .
+<http://lodlaundromat.org/.well-known/genid/N819199c6fda34ae5a95c58134006e68d> <http://schema.org/latitude> "46.8626"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> .
+<http://lodlaundromat.org/.well-known/genid/N3a021b55a36944b3bf1db5e662efec0b> <http://schema.org/value> "146643"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3a021b55a36944b3bf1db5e662efec0b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3a021b55a36944b3bf1db5e662efec0b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://schema.org/postalCode> "59812" .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N819199c6fda34ae5a95c58134006e68d> .
+<http://lodlaundromat.org/.well-known/genid/N819199c6fda34ae5a95c58134006e68d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N819199c6fda34ae5a95c58134006e68d> <http://schema.org/longitude> "-113.981"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.8626&mlon=-113.981#map=15/46.8626/-113.981> .
+<http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://schema.org/addressRegion> "MT" .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/url> <http://www.umt.edu/montanamuseum> .
+<http://lodlaundromat.org/.well-known/genid/N46ec2c1706604830b44451f9584fea66> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3d6f748686f04ec78da561508a805f82> <http://schema.org/streetAddress> "THE UNIVERSITY OF MONTANA  MAIN HALL 006" .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6abeda10ffaf48e9bf874131b7d8da67> <http://schema.org/name> "THE MONTANA MUSEUM OF ART & CULTURE"@en .
+

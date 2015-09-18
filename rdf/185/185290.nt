@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/Nba83cebc5f4f472f95a00b7fb534d2c3> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N80b42e17d13340efb9fb2ee3de06f35e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80b42e17d13340efb9fb2ee3de06f35e> <http://schema.org/latitude> "21.7727"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nee52721a323645cd9db4a9dcba983aab> <http://schema.org/value> "185290"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nee52721a323645cd9db4a9dcba983aab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N00ffeb52e41e41c181ae113955f86d51> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N00ffeb52e41e41c181ae113955f86d51> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=21.7727&mlon=21.7727#map=15/21.7727/21.7727> .
+<http://lodlaundromat.org/.well-known/genid/N80b42e17d13340efb9fb2ee3de06f35e> <http://schema.org/longitude> "21.7727"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N80b42e17d13340efb9fb2ee3de06f35e> .
+<http://lodlaundromat.org/.well-known/genid/N00ffeb52e41e41c181ae113955f86d51> <http://schema.org/url> <http://www.museums.io/en/museums/185290> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N00ffeb52e41e41c181ae113955f86d51> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/url> <http://www.aland.com/fi/labbasmuseum> .
+<http://lodlaundromat.org/.well-known/genid/Nee52721a323645cd9db4a9dcba983aab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N00ffeb52e41e41c181ae113955f86d51> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nba83cebc5f4f472f95a00b7fb534d2c3> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/name> "Labbas Homestead & Bank Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee52721a323645cd9db4a9dcba983aab> .
+<http://lodlaundromat.org/.well-known/genid/Nba83cebc5f4f472f95a00b7fb534d2c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1a8ba93cc1984a6f9a5c1e0648b9819a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

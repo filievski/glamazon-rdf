@@ -1,0 +1,22 @@
+<http://lodlaundromat.org/.well-known/genid/N6c377e7de3a749e5aa56d425d70c26e4> <http://schema.org/value> "163666"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N21bc28e9c1eb4077aa5b23230c83a3ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N112b6a31d44d4e6688b34c7690bac00a> .
+<http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N21bc28e9c1eb4077aa5b23230c83a3ac> .
+<http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> <http://schema.org/url> <http://victoriancollections.net.au/organisations/ballam-park-homestead> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> .
+<http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> <http://schema.org/id> "ballam-park-homestead" .
+<http://lodlaundromat.org/.well-known/genid/N46c825230bfd442fbd1d674de2088552> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N112b6a31d44d4e6688b34c7690bac00a> <http://schema.org/longitude> "145.16"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21bc28e9c1eb4077aa5b23230c83a3ac> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N112b6a31d44d4e6688b34c7690bac00a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.1531&mlon=145.16#map=15/-38.1531/145.16> .
+<http://lodlaundromat.org/.well-known/genid/N6c377e7de3a749e5aa56d425d70c26e4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c377e7de3a749e5aa56d425d70c26e4> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/url> <http://www.rootsweb.ancestry.com/~vicfhs/ballampark.html> .
+<http://lodlaundromat.org/.well-known/genid/N6924a834186a4599ac2861ffb19c3c5a> <http://schema.org/name> "Ballam Park Homestead"@en .
+<http://lodlaundromat.org/.well-known/genid/N112b6a31d44d4e6688b34c7690bac00a> <http://schema.org/latitude> "-38.1531"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6c377e7de3a749e5aa56d425d70c26e4> <http://schema.org/name> "id" .
+

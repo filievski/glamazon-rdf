@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://schema.org/addressLocality> "BELLEVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Ndd4ad507315944a7994c6531027209ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://schema.org/streetAddress> "PO BOX 5603" .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8dbacd6cfb694262858fc2a2c46ebb03> .
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://schema.org/postalCode> "17004" .
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/name> "MIFFLIN COUNTY MENNONITE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N8dbacd6cfb694262858fc2a2c46ebb03> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.6081&mlon=-77.7212#map=15/40.6081/-77.7212> .
+<http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0933b504330e4c3a8da7c663eaae3458> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndd4ad507315944a7994c6531027209ae> .
+<http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4ad507315944a7994c6531027209ae> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8dbacd6cfb694262858fc2a2c46ebb03> <http://schema.org/latitude> "40.6081"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> <http://schema.org/id> "8404200425" .
+<http://lodlaundromat.org/.well-known/genid/N8dbacd6cfb694262858fc2a2c46ebb03> <http://schema.org/longitude> "-77.7212"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd180d15b3b4141caa45f20946ef5fcff> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6fc74ea8b58e489a9d00d775e04135b6> .
+<http://lodlaundromat.org/.well-known/genid/Ndd4ad507315944a7994c6531027209ae> <http://schema.org/value> "155231"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

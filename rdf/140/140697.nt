@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd7b7a134bf8b4f7eaa3a11379ae7afbd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N51f50d3226144495acdbb7d5105e3805> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/name> "HISTORIC MIDDLETOWN INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N51f50d3226144495acdbb7d5105e3805> <http://schema.org/latitude> "38.2609"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N51f50d3226144495acdbb7d5105e3805> <http://schema.org/longitude> "-85.5372"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2609&mlon=-85.5372#map=15/38.2609/-85.5372> .
+<http://lodlaundromat.org/.well-known/genid/Nd7b7a134bf8b4f7eaa3a11379ae7afbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://schema.org/postalCode> "40253" .
+<http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> <http://schema.org/id> "8402100454" .
+<http://lodlaundromat.org/.well-known/genid/Nd7b7a134bf8b4f7eaa3a11379ae7afbd> <http://schema.org/value> "140697"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://schema.org/addressLocality> "MIDDLETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N51f50d3226144495acdbb7d5105e3805> .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> .
+<http://lodlaundromat.org/.well-known/genid/N4e7a1b78c0414f26800fa095eb05dba1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://schema.org/streetAddress> "PO BOX 43893" .
+<http://lodlaundromat.org/.well-known/genid/N946c7597685b4dd5a7f6e05547ff64c2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd7b7a134bf8b4f7eaa3a11379ae7afbd> .
+<http://lodlaundromat.org/.well-known/genid/N4e587febf738441888590dd503b5414a> <http://schema.org/addressRegion> "KY" .
+

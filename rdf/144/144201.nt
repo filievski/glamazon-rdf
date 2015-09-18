@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> .
+<http://lodlaundromat.org/.well-known/genid/N836ead4f94654ef9bb05c4e01dc40e27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> <http://schema.org/id> "8402600738" .
+<http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.4693&mlon=-84.3497#map=15/46.4693/-84.3497> .
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://schema.org/streetAddress> "PO BOX 627" .
+<http://lodlaundromat.org/.well-known/genid/N836ead4f94654ef9bb05c4e01dc40e27> <http://schema.org/value> "144201"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N977562944889410586a1a8f1fb09c11d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N836ead4f94654ef9bb05c4e01dc40e27> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N977562944889410586a1a8f1fb09c11d> .
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://schema.org/postalCode> "49783-0627" .
+<http://lodlaundromat.org/.well-known/genid/N977562944889410586a1a8f1fb09c11d> <http://schema.org/latitude> "46.4693"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N099e6f1e52ab414490006fda20289f24> <http://schema.org/addressLocality> "SAULT S MARIE" .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N836ead4f94654ef9bb05c4e01dc40e27> .
+<http://lodlaundromat.org/.well-known/genid/N697df7efbe664968afbee40555036e06> <http://schema.org/name> "SAULT STE MARIE FOUNDATION FOR CULTURE AND HISTORY"@en .
+<http://lodlaundromat.org/.well-known/genid/N01a894373e3d4af38ad22877399dae29> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N977562944889410586a1a8f1fb09c11d> <http://schema.org/longitude> "-84.3497"^^<http://www.w3.org/2001/XMLSchema#double> .
+

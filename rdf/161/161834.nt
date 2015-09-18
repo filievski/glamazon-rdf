@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na8d1b90c00a44d60b1829254efa774f2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/name> "HISTORIC EVERETT"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://schema.org/streetAddress> "2112 RUCKER AVE SUITE 8" .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://schema.org/addressLocality> "EVERETT" .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> <http://schema.org/id> "8405300283" .
+<http://lodlaundromat.org/.well-known/genid/Na8d1b90c00a44d60b1829254efa774f2> <http://schema.org/value> "161834"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na8d1b90c00a44d60b1829254efa774f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb45c9a20f62849cc901a2ff2220ed415> <http://schema.org/latitude> "47.9893"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na8d1b90c00a44d60b1829254efa774f2> .
+<http://lodlaundromat.org/.well-known/genid/Nb45c9a20f62849cc901a2ff2220ed415> <http://schema.org/longitude> "-122.211"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.9893&mlon=-122.211#map=15/47.9893/-122.211> .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://schema.org/postalCode> "98201-2757" .
+<http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb45c9a20f62849cc901a2ff2220ed415> .
+<http://lodlaundromat.org/.well-known/genid/N0d11f8fdc93f4db5b6082d67ddf74e13> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd93ff0616dc74adca7e0a1b34a795e7a> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/Nb45c9a20f62849cc901a2ff2220ed415> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc7d976706efd41bd8d20dc642aa2a71a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

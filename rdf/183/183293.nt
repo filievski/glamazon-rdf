@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://schema.org/addressLocality> "M\u00FCnchen" .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/url> <http://www.aegyptisches-museum-muenchen.de/> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N21d11b7e39214030b13a7c691f51a614> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0d792afebdf24bb2a559e495b09b6bef> .
+<http://lodlaundromat.org/.well-known/genid/Na9bdaf1aa6b04592948d7c330caa2825> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na9bdaf1aa6b04592948d7c330caa2825> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na9bdaf1aa6b04592948d7c330caa2825> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/telephone> "089/28927630" .
+<http://lodlaundromat.org/.well-known/genid/N21d11b7e39214030b13a7c691f51a614> <http://schema.org/latitude> "48.1468"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21d11b7e39214030b13a7c691f51a614> <http://schema.org/longitude> "11.5681"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N21d11b7e39214030b13a7c691f51a614> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=48.1468&mlon=11.5681#map=15/48.1468/11.5681> .
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Na9bdaf1aa6b04592948d7c330caa2825> <http://schema.org/url> <http://www.museums.io/en/museums/183293> .
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://schema.org/streetAddress> "Gabelsbergerstra\u00DFe 35" .
+<http://lodlaundromat.org/.well-known/genid/N0d792afebdf24bb2a559e495b09b6bef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/name> "Staatliches Museum \u00C4gyptischer Kunst"@en .
+<http://lodlaundromat.org/.well-known/genid/N0d792afebdf24bb2a559e495b09b6bef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0d792afebdf24bb2a559e495b09b6bef> <http://schema.org/value> "183293"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N80e8f480493f4dcda41a6adaf605a5f0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na9bdaf1aa6b04592948d7c330caa2825> .
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N6fa64c9077bf4e9e906f16f65fdc5771> <http://schema.org/postalCode> "80333" .
+

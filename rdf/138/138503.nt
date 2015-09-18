@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/telephone> "+1 (317) 334-4000" .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/Ncb2ff8e90705443bb3e64cdbad16dfab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N38a4d80169e84739b5aeaef0db565ad6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N38a4d80169e84739b5aeaef0db565ad6> .
+<http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> <http://schema.org/addressLocality> "INDIANAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.8102&mlon=-86.1567#map=15/39.8102/-86.1567> .
+<http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> <http://schema.org/postalCode> "46208-4716" .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> .
+<http://lodlaundromat.org/.well-known/genid/N38a4d80169e84739b5aeaef0db565ad6> <http://schema.org/longitude> "-86.1567"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N06285b4c144d4994844332c8282e6e30> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ncb2ff8e90705443bb3e64cdbad16dfab> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncb2ff8e90705443bb3e64cdbad16dfab> <http://schema.org/value> "138503"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/name> "CHILDRENS MUSEUM GUILD"@en .
+<http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/url> <http://www.childrensmuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ncb2ff8e90705443bb3e64cdbad16dfab> .
+<http://lodlaundromat.org/.well-known/genid/N7687a535c0e34afc870f37cd3624a3a6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> .
+<http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> <http://schema.org/id> "8401800289" .
+<http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N38a4d80169e84739b5aeaef0db565ad6> <http://schema.org/latitude> "39.8102"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5e99f1cd26744ab9bed7644f3f9c1656> <http://schema.org/name> "us" .
+

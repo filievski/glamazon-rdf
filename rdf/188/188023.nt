@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N4df15ffd6fd94f20af18d551476a5fe5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> <http://schema.org/addressRegion> "Piemonte" .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/telephone> "+39 " .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4df15ffd6fd94f20af18d551476a5fe5> .
+<http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N99efa6e2f6e745d6939457ec9e16508f> .
+<http://lodlaundromat.org/.well-known/genid/N4df15ffd6fd94f20af18d551476a5fe5> <http://schema.org/value> "188023"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N99efa6e2f6e745d6939457ec9e16508f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> <http://schema.org/id> "106596" .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> .
+<http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> <http://schema.org/addressLocality> "Borgosesia" .
+<http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N99efa6e2f6e745d6939457ec9e16508f> <http://schema.org/longitude> "8.27443"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/name> "Museo del folklore valsesiano"@it .
+<http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N99efa6e2f6e745d6939457ec9e16508f> <http://schema.org/latitude> "45.716"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N803f330922314edabb43d90029ef46c5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.716&mlon=8.27443#map=15/45.716/8.27443> .
+<http://lodlaundromat.org/.well-known/genid/N4df15ffd6fd94f20af18d551476a5fe5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7dbf8f09da95401b84e941fda754b23d> <http://schema.org/streetAddress> "Via Alberto Giordano, 5, " .
+<http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Neb3479b6c0304561befd116335dddeca> <http://schema.org/name> "itapi" .
+

@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/url> <http://home.vicnet.net.au/~hamhist/> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb7f936ba0a8f4cb883db1e3170301179> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/openingHours> "The Centre is open every day except Saturday; from 2.00pm to 5.00pm\r\n(Saturday or other times by appointment only)\r\n\r\n"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb7f936ba0a8f4cb883db1e3170301179> <http://schema.org/value> "163930"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> <http://schema.org/id> "hamilton-history-centre" .
+<http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5720fff39b3049d2abd51fb6c715a7d8> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f936ba0a8f4cb883db1e3170301179> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N5720fff39b3049d2abd51fb6c715a7d8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb7f936ba0a8f4cb883db1e3170301179> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/name> "Hamilton History Centre"@en .
+<http://lodlaundromat.org/.well-known/genid/N52ea12ab08be46f28658c7ed2184848b> <http://schema.org/latitude> "-37.7447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N52ea12ab08be46f28658c7ed2184848b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> <http://schema.org/url> <http://victoriancollections.net.au/organisations/hamilton-history-centre> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9d2fbb350923424f969d181c262e3838> .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N52ea12ab08be46f28658c7ed2184848b> .
+<http://lodlaundromat.org/.well-known/genid/N5720fff39b3049d2abd51fb6c715a7d8> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N3d00f622a6cb43cfb9758b1d305e570e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.7447&mlon=142.021#map=15/-37.7447/142.021> .
+<http://lodlaundromat.org/.well-known/genid/N52ea12ab08be46f28658c7ed2184848b> <http://schema.org/longitude> "142.021"^^<http://www.w3.org/2001/XMLSchema#double> .
+

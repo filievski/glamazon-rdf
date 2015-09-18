@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N6a55f354441345db89e5a4a3c8b89b42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7ee0f60814934597a973a80c9c9ed0f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N7ee0f60814934597a973a80c9c9ed0f9> .
+<http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.7009&mlon=-73.9052#map=15/42.7009/-73.9052> .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://schema.org/streetAddress> "PO BOX 779" .
+<http://lodlaundromat.org/.well-known/genid/N6a55f354441345db89e5a4a3c8b89b42> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://schema.org/addressLocality> "GUILDERLAND" .
+<http://lodlaundromat.org/.well-known/genid/N7ee0f60814934597a973a80c9c9ed0f9> <http://schema.org/latitude> "42.7009"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6a55f354441345db89e5a4a3c8b89b42> <http://schema.org/value> "149893"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nbe0d1e50739d454283732601c343103a> <http://schema.org/id> "8403601187" .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://schema.org/postalCode> "12084-0779" .
+<http://lodlaundromat.org/.well-known/genid/N7ee0f60814934597a973a80c9c9ed0f9> <http://schema.org/longitude> "-73.9052"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6a55f354441345db89e5a4a3c8b89b42> .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://schema.org/name> "FRIENDS OF THE SCHOOLCRAFT CULTURAL CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N6efa524a41954ecd949f594a4002d10f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d16907e13a744869f96ea9b46819272> <http://schema.org/addressRegion> "NY" .
+

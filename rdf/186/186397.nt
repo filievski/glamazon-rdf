@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N086f778f18b94e0daf465d2427165003> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfdf4b5cd3ac2413f92dfdf34b877362d> .
+<http://lodlaundromat.org/.well-known/genid/N3a15a1418e42487bb7b4d0a99188ff72> <http://schema.org/contentUrl> <http://images.museums.io/SMYlNYnJvu8E2x-_qSrpdCZc8WU=/1000x1000/museums/logos/000/186/397/original/c2bfd79380c86840936d746699ae23e9861fc32d.jpg> .
+<http://lodlaundromat.org/.well-known/genid/N3a15a1418e42487bb7b4d0a99188ff72> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nfdf4b5cd3ac2413f92dfdf34b877362d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2107&mlon=13.5714#map=15/41.2107/13.5714> .
+<http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N086f778f18b94e0daf465d2427165003> .
+<http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nfdf4b5cd3ac2413f92dfdf34b877362d> <http://schema.org/latitude> "41.2107"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfdf4b5cd3ac2413f92dfdf34b877362d> <http://schema.org/longitude> "13.5714"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> <http://schema.org/streetAddress> "Piazza Cardinale Tommaso de Vio, " .
+<http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> <http://schema.org/addressLocality> "Gaeta" .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> .
+<http://lodlaundromat.org/.well-known/genid/N086f778f18b94e0daf465d2427165003> <http://schema.org/value> "186397"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N086f778f18b94e0daf465d2427165003> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N3a15a1418e42487bb7b4d0a99188ff72> .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> .
+<http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> <http://schema.org/addressRegion> "Lazio" .
+<http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N741d1301125b4919a1aedb017f6fd66d> <http://schema.org/id> "101431" .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/name> "Museo diocesano \"Cardinale Tommaso de Vio\""@it .
+<http://lodlaundromat.org/.well-known/genid/N2aaf180b4b934895910f83434b34eb7e> <http://schema.org/telephone> "+39 0771700287" .
+<http://lodlaundromat.org/.well-known/genid/N1acbb06bbf1a4887849eafaf37e90739> <http://schema.org/addressCountry> "Italy" .
+

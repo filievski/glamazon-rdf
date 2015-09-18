@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/telephone> "+1 (530) 533-5316" .
+<http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne92cb1bc91de4f7aa90af1653f167735> .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N777384ce399a42a3950c2079f54a0b34> .
+<http://lodlaundromat.org/.well-known/genid/N777384ce399a42a3950c2079f54a0b34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> <http://schema.org/id> "8400600488" .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/name> "EHMANN HOME"@en .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> .
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://schema.org/streetAddress> "1480 LINCOLN ST" .
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://schema.org/postalCode> "95965" .
+<http://lodlaundromat.org/.well-known/genid/N00a2b4902547450e91718f44e92813c7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.5118&mlon=-121.557#map=15/39.5118/-121.557> .
+<http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N1c63a69516d840dfbe8645e0f2006b73> <http://schema.org/addressLocality> "OROVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N777384ce399a42a3950c2079f54a0b34> <http://schema.org/value> "130362"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne92cb1bc91de4f7aa90af1653f167735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne92cb1bc91de4f7aa90af1653f167735> <http://schema.org/longitude> "-121.557"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne92cb1bc91de4f7aa90af1653f167735> <http://schema.org/latitude> "39.5118"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N777384ce399a42a3950c2079f54a0b34> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na32e6fe764e941b3af021703eea45b07> <http://schema.org/@Type> "Dataset" .
+

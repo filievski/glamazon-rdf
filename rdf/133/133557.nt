@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N02e28000894e4896a63793a9b58eb390> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb3d1dc5246ef4e638307b6e46d4072de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb3d1dc5246ef4e638307b6e46d4072de> <http://schema.org/latitude> "41.6854"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/telephone> "+1 (860) 667-0545" .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://schema.org/addressRegion> "CT" .
+<http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> <http://schema.org/id> "8400900032" .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N02e28000894e4896a63793a9b58eb390> .
+<http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb3d1dc5246ef4e638307b6e46d4072de> .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://schema.org/streetAddress> "1702 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N02e28000894e4896a63793a9b58eb390> <http://schema.org/value> "133557"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/name> "NEWINGTON HISTORICAL SOCIETY AND TRUST , KELSEY HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/url> <http://www.newingtonhistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nb3d1dc5246ef4e638307b6e46d4072de> <http://schema.org/longitude> "-72.7219"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.6854&mlon=-72.7219#map=15/41.6854/-72.7219> .
+<http://lodlaundromat.org/.well-known/genid/N02e28000894e4896a63793a9b58eb390> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7ff1b44a2f6d46da8fd0c2bb03d5f0f2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> .
+<http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://schema.org/postalCode> "06111" .
+<http://lodlaundromat.org/.well-known/genid/N4bcc05b0a49e4a509f04f9e715d727bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N11c0c1d9394446ff84780de0cce159ce> <http://schema.org/addressLocality> "NEWINGTON" .
+

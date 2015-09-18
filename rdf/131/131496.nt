@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N1f540b73afe247ceba075628eaa82039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.7388&mlon=-122.383#map=15/37.7388/-122.383> .
+<http://lodlaundromat.org/.well-known/genid/N1f540b73afe247ceba075628eaa82039> <http://schema.org/latitude> "37.7388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> <http://schema.org/id> "8400601622" .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1f540b73afe247ceba075628eaa82039> .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N545d97d8a26f4adead0de05afedc1f7e> .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://schema.org/postalCode> "94124-1758" .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://schema.org/addressLocality> "SAN FRANCISCO" .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/name> "PAN AM HISTORICAL FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1f540b73afe247ceba075628eaa82039> <http://schema.org/longitude> "-122.383"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> .
+<http://lodlaundromat.org/.well-known/genid/N4546f3a1e7b3449c8001912b3166d542> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> .
+<http://lodlaundromat.org/.well-known/genid/N545d97d8a26f4adead0de05afedc1f7e> <http://schema.org/value> "131496"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nfe4c8d7fa79b45168cc439848bd9790f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N545d97d8a26f4adead0de05afedc1f7e> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N545d97d8a26f4adead0de05afedc1f7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://schema.org/streetAddress> "1275 FAIRFAX AVE STE 747" .
+<http://lodlaundromat.org/.well-known/genid/N27aaa2bb4144438bb1c2771818f4d446> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

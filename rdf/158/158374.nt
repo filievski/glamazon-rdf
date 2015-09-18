@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://schema.org/streetAddress> "PO BOX 567" .
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na7624d4ef98842e59141dab3ebb68241> .
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.9241&mlon=-94.0092#map=15/30.9241/-94.0092> .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/name> "JASPER ARBORETUM AND SANDY CREEK NATURE TRAIL BOARD INCORPOR"@en .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> .
+<http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://schema.org/addressLocality> "JASPER" .
+<http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> <http://schema.org/id> "8404800474" .
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N20acfa7cf7b347239127847f716caf85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N20acfa7cf7b347239127847f716caf85> <http://schema.org/latitude> "30.9241"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7624d4ef98842e59141dab3ebb68241> <http://schema.org/value> "158374"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5f0a52997bc54893b166db11be237006> <http://schema.org/postalCode> "75951-0007" .
+<http://lodlaundromat.org/.well-known/genid/Na7624d4ef98842e59141dab3ebb68241> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N17995f785b034d4bab064ad79220b7ea> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N20acfa7cf7b347239127847f716caf85> .
+<http://lodlaundromat.org/.well-known/genid/N20acfa7cf7b347239127847f716caf85> <http://schema.org/longitude> "-94.0092"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na7624d4ef98842e59141dab3ebb68241> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N55077ee91310453f8fbf7143ca170c51> <http://schema.org/@Type> "Dataset" .
+

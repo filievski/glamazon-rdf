@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne84fcb88f78a44c3a5d1dcee00005bcd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne84fcb88f78a44c3a5d1dcee00005bcd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne84fcb88f78a44c3a5d1dcee00005bcd> .
+<http://lodlaundromat.org/.well-known/genid/Nd436a930dbc6473d899dfa1e51154b77> <http://schema.org/latitude> "37.0529"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd436a930dbc6473d899dfa1e51154b77> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://schema.org/postalCode> "42038" .
+<http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> <http://schema.org/id> "8402100198" .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/name> "LYON COUNTY HISTORICAL SOCIETY INCORPORATED"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd436a930dbc6473d899dfa1e51154b77> <http://schema.org/longitude> "-88.0547"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd436a930dbc6473d899dfa1e51154b77> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://schema.org/streetAddress> "PO BOX 811" .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://schema.org/addressLocality> "EDDYVILLE" .
+<http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> <http://schema.org/addressRegion> "KY" .
+<http://lodlaundromat.org/.well-known/genid/N9891ef8f3e214dd9a37384e789a0ecb6> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2e3b619fdada4725af4129a7cf89d741> .
+<http://lodlaundromat.org/.well-known/genid/N67e32a51049b4374a1941f9662fdf911> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.0529&mlon=-88.0547#map=15/37.0529/-88.0547> .
+<http://lodlaundromat.org/.well-known/genid/Ne84fcb88f78a44c3a5d1dcee00005bcd> <http://schema.org/value> "140441"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

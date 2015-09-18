@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N952d9ae2d2244219b35f713825452274> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb15ac785897942febd983cd083800f2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N952d9ae2d2244219b35f713825452274> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb15ac785897942febd983cd083800f2d> .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb15ac785897942febd983cd083800f2d> <http://schema.org/latitude> "32.511"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N952d9ae2d2244219b35f713825452274> <http://schema.org/value> "136419"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nb15ac785897942febd983cd083800f2d> <http://schema.org/longitude> "-84.9288"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/name> "HISTORIC COLUMBUS FOUNDATION ENDOWMENT FUND"@en .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://schema.org/addressLocality> "COLUMBUS" .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.511&mlon=-84.9288#map=15/32.511/-84.9288> .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://schema.org/postalCode> "31902-3024" .
+<http://lodlaundromat.org/.well-known/genid/Nda9c4983c0ef4077ab3de449cff58850> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N952d9ae2d2244219b35f713825452274> .
+<http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://schema.org/streetAddress> "PO BOX 23024" .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N642ac0cab08f4bde96716108669db16d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbb44daf3e68e4d1d9011bd9681a72f4a> <http://schema.org/id> "8401300690" .
+

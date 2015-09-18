@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N52c2b34746aa4775b5d54b7138bd00e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://schema.org/addressLocality> "STERLING" .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://schema.org/postalCode> "61081-9778" .
+<http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://schema.org/streetAddress> "29454 COVELL RD" .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/name> "BUFFALO CREEK VALLEY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> .
+<http://lodlaundromat.org/.well-known/genid/N52c2b34746aa4775b5d54b7138bd00e7> <http://schema.org/value> "138092"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd61eac1e89b74625aabd11148374ad5b> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.9163&mlon=-89.6749#map=15/41.9163/-89.6749> .
+<http://lodlaundromat.org/.well-known/genid/N8e8ba4ed8df84015b3c54547fb39313d> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Nd61eac1e89b74625aabd11148374ad5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nd61eac1e89b74625aabd11148374ad5b> <http://schema.org/longitude> "-89.6749"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52c2b34746aa4775b5d54b7138bd00e7> .
+<http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd61eac1e89b74625aabd11148374ad5b> <http://schema.org/latitude> "41.9163"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> .
+<http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> <http://schema.org/id> "8401701237" .
+<http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N52c2b34746aa4775b5d54b7138bd00e7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N412125a9c1364bbe8e651aac20cdb19f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6e8e15c4d34a42a1a79b02a3d04869a4> <http://schema.org/url> <http://www.imls.gov/> .
+

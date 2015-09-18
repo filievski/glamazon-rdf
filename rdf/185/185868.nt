@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> .
+<http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> <http://schema.org/id> "108282" .
+<http://lodlaundromat.org/.well-known/genid/N807b569e674a4b3da8b39200077a3a53> <http://schema.org/latitude> "38.1067"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N807b569e674a4b3da8b39200077a3a53> <http://schema.org/longitude> "15.6437"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N807b569e674a4b3da8b39200077a3a53> .
+<http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N29ea2117d04c481f919638a0752f2ca3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1067&mlon=15.6437#map=15/38.1067/15.6437> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/name> "Museo dell\u2019artigianato tessile, della seta, del costume e della moda calabrese"@it .
+<http://lodlaundromat.org/.well-known/genid/Ndcd39c4416aa4b45a9304819515ccd7a> <http://schema.org/contentUrl> <http://images.museums.io/HMNI4X0yj7uEZ3Pb5aYNXebB5L0=/1000x1000/museums/logos/000/185/868/original/e527868ae6f7258191b98e5e9f398f8ae1acc1.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Ndcd39c4416aa4b45a9304819515ccd7a> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/telephone> "+39 0965 336155" .
+<http://lodlaundromat.org/.well-known/genid/N29ea2117d04c481f919638a0752f2ca3> <http://schema.org/value> "185868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ndcd39c4416aa4b45a9304819515ccd7a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N807b569e674a4b3da8b39200077a3a53> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N18632f176ecb4af6b6af0ae1eec136b8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N29ea2117d04c481f919638a0752f2ca3> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ned80beabee204aa48cface5453e84a66> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N29ea2117d04c481f919638a0752f2ca3> .
+<http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> <http://schema.org/addressLocality> "Reggio di Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N65667d38e02f4a668550e152179f9460> <http://schema.org/streetAddress> "Via Re Ruggiero , 9" .
+

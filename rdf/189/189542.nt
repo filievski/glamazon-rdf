@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N8b1bd9826d674f28a0c6ed20d27175f6> <http://schema.org/contentUrl> <http://images.museums.io/8nYiYy-VMu4ZaLmlCzBwP2nVF1w=/1000x1000/museums/logos/000/189/542/original/c3bfbe6d9a5c5656f13984b0c7fc2bda6468c8.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2b17d3c4317e429f8b7f53424609450a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N8b1bd9826d674f28a0c6ed20d27175f6> .
+<http://lodlaundromat.org/.well-known/genid/N2b17d3c4317e429f8b7f53424609450a> <http://schema.org/latitude> "45.4451"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2b17d3c4317e429f8b7f53424609450a> .
+<http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2b17d3c4317e429f8b7f53424609450a> <http://schema.org/longitude> "10.9958"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/url> <http://www.museo-miniscalchi.it/> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N36d534ca3f47466fac395899015130d4> .
+<http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> <http://schema.org/id> "101142" .
+<http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> <http://schema.org/streetAddress> "Via San Mammaso, 2/A" .
+<http://lodlaundromat.org/.well-known/genid/N8b1bd9826d674f28a0c6ed20d27175f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> <http://schema.org/addressLocality> "Verona" .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N612e017cb6204ab884a8ae6279974821> .
+<http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/name> "Museo Miniscalchi Erizzo"@it .
+<http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> .
+<http://lodlaundromat.org/.well-known/genid/N36d534ca3f47466fac395899015130d4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N36d534ca3f47466fac395899015130d4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4451&mlon=10.9958#map=15/45.4451/10.9958> .
+<http://lodlaundromat.org/.well-known/genid/N5a92a3d546684f5993d12038b45d78ad> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N36d534ca3f47466fac395899015130d4> <http://schema.org/value> "189542"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9b9911660105458f894203d817dff331> <http://schema.org/telephone> "+39 0458032484" .
+

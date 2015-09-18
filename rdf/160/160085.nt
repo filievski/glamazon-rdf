@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://schema.org/streetAddress> "6193 WEST ARGO CIRCLE" .
+<http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4507910b33d743f8810100d714b872d1> <http://schema.org/latitude> "40.448"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/name> "FAIRBANKS HOMESTEAD PRESERVATION FUND"@en .
+<http://lodlaundromat.org/.well-known/genid/N4507910b33d743f8810100d714b872d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> .
+<http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> <http://schema.org/id> "8404900151" .
+<http://lodlaundromat.org/.well-known/genid/N4507910b33d743f8810100d714b872d1> <http://schema.org/longitude> "-111.807"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/telephone> "+1 (801) 756-6877" .
+<http://lodlaundromat.org/.well-known/genid/N327298be89a149549385fd58834691fa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://schema.org/postalCode> "84003" .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N327298be89a149549385fd58834691fa> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4507910b33d743f8810100d714b872d1> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.448&mlon=-111.807#map=15/40.448/-111.807> .
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://schema.org/url> <http://fairbanksinthewest.org/> .
+<http://lodlaundromat.org/.well-known/genid/N03ddf8e7e88a44f7916c93b43def4988> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://schema.org/addressLocality> "HIGHLAND" .
+<http://lodlaundromat.org/.well-known/genid/Nda6288625e3c447fa0c924f6e08b9880> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N327298be89a149549385fd58834691fa> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N36e6e259a54b463b996269ed477b5867> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N327298be89a149549385fd58834691fa> <http://schema.org/value> "160085"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c8aa5adc8742bf8eb2c1386bec088d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N413fd5ed4d32470aaf281d246ec77945> <http://schema.org/latitude> "42.6835"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N413fd5ed4d32470aaf281d246ec77945> <http://schema.org/longitude> "-91.5346"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/telephone> "+1 (563) 933-4615" .
+<http://lodlaundromat.org/.well-known/genid/N413fd5ed4d32470aaf281d246ec77945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> <http://schema.org/id> "8401900558" .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2faef90cdf7d48339afa78a4fcd5f90b> .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd6c8aa5adc8742bf8eb2c1386bec088d> .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.6835&mlon=-91.5346#map=15/42.6835/-91.5346> .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> .
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://schema.org/postalCode> "52076-0206" .
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nd6c8aa5adc8742bf8eb2c1386bec088d> <http://schema.org/value> "139521"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N413fd5ed4d32470aaf281d246ec77945> .
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://schema.org/addressLocality> "STRAWBERRY PT" .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/url> <http://www.wildermuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nd6c8aa5adc8742bf8eb2c1386bec088d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0e3ce31ed8b3433ead2b3a8549638c5d> <http://schema.org/streetAddress> "PO BOX 206" .
+<http://lodlaundromat.org/.well-known/genid/N86b8fba9a0634240b45435ab21be5a8b> <http://schema.org/name> "WILDER MEMORIAL MUSEUM INC"@en .
+

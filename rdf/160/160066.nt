@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nc22af158cd52498aacfcb65be0d49351> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc22af158cd52498aacfcb65be0d49351> <http://schema.org/value> "160066"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N28b664869df440f38a98459e43606418> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N28b664869df440f38a98459e43606418> <http://schema.org/longitude> "-112.149"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N28b664869df440f38a98459e43606418> .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> .
+<http://lodlaundromat.org/.well-known/genid/N28b664869df440f38a98459e43606418> <http://schema.org/latitude> "38.683"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/name> "FRIENDS OF THE FREMONT INDIAN STATE PARK AND MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://schema.org/streetAddress> "1028 SOUTH BROOKLYN ROAD" .
+<http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> .
+<http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> <http://schema.org/id> "8404900132" .
+<http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc22af158cd52498aacfcb65be0d49351> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://schema.org/postalCode> "84724" .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://schema.org/addressLocality> "ELSINORE" .
+<http://lodlaundromat.org/.well-known/genid/N5f0886782ebe4b00a12fa241b7b80bc2> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N747d951cd1a545168914d6a3316ee8ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc22af158cd52498aacfcb65be0d49351> .
+<http://lodlaundromat.org/.well-known/genid/N5c95106e7f3b42c4abacdf9e32fbc72b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.683&mlon=-112.149#map=15/38.683/-112.149> .
+

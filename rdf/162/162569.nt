@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N535f53d98d244245bf8f0724ac1c1804> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N535f53d98d244245bf8f0724ac1c1804> .
+<http://lodlaundromat.org/.well-known/genid/N535f53d98d244245bf8f0724ac1c1804> <http://schema.org/longitude> "-90.8949"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/name> "WASHBURN CULTURAL CENTER"@en .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> .
+<http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N4cd98817249c4a8b9831a3a8d831786a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://schema.org/addressLocality> "WASHBURN" .
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> <http://schema.org/id> "8405500018" .
+<http://lodlaundromat.org/.well-known/genid/N4cd98817249c4a8b9831a3a8d831786a> <http://schema.org/value> "162569"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://schema.org/streetAddress> "1 E BAYFIELD ST" .
+<http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/url> <http://www.washburnculturalcenter.org/> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.6709&mlon=-90.8949#map=15/46.6709/-90.8949> .
+<http://lodlaundromat.org/.well-known/genid/N4cd98817249c4a8b9831a3a8d831786a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> .
+<http://lodlaundromat.org/.well-known/genid/N5a53feebd45c4fffb194f711fa06bd4e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4cd98817249c4a8b9831a3a8d831786a> .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://schema.org/postalCode> "54891" .
+<http://lodlaundromat.org/.well-known/genid/N0ef976713ddf409687fe38d5badd18b5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N6f9885610b5947cbbed07bd75e1362f5> <http://schema.org/telephone> "+1 (715) 373-5591" .
+<http://lodlaundromat.org/.well-known/genid/N535f53d98d244245bf8f0724ac1c1804> <http://schema.org/latitude> "46.6709"^^<http://www.w3.org/2001/XMLSchema#double> .
+

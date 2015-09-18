@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/Nbf0e14ced7354c939a271916fcee5661> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://schema.org/telephone> "049 892 3801" .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://schema.org/name> "Graaff-Reinet Museums"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbf0e14ced7354c939a271916fcee5661> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> <http://schema.org/addressRegion> "Eastern Cape" .
+<http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> <http://schema.org/streetAddress> "Murray / Parsonage Streets, Graaff Reinet" .
+<http://lodlaundromat.org/.well-known/genid/N3be1f4c5046e46bebb6750cb79ced2b8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3be1f4c5046e46bebb6750cb79ced2b8> <http://schema.org/value> "184809"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbf0e14ced7354c939a271916fcee5661> .
+<http://lodlaundromat.org/.well-known/genid/Nbf0e14ced7354c939a271916fcee5661> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> <http://schema.org/addressLocality> "Graaff Reinet" .
+<http://lodlaundromat.org/.well-known/genid/Nbf0e14ced7354c939a271916fcee5661> <http://schema.org/url> <http://www.museums.io/en/museums/184809> .
+<http://lodlaundromat.org/.well-known/genid/N3be1f4c5046e46bebb6750cb79ced2b8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7ccdbf99ae2b4148aa5d9670ae345743> .
+<http://lodlaundromat.org/.well-known/genid/N294adc344aa34465970d19fd77812d32> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3be1f4c5046e46bebb6750cb79ced2b8> .
+

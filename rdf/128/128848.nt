@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5c361c778123491aa21ea55c5baffde7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5c361c778123491aa21ea55c5baffde7> <http://schema.org/longitude> "-88.1539"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://schema.org/addressRegion> "AL" .
+<http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5c361c778123491aa21ea55c5baffde7> <http://schema.org/latitude> "30.6932"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> <http://schema.org/id> "8400100378" .
+<http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.6932&mlon=-88.1539#map=15/30.6932/-88.1539> .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://schema.org/streetAddress> "24 RIDGELAWN DR E" .
+<http://lodlaundromat.org/.well-known/genid/N41d7a31cb8e247cab65946c4edca9da8> <http://schema.org/value> "128848"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N41d7a31cb8e247cab65946c4edca9da8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> .
+<http://lodlaundromat.org/.well-known/genid/N73caeba83bec4b1ba273cc7ac8c9f7d0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://schema.org/postalCode> "36608-2451" .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://schema.org/addressLocality> "MOBILE" .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5c361c778123491aa21ea55c5baffde7> .
+<http://lodlaundromat.org/.well-known/genid/N41d7a31cb8e247cab65946c4edca9da8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/name> "FRANKLIN LANDMARK FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne42fa8b43b57428ca9aaa10f19b12065> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N41d7a31cb8e247cab65946c4edca9da8> .
+<http://lodlaundromat.org/.well-known/genid/N70c6491607434cc3821443829c14a814> <http://schema.org/addressCountry> "United States" .
+

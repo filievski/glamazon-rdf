@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2ffa4e383196464ca5fc4051ceb3b4cb> .
+<http://lodlaundromat.org/.well-known/genid/N843ac0eaca664d9d96501bba5af1fc78> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N843ac0eaca664d9d96501bba5af1fc78> .
+<http://lodlaundromat.org/.well-known/genid/N2ffa4e383196464ca5fc4051ceb3b4cb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N843ac0eaca664d9d96501bba5af1fc78> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N97f78cd4017146fc9102852a09d8e991> .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/name> "Linton & District Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> <http://schema.org/url> <http://victoriancollections.net.au/organisations/linton-district-museum> .
+<http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2ffa4e383196464ca5fc4051ceb3b4cb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N97f78cd4017146fc9102852a09d8e991> <http://schema.org/latitude> "-37.6823"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N97f78cd4017146fc9102852a09d8e991> <http://schema.org/longitude> "143.566"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.6823&mlon=143.566#map=15/-37.6823/143.566> .
+<http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> <http://schema.org/id> "linton-district-museum" .
+<http://lodlaundromat.org/.well-known/genid/N97f78cd4017146fc9102852a09d8e991> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N14de255fabd341f69b28bd8ef88e9720> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N41beaa1283d1467ca70e37314fe96120> .
+<http://lodlaundromat.org/.well-known/genid/N2ffa4e383196464ca5fc4051ceb3b4cb> <http://schema.org/value> "164032"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

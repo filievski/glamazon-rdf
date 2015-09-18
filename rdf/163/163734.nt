@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc2c6f68ce47d497babf402fa06b1aca2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na54b1a9aee8c4e9095c91277a0326519> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nc2c6f68ce47d497babf402fa06b1aca2> .
+<http://lodlaundromat.org/.well-known/genid/Na54b1a9aee8c4e9095c91277a0326519> <http://schema.org/value> "163734"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N69f23359c6ce48fa9eb9d26a40a7c737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/name> "Broadford Courier Printing Office"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> <http://schema.org/id> "broadford-courier-printing-office" .
+<http://lodlaundromat.org/.well-known/genid/Na54b1a9aee8c4e9095c91277a0326519> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N69f23359c6ce48fa9eb9d26a40a7c737> .
+<http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> <http://schema.org/url> <http://victoriancollections.net.au/organisations/broadford-courier-printing-office> .
+<http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/Nc2c6f68ce47d497babf402fa06b1aca2> <http://schema.org/latitude> "-37.2034"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc2c6f68ce47d497babf402fa06b1aca2> <http://schema.org/longitude> "145.05"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.2034&mlon=145.05#map=15/-37.2034/145.05> .
+<http://lodlaundromat.org/.well-known/genid/N74eb42a309f1429e96d31301494201d6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc227eff923b4f6e89d47678382a1071> .
+<http://lodlaundromat.org/.well-known/genid/N69f23359c6ce48fa9eb9d26a40a7c737> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/Na54b1a9aee8c4e9095c91277a0326519> <http://schema.org/name> "id" .
+

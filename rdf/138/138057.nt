@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> <http://schema.org/id> "8401701202" .
+<http://lodlaundromat.org/.well-known/genid/N90bb301af7e942208b81ac159309ca26> <http://schema.org/latitude> "40.5075"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nea4e8295c7814d299e7e9c2323d4e39a> <http://schema.org/value> "138057"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N90bb301af7e942208b81ac159309ca26> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://schema.org/postalCode> "61761-3018" .
+<http://lodlaundromat.org/.well-known/genid/N90bb301af7e942208b81ac159309ca26> <http://schema.org/longitude> "-88.9832"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> .
+<http://lodlaundromat.org/.well-known/genid/Nea4e8295c7814d299e7e9c2323d4e39a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N90bb301af7e942208b81ac159309ca26> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://schema.org/addressLocality> "NORMAL" .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.5075&mlon=-88.9832#map=15/40.5075/-88.9832> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nea4e8295c7814d299e7e9c2323d4e39a> .
+<http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/name> "TOWN OF NORMAL"@en .
+<http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5078d84801804c60a0ff5f10d22ea51d> <http://schema.org/streetAddress> "100 EAST PHOENIX AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nea4e8295c7814d299e7e9c2323d4e39a> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N85deb58f6b9b4d7aadd0cfe4c9d6efc9> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0494ab6df3ba45b797c70d28277f957f> <http://schema.org/telephone> "+1 (309) 433-3447" .
+

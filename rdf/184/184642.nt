@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N3a8d3b30239f47db96da7e312529b65f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> <http://schema.org/addressRegion> "Western Cape" .
+<http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> <http://schema.org/addressLocality> "Piketberg" .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://schema.org/name> "Piketberg Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3a8d3b30239f47db96da7e312529b65f> .
+<http://lodlaundromat.org/.well-known/genid/N3a8d3b30239f47db96da7e312529b65f> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> <http://schema.org/streetAddress> "14 Church Street Piketberg" .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N10931ff0c67046dbad507641b1a25941> .
+<http://lodlaundromat.org/.well-known/genid/N3a8d3b30239f47db96da7e312529b65f> <http://schema.org/url> <http://www.museums.io/en/museums/184642> .
+<http://lodlaundromat.org/.well-known/genid/N3a8d3b30239f47db96da7e312529b65f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N10931ff0c67046dbad507641b1a25941> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://schema.org/telephone> "022 913 1126" .
+<http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N687b2625ee334f989e31a160823df945> .
+<http://lodlaundromat.org/.well-known/genid/N7690dc7434714e1aa58785b753b6e454> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N10931ff0c67046dbad507641b1a25941> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N10931ff0c67046dbad507641b1a25941> <http://schema.org/value> "184642"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

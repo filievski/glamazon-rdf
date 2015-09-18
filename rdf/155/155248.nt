@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nd09b03b2bac04231842414ffed260fde> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> .
+<http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> <http://schema.org/addressRegion> "PA" .
+<http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nb180c079d92144d9adfae3cdc969f19a> <http://schema.org/longitude> "-76.3168"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb180c079d92144d9adfae3cdc969f19a> <http://schema.org/latitude> "40.0495"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> .
+<http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb180c079d92144d9adfae3cdc969f19a> .
+<http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> <http://schema.org/postalCode> "17603-2827" .
+<http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nd09b03b2bac04231842414ffed260fde> <http://schema.org/value> "155248"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd09b03b2bac04231842414ffed260fde> .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/name> "FRANKLIN AND MARSHALL COLLEGE"@en .
+<http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> <http://schema.org/addressLocality> "LANCASTER" .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.0495&mlon=-76.3168#map=15/40.0495/-76.3168> .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://schema.org/url> <http://www.fandm.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> <http://schema.org/id> "8404200442" .
+<http://lodlaundromat.org/.well-known/genid/N6aa1e4eb6bf54d20b4747845c0ac5cdf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd09b03b2bac04231842414ffed260fde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N21134c01f1d74c26a938c99aec4ccf34> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb180c079d92144d9adfae3cdc969f19a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N33d95e354ab24da1a88cb0e451ba96b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

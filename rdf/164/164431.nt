@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N302a1aed171442ae9f81b115cdba5f09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.5615&mlon=143.858#map=15/-37.5615/143.858> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N44d1b05e3d174bdda395b5dc6cffa578> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> .
+<http://lodlaundromat.org/.well-known/genid/N5246f41aac544c36ad6ad23900734ebe> <http://schema.org/value> "164431"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5246f41aac544c36ad6ad23900734ebe> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> <http://schema.org/url> <http://victoriancollections.net.au/organisations/victorian-interpretive-projects> .
+<http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> <http://schema.org/id> "victorian-interpretive-projects" .
+<http://lodlaundromat.org/.well-known/genid/N44d1b05e3d174bdda395b5dc6cffa578> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/url> <http://vipsinc.wordpress.com/> .
+<http://lodlaundromat.org/.well-known/genid/N302a1aed171442ae9f81b115cdba5f09> <http://schema.org/longitude> "143.858"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/name> "Victorian Interpretive Projects"@en .
+<http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/openingHours> "N/A"@en .
+<http://lodlaundromat.org/.well-known/genid/N44d1b05e3d174bdda395b5dc6cffa578> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/telephone> "N/A" .
+<http://lodlaundromat.org/.well-known/genid/N23dc84a52c824ed5b91bad307d647cee> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N302a1aed171442ae9f81b115cdba5f09> .
+<http://lodlaundromat.org/.well-known/genid/N25eef042edfe47159a11523390333839> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5246f41aac544c36ad6ad23900734ebe> .
+<http://lodlaundromat.org/.well-known/genid/N302a1aed171442ae9f81b115cdba5f09> <http://schema.org/latitude> "-37.5615"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5246f41aac544c36ad6ad23900734ebe> <http://schema.org/name> "id" .
+

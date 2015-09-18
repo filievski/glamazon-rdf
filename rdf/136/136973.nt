@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N2f3eb73d0a074f83b2236558075aa9c7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2f3eb73d0a074f83b2236558075aa9c7> .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/url> <http://www.blockmuseum.northwestern.edu/> .
+<http://lodlaundromat.org/.well-known/genid/N522ebdb2ba074f26a6bc9bdd800fe3ed> <http://schema.org/value> "136973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://schema.org/addressLocality> "EVANSTON" .
+<http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N2f3eb73d0a074f83b2236558075aa9c7> <http://schema.org/latitude> "42.0514"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> <http://schema.org/id> "8401700118" .
+<http://lodlaundromat.org/.well-known/genid/N2f3eb73d0a074f83b2236558075aa9c7> <http://schema.org/longitude> "-87.6723"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N522ebdb2ba074f26a6bc9bdd800fe3ed> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://schema.org/postalCode> "60208" .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.0514&mlon=-87.6723#map=15/42.0514/-87.6723> .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/telephone> "+1 (847) 491-4000" .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N111883690855413790e996248351140a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9f8fc46221f74960bf541acbcc229a42> <http://schema.org/streetAddress> "40 ARTS CIRCLE DR" .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/name> "MARY AND LEIGH BLOCK MUSEUM OF ART"@en .
+<http://lodlaundromat.org/.well-known/genid/Ndadb4310111c498e964ff92396e91679> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N522ebdb2ba074f26a6bc9bdd800fe3ed> .
+<http://lodlaundromat.org/.well-known/genid/N522ebdb2ba074f26a6bc9bdd800fe3ed> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+

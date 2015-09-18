@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://schema.org/postalCode> "49950" .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfeaf9bdd1cec49dfaca04a5968bdd778> .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc33c3d6afc4d453da94b52465f3a80ef> .
+<http://lodlaundromat.org/.well-known/genid/Nc33c3d6afc4d453da94b52465f3a80ef> <http://schema.org/value> "143654"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nfeaf9bdd1cec49dfaca04a5968bdd778> <http://schema.org/longitude> "-88.2319"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/name> "EAGLE HARBOR LIGHT STATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc33c3d6afc4d453da94b52465f3a80ef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.4321&mlon=-88.2319#map=15/47.4321/-88.2319> .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://schema.org/streetAddress> "HISTORIC PL" .
+<http://lodlaundromat.org/.well-known/genid/N770998e5570c4f70b971e42e98ce84e8> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> .
+<http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc33c3d6afc4d453da94b52465f3a80ef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ndf4748e4768845c2b1ac02902cce6493> <http://schema.org/id> "8402600191" .
+<http://lodlaundromat.org/.well-known/genid/Nfeaf9bdd1cec49dfaca04a5968bdd778> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9439e12278894a4982b5522130982bcb> <http://schema.org/addressLocality> "EAGLE HARBOR" .
+<http://lodlaundromat.org/.well-known/genid/Nfeaf9bdd1cec49dfaca04a5968bdd778> <http://schema.org/latitude> "47.4321"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0b071ccbbac406fa3ef14e026edcac5> .
+<http://lodlaundromat.org/.well-known/genid/Nd0b071ccbbac406fa3ef14e026edcac5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nac3bbf0eef214361a94135714815ca3f> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nac3bbf0eef214361a94135714815ca3f> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/name> "Neuer Kunstverein Aschaffenburg e.V."@en .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://schema.org/addressLocality> "Aschaffenburg" .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N30a338315991445e9b44c2943d538782> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N30a338315991445e9b44c2943d538782> <http://schema.org/longitude> "9.14541"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://schema.org/postalCode> "63739" .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> .
+<http://lodlaundromat.org/.well-known/genid/Nac3bbf0eef214361a94135714815ca3f> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nac3bbf0eef214361a94135714815ca3f> <http://schema.org/url> <http://www.museums.io/en/museums/182895> .
+<http://lodlaundromat.org/.well-known/genid/N30a338315991445e9b44c2943d538782> <http://schema.org/latitude> "49.9752"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nac3bbf0eef214361a94135714815ca3f> .
+<http://lodlaundromat.org/.well-known/genid/Nd0b071ccbbac406fa3ef14e026edcac5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N95d131f0736a4cf6ab335a8e1ed77811> <http://schema.org/streetAddress> "Landingstra\u00DFe 16" .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N30a338315991445e9b44c2943d538782> .
+<http://lodlaundromat.org/.well-known/genid/Nd0b071ccbbac406fa3ef14e026edcac5> <http://schema.org/value> "182895"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/telephone> "06021/299278" .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.9752&mlon=9.14541#map=15/49.9752/9.14541> .
+<http://lodlaundromat.org/.well-known/genid/N9bcc202021074d5382ddd29bae9a7478> <http://schema.org/url> <http://www.nkvaschaffenburg.de/> .
+

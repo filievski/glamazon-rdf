@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na6ea95eb684e4f34ad68027d275ae844> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N99303eeec74c41f8a9abae1a22a9c915> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N99303eeec74c41f8a9abae1a22a9c915> .
+<http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N99303eeec74c41f8a9abae1a22a9c915> <http://schema.org/value> "159080"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/url> <http://www.wilsoncountyhistory.org/our_history/services/services.html> .
+<http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/name> "WILSON COUNTY HISTORICAL SOCIETY C/O GENE MAECKEL"@en .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> .
+<http://lodlaundromat.org/.well-known/genid/Na6ea95eb684e4f34ad68027d275ae844> <http://schema.org/longitude> "-98.1845"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na6ea95eb684e4f34ad68027d275ae844> <http://schema.org/latitude> "29.1558"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://schema.org/postalCode> "78114-0101" .
+<http://lodlaundromat.org/.well-known/genid/N99303eeec74c41f8a9abae1a22a9c915> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://schema.org/streetAddress> "PO BOX 101" .
+<http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> <http://schema.org/id> "8404801180" .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> .
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://schema.org/addressLocality> "FLORESVILLE" .
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.1558&mlon=-98.1845#map=15/29.1558/-98.1845> .
+<http://lodlaundromat.org/.well-known/genid/Nea1616b521074ad5aa0257f57519dc5b> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0e4bc5f890ee472a93de2b5aee6185cc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N08e8c8b1fb9040fc8b95217aec024699> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na6ea95eb684e4f34ad68027d275ae844> .
+

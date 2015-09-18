@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://schema.org/addressRegion> "FL" .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/name> "ANHINGA INDIAN MUSEUM AND GALLERY"@en .
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://schema.org/addressLocality> "FORT LAUDERDALE" .
+<http://lodlaundromat.org/.well-known/genid/N0f316d0ed4eb4c748042130d791ecb88> <http://schema.org/latitude> "26.1123"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6041ce7e619c41f6bfd581653bb3fbbd> <http://schema.org/value> "134690"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6041ce7e619c41f6bfd581653bb3fbbd> .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/telephone> "+1 (954) 581-0416" .
+<http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> <http://schema.org/id> "8401200244" .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> .
+<http://lodlaundromat.org/.well-known/genid/N6041ce7e619c41f6bfd581653bb3fbbd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=26.1123&mlon=-80.2307#map=15/26.1123/-80.2307> .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> .
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://schema.org/postalCode> "33317" .
+<http://lodlaundromat.org/.well-known/genid/N0f316d0ed4eb4c748042130d791ecb88> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0f316d0ed4eb4c748042130d791ecb88> <http://schema.org/longitude> "-80.2307"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N148d9f4be0d24fa0b4842d29a3fa3083> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0f316d0ed4eb4c748042130d791ecb88> .
+<http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6041ce7e619c41f6bfd581653bb3fbbd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N53d297a9367947409647790301791d30> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1dbcefe9bfa9479a8bc9a0930f64cdfc> <http://schema.org/streetAddress> "5985 SW 7TH ST" .
+

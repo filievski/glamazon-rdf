@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N742ff399d6c0401685907b9842b9c03b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N839f2d7ff399407e8101f2bfa9ba9fee> .
+<http://lodlaundromat.org/.well-known/genid/N08c472c15bbb4309b351a6398d7f8465> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N839f2d7ff399407e8101f2bfa9ba9fee> <http://schema.org/value> "182712"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://schema.org/addressRegion> "Mittelfranken" .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> .
+<http://lodlaundromat.org/.well-known/genid/N08c472c15bbb4309b351a6398d7f8465> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://schema.org/addressLocality> "Erlangen" .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N08c472c15bbb4309b351a6398d7f8465> .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/url> <http://www.uni-erlangen.de/infocenter/sammlungen/ur-und-fruehgeschichtliche-sammlung.shtml> .
+<http://lodlaundromat.org/.well-known/genid/N742ff399d6c0401685907b9842b9c03b> <http://schema.org/longitude> "11.0166"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N08c472c15bbb4309b351a6398d7f8465> <http://schema.org/url> <http://www.museums.io/en/museums/182712> .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N742ff399d6c0401685907b9842b9c03b> .
+<http://lodlaundromat.org/.well-known/genid/N839f2d7ff399407e8101f2bfa9ba9fee> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N08c472c15bbb4309b351a6398d7f8465> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N742ff399d6c0401685907b9842b9c03b> <http://schema.org/latitude> "49.6005"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/telephone> "09131/8526677" .
+<http://lodlaundromat.org/.well-known/genid/N839f2d7ff399407e8101f2bfa9ba9fee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/name> "Ur- und Fr\u00FChgeschichtliche Sammlung der Universit\u00E4t Erlangen-N\u00FCrnberg"@en .
+<http://lodlaundromat.org/.well-known/genid/N5942fc4ec14e43b3a2b47b701a214006> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=49.6005&mlon=11.0166#map=15/49.6005/11.0166> .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://schema.org/postalCode> "91054" .
+<http://lodlaundromat.org/.well-known/genid/N6c9194a9ec354e54a5c8daebde619453> <http://schema.org/streetAddress> "Kochstra\u00DFe 4" .
+

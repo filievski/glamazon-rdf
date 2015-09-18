@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://schema.org/addressLocality> "EL MONTE" .
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/name> "LA HISTORIA HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> .
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://schema.org/streetAddress> "3240 N TYLER AVE" .
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nfc19a6b79fb64250ab3aa9ce40aa7c2d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N47599e8a05e14df58d5d7e2d64c536d9> .
+<http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> <http://schema.org/id> "8400602866" .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.0677&mlon=-118.036#map=15/34.0677/-118.036> .
+<http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne298ff86ce2f4783827b3812cd100d0f> <http://schema.org/postalCode> "91731" .
+<http://lodlaundromat.org/.well-known/genid/Nfc19a6b79fb64250ab3aa9ce40aa7c2d> <http://schema.org/value> "132740"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N606ac3cdbabf4087a4b8d9b2b1634329> .
+<http://lodlaundromat.org/.well-known/genid/N47599e8a05e14df58d5d7e2d64c536d9> <http://schema.org/longitude> "-118.036"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/url> <http://lahistoriasociety.com/> .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfc19a6b79fb64250ab3aa9ce40aa7c2d> .
+<http://lodlaundromat.org/.well-known/genid/N47599e8a05e14df58d5d7e2d64c536d9> <http://schema.org/latitude> "34.0677"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfc19a6b79fb64250ab3aa9ce40aa7c2d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na03f7e5746a646708dcd3cff6eb398ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N47599e8a05e14df58d5d7e2d64c536d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+

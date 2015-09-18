@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne6562f9a252745349a7b353e5c4c193c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N951c805a9160494d956b099a13b3adb2> <http://schema.org/latitude> "41.2298"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N951c805a9160494d956b099a13b3adb2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.2298&mlon=-94.3625#map=15/41.2298/-94.3625> .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N951c805a9160494d956b099a13b3adb2> .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/name> "HENRY A WALLACE BIRTHPLACE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne6562f9a252745349a7b353e5c4c193c> .
+<http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> <http://schema.org/id> "8401900088" .
+<http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne6562f9a252745349a7b353e5c4c193c> <http://schema.org/value> "139051"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N951c805a9160494d956b099a13b3adb2> <http://schema.org/longitude> "-94.3625"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/telephone> "+1 (641) 337-5019" .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://schema.org/addressLocality> "ORIENT" .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://schema.org/postalCode> "50858" .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nf23da217814149bcb9a192d00543a69a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2a09a91b4453464abe5f5eb80a77f189> .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://schema.org/streetAddress> "2773 290TH ST" .
+<http://lodlaundromat.org/.well-known/genid/Nce7e8d504ef344d1bb1b2110b5796a95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne6562f9a252745349a7b353e5c4c193c> <http://schema.org/name> "id" .
+

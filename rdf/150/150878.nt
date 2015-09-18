@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/telephone> "+1 (315) 548-4940" .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://schema.org/postalCode> "14532-1053" .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3eabadf280b54e0e96b8240b997cbbdf> .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3eabadf280b54e0e96b8240b997cbbdf> <http://schema.org/value> "150878"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://schema.org/streetAddress> "66 MAIN ST" .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.9571&mlon=-77.0559#map=15/42.9571/-77.0559> .
+<http://lodlaundromat.org/.well-known/genid/N3eabadf280b54e0e96b8240b997cbbdf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://schema.org/addressLocality> "PHELPS" .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> .
+<http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N53a46b604e2f4567b5310901b753fbb6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/name> "PHELPS COMMUNITY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N53a46b604e2f4567b5310901b753fbb6> .
+<http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> <http://schema.org/id> "8403602172" .
+<http://lodlaundromat.org/.well-known/genid/N9466abfba9c04429af4fd0181ac566b1> <http://schema.org/url> <http://phelpsny.com/historical-society/> .
+<http://lodlaundromat.org/.well-known/genid/N0ef7bbbe25b84b5cb7e5204ed800cad2> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N53a46b604e2f4567b5310901b753fbb6> <http://schema.org/longitude> "-77.0559"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N53a46b604e2f4567b5310901b753fbb6> <http://schema.org/latitude> "42.9571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3eabadf280b54e0e96b8240b997cbbdf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N44100ac436214b7aa896ae8403cec662> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

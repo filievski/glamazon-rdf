@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N8a3a366f4aa140959e464b2fda8ca46f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8a3a366f4aa140959e464b2fda8ca46f> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> .
+<http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na92228eceff0406eb604061175e25127> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na92228eceff0406eb604061175e25127> <http://schema.org/latitude> "46.2054"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://schema.org/streetAddress> "13470 COUNTY HIGHWAY M" .
+<http://lodlaundromat.org/.well-known/genid/N8a3a366f4aa140959e464b2fda8ca46f> <http://schema.org/value> "163318"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> .
+<http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://schema.org/addressRegion> "WI" .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://schema.org/addressLocality> "CABLE" .
+<http://lodlaundromat.org/.well-known/genid/Na92228eceff0406eb604061175e25127> <http://schema.org/longitude> "-91.207"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=46.2054&mlon=-91.207#map=15/46.2054/-91.207> .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na92228eceff0406eb604061175e25127> .
+<http://lodlaundromat.org/.well-known/genid/N8a3a366f4aa140959e464b2fda8ca46f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7c5b9bcf7a1c4541ad8040b4bc0482c3> <http://schema.org/postalCode> "54821-0416" .
+<http://lodlaundromat.org/.well-known/genid/N44e36f390c124c6c82f2b07aefb2c96b> <http://schema.org/name> "CABLE NATURAL HISTORY MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> <http://schema.org/id> "8405500767" .
+<http://lodlaundromat.org/.well-known/genid/Nf472d60d6eee4a7b918c5364447215bc> <http://schema.org/@Type> "Dataset" .
+

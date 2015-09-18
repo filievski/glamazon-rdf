@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N1df7ece032e94faeab962bc320073168> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Ne40f8839d38845c686adc1c3dea4f9b2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> <http://schema.org/streetAddress> "Piazza Castello- Largo Portelle, " .
+<http://lodlaundromat.org/.well-known/genid/Ne40f8839d38845c686adc1c3dea4f9b2> <http://schema.org/value> "185973"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/telephone> "+39 0823941080" .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> .
+<http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8b472c8380de49028cffcc18d376e635> .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4269&mlon=14.2049#map=15/41.4269/14.2049> .
+<http://lodlaundromat.org/.well-known/genid/N8b472c8380de49028cffcc18d376e635> <http://schema.org/longitude> "14.2049"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne40f8839d38845c686adc1c3dea4f9b2> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N1df7ece032e94faeab962bc320073168> .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/name> "Museo storico militare di Prata Sannita"@it .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> .
+<http://lodlaundromat.org/.well-known/genid/Nb359dd6f0a9e4284892b8a8b9884776d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne40f8839d38845c686adc1c3dea4f9b2> .
+<http://lodlaundromat.org/.well-known/genid/N1df7ece032e94faeab962bc320073168> <http://schema.org/contentUrl> <http://images.museums.io/N5xYn3TRiRgdoqMF_esd07s9S1o=/1000x1000/museums/logos/000/185/973/original/6bd39faf4f5983c6712012deb75c447f63a87b.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> <http://schema.org/addressRegion> "Campania" .
+<http://lodlaundromat.org/.well-known/genid/N8b472c8380de49028cffcc18d376e635> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8b472c8380de49028cffcc18d376e635> <http://schema.org/latitude> "41.4269"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nf299af52317849018d12d6cdcba17953> <http://schema.org/addressLocality> "Prata Sannita" .
+<http://lodlaundromat.org/.well-known/genid/N05c7a7cbe119414aa8a374f03893772e> <http://schema.org/id> "101815" .
+

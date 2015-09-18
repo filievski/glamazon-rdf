@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8bb68dbe9af348789fe3bdade3e31be0> <http://schema.org/latitude> "39.9061"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8bb68dbe9af348789fe3bdade3e31be0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N8bb68dbe9af348789fe3bdade3e31be0> .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd0bc65f8432643faa590fca698fac565> .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://schema.org/addressRegion> "IN" .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://schema.org/addressLocality> "INDIANAPOLIS" .
+<http://lodlaundromat.org/.well-known/genid/Nd0bc65f8432643faa590fca698fac565> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://schema.org/streetAddress> "8213 WINDHAVEN CIR" .
+<http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd0bc65f8432643faa590fca698fac565> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8bb68dbe9af348789fe3bdade3e31be0> <http://schema.org/longitude> "-85.966"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/name> "HERITAGE CLASSIC FOUNDATION INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Nd0bc65f8432643faa590fca698fac565> <http://schema.org/value> "138381"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> .
+<http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N139c85a7a3794d52b353b384a67e290c> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.9061&mlon=-85.966#map=15/39.9061/-85.966> .
+<http://lodlaundromat.org/.well-known/genid/Na70ff838de82489ab4b9d9913813cf94> <http://schema.org/id> "8401800167" .
+<http://lodlaundromat.org/.well-known/genid/Na7d90fa673994848acb0df24d5776626> <http://schema.org/postalCode> "46236-8714" .
+

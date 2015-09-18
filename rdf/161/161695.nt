@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> .
+<http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nee2817902bc44888938ba5ba34fd5854> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://schema.org/postalCode> "98198-3630" .
+<http://lodlaundromat.org/.well-known/genid/Nf34e1b12e1ac42558c56bdb1ba41afca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nee2817902bc44888938ba5ba34fd5854> <http://schema.org/value> "161695"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf34e1b12e1ac42558c56bdb1ba41afca> <http://schema.org/longitude> "-122.328"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://schema.org/addressRegion> "WA" .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nf34e1b12e1ac42558c56bdb1ba41afca> .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee2817902bc44888938ba5ba34fd5854> .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://schema.org/streetAddress> "21025 5TH AVE S" .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/name> "WASHINGTON MUSEUM OF MILITARY TECHNOLOGY"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf34e1b12e1ac42558c56bdb1ba41afca> <http://schema.org/latitude> "47.4129"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N0ddd2e6cedfe466da09d71be1fe9add0> <http://schema.org/id> "8405300144" .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> <http://schema.org/addressLocality> "DES MOINES" .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.4129&mlon=-122.328#map=15/47.4129/-122.328> .
+<http://lodlaundromat.org/.well-known/genid/Nee2817902bc44888938ba5ba34fd5854> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9205b8677f2841229c549f445f91d021> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N184f71c76f114ae9802640354225d063> .
+

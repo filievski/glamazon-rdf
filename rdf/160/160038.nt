@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> <http://schema.org/id> "8404900104" .
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://schema.org/streetAddress> "465 N HWY 12" .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/url> <http://www.boulderheritage.org/> .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6248fd7a32774d08bd16311b7468fb37> .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/name> "BOULDER HERITAGE FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N757a40af20ba41daa0f627203b5ce57b> .
+<http://lodlaundromat.org/.well-known/genid/N6248fd7a32774d08bd16311b7468fb37> <http://schema.org/latitude> "37.9428"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> .
+<http://lodlaundromat.org/.well-known/genid/N6248fd7a32774d08bd16311b7468fb37> <http://schema.org/longitude> "-111.433"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6248fd7a32774d08bd16311b7468fb37> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N757a40af20ba41daa0f627203b5ce57b> <http://schema.org/value> "160038"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://schema.org/addressLocality> "BOULDER" .
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://schema.org/addressRegion> "UT" .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=37.9428&mlon=-111.433#map=15/37.9428/-111.433> .
+<http://lodlaundromat.org/.well-known/genid/Nf7a47997f22547e3bac72c91d3a7d7a2> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> .
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://schema.org/postalCode> "84716" .
+<http://lodlaundromat.org/.well-known/genid/N53bc7371cb344c38b13ebeba260890cf> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N757a40af20ba41daa0f627203b5ce57b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N7b03a22c5f2643aeb5b388d12da595fd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N757a40af20ba41daa0f627203b5ce57b> <http://schema.org/name> "id" .
+

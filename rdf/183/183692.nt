@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://schema.org/addressLocality> "Starnberg" .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/telephone> "08151/447757-0" .
+<http://lodlaundromat.org/.well-known/genid/N10ca9133aaed4f47b020c3df97cadf56> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://schema.org/streetAddress> "Possenhofener Stra\u00DFe 5" .
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N6f3eb448255e4f8d939f19ebd367c23d> <http://schema.org/latitude> "47.9954"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://schema.org/addressRegion> "Oberbayern" .
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9d4351d914794628882c4e4361fd4bde> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6f3eb448255e4f8d939f19ebd367c23d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6f3eb448255e4f8d939f19ebd367c23d> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/name> "Museum Starnberger See"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=47.9954&mlon=11.3394#map=15/47.9954/11.3394> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9d4351d914794628882c4e4361fd4bde> .
+<http://lodlaundromat.org/.well-known/genid/N9d4351d914794628882c4e4361fd4bde> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N6f3eb448255e4f8d939f19ebd367c23d> <http://schema.org/longitude> "11.3394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N9d4351d914794628882c4e4361fd4bde> <http://schema.org/value> "183692"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N10ca9133aaed4f47b020c3df97cadf56> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N10ca9133aaed4f47b020c3df97cadf56> .
+<http://lodlaundromat.org/.well-known/genid/N10ca9133aaed4f47b020c3df97cadf56> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne090c07d07da46018fe52b7d1e9a3135> <http://schema.org/url> <http://www.museum-starnberger-see.de/> .
+<http://lodlaundromat.org/.well-known/genid/N10ca9133aaed4f47b020c3df97cadf56> <http://schema.org/url> <http://www.museums.io/en/museums/183692> .
+<http://lodlaundromat.org/.well-known/genid/Ne01b59a114df45118b08800a3b20b9ee> <http://schema.org/postalCode> "82319" .
+

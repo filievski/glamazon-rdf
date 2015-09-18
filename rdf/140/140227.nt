@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://schema.org/addressRegion> "KS" .
+<http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb33a423ea45b422ea2e1ad8d712c197f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb33a423ea45b422ea2e1ad8d712c197f> .
+<http://lodlaundromat.org/.well-known/genid/Nb604780da0b1447ca8fc4d05db40e637> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/name> "FRIENDS OF HISTORICAL BUILDINGS"@en .
+<http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb604780da0b1447ca8fc4d05db40e637> <http://schema.org/value> "140227"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb604780da0b1447ca8fc4d05db40e637> .
+<http://lodlaundromat.org/.well-known/genid/Nb604780da0b1447ca8fc4d05db40e637> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://schema.org/postalCode> "66067-3608" .
+<http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://schema.org/addressLocality> "OTTAWA" .
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> <http://schema.org/streetAddress> "312 E 13TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> <http://schema.org/id> "8402000553" .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0988dc7df3174d94aa661abe92069794> .
+<http://lodlaundromat.org/.well-known/genid/Nb33a423ea45b422ea2e1ad8d712c197f> <http://schema.org/latitude> "38.5973"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.5973&mlon=-95.2654#map=15/38.5973/-95.2654> .
+<http://lodlaundromat.org/.well-known/genid/N91dc14af3d5844b791c142c5b3d65970> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N375bc8055a1a4a3f848f5e7695571d0f> .
+<http://lodlaundromat.org/.well-known/genid/Nb33a423ea45b422ea2e1ad8d712c197f> <http://schema.org/longitude> "-95.2654"^^<http://www.w3.org/2001/XMLSchema#double> .
+

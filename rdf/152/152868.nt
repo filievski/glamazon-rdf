@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N7926a203027e46458e90ff46ced904dd> <http://schema.org/value> "152868"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N26897ec7454b40c4939b55b3cf3c05d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N26897ec7454b40c4939b55b3cf3c05d3> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7926a203027e46458e90ff46ced904dd> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9921&mlon=-83.853#map=15/38.9921/-83.853> .
+<http://lodlaundromat.org/.well-known/genid/N26897ec7454b40c4939b55b3cf3c05d3> <http://schema.org/longitude> "-83.853"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/url> <http://www.usgrantboyhoodhome.org/> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/name> "U S GRANT HOMESTEAD ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/telephone> "+1 (937) 378-0007" .
+<http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> <http://schema.org/id> "8403900645" .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://schema.org/postalCode> "45171-9113" .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://schema.org/addressLocality> "GEORGETOWN" .
+<http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N7926a203027e46458e90ff46ced904dd> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N26897ec7454b40c4939b55b3cf3c05d3> <http://schema.org/latitude> "38.9921"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N55848fa4d80641d5a408a7132c71b6e7> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> .
+<http://lodlaundromat.org/.well-known/genid/N8dfaf5dcc81d4a1c98ff80c4f5cb3e5c> <http://schema.org/streetAddress> "318 WESTSTATE STREET" .
+<http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N7926a203027e46458e90ff46ced904dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1f4483e73a1a474ab2057e67bd468a29> <http://schema.org/url> <http://www.imls.gov/> .
+

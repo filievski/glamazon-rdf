@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N036ff22846f040e287a6e69a16d83e0c> .
+<http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N036ff22846f040e287a6e69a16d83e0c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5a327ec5caa44a46bcc07e6d5b2d137e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N036ff22846f040e287a6e69a16d83e0c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/telephone> "+1 (541) 475-3808" .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://schema.org/addressLocality> "MADRAS" .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N036ff22846f040e287a6e69a16d83e0c> <http://schema.org/value> "154692"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5a327ec5caa44a46bcc07e6d5b2d137e> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/name> "JEFFERSON COUNTY HISTORICAL SOCIETY AND MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N5a327ec5caa44a46bcc07e6d5b2d137e> <http://schema.org/latitude> "44.6324"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5a327ec5caa44a46bcc07e6d5b2d137e> <http://schema.org/longitude> "-121.133"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N244a96fd91374741b609390a9fea20b6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.6324&mlon=-121.133#map=15/44.6324/-121.133> .
+<http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> <http://schema.org/id> "8404100485" .
+<http://lodlaundromat.org/.well-known/genid/Ndc58b080ee0f466b80ae4d5c91208ae1> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://schema.org/streetAddress> "PO BOX 647" .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://schema.org/postalCode> "97741-0088" .
+<http://lodlaundromat.org/.well-known/genid/N6fa7524a89e64240af521272dfd2ba6c> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://schema.org/addressRegion> "GA" .
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://schema.org/streetAddress> "PO BOX 373" .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> .
+<http://lodlaundromat.org/.well-known/genid/N68ffada03234481e84aaf7f33f46c760> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://schema.org/postalCode> "31202-0373" .
+<http://lodlaundromat.org/.well-known/genid/N7228e2b3009e4ad2b638aeb41157d174> <http://schema.org/value> "135913"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> <http://schema.org/id> "8401300184" .
+<http://lodlaundromat.org/.well-known/genid/N7228e2b3009e4ad2b638aeb41157d174> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N68ffada03234481e84aaf7f33f46c760> <http://schema.org/longitude> "-83.6388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N68ffada03234481e84aaf7f33f46c760> <http://schema.org/latitude> "32.8394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N68ffada03234481e84aaf7f33f46c760> .
+<http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://schema.org/addressLocality> "MACON" .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/name> "HISTORIC RIVERSIDE CEMETERY CONSERVANCY INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0ea6a70a1e8244b6aa536633e6daab50> .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N7228e2b3009e4ad2b638aeb41157d174> .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.8394&mlon=-83.6388#map=15/32.8394/-83.6388> .
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N7228e2b3009e4ad2b638aeb41157d174> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N84b45ea4e62149e7bc8b9d44235b0195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2a12e16ea1c54d8fb036772c34276190> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N15785cb8a5c547e8bb597f2d34f4b1a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://schema.org/streetAddress> "12630 N 103RD AVE STE 214" .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://schema.org/postalCode> "85351-3467" .
+<http://lodlaundromat.org/.well-known/genid/N58a0f1dc700a44349601c6697cd03124> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N15785cb8a5c547e8bb597f2d34f4b1a7> <http://schema.org/latitude> "33.5997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://schema.org/addressLocality> "SUN CITY" .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.5997&mlon=-112.281#map=15/33.5997/-112.281> .
+<http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> <http://schema.org/addressRegion> "AZ" .
+<http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> <http://schema.org/id> "8400400464" .
+<http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N58a0f1dc700a44349601c6697cd03124> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/name> "JOHNSON HISTORICAL MUSEUM OF THE SOUTHWEST"@en .
+<http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N58a0f1dc700a44349601c6697cd03124> <http://schema.org/value> "129562"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N35a936eb2af34d109db709b14c6b3669> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N58a0f1dc700a44349601c6697cd03124> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> .
+<http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N15785cb8a5c547e8bb597f2d34f4b1a7> <http://schema.org/longitude> "-112.281"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N09c313796d604ab9b1c2e1f625d3921d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N15785cb8a5c547e8bb597f2d34f4b1a7> .
+<http://lodlaundromat.org/.well-known/genid/Nf4168bc281ff498d83cebd3ac5763ddc> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+

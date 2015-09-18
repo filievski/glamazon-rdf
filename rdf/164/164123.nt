@@ -1,0 +1,23 @@
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/name> "Morwell Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/Nfb3a8978214a49bb8ced5b028f3b1058> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nfb3a8978214a49bb8ced5b028f3b1058> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naa2a3dc0054b4c42a543a7f1d6ec2cd4> .
+<http://lodlaundromat.org/.well-known/genid/Nfb3a8978214a49bb8ced5b028f3b1058> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N54095a8e9b324123be6e6abf5039bb01> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Naa2a3dc0054b4c42a543a7f1d6ec2cd4> <http://schema.org/longitude> "146.397"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naa2a3dc0054b4c42a543a7f1d6ec2cd4> <http://schema.org/latitude> "-38.2354"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Naa2a3dc0054b4c42a543a7f1d6ec2cd4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N54095a8e9b324123be6e6abf5039bb01> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/url> <http://www.morwellhistoricalsociety.org.au/> .
+<http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> <http://schema.org/url> <http://victoriancollections.net.au/organisations/morwell-historical-society> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/telephone> "(03) 5134 1149" .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-38.2354&mlon=146.397#map=15/-38.2354/146.397> .
+<http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> <http://schema.org/id> "morwell-historical-society" .
+<http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N151397a7f4594afa9918a4441bed6d74> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> .
+<http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N54095a8e9b324123be6e6abf5039bb01> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N54095a8e9b324123be6e6abf5039bb01> <http://schema.org/value> "164123"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0164a677acd544dca32f301ef50da42b> <http://schema.org/@Type> "Dataset" .
+

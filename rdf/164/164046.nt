@@ -1,0 +1,24 @@
+<http://lodlaundromat.org/.well-known/genid/N94a39e7c3fc941bf8dcc7d63b988e370> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/openingHours> "Friday 9-2.30 or by prior appointment"@en .
+<http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> <http://schema.org/id> "malmsbury-historical-society" .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N94a39e7c3fc941bf8dcc7d63b988e370> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/url> <http://home.vicnet.net.au/~malmhist/> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N752a37cb06c749718a2c2eb65489eea9> .
+<http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N752a37cb06c749718a2c2eb65489eea9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/name> "Malmsbury Historical Society"@en .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/telephone> "5423 9383 (home) - no phone at the Mechanics Institute" .
+<http://lodlaundromat.org/.well-known/genid/N752a37cb06c749718a2c2eb65489eea9> <http://schema.org/latitude> "-37.1885"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N752a37cb06c749718a2c2eb65489eea9> <http://schema.org/longitude> "144.383"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N94a39e7c3fc941bf8dcc7d63b988e370> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N3e49779b821b496295e09a42940af659> <http://schema.org/value> "164046"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-37.1885&mlon=144.383#map=15/-37.1885/144.383> .
+<http://lodlaundromat.org/.well-known/genid/N3e49779b821b496295e09a42940af659> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3e49779b821b496295e09a42940af659> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> <http://schema.org/url> <http://victoriancollections.net.au/organisations/malmsbury-historical-society> .
+<http://lodlaundromat.org/.well-known/genid/N54f34c12298547e4ac4a30255d85da59> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N85a5d28b78904426911c21d9106a153a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3e49779b821b496295e09a42940af659> .
+

@@ -1,0 +1,19 @@
+<http://lodlaundromat.org/.well-known/genid/N0102b460703549779b17e507bdcd2744> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N2e5e3cd0dc774b27b6ff971a386e9ffd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e5e3cd0dc774b27b6ff971a386e9ffd> .
+<http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> <http://schema.org/addressCountry> "South Africa" .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> .
+<http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> <http://schema.org/streetAddress> "21 Church Street, Ladybrand" .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0102b460703549779b17e507bdcd2744> .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0102b460703549779b17e507bdcd2744> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://schema.org/telephone> "051 914 6054" .
+<http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> <http://schema.org/addressLocality> "Ladybrand" .
+<http://lodlaundromat.org/.well-known/genid/N24d8f5d3a2854e30849b0e2a4dd68472> <http://schema.org/name> "Catharina Brand Heritage Collection"@en .
+<http://lodlaundromat.org/.well-known/genid/N1e804d50ef75497bbb8e1039d5858fd3> <http://schema.org/addressRegion> "Free State" .
+<http://lodlaundromat.org/.well-known/genid/N2e5e3cd0dc774b27b6ff971a386e9ffd> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/N2e5e3cd0dc774b27b6ff971a386e9ffd> <http://schema.org/url> <http://www.museums.io/en/museums/184744> .
+<http://lodlaundromat.org/.well-known/genid/N2e5e3cd0dc774b27b6ff971a386e9ffd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N0102b460703549779b17e507bdcd2744> <http://schema.org/value> "184744"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

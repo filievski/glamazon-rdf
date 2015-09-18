@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N2e7c7e291663402e8f8aaae0dc6a21b7> <http://schema.org/url> <http://www.museums.io/en/museums/182813> .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> .
+<http://lodlaundromat.org/.well-known/genid/Ne3934cb289844192b6a586c1da77df65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne3934cb289844192b6a586c1da77df65> <http://schema.org/latitude> "50.0014"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://schema.org/streetAddress> "Kirchplatz 9" .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N991298d360a9449ab80ee58839501fef> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/name> "Schatzkammer Grafenrheinfeld"@en .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://schema.org/addressRegion> "Unterfranken" .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/url> <http://www.grafenrheinfeld.de/Kirchenschatz_Museum.html> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.0014&mlon=10.1992#map=15/50.0014/10.1992> .
+<http://lodlaundromat.org/.well-known/genid/N991298d360a9449ab80ee58839501fef> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N991298d360a9449ab80ee58839501fef> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://schema.org/addressLocality> "Grafenrheinfeld" .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N2e7c7e291663402e8f8aaae0dc6a21b7> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne3934cb289844192b6a586c1da77df65> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://schema.org/telephone> "09723/9133-0" .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://schema.org/postalCode> "97506" .
+<http://lodlaundromat.org/.well-known/genid/N2e7c7e291663402e8f8aaae0dc6a21b7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne3934cb289844192b6a586c1da77df65> <http://schema.org/longitude> "10.1992"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ba1b512cd794270aa4e4b804160fe31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N2e7c7e291663402e8f8aaae0dc6a21b7> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/N2e7c7e291663402e8f8aaae0dc6a21b7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N76527e83970a44d482fb6ff5bf44e0d0> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N991298d360a9449ab80ee58839501fef> <http://schema.org/value> "182813"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

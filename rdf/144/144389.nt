@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N48fea3ecbae54553bfa9450aa888f5e5> .
+<http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N2c5b165281a64568863d3ef36a761ab5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://schema.org/addressRegion> "MI" .
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://schema.org/postalCode> "49251-0129" .
+<http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> .
+<http://lodlaundromat.org/.well-known/genid/N2c5b165281a64568863d3ef36a761ab5> <http://schema.org/value> "144389"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/name> "FOURTH MICHIGAN VOLUNTEER INF - COMPANY A"@en .
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N48fea3ecbae54553bfa9450aa888f5e5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> <http://schema.org/id> "8402600926" .
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://schema.org/addressLocality> "LESLIE" .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4523&mlon=-84.4319#map=15/42.4523/-84.4319> .
+<http://lodlaundromat.org/.well-known/genid/N67c8d64234dc4243b59b424e56f68e14> <http://schema.org/streetAddress> "117 N MAIN ST PO BOX 129" .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> .
+<http://lodlaundromat.org/.well-known/genid/N8286343cbfe4443996c6f2f2cd8fc423> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na6901a0dcc0341e69da3657481e23fb4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N2c5b165281a64568863d3ef36a761ab5> .
+<http://lodlaundromat.org/.well-known/genid/N2c5b165281a64568863d3ef36a761ab5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N48fea3ecbae54553bfa9450aa888f5e5> <http://schema.org/longitude> "-84.4319"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48fea3ecbae54553bfa9450aa888f5e5> <http://schema.org/latitude> "42.4523"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.706&mlon=-74.0088#map=15/40.706/-74.0088> .
+<http://lodlaundromat.org/.well-known/genid/Nd609074570874abeb01d25f143a67e65> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne407aaa93b3c448a8106e1a3e41c6be8> .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://schema.org/addressRegion> "NY" .
+<http://lodlaundromat.org/.well-known/genid/Ne407aaa93b3c448a8106e1a3e41c6be8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/url> <http://amfar.org/> .
+<http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> <http://schema.org/id> "8403600824" .
+<http://lodlaundromat.org/.well-known/genid/Nd609074570874abeb01d25f143a67e65> <http://schema.org/latitude> "40.706"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://schema.org/addressLocality> "NEW YORK CITY" .
+<http://lodlaundromat.org/.well-known/genid/Nd609074570874abeb01d25f143a67e65> <http://schema.org/longitude> "-74.0088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://schema.org/postalCode> "10005" .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/name> "AMERICAN FOUNDATION FOR AIDS RESEARCH (AMFAR)"@en .
+<http://lodlaundromat.org/.well-known/genid/N0c5d428aae5c450ea506c09cfb7e9522> <http://schema.org/streetAddress> "120 WALL ST #13" .
+<http://lodlaundromat.org/.well-known/genid/Ne407aaa93b3c448a8106e1a3e41c6be8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N761e9462a0d84a3999046b3aea24174a> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nd609074570874abeb01d25f143a67e65> .
+<http://lodlaundromat.org/.well-known/genid/Na823667c8a22426b8c951edad82dde45> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne407aaa93b3c448a8106e1a3e41c6be8> <http://schema.org/value> "149530"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

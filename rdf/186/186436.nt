@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N78c13c46864d4fddb8aa89342609dcae> .
+<http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> <http://schema.org/id> "101457" .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.4166&mlon=13.0781#map=15/42.4166/13.0781> .
+<http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> <http://schema.org/addressRegion> "Lazio" .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/telephone> "+39 0746580077" .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N78c13c46864d4fddb8aa89342609dcae> <http://schema.org/latitude> "42.4166"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc3583a804123442e925aada20a565af1> .
+<http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> <http://schema.org/streetAddress> "Corso Roma, 9" .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/url> <http://www.museoantrodoco.it/> .
+<http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N78c13c46864d4fddb8aa89342609dcae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5829481c7ffe4268b39af1c18cbc5043> .
+<http://lodlaundromat.org/.well-known/genid/N5829481c7ffe4268b39af1c18cbc5043> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> <http://schema.org/addressLocality> "Antrodoco" .
+<http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/N5829481c7ffe4268b39af1c18cbc5043> <http://schema.org/contentUrl> <http://images.museums.io/O9lK1F8SbDYh7hMkgEuoO0QljCg=/1000x1000/museums/logos/000/186/436/original/4fc941b4c51c855d9e25e48ff75f6ed52bd8b04d.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Nc3583a804123442e925aada20a565af1> <http://schema.org/value> "186436"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/name> "Museo della citt\u00E0 \"Lin Delija - Carlo Cesi\""@it .
+<http://lodlaundromat.org/.well-known/genid/N78c13c46864d4fddb8aa89342609dcae> <http://schema.org/longitude> "13.0781"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc3583a804123442e925aada20a565af1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N67d863de5b3543bc8628d8c7548d1fa4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b74e10e4a584081b44517f79c0663ee> .
+<http://lodlaundromat.org/.well-known/genid/Nc3583a804123442e925aada20a565af1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N56ea39f1e93540c09cee6df5fd334194> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

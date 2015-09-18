@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N920f304da88243ffbdca500170a1f29c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://schema.org/postalCode> "55102-1906" .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N920f304da88243ffbdca500170a1f29c> <http://schema.org/longitude> "-93.1094"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N920f304da88243ffbdca500170a1f29c> .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> .
+<http://lodlaundromat.org/.well-known/genid/N52d890fef5eb4e08be1b608c0fe530bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N52d890fef5eb4e08be1b608c0fe530bb> .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N920f304da88243ffbdca500170a1f29c> <http://schema.org/latitude> "44.9454"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N52d890fef5eb4e08be1b608c0fe530bb> <http://schema.org/value> "144619"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.9454&mlon=-93.1094#map=15/44.9454/-93.1094> .
+<http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> <http://schema.org/id> "8402700059" .
+<http://lodlaundromat.org/.well-known/genid/N52d890fef5eb4e08be1b608c0fe530bb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://schema.org/streetAddress> "240 SUMMIT AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3d7604a8892542d78c49ec67c0b921db> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N69fb8520f9264853aa24d3db61180987> <http://schema.org/name> "JAMES J. HILL HOUSE"@en .
+<http://lodlaundromat.org/.well-known/genid/Nab159b3366024fdc91ce63efc884dc09> <http://schema.org/addressLocality> "ST. PAUL" .
+

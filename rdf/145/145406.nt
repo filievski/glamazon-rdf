@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na41b8152de454b04835188f78ee5b35b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7636&mlon=-88.5619#map=15/32.7636/-88.5619> .
+<http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> <http://schema.org/id> "8402800113" .
+<http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://schema.org/streetAddress> "2709 TOWNSEND RD" .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N848ca086a0cf4855bb7ee7280b2a714f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Na41b8152de454b04835188f78ee5b35b> <http://schema.org/latitude> "32.7636"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Na41b8152de454b04835188f78ee5b35b> .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://schema.org/postalCode> "39328" .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://schema.org/addressRegion> "MS" .
+<http://lodlaundromat.org/.well-known/genid/Na41b8152de454b04835188f78ee5b35b> <http://schema.org/longitude> "-88.5619"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://schema.org/addressLocality> "DEKALB" .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> .
+<http://lodlaundromat.org/.well-known/genid/N848ca086a0cf4855bb7ee7280b2a714f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N81c912e241664185abc88fae6cb9f678> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N848ca086a0cf4855bb7ee7280b2a714f> .
+<http://lodlaundromat.org/.well-known/genid/N4fe3d786294d446283e07ac4a00a2714> <http://schema.org/name> "KEMPER COUNTY HISTORICAL ASSOCIATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N848ca086a0cf4855bb7ee7280b2a714f> <http://schema.org/value> "145406"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Na3efb9e943d140ffa6fa562120afb9ad> <http://schema.org/@Type> "Dataset" .
+

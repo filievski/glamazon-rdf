@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N3de5c9efe5e949db9f1a8b4a916fbf79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.3354&mlon=-89.088#map=15/41.3354/-89.088> .
+<http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/telephone> "+1 (815) 224-5892" .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> .
+<http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8584387c0dc1414fbf873a9f33045af1> .
+<http://lodlaundromat.org/.well-known/genid/N8584387c0dc1414fbf873a9f33045af1> <http://schema.org/value> "137028"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N8584387c0dc1414fbf873a9f33045af1> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3de5c9efe5e949db9f1a8b4a916fbf79> .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://schema.org/streetAddress> "1307 SEVENTH ST." .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://schema.org/addressLocality> "LASALLE" .
+<http://lodlaundromat.org/.well-known/genid/N3de5c9efe5e949db9f1a8b4a916fbf79> <http://schema.org/longitude> "-89.088"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N8584387c0dc1414fbf873a9f33045af1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3de5c9efe5e949db9f1a8b4a916fbf79> <http://schema.org/latitude> "41.3354"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/name> "HEGELER CARUS FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://schema.org/postalCode> "61301" .
+<http://lodlaundromat.org/.well-known/genid/N08e95060ee2047e5bcb244e572751729> <http://schema.org/id> "8401700173" .
+<http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/Na4b05e688843492e8498fb60e6ed3503> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Ne00f9dd67f3a4736b23eadc75f9f3f8c> .
+

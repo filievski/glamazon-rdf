@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> <http://schema.org/id> "8404801881" .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N45cbc732fb714949989293e53928b0b5> <http://schema.org/longitude> "-95.375"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3579185aa072483791cad02fd1effacf> .
+<http://lodlaundromat.org/.well-known/genid/N3579185aa072483791cad02fd1effacf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.7475&mlon=-95.375#map=15/29.7475/-95.375> .
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://schema.org/streetAddress> "2403 MILAM ST" .
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://schema.org/addressLocality> "HOUSTON" .
+<http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N45cbc732fb714949989293e53928b0b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/telephone> "+1 (713) 524-2526" .
+<http://lodlaundromat.org/.well-known/genid/N45cbc732fb714949989293e53928b0b5> <http://schema.org/latitude> "29.7475"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://schema.org/postalCode> "77006-2359" .
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3579185aa072483791cad02fd1effacf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N62030fd831d64c47af5ce80f206ab0c3> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/url> <http://www.houstonfiremuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/name> "HOUSTON FIRE MUSEUM INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N80a61842f2aa4bf3b6c965d52ee58aaf> .
+<http://lodlaundromat.org/.well-known/genid/N10617d1a2a454831afe092d5873324fc> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N45cbc732fb714949989293e53928b0b5> .
+<http://lodlaundromat.org/.well-known/genid/N3579185aa072483791cad02fd1effacf> <http://schema.org/value> "159781"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N80ef988655864651b6085e60f61403b5> <http://schema.org/value> "143157"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://schema.org/postalCode> "02668-0003" .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Necd825e3f86f40428093fb447ca4a1ab> .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/name> "WEST BARNSTABLE HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N80ef988655864651b6085e60f61403b5> .
+<http://lodlaundromat.org/.well-known/genid/N80ef988655864651b6085e60f61403b5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Necd825e3f86f40428093fb447ca4a1ab> <http://schema.org/latitude> "41.703"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/telephone> "+1 (508) 362-2982" .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://schema.org/streetAddress> "PO BOX 3" .
+<http://lodlaundromat.org/.well-known/genid/Necd825e3f86f40428093fb447ca4a1ab> <http://schema.org/longitude> "-70.3076"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> <http://schema.org/id> "8402500787" .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.703&mlon=-70.3076#map=15/41.703/-70.3076> .
+<http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/url> <http://www.barnstablehistoricalsociety.org/> .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> .
+<http://lodlaundromat.org/.well-known/genid/N1ca030786d6c49be95f84f23dffd0bd7> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://schema.org/addressLocality> "WEST BARNSTABLE" .
+<http://lodlaundromat.org/.well-known/genid/N196ef721665f40aa8b14ae3c4c1939ab> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/Necd825e3f86f40428093fb447ca4a1ab> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N80ef988655864651b6085e60f61403b5> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N34df1c44dac1488a8c87f929b5b87569> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

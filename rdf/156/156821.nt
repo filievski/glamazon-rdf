@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3edd463cb5f2497b81e9554d93ee2506> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3edd463cb5f2497b81e9554d93ee2506> .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://schema.org/addressLocality> "CHARLESTON" .
+<http://lodlaundromat.org/.well-known/genid/N9ba27134f738446eb32d805f2ca91453> <http://schema.org/value> "156821"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3edd463cb5f2497b81e9554d93ee2506> <http://schema.org/longitude> "-79.9788"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7852&mlon=-79.9788#map=15/32.7852/-79.9788> .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> .
+<http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9ba27134f738446eb32d805f2ca91453> .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://schema.org/postalCode> "29407-7174" .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> .
+<http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://schema.org/streetAddress> "631 SAINT ANDREWS" .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N57c8af81cf18460888f909131c826f40> <http://schema.org/name> "INTERNATIONAL FINE ARTS SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N9ba27134f738446eb32d805f2ca91453> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb913a667eef949f0a298904c5b194a1d> <http://schema.org/id> "8404500116" .
+<http://lodlaundromat.org/.well-known/genid/N9ba27134f738446eb32d805f2ca91453> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3edd463cb5f2497b81e9554d93ee2506> <http://schema.org/latitude> "32.7852"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98af2a4e703e473a90a2de01d2371cfa> <http://schema.org/addressCountry> "United States" .
+

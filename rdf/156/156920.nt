@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/url> <http://www.florencemuseum.org/> .
+<http://lodlaundromat.org/.well-known/genid/N264411eb637242978df5a37ba3e37603> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/telephone> "+1 (843) 662-3351" .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://schema.org/postalCode> "29501-5152" .
+<http://lodlaundromat.org/.well-known/genid/N9d874da04575493991acc2612a803abc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9d874da04575493991acc2612a803abc> <http://schema.org/latitude> "34.1872"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N9d874da04575493991acc2612a803abc> .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://schema.org/addressLocality> "FLORENCE" .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://schema.org/addressRegion> "SC" .
+<http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/name> "FLORENCE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> <http://schema.org/id> "8404500215" .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N264411eb637242978df5a37ba3e37603> .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N32ad7aa61daa4894bb627e8943bbf076> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N264411eb637242978df5a37ba3e37603> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9d874da04575493991acc2612a803abc> <http://schema.org/longitude> "-79.776"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N264411eb637242978df5a37ba3e37603> <http://schema.org/value> "156920"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5fae0616ad7d48de8083d9a38ee2b8fd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=34.1872&mlon=-79.776#map=15/34.1872/-79.776> .
+<http://lodlaundromat.org/.well-known/genid/N723fcb89706049718594877cd30d50ae> <http://schema.org/streetAddress> "558 SPRUCE ST" .
+

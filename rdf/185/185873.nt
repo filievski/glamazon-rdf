@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N3e9c8faf2059478c9b929e143d321231> <http://schema.org/longitude> "15.6497"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N3e9c8faf2059478c9b929e143d321231> <http://schema.org/latitude> "38.1096"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/name> "Piccolo museo S. Paolo di Reggio di Calabria"@it .
+<http://lodlaundromat.org/.well-known/genid/N3e9c8faf2059478c9b929e143d321231> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> <http://schema.org/addressLocality> "Reggio di Calabria" .
+<http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> <http://schema.org/streetAddress> "Via Reggio Campi, 4" .
+<http://lodlaundromat.org/.well-known/genid/N5078d8af70804b0e90c1830f3e262b5b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3e9c8faf2059478c9b929e143d321231> .
+<http://lodlaundromat.org/.well-known/genid/Na160c208eb2c4f5aba15f6c4815a7c73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.1096&mlon=15.6497#map=15/38.1096/15.6497> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> .
+<http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> <http://schema.org/id> "108246" .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/telephone> "+39 0965/892426" .
+<http://lodlaundromat.org/.well-known/genid/Na160c208eb2c4f5aba15f6c4815a7c73> <http://schema.org/value> "185873"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf46b2479f8e94927934383d0742685b7> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na160c208eb2c4f5aba15f6c4815a7c73> .
+<http://lodlaundromat.org/.well-known/genid/Na160c208eb2c4f5aba15f6c4815a7c73> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb27b44dcd7874020955b309a653cdb12> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/N5078d8af70804b0e90c1830f3e262b5b> .
+<http://lodlaundromat.org/.well-known/genid/Nb911134f377146a48bb6e4cc8daed247> <http://schema.org/addressRegion> "Calabria" .
+<http://lodlaundromat.org/.well-known/genid/N5078d8af70804b0e90c1830f3e262b5b> <http://schema.org/contentUrl> <http://images.museums.io/q5YWM2v9TGTqW36iFONk12nEdTw=/1000x1000/museums/logos/000/185/873/original/7daf236338afdfd2d5be964ca6a94388d2d6cae7.jpg> .
+

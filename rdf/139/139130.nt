@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3472c769599340fd876d459e71ddd42f> <http://schema.org/latitude> "43.4245"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> .
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://schema.org/addressLocality> "SPIRIT LAKE" .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.4245&mlon=-95.0997#map=15/43.4245/-95.0997> .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://schema.org/streetAddress> "606 16TH STREET" .
+<http://lodlaundromat.org/.well-known/genid/Nb58c9e4ba5604f22a04e69f1652c5183> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://schema.org/postalCode> "51360-1622" .
+<http://lodlaundromat.org/.well-known/genid/Nb58c9e4ba5604f22a04e69f1652c5183> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N3472c769599340fd876d459e71ddd42f> <http://schema.org/longitude> "-95.0997"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3472c769599340fd876d459e71ddd42f> .
+<http://lodlaundromat.org/.well-known/genid/N90678e407a934923a8a0bf61c9710839> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> <http://schema.org/id> "8401900167" .
+<http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N3472c769599340fd876d459e71ddd42f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb58c9e4ba5604f22a04e69f1652c5183> .
+<http://lodlaundromat.org/.well-known/genid/N48cae6376a93459f87e3687645476c2d> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6f23a1b85fac48ea9addd77d88e475c9> <http://schema.org/name> "SPIRIT LAKE EDUCATION HALL OF ACHIEVEMENT"@en .
+<http://lodlaundromat.org/.well-known/genid/Nb58c9e4ba5604f22a04e69f1652c5183> <http://schema.org/value> "139130"^^<http://www.w3.org/2001/XMLSchema#integer> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/url> <http://www.tcpm.org/tchs.htm> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/name> "TILLAMOOK COUNTY HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N43ab98919a934d3ebc9f906c6d0f946d> <http://schema.org/longitude> "-123.843"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/telephone> "+1 (503) 842-4553" .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4571&mlon=-123.843#map=15/45.4571/-123.843> .
+<http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://schema.org/streetAddress> "PO BOX 123" .
+<http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N8ed75ac9a468427f8583306a5289624e> <http://schema.org/id> "8404100409" .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://schema.org/postalCode> "97141" .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://schema.org/addressRegion> "OR" .
+<http://lodlaundromat.org/.well-known/genid/N43ab98919a934d3ebc9f906c6d0f946d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N43ab98919a934d3ebc9f906c6d0f946d> <http://schema.org/latitude> "45.4571"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc066f48d85e14021b88f6aabd70049bf> .
+<http://lodlaundromat.org/.well-known/genid/Nc066f48d85e14021b88f6aabd70049bf> <http://schema.org/value> "154616"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nc066f48d85e14021b88f6aabd70049bf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nc066f48d85e14021b88f6aabd70049bf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N05179b0f9f154140ab564edef3c30d3d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N43ab98919a934d3ebc9f906c6d0f946d> .
+<http://lodlaundromat.org/.well-known/genid/Nc67dbc6c71c042f6859866a549eaee81> <http://schema.org/addressLocality> "TILLAMOOK" .
+

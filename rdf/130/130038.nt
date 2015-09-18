@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> .
+<http://lodlaundromat.org/.well-known/genid/Nbbfd4571b7b24e85b5bdc5b90e894cdb> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://schema.org/postalCode> "92115" .
+<http://lodlaundromat.org/.well-known/genid/Nbdb65ea0655743d6b5714bceb65af656> <http://schema.org/latitude> "32.7629"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbdb65ea0655743d6b5714bceb65af656> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7629&mlon=-117.067#map=15/32.7629/-117.067> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbbfd4571b7b24e85b5bdc5b90e894cdb> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbdb65ea0655743d6b5714bceb65af656> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://schema.org/streetAddress> "4710 COLLEGE AVE" .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://schema.org/addressLocality> "SAN DIEGO" .
+<http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> <http://schema.org/id> "8400600164" .
+<http://lodlaundromat.org/.well-known/genid/N994cde501461472e9b2b13c52a4831bd> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nbbfd4571b7b24e85b5bdc5b90e894cdb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/name> "SAN DIEGO POLICE MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nbbfd4571b7b24e85b5bdc5b90e894cdb> <http://schema.org/value> "130038"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nbdb65ea0655743d6b5714bceb65af656> <http://schema.org/longitude> "-117.067"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/telephone> "+1 (619) 726-6151" .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N639981651c684a82999dad0161a353c0> .
+<http://lodlaundromat.org/.well-known/genid/N76464fd9b24a46edaeff1306b4f77735> <http://schema.org/url> <http://www.sdpolicemuseum.com/> .
+

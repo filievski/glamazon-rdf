@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://schema.org/streetAddress> "PO BOX 368" .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/name> "DANISH HERITAGE PRESERVATION SOCIETY OF DANEVANG INC"@en .
+<http://lodlaundromat.org/.well-known/genid/Ne376ba9744a546d7a08f9e596220b0a7> <http://schema.org/value> "159824"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> <http://schema.org/id> "8404801924" .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne5a9bca3d8d04c0fb06d8d1dbeb4bdbb> .
+<http://lodlaundromat.org/.well-known/genid/Ne376ba9744a546d7a08f9e596220b0a7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne376ba9744a546d7a08f9e596220b0a7> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Ne5a9bca3d8d04c0fb06d8d1dbeb4bdbb> <http://schema.org/latitude> "29.0574"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=29.0574&mlon=-96.2087#map=15/29.0574/-96.2087> .
+<http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N17f2e514e4f3488da20931b71c061c5c> .
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://schema.org/addressRegion> "TX" .
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://schema.org/postalCode> "77432-0368" .
+<http://lodlaundromat.org/.well-known/genid/N61b0b4452496486ebc9275fea5f1c7c0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne376ba9744a546d7a08f9e596220b0a7> .
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne5a9bca3d8d04c0fb06d8d1dbeb4bdbb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ne5a9bca3d8d04c0fb06d8d1dbeb4bdbb> <http://schema.org/longitude> "-96.2087"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nb91f36c8018b45daaaa9bb753faaa9c5> <http://schema.org/addressLocality> "DANEVANG" .
+

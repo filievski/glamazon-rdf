@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N054ad7d83e304913a1a5eb6321ffd1b6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://schema.org/addressRegion> "MA" .
+<http://lodlaundromat.org/.well-known/genid/N054ad7d83e304913a1a5eb6321ffd1b6> <http://schema.org/latitude> "42.5028"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=42.5028&mlon=-71.0688#map=15/42.5028/-71.0688> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N054ad7d83e304913a1a5eb6321ffd1b6> .
+<http://lodlaundromat.org/.well-known/genid/N1aa822802cf84be1aed7faf75d1b7c73> <http://schema.org/value> "143150"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1aa822802cf84be1aed7faf75d1b7c73> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://schema.org/postalCode> "01880-5916" .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://schema.org/streetAddress> "PO BOX 1916" .
+<http://lodlaundromat.org/.well-known/genid/N1aa822802cf84be1aed7faf75d1b7c73> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/name> "COLONIAL NEW ENGLAND MARTIAL MUSICK INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://schema.org/addressLocality> "WAKEFIELD" .
+<http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1aa822802cf84be1aed7faf75d1b7c73> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> .
+<http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> <http://schema.org/id> "8402500780" .
+<http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9cd7c027df934926963261a18b52189c> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nf915aee437ad43019dee174837030cd8> .
+<http://lodlaundromat.org/.well-known/genid/N054ad7d83e304913a1a5eb6321ffd1b6> <http://schema.org/longitude> "-71.0688"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne64b7017c4a14e4abe3affa5916dd2b0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

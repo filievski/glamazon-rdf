@@ -1,0 +1,15 @@
+<http://lodlaundromat.org/.well-known/genid/N1c351e5aa62643fdb753f74c61386f95> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N0aa645898be34a879a166cb4d842cb9c> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N1c351e5aa62643fdb753f74c61386f95> .
+<http://lodlaundromat.org/.well-known/genid/N8c684fe7722845a289530ef96fbb0dc8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N8c684fe7722845a289530ef96fbb0dc8> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N8c684fe7722845a289530ef96fbb0dc8> <http://schema.org/value> "185345"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N5c650553b7aa4c81a5bb571357df49c8> <http://schema.org/name> "fi" .
+<http://lodlaundromat.org/.well-known/genid/N0aa645898be34a879a166cb4d842cb9c> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5c650553b7aa4c81a5bb571357df49c8> .
+<http://lodlaundromat.org/.well-known/genid/N0aa645898be34a879a166cb4d842cb9c> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8c684fe7722845a289530ef96fbb0dc8> .
+<http://lodlaundromat.org/.well-known/genid/N0aa645898be34a879a166cb4d842cb9c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5c650553b7aa4c81a5bb571357df49c8> <http://schema.org/url> <http://www.museums.io/en/museums/185345> .
+<http://lodlaundromat.org/.well-known/genid/N1c351e5aa62643fdb753f74c61386f95> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N5c650553b7aa4c81a5bb571357df49c8> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N5c650553b7aa4c81a5bb571357df49c8> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0aa645898be34a879a166cb4d842cb9c> <http://schema.org/name> "Helsinki City Museum, Tram Museum"@en .
+

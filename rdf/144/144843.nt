@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N329e96d778d74adda93eb4aaebc999b9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N329e96d778d74adda93eb4aaebc999b9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ncc7bdfcb3e9e4ee2b636115076cbc9bb> .
+<http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> <http://schema.org/id> "8402700283" .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://schema.org/streetAddress> "1121 THIRD AVENUE" .
+<http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N329e96d778d74adda93eb4aaebc999b9> .
+<http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://schema.org/postalCode> "56187-2435" .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> .
+<http://lodlaundromat.org/.well-known/genid/Ncc7bdfcb3e9e4ee2b636115076cbc9bb> <http://schema.org/latitude> "43.6205"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6205&mlon=-95.595#map=15/43.6205/-95.595> .
+<http://lodlaundromat.org/.well-known/genid/N329e96d778d74adda93eb4aaebc999b9> <http://schema.org/value> "144843"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Ncc7bdfcb3e9e4ee2b636115076cbc9bb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Ncc7bdfcb3e9e4ee2b636115076cbc9bb> <http://schema.org/longitude> "-95.595"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nbc17020c989648c3b9a9acb2464ddac3> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne08578eec5d441759e1a282a70045be3> <http://schema.org/name> "FREEDOM VETERANS MEMORIAL INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N39f9f9b0c92446e4834eba36af90e68a> <http://schema.org/addressLocality> "WORTHINGTON" .
+

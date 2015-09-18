@@ -1,0 +1,21 @@
+<http://lodlaundromat.org/.well-known/genid/N70fa0bb842694d6ba1137335ec6f5c1e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N6d196edca2894cac9b107786ea1f8c80> .
+<http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> <http://schema.org/id> "arts-space-wodonga" .
+<http://lodlaundromat.org/.well-known/genid/N29484b1638bb413cbe17b4a7e9af564c> <http://schema.org/value> "163636"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> <http://schema.org/license> <http://creativecommons.org/licenses/by-nc-sa/3.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6d196edca2894cac9b107786ea1f8c80> <http://schema.org/latitude> "-36.1244"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N70fa0bb842694d6ba1137335ec6f5c1e> .
+<http://lodlaundromat.org/.well-known/genid/N70fa0bb842694d6ba1137335ec6f5c1e> <http://schema.org/addressCountry> "Australia" .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-36.1244&mlon=146.889#map=15/-36.1244/146.889> .
+<http://lodlaundromat.org/.well-known/genid/N6d196edca2894cac9b107786ea1f8c80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N29484b1638bb413cbe17b4a7e9af564c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> .
+<http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> <http://schema.org/name> "au_vic" .
+<http://lodlaundromat.org/.well-known/genid/N29484b1638bb413cbe17b4a7e9af564c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/name> "Arts Space Wodonga"@en .
+<http://lodlaundromat.org/.well-known/genid/N400c12b6c1374c20bdd6b700f770f8d3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N29484b1638bb413cbe17b4a7e9af564c> .
+<http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Na6d33760756f4e2ca8d9f9a3ac2379cb> <http://schema.org/url> <http://victoriancollections.net.au/organisations/arts-space-wodonga> .
+<http://lodlaundromat.org/.well-known/genid/N6d196edca2894cac9b107786ea1f8c80> <http://schema.org/longitude> "146.889"^^<http://www.w3.org/2001/XMLSchema#double> .
+

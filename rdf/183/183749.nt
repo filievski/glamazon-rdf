@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N8f5ba6e89610424ebbd49f8c7115c14b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nef5b767cece3454cb98a8e4a8286cff3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nef5b767cece3454cb98a8e4a8286cff3> .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N323a9ffda6054332aba20285a1ed3e09> .
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://schema.org/addressRegion> "Oberfranken" .
+<http://lodlaundromat.org/.well-known/genid/N8f5ba6e89610424ebbd49f8c7115c14b> <http://schema.org/value> "183749"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> .
+<http://lodlaundromat.org/.well-known/genid/N323a9ffda6054332aba20285a1ed3e09> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N323a9ffda6054332aba20285a1ed3e09> <http://schema.org/name> "de_bavaria" .
+<http://lodlaundromat.org/.well-known/genid/Nef5b767cece3454cb98a8e4a8286cff3> <http://schema.org/longitude> "11.6354"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://schema.org/addressLocality> "Bad Steben" .
+<http://lodlaundromat.org/.well-known/genid/Nef5b767cece3454cb98a8e4a8286cff3> <http://schema.org/latitude> "50.3652"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=50.3652&mlon=11.6354#map=15/50.3652/11.6354> .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N323a9ffda6054332aba20285a1ed3e09> <http://schema.org/url> <http://www.museums.io/en/museums/183749> .
+<http://lodlaundromat.org/.well-known/genid/N323a9ffda6054332aba20285a1ed3e09> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/telephone> "09288/960-11" .
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://schema.org/postalCode> "95138" .
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://schema.org/streetAddress> "Badstra\u00DFe 30" .
+<http://lodlaundromat.org/.well-known/genid/N4c70bdfb327e43c6b2116425469732de> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/name> "Grafik Museum Stiftung Schreiner"@en .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8f5ba6e89610424ebbd49f8c7115c14b> .
+<http://lodlaundromat.org/.well-known/genid/N8f5ba6e89610424ebbd49f8c7115c14b> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N378f783f289e453fa95c5615371927dd> <http://schema.org/url> <http://www.grafik-museum.de/> .
+

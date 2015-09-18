@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N5a85edb7cefd47858777693980aaf187> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N47143ca714be4402a70ec682f61efbb4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N5a85edb7cefd47858777693980aaf187> <http://schema.org/longitude> "-104.922"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://schema.org/streetAddress> "2500 S HOLLY ST" .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5a85edb7cefd47858777693980aaf187> .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> .
+<http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nc3dfe3c1ff0d494a800a9bdb2d29d34b> <http://schema.org/id> "8400800188" .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/name> "COLORADO AEROSPACE HISTORY PROJECT"@en .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/telephone> "+1 (303) 756-9457" .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N5a85edb7cefd47858777693980aaf187> <http://schema.org/latitude> "39.671"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://schema.org/addressRegion> "CO" .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N47143ca714be4402a70ec682f61efbb4> .
+<http://lodlaundromat.org/.well-known/genid/N47143ca714be4402a70ec682f61efbb4> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://schema.org/addressLocality> "DENVER" .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N98383e4c4d414ff782ed458b5ef16bae> <http://schema.org/postalCode> "80222-6215" .
+<http://lodlaundromat.org/.well-known/genid/N47143ca714be4402a70ec682f61efbb4> <http://schema.org/value> "133012"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N29c7493e189f4daca48f451fe112ad7b> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.671&mlon=-104.922#map=15/39.671/-104.922> .
+

@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/name> "JOHNNY CARSON BIRTHPLACE SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://schema.org/postalCode> "50841-1418" .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/telephone> "+1 (641) 322-3212" .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/url> <http://www.johnnycarsonbirthplace.org/> .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://schema.org/addressRegion> "IA" .
+<http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> <http://schema.org/id> "8401900162" .
+<http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://schema.org/streetAddress> "701 DAVIS AVE" .
+<http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=40.9891&mlon=-94.7345#map=15/40.9891/-94.7345> .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N0bc85b7256c44318877c973e8c4edc89> .
+<http://lodlaundromat.org/.well-known/genid/N10ad849c3ed346e49f00b80124897a66> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N0bc85b7256c44318877c973e8c4edc89> <http://schema.org/latitude> "40.9891"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N10ad849c3ed346e49f00b80124897a66> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N10ad849c3ed346e49f00b80124897a66> .
+<http://lodlaundromat.org/.well-known/genid/N9a9b1087e6e64b07a15a70af6664f75d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> .
+<http://lodlaundromat.org/.well-known/genid/Nf9b31bdc58d147e680eeda29b346f2a5> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3734d763abf64d7bb24765abfb0d1325> <http://schema.org/addressLocality> "CORNING" .
+<http://lodlaundromat.org/.well-known/genid/N10ad849c3ed346e49f00b80124897a66> <http://schema.org/value> "139125"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N0bc85b7256c44318877c973e8c4edc89> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N0bc85b7256c44318877c973e8c4edc89> <http://schema.org/longitude> "-94.7345"^^<http://www.w3.org/2001/XMLSchema#double> .
+

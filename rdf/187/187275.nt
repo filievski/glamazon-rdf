@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/N2d465370b7e7467dbfc848d551264267> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/url> <http://www.comune.senigallia.an.it/> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> .
+<http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> .
+<http://lodlaundromat.org/.well-known/genid/N191bdca33cb145f9be79015c00a4bcea> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N2d465370b7e7467dbfc848d551264267> <http://schema.org/latitude> "43.7071"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N191bdca33cb145f9be79015c00a4bcea> <http://schema.org/value> "187275"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/telephone> "+39 0717923127" .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/name> "Museo di storia della mezzadria \"Sergio Anselmi\""@it .
+<http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> <http://schema.org/addressLocality> "Senigallia" .
+<http://lodlaundromat.org/.well-known/genid/N191bdca33cb145f9be79015c00a4bcea> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nd1f855ee020b45ccbac18bb46bb60ef3> <http://schema.org/contentUrl> <http://images.museums.io/6xIuymFccvVggEF8MhWRBNE43KE=/1000x1000/museums/logos/000/187/275/original/174dc2a582b4d3395073a59941698812ef126d.jpg> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.7071&mlon=13.187#map=15/43.7071/13.187> .
+<http://lodlaundromat.org/.well-known/genid/N2d465370b7e7467dbfc848d551264267> <http://schema.org/longitude> "13.187"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nd1f855ee020b45ccbac18bb46bb60ef3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N191bdca33cb145f9be79015c00a4bcea> .
+<http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> <http://schema.org/streetAddress> "Piazzale delle Grazie, 2" .
+<http://lodlaundromat.org/.well-known/genid/Nbda86ec1d898444587e4c66e2c07c7ba> <http://schema.org/id> "104080" .
+<http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> <http://schema.org/addressRegion> "Marche" .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2d465370b7e7467dbfc848d551264267> .
+<http://lodlaundromat.org/.well-known/genid/Naf967d0afc2946a9be88f747d88133f3> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nd1f855ee020b45ccbac18bb46bb60ef3> .
+<http://lodlaundromat.org/.well-known/genid/N879d4c2f2cc34611b28d848bdc608ced> <http://schema.org/addressCountry> "Italy" .
+

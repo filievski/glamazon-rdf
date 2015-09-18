@@ -1,0 +1,29 @@
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nb4dd0d86f60e4851824f6fe79c13fac6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/url> <http://www.museostorianaturaleverona.it/> .
+<http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> <http://schema.org/addressLocality> "Verona" .
+<http://lodlaundromat.org/.well-known/genid/N0d5a2fa9b5fd4c5a81d0d1806543efb9> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nb4dd0d86f60e4851824f6fe79c13fac6> <http://schema.org/longitude> "11.0022"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nb4dd0d86f60e4851824f6fe79c13fac6> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=45.4385&mlon=11.0022#map=15/45.4385/11.0022> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/photo> <http://lodlaundromat.org/.well-known/genid/Nf5f6896f94bf458cb5984fb000330315> .
+<http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> <http://schema.org/streetAddress> "Lungadige Porta Vittoria, 9" .
+<http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/3.0/deed.it> .
+<http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/name> "Museo civico di storia naturale di Verona"@it .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N0d5a2fa9b5fd4c5a81d0d1806543efb9> .
+<http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> <http://schema.org/name> "itapi" .
+<http://lodlaundromat.org/.well-known/genid/Nc4fab91a04964d85908b8edf16c37237> <http://schema.org/telephone> "+39 0458079400" .
+<http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> <http://schema.org/id> "101148" .
+<http://lodlaundromat.org/.well-known/genid/Nf5f6896f94bf458cb5984fb000330315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/ImageObject> .
+<http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> <http://schema.org/addressRegion> "Veneto" .
+<http://lodlaundromat.org/.well-known/genid/Nb4dd0d86f60e4851824f6fe79c13fac6> <http://schema.org/latitude> "45.4385"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N0d5a2fa9b5fd4c5a81d0d1806543efb9> <http://schema.org/value> "189537"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nf5f6896f94bf458cb5984fb000330315> <http://schema.org/contentUrl> <http://images.museums.io/JCyEwtKE0UJ5PTq2GpxmsAMOeGk=/1000x1000/museums/logos/000/189/537/original/6f30fd26d11a1267688be635f3a7f46c9d1e19.jpeg> .
+<http://lodlaundromat.org/.well-known/genid/N69b18768456943a6ac092a1a10faa07a> <http://schema.org/addressCountry> "Italy" .
+<http://lodlaundromat.org/.well-known/genid/N0d5a2fa9b5fd4c5a81d0d1806543efb9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6c46db8615304d2a89f14d6fbb4dbb59> <http://schema.org/url> <http://www.beniculturali.it/mibac/export/MiBAC/sito-MiBAC/MenuPrincipale/Trasparenza/Open-Data/> .
+

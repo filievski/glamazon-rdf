@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=41.4447&mlon=-82.1934#map=15/41.4447/-82.1934> .
+<http://lodlaundromat.org/.well-known/genid/N1a69fd8623184fd3a0908e592ce655ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1a69fd8623184fd3a0908e592ce655ae> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://schema.org/addressRegion> "OH" .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nfbc344bbe4b443f0aad34b01992151c2> .
+<http://lodlaundromat.org/.well-known/genid/Nfbc344bbe4b443f0aad34b01992151c2> <http://schema.org/latitude> "41.4447"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nfbc344bbe4b443f0aad34b01992151c2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://schema.org/addressLocality> "LORAIN" .
+<http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> <http://schema.org/id> "8403901169" .
+<http://lodlaundromat.org/.well-known/genid/Nfbc344bbe4b443f0aad34b01992151c2> <http://schema.org/longitude> "-82.1934"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://schema.org/streetAddress> "1630 W 28TH ST" .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/name> "LORAIN SPORTS HALL OF FAME INC"@en .
+<http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> .
+<http://lodlaundromat.org/.well-known/genid/N3c734fb93b0a4b9eb1ef467b212a1877> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N9eea9db3a1cc4482bc0689bfb30763e9> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> .
+<http://lodlaundromat.org/.well-known/genid/N1a69fd8623184fd3a0908e592ce655ae> <http://schema.org/value> "153391"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N32123e5292e3458aa0808621ccf493ca> <http://schema.org/postalCode> "44052-4407" .
+<http://lodlaundromat.org/.well-known/genid/N1a69fd8623184fd3a0908e592ce655ae> <http://schema.org/name> "id" .
+

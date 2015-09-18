@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/url> <http://www.montpelier.org/> .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://schema.org/addressRegion> "VA" .
+<http://lodlaundromat.org/.well-known/genid/Nab5f7971cff44cae94f3b1ad4751517d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/name> "MONTPELIER FOUNDATION"@en .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nab5f7971cff44cae94f3b1ad4751517d> .
+<http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N71aba3344c12426c84f7c32d9b5a5acd> .
+<http://lodlaundromat.org/.well-known/genid/N71aba3344c12426c84f7c32d9b5a5acd> <http://schema.org/latitude> "38.2289"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> .
+<http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.2289&mlon=-78.1765#map=15/38.2289/-78.1765> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N71aba3344c12426c84f7c32d9b5a5acd> <http://schema.org/longitude> "-78.1765"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab5f7971cff44cae94f3b1ad4751517d> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://schema.org/streetAddress> "11407 CONSTITUTION HWY" .
+<http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> <http://schema.org/id> "8405100420" .
+<http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Nab5f7971cff44cae94f3b1ad4751517d> <http://schema.org/value> "160914"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1548b9062e2b4258bed9ba5c7952c9d6> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> .
+<http://lodlaundromat.org/.well-known/genid/N6695127a961245d1935cf65f56eeee12> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N71aba3344c12426c84f7c32d9b5a5acd> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://schema.org/addressLocality> "MONTPELIER" .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://schema.org/postalCode> "22957" .
+<http://lodlaundromat.org/.well-known/genid/N13112460197d45b19d8a03d1bde7fc9f> <http://schema.org/addressCountry> "United States" .
+

@@ -1,0 +1,26 @@
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=33.1189&mlon=-117.083#map=15/33.1189/-117.083> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://schema.org/postalCode> "92025" .
+<http://lodlaundromat.org/.well-known/genid/Ne0490e65221b4913983fa328a7f9c97f> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ne0490e65221b4913983fa328a7f9c97f> <http://schema.org/value> "130395"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/sameAs> <https://en.wikipedia.org/wiki/Escondido_Public_Library> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/name> "ESCONDIDO PUBLIC LIBRARY"@en .
+<http://lodlaundromat.org/.well-known/genid/N80459c89fbd64794809815e18cf90313> <http://schema.org/longitude> "-117.083"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://schema.org/streetAddress> "253 SOUTH ESCONDIDO BLVD." .
+<http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> <http://schema.org/id> "8400600521" .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://schema.org/addressLocality> "ESCONDIDO" .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> .
+<http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N80459c89fbd64794809815e18cf90313> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N80459c89fbd64794809815e18cf90313> .
+<http://lodlaundromat.org/.well-known/genid/N1ae9ad009b914465a79163776479c6b4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ne0490e65221b4913983fa328a7f9c97f> .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nc595d0bf240141e2aeda15ae8e73dcc0> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N03a063010977434a8dd5fe250287480d> <http://schema.org/addressRegion> "CA" .
+<http://lodlaundromat.org/.well-known/genid/Ne0490e65221b4913983fa328a7f9c97f> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N80459c89fbd64794809815e18cf90313> <http://schema.org/latitude> "33.1189"^^<http://www.w3.org/2001/XMLSchema#double> .
+

@@ -1,0 +1,25 @@
+<http://lodlaundromat.org/.well-known/genid/N5e9807cd1c664cfd980256bc1a7b34ba> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://schema.org/postalCode> "62448" .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3bc58e12a438456db28e69f3d257ea28> .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=38.9909&mlon=-88.1612#map=15/38.9909/-88.1612> .
+<http://lodlaundromat.org/.well-known/genid/N5e9807cd1c664cfd980256bc1a7b34ba> <http://schema.org/latitude> "38.9909"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://schema.org/streetAddress> "100 S VAN BUREN ST" .
+<http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e9807cd1c664cfd980256bc1a7b34ba> .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://schema.org/name> "JASPER CO HISTORICAL AND GENEALOGICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N3bc58e12a438456db28e69f3d257ea28> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N39945665a1b04e67acb84a6032670870> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N3bc58e12a438456db28e69f3d257ea28> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N3bc58e12a438456db28e69f3d257ea28> <http://schema.org/value> "137886"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> <http://schema.org/id> "8401701031" .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://schema.org/addressRegion> "IL" .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N79aeebef267942c3ab091d8ff08ffb79> <http://schema.org/addressLocality> "NEWTON" .
+<http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N5e9807cd1c664cfd980256bc1a7b34ba> <http://schema.org/longitude> "-88.1612"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Nab4c2703316746cfb457b69af4ab0095> <http://schema.org/url> <http://www.imls.gov/> .
+
