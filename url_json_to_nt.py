@@ -36,10 +36,18 @@ def parse_ntriples(name, f):
     g.parse(data=raw_result, format="nt")
 
     g2=Graph()
+    main_entity=None
+    for t in g.triples((None, rdflib.term.URIRef('http://schema.org/mainEntityOfPage'), None)):
+	main_entity=t[0]
 
+
+    main_uri = rdflib.term.URIRef('http://www.museums.io/museums/' + name.split('.')[0])
     for t in g.triples((None, None, None)):
         if type(t[0])==rdflib.term.BNode:
-            t0=rdflib.term.URIRef('http://lodlaundromat.org/.well-known/genid/' + t[0])
+	    if t[0]==main_entity:
+		t0=main_uri
+	    else:
+                t0=rdflib.term.URIRef('http://lodlaundromat.org/.well-known/genid/' + t[0])
         else:
             t0=t[0]
         if type(t[2])==rdflib.term.BNode:
@@ -48,6 +56,8 @@ def parse_ntriples(name, f):
             t2=t[2]
 
         g2.add((t0, t[1], t2))
+
+    g2.add((main_uri, rdflib.term.URIRef('http://rdfs.org/ns/void#inDataset'), rdflib.term.URIRef('#Glamazon')))
 
     g2.serialize(destination=newpath, format='nt')
 

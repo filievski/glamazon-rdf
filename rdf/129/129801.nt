@@ -1,25 +1,26 @@
-<http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> <http://schema.org/url> <http://www.imls.gov/> .
-<http://lodlaundromat.org/.well-known/genid/N018e7cae83714824a5f749521a161326> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/N5df727004c0d44ffb6749a16e682b6c9> <http://schema.org/value> "129801"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> <http://schema.org/id> "8400500237" .
-<http://lodlaundromat.org/.well-known/genid/N5df727004c0d44ffb6749a16e682b6c9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/N018e7cae83714824a5f749521a161326> <http://schema.org/longitude> "-93.7548"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://schema.org/addressLocality> "ALTUS" .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://schema.org/addressCountry> "United States" .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N018e7cae83714824a5f749521a161326> <http://schema.org/latitude> "35.4388"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N5df727004c0d44ffb6749a16e682b6c9> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/name> "ALTUS HISTORICAL SOCIETY"@en .
-<http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> <http://schema.org/name> "us" .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4388&mlon=-93.7548#map=15/35.4388/-93.7548> .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://schema.org/addressRegion> "AR" .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://schema.org/streetAddress> "PO BOX 197" .
-<http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> <http://schema.org/postalCode> "72821-0197" .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N76cb544063f24f00a45b993bf240c1d2> .
-<http://lodlaundromat.org/.well-known/genid/Nc2c2ac871bf44dea85e9d28c2afd5fa7> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N018e7cae83714824a5f749521a161326> .
-<http://lodlaundromat.org/.well-known/genid/N9cb8737277e74c87b232da302bbbb9ac> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N5df727004c0d44ffb6749a16e682b6c9> .
+<http://lodlaundromat.org/.well-known/genid/N61c1580d73f7495a9df3a27cbfa7163b> <http://schema.org/longitude> "-93.7548"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/129801> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://schema.org/addressLocality> "ALTUS" .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nd868f355a1e84c95b90af4f7a8bc6cb5> <http://schema.org/value> "129801"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/129801> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> .
+<http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> <http://schema.org/id> "8400500237" .
+<http://www.museums.io/museums/129801> <http://schema.org/name> "ALTUS HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N61c1580d73f7495a9df3a27cbfa7163b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N61c1580d73f7495a9df3a27cbfa7163b> <http://schema.org/latitude> "35.4388"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/129801> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/Nd868f355a1e84c95b90af4f7a8bc6cb5> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/129801> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nd868f355a1e84c95b90af4f7a8bc6cb5> .
+<http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/129801> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N61c1580d73f7495a9df3a27cbfa7163b> .
+<http://lodlaundromat.org/.well-known/genid/Nd868f355a1e84c95b90af4f7a8bc6cb5> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://schema.org/postalCode> "72821-0197" .
+<http://www.museums.io/museums/129801> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4951f82b40c04aee87f2ccc7d2fbd237> .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://schema.org/addressRegion> "AR" .
+<http://www.museums.io/museums/129801> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.4388&mlon=-93.7548#map=15/35.4388/-93.7548> .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Nee1cced4b5584ffcb4fba92fbb9319ae> <http://schema.org/streetAddress> "PO BOX 197" .
 

@@ -1,15 +1,16 @@
-<http://lodlaundromat.org/.well-known/genid/Nd60c113901da446c9889246e52b3f337> <http://schema.org/name> "fi" .
-<http://lodlaundromat.org/.well-known/genid/N3974a726da6e427fbb0fda458c08fd6d> <http://schema.org/name> "Kindergarten Museum"@en .
-<http://lodlaundromat.org/.well-known/genid/N4c6ff78a695b47d0b08855c64b3181be> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/N4c6ff78a695b47d0b08855c64b3181be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/Nd60c113901da446c9889246e52b3f337> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N3974a726da6e427fbb0fda458c08fd6d> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N14b2cc3909fd4816ba4da6a79477f836> .
-<http://lodlaundromat.org/.well-known/genid/Nd60c113901da446c9889246e52b3f337> <http://schema.org/url> <http://www.museums.io/en/museums/185435> .
-<http://lodlaundromat.org/.well-known/genid/N3974a726da6e427fbb0fda458c08fd6d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N3974a726da6e427fbb0fda458c08fd6d> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nd60c113901da446c9889246e52b3f337> .
-<http://lodlaundromat.org/.well-known/genid/Nd60c113901da446c9889246e52b3f337> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N4c6ff78a695b47d0b08855c64b3181be> <http://schema.org/value> "185435"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N3974a726da6e427fbb0fda458c08fd6d> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N4c6ff78a695b47d0b08855c64b3181be> .
-<http://lodlaundromat.org/.well-known/genid/N14b2cc3909fd4816ba4da6a79477f836> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N14b2cc3909fd4816ba4da6a79477f836> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Ne4a9a9c3b6f84c2cb7b866df312aad5a> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/Ne4a9a9c3b6f84c2cb7b866df312aad5a> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N0b358972c4054ee68d35a8515da35aa7> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3dde1eabc18f40a18708cf637708b016> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne4a9a9c3b6f84c2cb7b866df312aad5a> <http://schema.org/name> "fi" .
+<http://www.museums.io/museums/185435> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0b358972c4054ee68d35a8515da35aa7> .
+<http://lodlaundromat.org/.well-known/genid/N3dde1eabc18f40a18708cf637708b016> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/185435> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne4a9a9c3b6f84c2cb7b866df312aad5a> .
+<http://www.museums.io/museums/185435> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N3dde1eabc18f40a18708cf637708b016> .
+<http://lodlaundromat.org/.well-known/genid/N3dde1eabc18f40a18708cf637708b016> <http://schema.org/value> "185435"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/185435> <http://schema.org/name> "Kindergarten Museum"@en .
+<http://www.museums.io/museums/185435> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://www.museums.io/museums/185435> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N0b358972c4054ee68d35a8515da35aa7> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/Ne4a9a9c3b6f84c2cb7b866df312aad5a> <http://schema.org/url> <http://www.museums.io/en/museums/185435> .
 

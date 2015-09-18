@@ -1,25 +1,26 @@
-<http://lodlaundromat.org/.well-known/genid/Ne4ffc3ba6ae54bf7bb3065ab0a8afd80> <http://schema.org/longitude> "-76.0976"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Ne4ffc3ba6ae54bf7bb3065ab0a8afd80> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://schema.org/addressRegion> "MD" .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://schema.org/addressCountry> "United States" .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> .
-<http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> <http://schema.org/name> "us" .
-<http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N688fe9a6d7524b1da492539b77f43a7e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/name> "MAIN STREET HISTORIC CHESTERTOWN"@en .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://schema.org/streetAddress> "PO BOX 928" .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://schema.org/postalCode> "21620" .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2137&mlon=-76.0976#map=15/39.2137/-76.0976> .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N688fe9a6d7524b1da492539b77f43a7e> .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> <http://schema.org/id> "8402400248" .
-<http://lodlaundromat.org/.well-known/genid/N4457da8b05b644d399083b21b8bc6007> <http://schema.org/url> <http://www.imls.gov/> .
-<http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> <http://schema.org/addressLocality> "CHESTERTOWN" .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/Ne4ffc3ba6ae54bf7bb3065ab0a8afd80> <http://schema.org/latitude> "39.2137"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N688fe9a6d7524b1da492539b77f43a7e> <http://schema.org/value> "141955"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N688fe9a6d7524b1da492539b77f43a7e> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne4ffc3ba6ae54bf7bb3065ab0a8afd80> .
-<http://lodlaundromat.org/.well-known/genid/Nde1fe7ad286645079ff65ac856ce9cf4> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na2bc599232ce46e1a0204b31e94f665a> .
+<http://www.museums.io/museums/141955> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N1a5d946e999f40e494b850b28c2b4711> <http://schema.org/longitude> "-76.0976"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://schema.org/streetAddress> "PO BOX 928" .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://schema.org/addressLocality> "CHESTERTOWN" .
+<http://www.museums.io/museums/141955> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N6c1064fa50a34df4ac4465dd2f7b2aaf> .
+<http://www.museums.io/museums/141955> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> <http://schema.org/id> "8402400248" .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://schema.org/addressCountry> "United States" .
+<http://www.museums.io/museums/141955> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1a5d946e999f40e494b850b28c2b4711> .
+<http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> <http://schema.org/url> <http://www.imls.gov/> .
+<http://www.museums.io/museums/141955> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=39.2137&mlon=-76.0976#map=15/39.2137/-76.0976> .
+<http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N1a5d946e999f40e494b850b28c2b4711> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://schema.org/postalCode> "21620" .
+<http://lodlaundromat.org/.well-known/genid/N6c1064fa50a34df4ac4465dd2f7b2aaf> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/141955> <http://schema.org/name> "MAIN STREET HISTORIC CHESTERTOWN"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> <http://schema.org/addressRegion> "MD" .
+<http://www.museums.io/museums/141955> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nc4725ac1f0b64c459aec1de27b2fc9be> .
+<http://lodlaundromat.org/.well-known/genid/N6c1064fa50a34df4ac4465dd2f7b2aaf> <http://schema.org/value> "141955"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N6c1064fa50a34df4ac4465dd2f7b2aaf> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N1a5d946e999f40e494b850b28c2b4711> <http://schema.org/latitude> "39.2137"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/141955> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6ac956bd54a64996880214a7cc488afd> .
 

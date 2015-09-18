@@ -1,15 +1,16 @@
-<http://lodlaundromat.org/.well-known/genid/Na1c5f292ee1e4b279271a048dbba4b1b> <http://schema.org/name> "fi" .
-<http://lodlaundromat.org/.well-known/genid/N65a94c4756b5464091dfc08a97597037> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Na1c5f292ee1e4b279271a048dbba4b1b> .
-<http://lodlaundromat.org/.well-known/genid/N65a94c4756b5464091dfc08a97597037> <http://schema.org/name> "Museum Centre of Turku, Biological Museum"@en .
-<http://lodlaundromat.org/.well-known/genid/N7b69b897f78543cb8f61adb7bf42a5f9> <http://schema.org/addressCountry> "Finland" .
-<http://lodlaundromat.org/.well-known/genid/N48b6703aabca4c269bae4e4d96fb2c3d> <http://schema.org/value> "185455"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N65a94c4756b5464091dfc08a97597037> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N48b6703aabca4c269bae4e4d96fb2c3d> .
-<http://lodlaundromat.org/.well-known/genid/N65a94c4756b5464091dfc08a97597037> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N7b69b897f78543cb8f61adb7bf42a5f9> .
-<http://lodlaundromat.org/.well-known/genid/Na1c5f292ee1e4b279271a048dbba4b1b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/Na1c5f292ee1e4b279271a048dbba4b1b> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N48b6703aabca4c269bae4e4d96fb2c3d> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/N48b6703aabca4c269bae4e4d96fb2c3d> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/Na1c5f292ee1e4b279271a048dbba4b1b> <http://schema.org/url> <http://www.museums.io/en/museums/185455> .
-<http://lodlaundromat.org/.well-known/genid/N7b69b897f78543cb8f61adb7bf42a5f9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N65a94c4756b5464091dfc08a97597037> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N5068faa672914761813ce9eee17ea41e> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N81ab6931601742c7b1b412ed554fece0> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://www.museums.io/museums/185455> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N5068faa672914761813ce9eee17ea41e> .
+<http://www.museums.io/museums/185455> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nee113d015e484fcf817d64c56e36f06c> .
+<http://lodlaundromat.org/.well-known/genid/Nee113d015e484fcf817d64c56e36f06c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/185455> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N81ab6931601742c7b1b412ed554fece0> .
+<http://www.museums.io/museums/185455> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N81ab6931601742c7b1b412ed554fece0> <http://schema.org/addressCountry> "Finland" .
+<http://lodlaundromat.org/.well-known/genid/N5068faa672914761813ce9eee17ea41e> <http://schema.org/url> <http://www.museums.io/en/museums/185455> .
+<http://lodlaundromat.org/.well-known/genid/Nee113d015e484fcf817d64c56e36f06c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Nee113d015e484fcf817d64c56e36f06c> <http://schema.org/value> "185455"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/185455> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N5068faa672914761813ce9eee17ea41e> <http://schema.org/name> "fi" .
+<http://www.museums.io/museums/185455> <http://schema.org/name> "Museum Centre of Turku, Biological Museum"@en .
+<http://lodlaundromat.org/.well-known/genid/N5068faa672914761813ce9eee17ea41e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
 

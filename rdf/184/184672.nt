@@ -1,20 +1,21 @@
-<http://lodlaundromat.org/.well-known/genid/N34feee094f604a1e9c990cae8ca3ad31> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/N84b71820c463461e9613e9652be27e68> <http://schema.org/name> "sa" .
-<http://lodlaundromat.org/.well-known/genid/N84b71820c463461e9613e9652be27e68> <http://schema.org/url> <http://www.museums.io/en/museums/184672> .
-<http://lodlaundromat.org/.well-known/genid/Nca72d6da65ca4497b8d725ab1bf59b85> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.9285&mlon=18.4172#map=15/-33.9285/18.4172> .
-<http://lodlaundromat.org/.well-known/genid/N5e647c15d6144fd5a773bb0230f69d81> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/name> "South African National Gallery"@en .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N34feee094f604a1e9c990cae8ca3ad31> .
-<http://lodlaundromat.org/.well-known/genid/N84b71820c463461e9613e9652be27e68> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/Nca72d6da65ca4497b8d725ab1bf59b85> <http://schema.org/addressCountry> "South Africa" .
-<http://lodlaundromat.org/.well-known/genid/N84b71820c463461e9613e9652be27e68> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N5e647c15d6144fd5a773bb0230f69d81> .
-<http://lodlaundromat.org/.well-known/genid/N5e647c15d6144fd5a773bb0230f69d81> <http://schema.org/latitude> "-33.9285"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nca72d6da65ca4497b8d725ab1bf59b85> .
-<http://lodlaundromat.org/.well-known/genid/N5e647c15d6144fd5a773bb0230f69d81> <http://schema.org/longitude> "18.4172"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N34feee094f604a1e9c990cae8ca3ad31> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/N34feee094f604a1e9c990cae8ca3ad31> <http://schema.org/value> "184672"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N8bf045316cbb48af9dd84cf0f67ba4d1> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N84b71820c463461e9613e9652be27e68> .
+<http://www.museums.io/museums/184672> <http://rdfs.org/ns/void#inDataset> <#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0eae7c41048e0abdb3dcc90875679> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/184672> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N07c443f375a54fbdaac19ad3cac59bcb> .
+<http://lodlaundromat.org/.well-known/genid/Nfa25775f089641cca56c3e0b9dd7d2f6> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0eae7c41048e0abdb3dcc90875679> <http://schema.org/name> "sa" .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0eae7c41048e0abdb3dcc90875679> <http://schema.org/url> <http://www.museums.io/en/museums/184672> .
+<http://lodlaundromat.org/.well-known/genid/Nfa25775f089641cca56c3e0b9dd7d2f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Ncfa0eae7c41048e0abdb3dcc90875679> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N07c443f375a54fbdaac19ad3cac59bcb> <http://schema.org/latitude> "-33.9285"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/184672> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N68537f73a9fe435993ebc14fa8101483> .
+<http://www.museums.io/museums/184672> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ncfa0eae7c41048e0abdb3dcc90875679> .
+<http://www.museums.io/museums/184672> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=-33.9285&mlon=18.4172#map=15/-33.9285/18.4172> .
+<http://www.museums.io/museums/184672> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://www.museums.io/museums/184672> <http://schema.org/name> "South African National Gallery"@en .
+<http://lodlaundromat.org/.well-known/genid/N07c443f375a54fbdaac19ad3cac59bcb> <http://schema.org/longitude> "18.4172"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N07c443f375a54fbdaac19ad3cac59bcb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/Nfa25775f089641cca56c3e0b9dd7d2f6> <http://schema.org/value> "184672"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N68537f73a9fe435993ebc14fa8101483> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N68537f73a9fe435993ebc14fa8101483> <http://schema.org/addressCountry> "South Africa" .
+<http://www.museums.io/museums/184672> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nfa25775f089641cca56c3e0b9dd7d2f6> .
 
