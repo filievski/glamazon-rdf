@@ -15,4 +15,5 @@ dcterms:license <http://creativecommons.org/licenses/by-sa/4.0/> ;
 void:feature <http://www.w3.org/ns/formats/N-Triples> ;
 void:uriSpace "http://www.museums.io/museums" ;
 void:exampleResource <http://www.museums.io/museums/149450.nt> ;
-void:vocabulary <http://schema.org> .
+void:vocabulary <http://schema.org> ;
+void:dataDump <http://www.museums.io/museums/glamazon.nt.gz> .
