@@ -1,22 +1,22 @@
-<http://lodlaundromat.org/.well-known/genid/Ne4836fee20674682895279b090ec88ac> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://www.museums.io/museums/184093> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0753&mlon=8.80851#map=15/53.0753/8.80851> .
-<http://www.museums.io/museums/184093> <http://schema.org/telephone> "+49 421 365040" .
-<http://www.museums.io/museums/184093> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/N1ee5eb935fad43d3b1aaa9e088f1e4b0> <http://schema.org/name> "de_bremen" .
-<http://lodlaundromat.org/.well-known/genid/Ne4836fee20674682895279b090ec88ac> <http://schema.org/latitude> "53.0753"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Na16b3f33dda64796811aec3424b58e61> <http://schema.org/value> "184093"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://www.museums.io/museums/184093> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N619e2c2e04a742369affa9b5033173bc> .
-<http://www.museums.io/museums/184093> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1ee5eb935fad43d3b1aaa9e088f1e4b0> .
-<http://lodlaundromat.org/.well-known/genid/N619e2c2e04a742369affa9b5033173bc> <http://schema.org/addressCountry> "Germany" .
-<http://lodlaundromat.org/.well-known/genid/N1ee5eb935fad43d3b1aaa9e088f1e4b0> <http://schema.org/url> <http://www.museums.io/en/museums/184093> .
-<http://lodlaundromat.org/.well-known/genid/N619e2c2e04a742369affa9b5033173bc> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://www.museums.io/museums/184093> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Na16b3f33dda64796811aec3424b58e61> .
-<http://www.museums.io/museums/184093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N1ee5eb935fad43d3b1aaa9e088f1e4b0> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N1ee5eb935fad43d3b1aaa9e088f1e4b0> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://www.museums.io/museums/184093> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne4836fee20674682895279b090ec88ac> .
+<http://lodlaundromat.org/.well-known/genid/N1168155880b84c86a80bb4ad7818d62c> <http://schema.org/value> "184093"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N1168155880b84c86a80bb4ad7818d62c> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Naffdc6f068304b159ab9a9ad456a86f1> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N2efc9c582a9e42e4b471fb08ce664926> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
 <http://www.museums.io/museums/184093> <http://schema.org/name> "Lead cellar"@en .
-<http://lodlaundromat.org/.well-known/genid/Na16b3f33dda64796811aec3424b58e61> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/Na16b3f33dda64796811aec3424b58e61> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/Ne4836fee20674682895279b090ec88ac> <http://schema.org/longitude> "8.80851"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1168155880b84c86a80bb4ad7818d62c> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nc853a689659145b38970f46e739cb2da> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nc853a689659145b38970f46e739cb2da> <http://schema.org/name> "de_bremen" .
+<http://www.museums.io/museums/184093> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc853a689659145b38970f46e739cb2da> .
+<http://www.museums.io/museums/184093> <http://schema.org/telephone> "+49 421 365040" .
+<http://www.museums.io/museums/184093> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=53.0753&mlon=8.80851#map=15/53.0753/8.80851> .
+<http://www.museums.io/museums/184093> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2efc9c582a9e42e4b471fb08ce664926> .
+<http://www.museums.io/museums/184093> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N1168155880b84c86a80bb4ad7818d62c> .
+<http://lodlaundromat.org/.well-known/genid/Naffdc6f068304b159ab9a9ad456a86f1> <http://schema.org/latitude> "53.0753"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/184093> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/Nc853a689659145b38970f46e739cb2da> <http://schema.org/url> <http://www.museums.io/en/museums/184093> .
+<http://www.museums.io/museums/184093> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/Nc853a689659145b38970f46e739cb2da> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/184093> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Naffdc6f068304b159ab9a9ad456a86f1> .
+<http://lodlaundromat.org/.well-known/genid/N2efc9c582a9e42e4b471fb08ce664926> <http://schema.org/addressCountry> "Germany" .
+<http://lodlaundromat.org/.well-known/genid/Naffdc6f068304b159ab9a9ad456a86f1> <http://schema.org/longitude> "8.80851"^^<http://www.w3.org/2001/XMLSchema#double> .
 

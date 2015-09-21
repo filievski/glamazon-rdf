@@ -1,0 +1,28 @@
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://schema.org/streetAddress> "199 STATE PARK RD" .
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N1c394258ebc24775a3d67affc5e59709> <http://schema.org/latitude> "30.2394"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/158065> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> .
+<http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://schema.org/addressLocality> "STONEWALL" .
+<http://lodlaundromat.org/.well-known/genid/N37e6a25c04cf4987b5fe88a5976da4f6> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N37e6a25c04cf4987b5fe88a5976da4f6> <http://schema.org/value> "158065"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/158065> <http://schema.org/name> "LYNDON B. JOHNSON STATE PARK AND HISTORIC SITE"@en .
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://www.museums.io/museums/158065> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N1c394258ebc24775a3d67affc5e59709> .
+<http://lodlaundromat.org/.well-known/genid/N1c394258ebc24775a3d67affc5e59709> <http://schema.org/longitude> "-98.6386"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/158065> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2394&mlon=-98.6386#map=15/30.2394/-98.6386> .
+<http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> <http://schema.org/id> "8404800165" .
+<http://www.museums.io/museums/158065> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N37e6a25c04cf4987b5fe88a5976da4f6> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/158065> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> .
+<http://lodlaundromat.org/.well-known/genid/N1c394258ebc24775a3d67affc5e59709> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://schema.org/addressRegion> "TX" .
+<http://www.museums.io/museums/158065> <http://schema.org/telephone> "+1 (830) 644-2252" .
+<http://lodlaundromat.org/.well-known/genid/N6c12de0bb28646f39023be2d4059a1d9> <http://schema.org/postalCode> "78671" .
+<http://lodlaundromat.org/.well-known/genid/N6d85f65307dd4ce8a21d000c643e98ad> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/158065> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N37e6a25c04cf4987b5fe88a5976da4f6> .
+<http://www.museums.io/museums/158065> <http://schema.org/url> <http://www.tpwd.state.tx.us/state-parks/lyndon-b-johnson> .
+<http://www.museums.io/museums/158065> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+

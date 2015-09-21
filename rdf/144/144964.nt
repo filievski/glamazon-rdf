@@ -1,27 +1,27 @@
-<http://www.museums.io/museums/144964> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> .
-<http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> <http://schema.org/@Type> "Dataset" .
-<http://www.museums.io/museums/144964> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> .
-<http://www.museums.io/museums/144964> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> <http://schema.org/url> <http://www.imls.gov/> .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://schema.org/addressCountry> "United States" .
-<http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> <http://schema.org/id> "8402700404" .
-<http://www.museums.io/museums/144964> <http://schema.org/telephone> "+1 (507) 433-8451" .
-<http://lodlaundromat.org/.well-known/genid/N340bf7c24a54424b9321a7dfe2a17d14> <http://schema.org/longitude> "-92.9855"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://schema.org/postalCode> "55912-0622" .
-<http://lodlaundromat.org/.well-known/genid/Nbc6edc9ed881417fbf2773dd5738a34b> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/Nbc6edc9ed881417fbf2773dd5738a34b> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://schema.org/addressLocality> "AUSTIN" .
+<http://lodlaundromat.org/.well-known/genid/Ne41a8b098d0f42b5a780dfdd7daf2982> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
 <http://www.museums.io/museums/144964> <http://schema.org/name> "AUSTIN AREA ARTS CENTER FLR"@en .
-<http://www.museums.io/museums/144964> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6722&mlon=-92.9855#map=15/43.6722/-92.9855> .
-<http://lodlaundromat.org/.well-known/genid/N340bf7c24a54424b9321a7dfe2a17d14> <http://schema.org/latitude> "43.6722"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://www.museums.io/museums/144964> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N340bf7c24a54424b9321a7dfe2a17d14> .
-<http://www.museums.io/museums/144964> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nbc6edc9ed881417fbf2773dd5738a34b> .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://schema.org/streetAddress> "PO BOX 622" .
+<http://www.museums.io/museums/144964> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Ne41a8b098d0f42b5a780dfdd7daf2982> .
+<http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> <http://schema.org/id> "8402700404" .
+<http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> <http://schema.org/url> <http://www.imls.gov/> .
+<http://www.museums.io/museums/144964> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://schema.org/postalCode> "55912-0622" .
+<http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/144964> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://schema.org/addressRegion> "MN" .
+<http://lodlaundromat.org/.well-known/genid/Ne395c53af23e4920b8f448e5c67dd557> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/Ne41a8b098d0f42b5a780dfdd7daf2982> <http://schema.org/latitude> "43.6722"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/144964> <http://schema.org/telephone> "+1 (507) 433-8451" .
+<http://lodlaundromat.org/.well-known/genid/Nb0130e52fbab4ef5bb96b3031a8f444e> <http://schema.org/streetAddress> "PO BOX 622" .
+<http://lodlaundromat.org/.well-known/genid/Nc4583abfb3084b05bd13b7e63500a869> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
 <http://www.museums.io/museums/144964> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://schema.org/addressLocality> "AUSTIN" .
-<http://lodlaundromat.org/.well-known/genid/N340bf7c24a54424b9321a7dfe2a17d14> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/Nbc6edc9ed881417fbf2773dd5738a34b> <http://schema.org/value> "144964"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/Nb32113f8f0cb4756b2ce76f7d50d0ea3> <http://schema.org/name> "us" .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://schema.org/addressRegion> "MN" .
-<http://lodlaundromat.org/.well-known/genid/Na5ea607c30da4c9bb68a8ff02e9fa015> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://www.museums.io/museums/144964> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=43.6722&mlon=-92.9855#map=15/43.6722/-92.9855> .
+<http://www.museums.io/museums/144964> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc4583abfb3084b05bd13b7e63500a869> .
+<http://lodlaundromat.org/.well-known/genid/Nc4583abfb3084b05bd13b7e63500a869> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/Ne41a8b098d0f42b5a780dfdd7daf2982> <http://schema.org/longitude> "-92.9855"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/Nc4583abfb3084b05bd13b7e63500a869> <http://schema.org/value> "144964"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://www.museums.io/museums/144964> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
 

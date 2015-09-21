@@ -1,0 +1,27 @@
+<http://www.museums.io/museums/158063> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nc1e7cdbef150463695b2f0f0926d5761> .
+<http://www.museums.io/museums/158063> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=32.7186&mlon=-96.2711#map=15/32.7186/-96.2711> .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://schema.org/addressRegion> "TX" .
+<http://www.museums.io/museums/158063> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> .
+<http://lodlaundromat.org/.well-known/genid/Nc1e7cdbef150463695b2f0f0926d5761> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/158063> <http://schema.org/name> "NO 1 BFTS MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/Nc1e7cdbef150463695b2f0f0926d5761> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://schema.org/addressCountry> "United States" .
+<http://www.museums.io/museums/158063> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://schema.org/addressLocality> "TERRELL" .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://schema.org/postalCode> "75160" .
+<http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N4d0e9be9d6e54f65bd2b294399636196> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N4d0e9be9d6e54f65bd2b294399636196> <http://schema.org/longitude> "-96.2711"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/158063> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> .
+<http://www.museums.io/museums/158063> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N4d0e9be9d6e54f65bd2b294399636196> .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://schema.org/streetAddress> "119 SILENT WINGS BLVD" .
+<http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> <http://schema.org/name> "us" .
+<http://www.museums.io/museums/158063> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://lodlaundromat.org/.well-known/genid/N1144ab743a2f48699624de2c11285588> <http://schema.org/id> "8404800163" .
+<http://lodlaundromat.org/.well-known/genid/Nc1e7cdbef150463695b2f0f0926d5761> <http://schema.org/value> "158063"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N4d0e9be9d6e54f65bd2b294399636196> <http://schema.org/latitude> "32.7186"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N018e353f3e0445708d8aaa8e6d2dbe27> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://www.museums.io/museums/158063> <http://schema.org/telephone> "+1 (972) 524-1714" .
+

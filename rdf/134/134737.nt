@@ -1,26 +1,26 @@
-<http://lodlaundromat.org/.well-known/genid/N2ca01b8723f7485aa3e37ccb55ae7ddb> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://www.museums.io/museums/134737> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/Ndb09a6a2fbab4440b0342241529ab8c4> <http://schema.org/name> "id" .
-<http://lodlaundromat.org/.well-known/genid/Ndb09a6a2fbab4440b0342241529ab8c4> <http://schema.org/value> "134737"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://schema.org/addressLocality> "JACKSONVILLE" .
 <http://www.museums.io/museums/134737> <http://schema.org/name> "GANDHI MEMORIAL SOCIETY OF JACKSONVILLE"@en .
-<http://www.museums.io/museums/134737> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2935&mlon=-81.5414#map=15/30.2935/-81.5414> .
-<http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> <http://schema.org/url> <http://www.imls.gov/> .
-<http://www.museums.io/museums/134737> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Ndb09a6a2fbab4440b0342241529ab8c4> .
-<http://lodlaundromat.org/.well-known/genid/Ndb09a6a2fbab4440b0342241529ab8c4> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://schema.org/streetAddress> "10535 BROOMSEDGE CT" .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://schema.org/addressLocality> "JACKSONVILLE" .
-<http://www.museums.io/museums/134737> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N2ca01b8723f7485aa3e37ccb55ae7ddb> .
-<http://www.museums.io/museums/134737> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> .
-<http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> <http://schema.org/id> "8401200291" .
+<http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://www.museums.io/museums/134737> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> .
+<http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> <http://schema.org/@Type> "Dataset" .
+<http://www.museums.io/museums/134737> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://www.museums.io/museums/134737> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> .
+<http://www.museums.io/museums/134737> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N3c70bb2c604d4e5c9c69ff792a71f67e> .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N3c70bb2c604d4e5c9c69ff792a71f67e> <http://schema.org/latitude> "30.2935"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://schema.org/postalCode> "32246-3693" .
+<http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N9f47ec57c4e64a5dbb8c9d6743c50a68> <http://schema.org/name> "id" .
+<http://lodlaundromat.org/.well-known/genid/N9f47ec57c4e64a5dbb8c9d6743c50a68> <http://schema.org/value> "134737"^^<http://www.w3.org/2001/XMLSchema#integer> .
 <http://www.museums.io/museums/134737> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://schema.org/addressCountry> "United States" .
-<http://lodlaundromat.org/.well-known/genid/N2ca01b8723f7485aa3e37ccb55ae7ddb> <http://schema.org/latitude> "30.2935"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://schema.org/postalCode> "32246-3693" .
-<http://lodlaundromat.org/.well-known/genid/N2ca01b8723f7485aa3e37ccb55ae7ddb> <http://schema.org/longitude> "-81.5414"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> <http://schema.org/@Type> "Dataset" .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://schema.org/addressRegion> "FL" .
-<http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://www.museums.io/museums/134737> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N0f93c8a30dea43a29a5df1d94af51eb8> .
-<http://lodlaundromat.org/.well-known/genid/Nc6f351afe00d42d78741b5bb58319a2b> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://schema.org/streetAddress> "10535 BROOMSEDGE CT" .
+<http://lodlaundromat.org/.well-known/genid/N9f47ec57c4e64a5dbb8c9d6743c50a68> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://schema.org/addressCountry> "United States" .
+<http://www.museums.io/museums/134737> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=30.2935&mlon=-81.5414#map=15/30.2935/-81.5414> .
+<http://lodlaundromat.org/.well-known/genid/N48605a53bdef4f8d90bb77249041756e> <http://schema.org/id> "8401200291" .
+<http://lodlaundromat.org/.well-known/genid/N3c70bb2c604d4e5c9c69ff792a71f67e> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://lodlaundromat.org/.well-known/genid/N3c70bb2c604d4e5c9c69ff792a71f67e> <http://schema.org/longitude> "-81.5414"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N6e25ce790d034a889ca229b2141d6b40> <http://schema.org/addressRegion> "FL" .
+<http://www.museums.io/museums/134737> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N9f47ec57c4e64a5dbb8c9d6743c50a68> .
 

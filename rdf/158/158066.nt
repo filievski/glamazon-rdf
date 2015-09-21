@@ -1,0 +1,27 @@
+<http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N10ae827635734a4fa0c060e9a06115be> <http://schema.org/latitude> "35.2142"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://www.museums.io/museums/158066> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
+<http://www.museums.io/museums/158066> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> .
+<http://lodlaundromat.org/.well-known/genid/N10ae827635734a4fa0c060e9a06115be> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://www.museums.io/museums/158066> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://schema.org/streetAddress> "116 N MAIN ST" .
+<http://www.museums.io/museums/158066> <http://schema.org/name> "MCLEAN-ALANREED AREA MUSEUM"@en .
+<http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> <http://schema.org/name> "us" .
+<http://lodlaundromat.org/.well-known/genid/N10ae827635734a4fa0c060e9a06115be> <http://schema.org/longitude> "-100.249"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://schema.org/addressLocality> "SHAMROCK" .
+<http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://schema.org/postalCode> "79079" .
+<http://www.museums.io/museums/158066> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N10ae827635734a4fa0c060e9a06115be> .
+<http://lodlaundromat.org/.well-known/genid/Nb826ba35840545d1a606659406fb8ef9> <http://schema.org/name> "id" .
+<http://www.museums.io/museums/158066> <http://schema.org/telephone> "+1 (806) 779-2731" .
+<http://www.museums.io/museums/158066> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/Nb826ba35840545d1a606659406fb8ef9> .
+<http://lodlaundromat.org/.well-known/genid/N37b8dfb1bac84a34823fe8117fd32785> <http://schema.org/id> "8404800166" .
+<http://lodlaundromat.org/.well-known/genid/N2e5b634b97544b6fa5875567d5644b08> <http://schema.org/addressRegion> "TX" .
+<http://www.museums.io/museums/158066> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=35.2142&mlon=-100.249#map=15/35.2142/-100.249> .
+<http://lodlaundromat.org/.well-known/genid/Nb826ba35840545d1a606659406fb8ef9> <http://schema.org/value> "158066"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/Nb826ba35840545d1a606659406fb8ef9> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/158066> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+

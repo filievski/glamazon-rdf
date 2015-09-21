@@ -1,26 +1,26 @@
-<http://lodlaundromat.org/.well-known/genid/N10497d1b93bd4b509dcbbe39a20f9201> <http://schema.org/longitude> "-69.837"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
+<http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> <http://schema.org/url> <http://www.imls.gov/> .
+<http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://schema.org/addressRegion> "ME" .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://schema.org/addressLocality> "NORRIDGEWOCK" .
+<http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> <http://schema.org/name> "us" .
 <http://www.museums.io/museums/141315> <http://schema.org/hasMap> <http://www.openstreetmap.org/?mlat=44.7188&mlon=-69.837#map=15/44.7188/-69.837> .
-<http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> <http://schema.org/@Type> "Dataset" .
-<http://www.museums.io/museums/141315> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://schema.org/addressLocality> "NORRIDGEWOCK" .
-<http://lodlaundromat.org/.well-known/genid/N10497d1b93bd4b509dcbbe39a20f9201> <http://schema.org/latitude> "44.7188"^^<http://www.w3.org/2001/XMLSchema#double> .
-<http://lodlaundromat.org/.well-known/genid/N8ba47c35cdd648739653d5195e2ab3b3> <http://schema.org/name> "id" .
-<http://www.museums.io/museums/141315> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://schema.org/postalCode> "04957-0903" .
-<http://www.museums.io/museums/141315> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8ba47c35cdd648739653d5195e2ab3b3> .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PostalAddress> .
-<http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> <http://schema.org/license> <http://creativecommons.org/licenses/by-sa/4.0/> .
-<http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> <http://schema.org/name> "us" .
-<http://www.museums.io/museums/141315> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/N10497d1b93bd4b509dcbbe39a20f9201> .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://schema.org/addressRegion> "ME" .
-<http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> <http://schema.org/id> "8402300164" .
-<http://www.museums.io/museums/141315> <http://schema.org/name> "NORRIDGEWOCK HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> <http://schema.org/id> "8402300164" .
+<http://lodlaundromat.org/.well-known/genid/Nbee9ee5606354a4ab3b16fd787670d08> <http://schema.org/latitude> "44.7188"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/141315> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> .
 <http://www.museums.io/museums/141315> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/Place> .
-<http://lodlaundromat.org/.well-known/genid/N8ba47c35cdd648739653d5195e2ab3b3> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
-<http://lodlaundromat.org/.well-known/genid/N10497d1b93bd4b509dcbbe39a20f9201> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
-<http://lodlaundromat.org/.well-known/genid/N146d1665741846f7af32147600324aca> <http://schema.org/url> <http://www.imls.gov/> .
-<http://www.museums.io/museums/141315> <http://schema.org/address> <http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> .
-<http://lodlaundromat.org/.well-known/genid/N8ba47c35cdd648739653d5195e2ab3b3> <http://schema.org/value> "141315"^^<http://www.w3.org/2001/XMLSchema#integer> .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://schema.org/streetAddress> "PO BOX 903" .
-<http://lodlaundromat.org/.well-known/genid/N03c6e44ae72f4089b54da8c57ecb7195> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://schema.org/postalCode> "04957-0903" .
+<http://www.museums.io/museums/141315> <http://schema.org/mainEntityOfPage> <http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> .
+<http://lodlaundromat.org/.well-known/genid/N8205dd50fdd14b02b477b8130fed20de> <http://schema.org/value> "141315"^^<http://www.w3.org/2001/XMLSchema#integer> .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://schema.org/streetAddress> "PO BOX 903" .
+<http://lodlaundromat.org/.well-known/genid/Nbee9ee5606354a4ab3b16fd787670d08> <http://schema.org/longitude> "-69.837"^^<http://www.w3.org/2001/XMLSchema#double> .
+<http://www.museums.io/museums/141315> <http://rdfs.org/ns/void#inDataset> <http://www.museums.io/museums/void.nt#Glamazon> .
+<http://lodlaundromat.org/.well-known/genid/N8205dd50fdd14b02b477b8130fed20de> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/PropertyValue> .
+<http://www.museums.io/museums/141315> <http://schema.org/geo> <http://lodlaundromat.org/.well-known/genid/Nbee9ee5606354a4ab3b16fd787670d08> .
+<http://www.museums.io/museums/141315> <http://schema.org/additionalProperty> <http://lodlaundromat.org/.well-known/genid/N8205dd50fdd14b02b477b8130fed20de> .
+<http://lodlaundromat.org/.well-known/genid/Nbee9ee5606354a4ab3b16fd787670d08> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://schema.org/GeoCoordinates> .
+<http://www.museums.io/museums/141315> <http://schema.org/name> "NORRIDGEWOCK HISTORICAL SOCIETY"@en .
+<http://lodlaundromat.org/.well-known/genid/N47a06920137b4f8296ef8deedfa1d430> <http://schema.org/addressCountry> "United States" .
+<http://lodlaundromat.org/.well-known/genid/N4b13e3857e464634a3b02f8ac9cce4ae> <http://schema.org/@Type> "Dataset" .
+<http://lodlaundromat.org/.well-known/genid/N8205dd50fdd14b02b477b8130fed20de> <http://schema.org/name> "id" .
 
